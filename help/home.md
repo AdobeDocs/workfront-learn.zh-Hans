@@ -2,7 +2,7 @@
 title: WorkfrontTutorials
 description: 培训视频和文章库，旨在帮助您更好地了解Workfront功能和设置。  其中包含最佳实践、策划的练习和其他资源，可帮助您和贵组织成功使用Workfront。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: e2fc2111ddb8ec5d92e643bf1ead87a669b571b4
+source-git-commit: e7d493b3686007feba1b3f6714e02f285807267e
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,8 @@ See other user landing pages to get ideas.
 
 -->
 
+<div id="whats-new-section">
+
 ## What&#39;s New?
 
 浏览每个Workfront产品版本的教程的最新更新。 以下是最新版本更新的内容：
@@ -30,6 +32,16 @@ See other user landing pages to get ideas.
 
 * 配置自定义表单以处理多个对象类型。 请参阅 <a href="/help/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md">创建和共享自定义表单</a> 教程。
 
+</div>
+
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
+
+<div id="staff-picks-section">
 
 ## 员工挑选
 
@@ -76,3 +88,5 @@ See other user landing pages to get ideas.
     </td>
   </tr>
 </table>
+
+</div>
