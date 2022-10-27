@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5caa6c2ae6e6791fdcb621bf13f46164ead1277c
+source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
 workflow-type: tm+mt
-source-wordcount: '2154'
+source-wordcount: '2160'
 ht-degree: 2%
 
 ---
@@ -216,7 +216,7 @@ ht-degree: 2%
       + [高级报告第1部分](reporting/advanced-reporting/advanced-reporting-part-1.md)
       + [高级报告第2部分](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高级报告第3部分](reporting/advanced-reporting/advanced-reporting-part-3.md)
-   + 增强的Analytics {#enhanced-analytics}
+   + 已优化的分析 {#enhanced-analytics}
       + [开始使用 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [添加 [!UICONTROL analytics] 到布局模板](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [了解基本导航](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -420,7 +420,7 @@ ht-degree: 2%
    + 练习 {#exercises}
       + [初始方案设计](fusion/12-exercises/initial-scenario-design.md)
       + [超出基本映射](fusion/12-exercises/beyond-basic-mapping.md)
-      + [筛选器](fusion/12-exercises/filters.md)
+      + [过滤器](fusion/12-exercises/filters.md)
       + [访问以前的版本](fusion/12-exercises/access-previous-versions.md)
       + [通用连接器简介](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [路由器](fusion/12-exercises/routers.md)
@@ -556,7 +556,7 @@ ht-degree: 2%
    + [在中审阅工作 [!UICONTROL My Updates] 或 [!UICONTROL Home]](workfront-home/review-work-in-my-updates-or-workfront-home.md)
    + [了解更新和通知](manage-work/issues-requests/understand-updates-and-notifications.md)
 
-+ Agile {#agile}
++ 敏捷 {#agile}
 
    + Scrum {#scrum}
       + [创建Scom Agile团队](agile/create-a-scrum-agile-team.md)
@@ -573,17 +573,18 @@ ht-degree: 2%
       + [为展示板添加和管理团队成员](boards/add-and-manage-team-members-for-a-board.md)
       + [将信息卡添加到展示板](boards/add-cards-to-a-board.md)
       + [查找并创建基本展示板](boards/find-and-create-a-basic-board.md)
+      + [在展示板中查找和搜索](boards/find-and-search-in-a-board.md)
       + [管理展示板列](boards/manage-board-columns.md)
       + [在展示板上管理信息卡](boards/manage-cards-on-a-board.md)
 
 
 
 + 最佳实践 {#best-practices}
-   + [Agile](best-practices/agile-bp.md)
+   + [敏捷](best-practices/agile-bp.md)
    + [API Explorer](best-practices/api-explorer-bp.md)
    + [业务案例和产品组合优化程序](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [通信](best-practices/communication-bp.md)
-   + [我的组中的自定义表单](best-practices/custom-forms-bp.md)
+   + [自定义表单](best-practices/custom-forms-bp.md)
    + [自定义报表](best-practices/custom-reports-bp.md)
    + [仪表板](best-practices/dashboards-bp.md)
    + [文档](best-practices/documents-bp.md)
