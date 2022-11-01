@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: e0414de57ef8cee617617dd18dfecff910d4afcf
+source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2166'
 ht-degree: 2%
 
 ---
@@ -92,39 +92,39 @@ ht-degree: 2%
 
 + 管理工作 {#manage-work}
    + 项目 {#projects}
-      + [了解基本项目创建](manage-work/projects/understand-basic-project-creation.md)
-      + [了解创建项目的其他方法](manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [查找项目](manage-work/projects/find-projects.md)
-      + [共享项目](manage-work/projects/share-a-project.md)
-      + [导航项目页面](manage-work/projects/navigate-the-project-page.md)
-      + [开始规划项目](manage-work/projects/getting-started-plan-a-project.md)
+      + [更改项目状态](manage-work/projects/change-the-project-status.md)
       + [填写项目详细信息](manage-work/projects/fill-in-the-project-details.md)
-      + [启动项目](manage-work/projects/take-a-project-live.md)
+      + [查找项目](manage-work/projects/find-projects.md)
       + [开始管理项目](manage-work/projects/getting-started-manage-a-project.md)
+      + [开始规划项目](manage-work/projects/getting-started-plan-a-project.md)
+      + [导航项目页面](manage-work/projects/navigate-the-project-page.md)
+      + [共享项目](manage-work/projects/share-a-project.md)
+      + [启动项目](manage-work/projects/take-a-project-live.md)
       + [跟踪整个项目进度](manage-work/projects/track-overall-project-progress.md)
       + [使用项目量度跟踪工作进度](manage-work/projects/track-work-progress-with-project-metrics.md)
+      + [了解基本项目创建](manage-work/projects/understand-basic-project-creation.md)
+      + [了解创建项目的其他方法](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [了解项目通信](manage-work/projects/understand-project-communication.md)
       + [了解 [!UICONTROL Gantt] 视图](manage-work/projects/understand-the-gantt-view.md)
       + [查看项目信息](manage-work/projects/view-project-information.md)
-      + [更改项目状态](manage-work/projects/change-the-project-status.md)
    + 任务 {#tasks}
+      + [从项目计划中分配任务](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [如何创建任务](manage-work/tasks/how-to-create-tasks.md)
       + [了解如何排序任务](manage-work/tasks/learn-to-sequence-tasks.md)
       + [了解 [!UICONTROL Work Effort]](manage-work/tasks/understand-work-effort.md)
       + [了解父子任务](manage-work/tasks/understand-parent-child-tasks.md)
       + [了解计划时数](manage-work/tasks/understand-planned-hours.md)
       + [了解任务持续时间](manage-work/tasks/understand-task-durations.md)
-      + [从项目计划中分配任务](manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [处理任务](manage-work/tasks/work-with-tasks.md)
    + 问题/请求 {#issues-requests}
+      + [将问题转换为其他工作项](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [通过请求创建项目](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [查找请求](manage-work/issues-requests/find-requests.md)
       + [处理计划外工作](manage-work/issues-requests/handle-unplanned-work.md)
       + [请求](manage-work/issues-requests/make-a-request.md)
-      + [查找请求](manage-work/issues-requests/find-requests.md)
       + [管理请求](manage-work/issues-requests/manage-incoming-requests.md)
-      + [更新请求](manage-work/issues-requests/update-a-request.md)
-      + [通过请求创建项目](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [将问题转换为其他工作项](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [审查数字工作](manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [更新请求](manage-work/issues-requests/update-a-request.md)
       + [管理问题分配](manage-work/issues-requests/manage-issue-assignments.md)
       + [问题报告](manage-work/issues-requests/report-on-issues.md)
    + 项目组合 {#portfolios}
@@ -153,22 +153,22 @@ ht-degree: 2%
       + [了解日期类型和进度状态](manage-work/project-timelines/understand-task-dates-and-progress-status.md)
       + [了解项目时间轴](manage-work/project-timelines/understand-project-timelines.md)
    + 关闭项目 {#close-a-project}
+      + [关闭项目](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [完成任务和问题](manage-work/close-a-project/close-tasks-and-issues.md)
       + [完成批准](manage-work/close-a-project/complete-approvals.md)
       + [记录经验教训](manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [记录和查看小时数](manage-work/close-a-project/log-and-review-hours.md)
       + [上传资产](manage-work/close-a-project/upload-assets.md)
-      + [关闭项目](manage-work/close-a-project/close-a-project-in-workfront.md)
       + [关闭项目活动](manage-work/close-a-project/close-a-project-activity.md)
    + 项目财务 {#project-finances}
-      + [了解性能量度](manage-work/project-finances/understand-performance-metrics.md)
-      + [设置任务收入和成本默认值](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [查找财务信息](manage-work/project-finances/find-financial-information.md)
       + [设置汇率](manage-work/project-finances/set-up-exchange-rates.md)
       + [设置费用类型](manage-work/project-finances/set-up-expense-types.md)
+      + [设置任务收入和成本默认值](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [了解财务访问](manage-work/project-finances/understand-financial-access.md)
-      + [更新和审查财务](manage-work/project-finances/update-and-review-finances.md)
-      + [查找财务信息](manage-work/project-finances/find-financial-information.md)
       + [了解多个计费费率](manage-work/project-finances/multiple-billing-rates.md)
+      + [了解性能量度](manage-work/project-finances/understand-performance-metrics.md)
+      + [更新和审查财务](manage-work/project-finances/update-and-review-finances.md)
 
 
 
@@ -210,6 +210,8 @@ ht-degree: 2%
       + [了解内置任务过滤器](reporting/intermediate-reporting/open-built-in-task-filters.md)
       + [了解内置问题过滤器](reporting/intermediate-reporting/open-built-in-issue-filters.md)
       + [了解过滤器的基本文本模式](reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [了解视图的基本文本模式](reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [了解分组的基本文本模式](reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
       + [创建自定义提示](reporting/intermediate-reporting/custom-prompts.md)
    + 高级报表 {#advanced-reporting}
       + [欢迎使用高级报告](reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -573,7 +575,6 @@ ht-degree: 2%
       + [为展示板添加和管理团队成员](boards/add-and-manage-team-members-for-a-board.md)
       + [将信息卡添加到展示板](boards/add-cards-to-a-board.md)
       + [查找并创建基本展示板](boards/find-and-create-a-basic-board.md)
-      + [在展示板中查找和搜索](boards/find-and-search-in-a-board.md)
       + [管理展示板列](boards/manage-board-columns.md)
       + [在展示板上管理信息卡](boards/manage-cards-on-a-board.md)
 

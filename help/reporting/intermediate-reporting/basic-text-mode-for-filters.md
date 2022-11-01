@@ -10,14 +10,23 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 7a4649644a99eafd521895133a321f8ea0ff6041
+source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '356'
 ht-degree: 0%
 
 ---
 
 # 了解过滤器的基本文本模式
+
+>[!IMPORTANT]
+>
+>先决条件：
+>
+>* 了解报表元素
+>* 了解报表组件
+>* 创建基本过滤器
+
 
 在此视频中，您将学习：
 
@@ -37,12 +46,53 @@ EXISTS:1:status_Mod=notin
 EXISTS:1:assignedToID=$$USER.ID 
 ```
 
+## 其他即插即用文本模式筛选器
+
+### 任务 — 显示等待我批准的所有任务
+
+```
+approvalProcessID_Mod=notblank
+currentUserApproversMM:ID=$$USER.ID
+currentUserApproversMM:ID_Mod=in
+currentUserApproversMM_Join=allowingnull
+```
+
+### 任务 — 显示我已批准的所有任务
+
+创建包含您想要的任何过滤器的任务报告，然后转到过滤器选项卡并单击切换到文本模式。 将此代码添加到任何已存在的代码中：
+
+```
+approvalProcessID_Mod=notblank
+approverStatuses:approvedByID=$$USER.ID
+approverStatuses:approvedByID_Mod=in
+```
+
+### 任务 — 显示至少具有一个跨项目前置任务的所有任务
+
+```
+predecessorsMM:ID_Mod=notblank
+predecessorsMM:projectID=FIELD:projectID
+predecessorsMM:projectID_Mod=ne
+```
+
+### 任务 — 显示我分配给其他人的所有任务
+
+创建包含您想要的任何过滤器的任务报告，然后转到过滤器选项卡并单击切换到文本模式。 将此代码添加到任何已存在的代码中：
+
+```
+EXISTS:1:$$OBJCODE=ASSGN
+EXISTS:1:taskID=FIELD:ID
+EXISTS:1:assignedByID=$$USER.ID
+```
+
+这将显示登录用户分配了至少一个当前受分配者的所有任务。 如果受分配人由多个人分配，则任务登录页面上只有分配了某人的第一个人的姓名将显示为“请求者”。
+
 ## 活动：文本模式问题
 
 1. 您如何为标题为“按ID输入”的字段写驼峰大小写？
 1. 在“问题”报表中，创建一个过滤器以显示标记为已关闭但待批准的问题。
 
-## 答案
+### 答案
 
 1. “按ID输入”字段的驼峰大小写应如下所示 — enteredByID
 1. 文本模式应在问题报表过滤器中如下所示：
