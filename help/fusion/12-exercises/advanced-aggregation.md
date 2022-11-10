@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
-source-git-commit: e9d230a9ffba26b6be43867e3477536ccb75a97c
+exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
+source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
 workflow-type: tm+mt
-source-wordcount: '490'
+source-wordcount: '481'
 ht-degree: 0%
 
 ---
-
 
 # 高级聚合
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 
 1. 创建新方案并将其命名为“高级聚合”。
 1. 将触发器模块设置为HTTP — 发出请求模块。
-1. 使用此URL https://restcountries.com/v2/lang/es ，可为您提供使用西班牙语的所有国家/地区的列表。
+1. 使用此URL， `https://restcountries.com/v2/lang/es`，其中会列出所有使用西班牙语的国家/地区。
 1. 将方法保留为Get。
 1. 单击Parse响应复选框。
 1. 将此模块重命名为“获取国家/地区”。
@@ -44,7 +44,7 @@ ht-degree: 0%
 
    **您需要为每个国家/地区收集分区域信息，因此您需要发起额外的HTTP请求。**
 
-1. 添加另一个请求以获取分区域信息。 它只会返回第一个国家，但是现在没问题。 添加其他HTTP发出请求模块，然后使用URL https://restcountries.com/v2/name/ 。
+1. 添加另一个请求以获取分区域信息。 它只会返回第一个国家，但是现在没问题。 添加其他HTTP发出请求模块并使用URL `https://restcountries.com/v2/name/{country name}`.
 1. 要获取第一个国家/地区的名称，请转到映射面板，单击数据，然后单击数组中的名称。 的 [1] 在“数据”字段中，表示它将返回数组中的第一个项目。
 
    + 单击数字并根据需要更改索引，但在这种情况下，您只需要第一个项目。
