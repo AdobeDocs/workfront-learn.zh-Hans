@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+source-git-commit: 21fb81fcb4b1468059e571a87e201fa48fb64ff7
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---
@@ -87,14 +87,42 @@ EXISTS:1:assignedByID=$$USER.ID
 
 这将显示登录用户分配了至少一个当前受分配者的所有任务。 如果受分配人由多个人分配，则任务登录页面上只有分配了某人的第一个人的姓名将显示为“请求者”。
 
-## 活动：文本模式问题
+### 任务 — 显示所有已完成的任务 — 待批准
 
-1. 您如何为标题为“按ID输入”的字段写驼峰大小写？
-1. 在“问题”报表中，创建一个过滤器以显示标记为已关闭但待批准的问题。
+```
+status=CPL:A
+status_Mod=in
+```
 
-### 答案
 
-1. “按ID输入”字段的驼峰大小写应如下所示 — enteredByID
-1. 文本模式应在问题报表过滤器中如下所示：
+### 问题 — 显示所有已完成的问题 — 待批准
 
-   ![在文本模式下创建新过滤器的屏幕图像](assets/btm-answer.png)
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### 项目 — 显示所有已完成的项目 — 待批准
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+### 注意 — 显示我标记的所有评论
+
+```
+tags:userID=$$USER.ID
+tags:userID_Mod=in
+```
+
+
+### 参数/自定义字段报表 — 显示未附加到自定义表单的自定义字段（在清理工作中非常有用）
+
+```
+EXISTS:A:$$EXISTSMOD=NOTEXISTS
+EXISTS:A:$$OBJCODE=CTGYPA
+EXISTS:A:parameterID=FIELD:ID
+```
