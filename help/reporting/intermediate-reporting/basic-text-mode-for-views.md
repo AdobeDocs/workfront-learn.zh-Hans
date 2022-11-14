@@ -9,9 +9,10 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 11367
-source-git-commit: 59ac9907b116f8abadf5e15f8de351c02a7a2909
+exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
+source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
 workflow-type: tm+mt
-source-wordcount: '576'
+source-wordcount: '650'
 ht-degree: 0%
 
 ---
@@ -26,6 +27,12 @@ ht-degree: 0%
 >* 了解报表元素
 >* 了解报表组件
 >* 创建基本视图
+
+
+>[!TIP]
+>
+>* 为了更深入地了解文本模式，我们建议您观看录制的网络研讨会活动 [咨询专家 — 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，长度为一小时。
+>* 要进一步了解文本模式，我们建议您在 [高级报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，总共需要五个半小时。
 
 
 在此视频中，您将学习：
@@ -521,4 +528,3 @@ valueformat=HTML
 ```
 
 ![显示校样批准的项目和任务的屏幕图像](assets/proof-approval-project-and-task.png)
-
