@@ -1,6 +1,6 @@
 ---
 title: 使用图表创建报告
-description: 在此视频中，您将了解图表如何改进数据的可视化，以及如何在 [!DNL  Workfront].
+description: 了解图表如何改进数据的可视化，以及如何在Workfront中使用图表工具。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335153.png
 kt: 8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '273'
+source-wordcount: '269'
 ht-degree: 0%
 
 ---

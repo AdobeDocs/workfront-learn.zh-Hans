@@ -1,6 +1,8 @@
 ---
-title: 了解资源能力图
-description: “资源能力”图表显示在过滤的时间段内分配给主团队的计划小时数与团队的总可用小时数之比。
+title: 了解 [!UICONTROL Enhanced Analytics]
+description: 了解“资源能力”图表如何显示在过滤的时间段内分配给主团队的计划小时数与该团队的总可用小时数之间的比值。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-resource-capacity-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '363'
 ht-degree: 0%
 
 ---
 
-# 了解资源能力图
+# 了解 [!UICONTROL Enhanced Analytics]
 
 “资源能力”图表显示在过滤的时间段内分配给主团队的计划小时数与团队的总可用小时数之比。
 

@@ -1,6 +1,6 @@
 ---
-title: 深入挖掘导航
-description: 在此视频中，您将学习如何快速了解员工在 [!DNL  Workfront].
+title: 在 [!UICONTROL Enhanced Analytics]
+description: 了解如何快速了解员工在Workfront的每个项目中投入的时间。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8733
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '227'
+source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# 深入挖掘导航
+# 在 [!UICONTROL Enhanced Analytics]
 
 在此视频中，您将学习：
 

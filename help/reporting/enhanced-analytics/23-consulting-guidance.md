@@ -1,6 +1,6 @@
 ---
-title: 了解咨询指南
-description: 在此视频中，您将学习如何提出建议，以帮助贵组织在 [!DNL  Workfront].
+title: 了解 [!UICONTROL Enhanced Analytics]
+description: 了解如何提出建议，以帮助贵组织在Workfront中更高效地运营。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8723
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '41'
+source-wordcount: '39'
 ht-degree: 0%
 
 ---
 
-# 了解咨询指南
+# 了解 [!UICONTROL Enhanced Analytics]
 
 在此视频中，您将学习：
 

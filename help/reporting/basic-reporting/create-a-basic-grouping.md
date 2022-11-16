@@ -1,6 +1,6 @@
 ---
 title: 创建基本分组
-description: 在此视频中，您将学习分组是什么、如何创建分组，以及如何在 [!DNL  Workfront].
+description: 了解分组是什么、如何创建分组以及如何与Workfront中的其他用户共享分组。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '201'
 ht-degree: 1%
 
 ---

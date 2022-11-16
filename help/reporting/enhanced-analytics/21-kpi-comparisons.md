@@ -1,6 +1,6 @@
 ---
-title: 了解KPI比较用例
-description: 了解如何将当前日期范围内的KPI与先前日期范围进行比较，以及如何在 [!DNL  Workfront].
+title: 了解 [!UICONTROL Enhanced Analytics]
+description: 了解如何将当前日期范围内的KPI与先前日期范围进行比较，以及如何使用两个不同的过滤器来比较KPI。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8739
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
 
-# 了解KPI比较用例
+# 了解 [!UICONTROL Enhanced Analytics]
 
 在此视频中，您将学习：
 

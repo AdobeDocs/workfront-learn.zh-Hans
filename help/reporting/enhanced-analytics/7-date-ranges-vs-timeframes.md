@@ -1,6 +1,8 @@
 ---
 title: 了解日期范围和时间范围
-description: 使用日历小组件指定日期范围。 时间范围在图表中创建。
+description: 在 [!UICONTROL Enhanced Analytics]，则使用日历小组件指定日期范围。 时间范围在图表中创建。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-date-ranges-and-timeframes.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10043
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '313'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
 
-# 了解日期范围和时间范围
+# 了解 [!UICONTROL Enhanced Analytics]
 
 查看 [!DNL Enhanced analytics] 使用日历小组件指定图表和日期范围。 单击并拖动以定义特定区域时，会在图表中创建时间范围，因此您可以放大该时间范围内的信息，并对其进行更详细的查看。
 

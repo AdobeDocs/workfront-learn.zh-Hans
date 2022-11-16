@@ -1,6 +1,6 @@
 ---
 title: 使用基于用户的通配符创建过滤器
-description: 了解如何在中使用通配符并使用基于用户的通配符构建过滤器 [!DNL  Workfront].
+description: 了解如何使用基于用户的通配符以及如何根据已登录的用户构建过滤器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336810.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
-source-git-commit: 83c7379a5398c78cea31a4571b34fd5b64bce027
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '333'
+source-wordcount: '337'
 ht-degree: 0%
 
 ---

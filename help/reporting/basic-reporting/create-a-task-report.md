@@ -1,6 +1,6 @@
 ---
 title: 创建任务报告
-description: 在此视频中，您将了解如何创建具有复杂过滤器的任务报表，并在 [!DNL  Workfront].
+description: 了解如何创建具有复杂过滤器的任务报表，并查找在Workfront中创建的报表。 活动 — 创建包含提示的注释报表。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335154.png
 kt: 8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '352'
 ht-degree: 6%
 
 ---

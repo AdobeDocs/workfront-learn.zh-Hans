@@ -1,6 +1,6 @@
 ---
 title: 创建功能板
-description: 在此视频中，您将了解有关 [!DNL  Workfront].
+description: 了解如何将各种列表报表、图表、日历和外部网页合并到Workfront的功能板中。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335157.png
 kt: 8862
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-source-git-commit: f4000878d453c58fabf34308a8e3ab31d9667a1f
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '407'
+source-wordcount: '417'
 ht-degree: 0%
 
 ---

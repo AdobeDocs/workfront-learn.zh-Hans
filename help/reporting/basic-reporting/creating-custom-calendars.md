@@ -1,6 +1,8 @@
 ---
 title: 创建自定义日历
-description: 了解如何创建自己的自定义日历
+description: 了解如何创建自己的自定义日历，以显示您的工作项目和个人休假时间。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: create-a-custom-calendar.png
 kt: 10024
 exl-id: d5c928f2-7989-401f-ad86-08fe971c9ff5
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '413'
+source-wordcount: '421'
 ht-degree: 0%
 
 ---

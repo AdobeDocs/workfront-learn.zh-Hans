@@ -1,6 +1,6 @@
 ---
-title: 查看飞行中的任务
-description: 了解如何在飞行图中访问任务以及如何快速查看项目中哪些任务尚未完成，所有任务均位于 [!DNL  Workfront].
+title: 在 [!UICONTROL Enhanced Analytics]
+description: 了解如何在飞行图中访问任务，以及如何快速查看项目中尚未完成的任务(全部在Workfront中)。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '244'
+source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# 查看飞行中的任务
+# 在 [!UICONTROL Enhanced Analytics]
 
 在此视频中，您将学习：
 

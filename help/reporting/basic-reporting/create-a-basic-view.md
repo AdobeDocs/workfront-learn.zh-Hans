@@ -1,6 +1,6 @@
 ---
 title: 创建基本视图
-description: 在此视频中，您将学习视图是什么，如何创建视图，以及如何与 [!DNL  Workfront].
+description: 了解视图是什么，如何创建视图，以及如何与Workfront中的其他用户共享视图。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '254'
 ht-degree: 0%
 
 ---

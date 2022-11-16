@@ -1,6 +1,6 @@
 ---
-title: 了解导航和审核项目
-description: 在此视频中，您将学习如何阅读 [!DNL  Workfront].
+title: 了解在中导航和审核项目 [!UICONTROL Enhanced Analytics]
+description: 了解如何阅读Workfront的飞行计划图。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8729
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '459'
+source-wordcount: '457'
 ht-degree: 0%
 
 ---
 
-# 了解导航和审核项目
+# 了解在中导航和审核项目 [!UICONTROL Enhanced Analytics]
 
 在此视频中，您将学习：
 

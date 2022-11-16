@@ -1,6 +1,8 @@
 ---
-title: 按团队划分的活动图
+title: 了解 [!UICONTROL Enhanced Analytics]
 description: 通过按团队划分的活动图表，您可以了解贵组织的主团队在Workfront的花费时间。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-the-activity-by-team-chart.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '270'
 ht-degree: 0%
 
 ---
 
-# 按团队划分的活动图
+# 了解 [!UICONTROL Enhanced Analytics]
 
 通过按团队划分的活动图表，您可以了解贵组织的主团队在Workfront的花费时间。 Workfront用户可以位于多个团队中，但只能位于一个主团队中。 “人员”图表中使用的团队仅由将该团队指定为其主团队的用户组成。
 

@@ -1,6 +1,6 @@
 ---
 title: 了解过滤器的基本文本模式
-description: 了解什么是文本模式、驼峰式大小写以及在 [!DNL  Workfront].
+description: 了解什么是文本模式、什么是驼峰式大小写，以及在Workfront的报表过滤器中可以使用的一些基本的“即插即用”文本模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
-source-git-commit: 818ee105af32589cb0e297e6f419a4a449a60052
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '415'
+source-wordcount: '416'
 ht-degree: 0%
 
 ---

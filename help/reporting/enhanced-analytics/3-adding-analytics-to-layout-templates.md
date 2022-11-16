@@ -1,6 +1,6 @@
 ---
 title: 添加 [!UICONTROL Analytics] 到布局模板
-description: 了解系统和组管理员如何在新的Workfront体验中以及 [!DNL  Workfront] 经典。
+description: 了解系统和组管理员如何授予Analytics访问权限。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# 添加 [!UICONTROL Analytics] 到布局模板
+# 添加 [!UICONTROL Enhanced Analytics] 到布局模板
 
 在此视频中，您将学习：
 

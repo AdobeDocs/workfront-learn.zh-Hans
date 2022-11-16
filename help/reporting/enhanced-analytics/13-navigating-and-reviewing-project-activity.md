@@ -1,6 +1,6 @@
 ---
-title: 了解导航和审阅项目活动
-description: 在此视频中，您将学习如何根据登录用户、任务状态更改以及 [!DNL  Workfront].
+title: 了解在中导航和查看项目活动 [!UICONTROL Enhanced Analytics]
+description: 了解如何根据登录用户、任务状态更改和在Workfront中完成的任务来比较项目。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8731
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '238'
+source-wordcount: '236'
 ht-degree: 0%
 
 ---
 
-# 了解导航和审阅项目活动
+# 了解在中导航和查看项目活动 [!UICONTROL Enhanced Analytics]
 
 在此视频中，您将学习：
 

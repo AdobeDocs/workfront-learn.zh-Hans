@@ -1,6 +1,6 @@
 ---
-title: 了解基本导航
-description: 在此视频中，您将学习如何导航到 [!UICONTROL Analytics] 查看 [!DNL  Workfront].
+title: 了解 [!UICONTROL Enhanced Analytics]
+description: 了解如何导航到 [!UICONTROL Analytics] ，并查看Workfront中工作图和人员图的概述。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8724
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '90'
 ht-degree: 0%
 
 ---
 
-# 了解基本导航
+# 了解 [!UICONTROL Enhanced Analytics]
 
 导航到 [!UICONTROL Analytics] 在新的Workfront体验中，使用 [!UICONTROL Main Menu] 按钮。
 

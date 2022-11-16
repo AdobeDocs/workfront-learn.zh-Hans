@@ -1,6 +1,8 @@
 ---
 title: 了解日历界面
-description: 日历界面浏览
+description: 了解日历界面，包括日历分组、视图和操作。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: understand-the-calendar-interface.png
 kt: 10025
 exl-id: dfe8e5b1-8b49-4a67-a64e-a20267813752
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '322'
+source-wordcount: '329'
 ht-degree: 0%
 
 ---
@@ -24,7 +26,7 @@ ht-degree: 0%
 * “日历操作”菜单
 * 以及如何创建临时日历项目
 
-在创建您自己的自定义日历之前，让我们先了解自定义日历中提供的基本功能。
+在创建您自己的自定义日历之前，让我们先浏览一下自定义日历上提供的基本功能。
 
 ## 日历分组
 

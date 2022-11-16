@@ -1,6 +1,6 @@
 ---
 title: 了解过滤器
-description: 了解如何根据常见项目字段添加过滤器，以及如何使用自定义表单添加过滤器，所有这些操作均位于 [!DNL  Workfront].
+description: 了解如何根据常见项目字段添加过滤器，以及如何使用自定义表单添加过滤器，所有这些操作均位于 [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335043.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8721
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '261'
 ht-degree: 0%
 
 ---
 
-# 了解过滤器
+# 了解 [!UICONTROL Enhanced Analytics]
 
 在此视频中，您将学习：
 

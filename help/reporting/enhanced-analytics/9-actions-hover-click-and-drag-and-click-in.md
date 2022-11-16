@@ -1,6 +1,6 @@
 ---
 title: 了解操作 — 悬停、单击和拖动，然后单击
-description: 了解如何通过将鼠标悬停在图表上、在图表上创建时间范围以及如何显示其他图表(全部位于 [!DNL  Workfront].
+description: 了解如何通过将鼠标悬停在图表上、在图表上创建时间范围以及如何显示其他图表(全部位于 [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,14 +10,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# 了解操作 — 悬停、单击和拖动，然后单击
+# 了解中的操作 [!UICONTROL Enhanced Analytics]  — 将鼠标悬停，单击并拖动，然后单击
 
 在此视频中，您将学习：
 

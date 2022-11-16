@@ -1,6 +1,8 @@
 ---
-title: 了解团队容量
-description: “团队能力”图表显示主团队何时被过度分配或分配不足。
+title: 了解团队在 [!UICONTROL Enhanced Analytics]
+description: 了解“团队能力”图表如何显示主团队何时被过度分配或分配不足。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: understand-team-capacity.png
 type: Tutorial
@@ -8,14 +10,14 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '344'
+source-wordcount: '348'
 ht-degree: 0%
 
 ---
 
-# 了解团队容量
+# 了解团队在 [!UICONTROL Enhanced Analytics]
 
 “团队能力”图表显示主团队何时被过度分配或分配不足。 该图表显示在给定日期分配给家庭团队的工作量，并在家庭团队即将筋疲力尽或没有受到挑战时，分配较深的蓝色。 颜色更浅、更透明，表示工作负载更加平衡。
 

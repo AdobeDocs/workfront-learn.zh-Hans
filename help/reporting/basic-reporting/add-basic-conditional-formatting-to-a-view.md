@@ -1,6 +1,6 @@
 ---
 title: 添加基本条件格式
-description: 在此视频中，您将了解视图中的条件格式，以及如何在 [!DNL  Workfront].
+description: 了解如何使用列规则根据您设置的条件更改报表或视图中的文本颜色、格式和背景颜色。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -10,14 +10,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '358'
 ht-degree: 0%
 
 ---
 
 # 向视图添加基本条件格式
+
+条件格式通过创建列规则来完成。 利用列规则，可根据您设置的条件以特定方式设置列的格式。
 
 在此视频中，您将学习：
 

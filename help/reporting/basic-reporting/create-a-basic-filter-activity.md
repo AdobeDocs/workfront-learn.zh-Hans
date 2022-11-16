@@ -1,6 +1,6 @@
 ---
 title: 创建基本过滤器活动
-description: 在此视频中，您将执行一项活动，以在Workfront中创建自己的过滤器。
+description: 在此活动中，您将创建一个名为“我拥有的本月结束项目”的项目筛选器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336807.jpeg
@@ -10,9 +10,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '186'
+source-wordcount: '187'
 ht-degree: 1%
 
 ---

@@ -1,6 +1,8 @@
 ---
 title: 开始使用 [!UICONTROL Enhanced Analytics]
-description: 了解要更新的最重要字段，以便充分利用增强的分析。
+description: 了解Workfront中要更新的最重要字段，以便让Enhanced Analytics显示您的团队和项目在Workfront中的进展情况。
+activity: use
+team: Technical Marketing
 feature: Reports and Dashboards
 thumbnail: analytics-prerequisites.png
 type: Tutorial
@@ -8,14 +10,16 @@ role: User
 level: Beginner
 kt: 10027
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '278'
 ht-degree: 5%
 
 ---
 
-# 开始使用 [!UICONTROL Enhanced Analytics]
+# 开始使用Adobe Workfront [!UICONTROL Enhanced Analytics]
+
+增强的分析功能可以向您展示您的团队和项目在Workfront中的进展情况，以及过去项目中发生的情况，您可能能够从中学习，以帮助规划未来项目。
 
 ## Analytics先决条件
 
