@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 kt: 10019
 exl-id: 1689080d-1d3c-4fad-a353-64fb3b0d5851
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 5fe0cbb9797ceaac0c402d912be6ed6665ac48ae
 workflow-type: tm+mt
 source-wordcount: '260'
 ht-degree: 1%
@@ -25,7 +25,7 @@ ht-degree: 1%
 1. 选择 **[!UICONTROL Statuses]**.
 1. 选择 **[!UICONTROL Issues]** 选项卡。
 1. 确保将右上角的字段设置为 [!UICONTROL System Statuses]. 这可确保在您的 [!DNL Workfront] 实例。
-1. 选择**[!UICONTROL Master List ]**查看所有问题状态。 您可以在此处创建或修改状态。
+1. 选择 **[!UICONTROL Master List ]** 以查看所有问题状态。 您可以在此处创建或修改状态。
 1. 单击 **[!UICONTROL Add a New Status]**.
 1. 根据组织需要填写字段 — 名称、描述、颜色、等于、键值等。
 1. 选中可与此状态一起使用的问题类型复选框。
