@@ -1,5 +1,5 @@
 ---
-title: '[!UICONTROL Graphs] 中的部分 [!DNL Workfront Goals] 说明'
+title: 了解 [!UICONTROL Graphs] 部分
 description: 了解如何阅读和理解[!DNL Goals]中的“目标运行状况”图表和“目标进度”图表。
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '108'
 ht-degree: 0%

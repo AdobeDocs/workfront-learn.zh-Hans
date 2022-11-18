@@ -1,5 +1,5 @@
 ---
-title: 如何查找项目
+title: 查找项目
 description: 了解如何在 [!DNL  Workfront] 使用针脚、收藏夹、功能板和 [!UICONTROL Projects] 页面。
 activity: use
 feature: Work Management
@@ -10,9 +10,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8716,8717,8718,8719
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

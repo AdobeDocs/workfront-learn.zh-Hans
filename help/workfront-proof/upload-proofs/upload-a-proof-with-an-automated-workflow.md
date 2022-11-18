@@ -1,5 +1,5 @@
 ---
-title: 如何使用自动化工作流上传
+title: 使用自动工作流上传校样
 description: 了解何时使用自动校样工作流，如何使用校样模板应用工作流，以及如何从头开始设置自动工作流。
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335133.png
 kt: 8833
 exl-id: 8301ef00-1f47-4779-aa35-c735b66fdcac
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '549'
+source-wordcount: '550'
 ht-degree: 0%
 
 ---

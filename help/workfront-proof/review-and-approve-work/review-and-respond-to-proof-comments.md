@@ -1,5 +1,5 @@
 ---
-title: 审阅并响应校样注释
+title: 审阅并回复校样评论
 description: 了解如何从校样查看器和 [!UICONTROL Updates] 部分 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 335139.png
 kt: 8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%

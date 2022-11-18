@@ -1,5 +1,5 @@
 ---
-title: 中的系统设置 [!UICONTROL Workfront DAM] 说明
+title: 了解 [!UICONTROL Workfront DAM]
 description: 了解如何在中建立全局设置、设置资产选项、建立文件夹设置、创建下载规则，以及查看报告和审核日志 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

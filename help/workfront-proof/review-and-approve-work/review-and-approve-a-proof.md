@@ -1,5 +1,5 @@
 ---
-title: 如何审核和批准校样
+title: 审核和批准校样
 description: 了解如何访问和评论校样，使用标记指示必要的更改，回复校样评论，以及在 [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,14 +10,14 @@ team: Technical Marketing
 thumbnail: review-approve-digital-work.png
 kt: 8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '656'
+source-wordcount: '653'
 ht-degree: 0%
 
 ---
 
-# 审核和批准数字校样
+# 审核和批准校样
 
 在开始审核校样之前，请确保您了解预期的内容。 您在校样工作流中的角色是什么？ 是审查校样，还是批准校样，还是两者兼有？
 

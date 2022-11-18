@@ -1,13 +1,15 @@
 ---
 title: 计划项目 — 审核
 description: 查看项目的五个字段，以便在规划项目时重点关注这些字段：任务、持续时间、计划时间、前置任务和分配。
+activity: use
+team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
 kt: 10152
 exl-id: dfc53caa-5aa1-406f-ac31-de2cd1096202
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 5%
@@ -22,7 +24,7 @@ ht-degree: 5%
 1. 持续时间
 1. 计划小时数
 1. 前置任务
-1. 分派
+1. 分配
 
 设置所有内容后，将项目状态更改为“当前”，以使项目开始运行。 随着项目继续运行，您将希望跟踪已完成的工作、出现的问题、需要回答的问题等。 请记住……您可以在 [!DNL Workfront]!
 

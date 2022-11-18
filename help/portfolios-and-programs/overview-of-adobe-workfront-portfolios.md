@@ -1,15 +1,17 @@
 ---
 title: 组合概述
-description: 了解项目组合的内容 [!DNL Workfront] 以及它们如何帮助您排定项目的优先级，并相互比较项目。
+description: 了解项目组合 [!DNL Workfront] 以及它们如何帮助您排定项目的优先级，并相互比较项目。
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '432'
+source-wordcount: '431'
 ht-degree: 0%
 
 ---

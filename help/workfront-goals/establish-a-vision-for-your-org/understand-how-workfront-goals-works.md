@@ -1,5 +1,5 @@
 ---
-title: 简介 [!DNL Workfront Goals]
+title: 了解如何 [!DNL Workfront Goals] 作品
 description: 了解在规划阶段阐述“什么”和“原因”、示例目标和影响范围。
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '242'
+source-wordcount: '244'
 ht-degree: 0%
 
 ---
 
-# 简介 [!DNL Workfront Goals]
+# 了解如何 [!DNL Workfront Goals] 作品
 
 在此视频中，您将了解：
 

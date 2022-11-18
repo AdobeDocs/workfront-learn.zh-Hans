@@ -1,14 +1,17 @@
 ---
 title: 设置Fusion练习文件演练
-description: 在此视频中，了解如何下载练习文件并将这些文件上传到Workfront中的 [!DNL Adobe Workfront Fusion].
+description: 了解如何下载练习文件，并将这些文件上传到Workfront中的 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

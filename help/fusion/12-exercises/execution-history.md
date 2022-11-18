@@ -1,18 +1,21 @@
 ---
 title: 执行历史记录
 description: 查看和审核有关过去执行和方案配置的详细信息。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11049
 thumbnail: KT11049.png
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '282'
 ht-degree: 0%
 
 ---
-
 
 # 执行历史记录
 

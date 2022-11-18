@@ -1,15 +1,18 @@
 ---
 title: 高级聚合
 description: 调用Web服务可返回有关多个国家/地区的详细信息并识别按子区域分组的人口。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11048
 thumbnail: KT11048.png
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '481'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

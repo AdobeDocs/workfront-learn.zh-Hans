@@ -1,6 +1,8 @@
 ---
-title: 校样角色和电子邮件警报快速入门
+title: 校样角色和电子邮件警报
 description: 了解如何启用适当的校样角色和电子邮件警报，以便校样收件人有权访问校样并了解中正在完成的工作 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,9 +10,9 @@ level: Beginner
 thumbnail: proof-roles-and-email-alerts.png
 kt: 10177
 exl-id: 15bfb18a-5392-4a91-a6a2-223f7ac30dc5
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '554'
 ht-degree: 0%
 
 ---

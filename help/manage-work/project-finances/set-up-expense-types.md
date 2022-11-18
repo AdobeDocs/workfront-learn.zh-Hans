@@ -1,6 +1,8 @@
 ---
 title: 设置费用类型
-description: Workfront具有可在输入费用时使用的预建费用类型，并且可以添加新的费用类型。
+description: 了解如何在输入费用时使用预建费用类型，以及如何创建新的费用类型。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-expense-types.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '242'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

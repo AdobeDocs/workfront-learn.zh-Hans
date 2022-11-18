@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a695f84e92b576795e69aa843dd96f88b53a355
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '2166'
+source-wordcount: '2167'
 ht-degree: 2%
 
 ---
@@ -460,7 +460,7 @@ ht-degree: 2%
    + 管理和设置 {#administration-and-setup-for-proof}
       + [自定义校样注释操作](workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
       + [自定义校样决策选项](workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [电子邮件警报与校样通知](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [了解电子邮件警报和校样通知](workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
       + [校样角色和电子邮件警报](workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
       + [校样报告](workfront-proof/administration-and-setup/report-on-proofs.md)
       + [在风险验证设置中设置默认值](workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
@@ -601,7 +601,7 @@ ht-degree: 2%
    + [项目模板](best-practices/project-templates-bp.md)
    + [Workfront Proof](best-practices/proofing-bp.md)
    + [请求队列](best-practices/request-queues-bp.md)
-   + [资源规划者](best-practices/resource-planner-bp.md)
+   + [资源规划程序](best-practices/resource-planner-bp.md)
    + [资源池](best-practices/resource-pools-bp.md)
    + [场景计划器](best-practices/scenario-planner-bp.md)
    + [计划](best-practices/schedules-bp.md)

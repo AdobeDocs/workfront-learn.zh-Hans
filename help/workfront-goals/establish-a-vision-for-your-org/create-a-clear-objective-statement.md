@@ -1,5 +1,5 @@
 ---
-title: 定义和表达目标或最终目标
+title: 定义并表达目标或最终目标
 description: 了解如何创建明确的客观声明或指挥官的意图，并编写强大的企业或组织目标。
 activity: use
 feature: Workfront Goals
@@ -9,7 +9,7 @@ level: Beginner
 team: Technical Marketing
 kt: 8892
 exl-id: 95035fac-e434-4073-91e1-e16997a36a46
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '395'
 ht-degree: 0%

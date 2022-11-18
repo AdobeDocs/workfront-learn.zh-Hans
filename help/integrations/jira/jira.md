@@ -1,5 +1,5 @@
 ---
-title: “使用 [!DNL Jira] 集成”
+title: 使用创建可见性 [!DNL Jira] 集成
 description: 了解 [!DNL Jira] 集成可以让您了解团队的工作。
 activity: use
 feature: Workfront Integrations and Apps
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '330'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

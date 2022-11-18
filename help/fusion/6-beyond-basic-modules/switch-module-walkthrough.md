@@ -2,18 +2,21 @@
 title: 交换机模块演练
 description: 了解当您需要在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 1354d907-3e61-45a5-b8cf-3eee61973f8f
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '117'
+source-wordcount: '115'
 ht-degree: 0%
 
 ---
 
-# 使用交换机模块演练
+# 交换机模块演练
 
 ## 概述
 

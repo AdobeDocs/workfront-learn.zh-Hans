@@ -1,5 +1,5 @@
 ---
-title: 如何围绕目标进行协作
+title: 围绕目标协作
 description: 了解如何与团队协作、定义您和您的团队为实现顶级目标而必须执行的操作以及优化目标层次结构。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '172'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

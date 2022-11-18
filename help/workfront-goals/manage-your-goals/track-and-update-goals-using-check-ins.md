@@ -1,13 +1,15 @@
 ---
 title: 使用签入跟踪和更新目标
 description: 了解如何在中跟踪、更新和计算目标的进度 [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10126
 exl-id: acb6670a-486a-4d88-b422-57ed21833f76
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '696'
 ht-degree: 0%

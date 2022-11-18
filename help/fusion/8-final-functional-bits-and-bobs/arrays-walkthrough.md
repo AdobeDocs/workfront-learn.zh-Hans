@@ -1,15 +1,18 @@
 ---
-title: 阵列演练
-description: 在此视频中，我们将回顾之前在中使用简单和复杂数组的演练练习 [!DNL Adobe Workfront Fusion].
+title: 数组演练
+description: 查看以前的演练练习，其中使用了简单和复杂的数组 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 1%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

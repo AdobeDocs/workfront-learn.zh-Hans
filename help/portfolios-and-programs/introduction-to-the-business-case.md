@@ -1,13 +1,15 @@
 ---
 title: 如何使用 [!UICONTROL Business Case] in [!DNL  Workfront]
 description: 了解如何使用 [!UICONTROL Business Case] in [!DNL  Workfront] 以便您获得项目所需的信息，以便做出明智的决策。
+activity: use
+team: Technical Marketing
 feature: Strategic Planning
 thumbnail: introduction-to-the-business-case.png
 type: Tutorial
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 3398b789630fa67b8a592c82f6fcf0b6d87e4ead
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '698'
 ht-degree: 0%

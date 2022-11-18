@@ -1,5 +1,5 @@
 ---
-title: 如何使用基本工作流上传校样
+title: 使用基本工作流上传校样
 description: 了解如何上传文件作为验证，为利益相关方的审阅和批准添加基本的校对工作流，以及为 [!DNL Workfront].
 activity: use
 feature: Workfront Proof
@@ -10,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335132.png
 kt: 8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: '183'
 ht-degree: 0%
 
 ---

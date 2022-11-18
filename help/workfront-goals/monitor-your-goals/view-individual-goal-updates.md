@@ -1,5 +1,5 @@
 ---
-title: 中的单个目标更新 [!DNL Workfront Goals]
+title: 在 [!DNL Workfront Goals]
 description: 了解如何在 [!UICONTROL Pulse] 更新[!DNL Goals]中的流。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '274'
+source-wordcount: '275'
 ht-degree: 0%
 
 ---

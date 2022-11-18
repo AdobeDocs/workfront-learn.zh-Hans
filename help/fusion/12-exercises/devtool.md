@@ -1,18 +1,21 @@
 ---
 title: 开发工具
 description: 使用DevTool增强您对方案进行故障诊断的能力并简化复杂配置。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11057
 thumbnail: KT11057.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '616'
 ht-degree: 0%
 
 ---
-
 
 # 开发工具
 

@@ -1,6 +1,8 @@
 ---
 title: 设置任务收入和成本默认值
-description: 收入类型和成本类型用于计算任务的计划财务信息和实际财务信息。
+description: 了解如何使用收入类型和成本类型来计算任务的计划财务信息和实际财务信息。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-task-revenue-and-cost-defaults.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

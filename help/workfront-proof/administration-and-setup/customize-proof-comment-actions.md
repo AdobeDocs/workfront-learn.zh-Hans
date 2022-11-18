@@ -1,6 +1,7 @@
 ---
-title: 自定义校样注释操作
+title: 自定义校样注释的操作
 description: 了解如何对校样注释使用操作。 了解如何为的校对功能设置和自定义操作标签。
+activity: use
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -9,9 +10,9 @@ team: Technical Marketing
 thumbnail: 335128.png
 kt: 8828
 exl-id: e71fcad9-bb8a-4adf-8469-51ce190d6c54
-source-git-commit: c06dcc985c3b63781911e3c8cb1ac0f1a888ac7d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

@@ -1,18 +1,21 @@
 ---
 title: 迭代器简介
 description: 了解如何使用迭代类型的应用程序并对每个信息包执行操作。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11046
 thumbnail: KT11046.png
-source-git-commit: f367e016498d5c1814cab79e19e6e9001db2851f
+exl-id: 8d751885-372a-4716-9542-079cc3d36caf
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 0%
 
 ---
-
 
 # 迭代器简介
 

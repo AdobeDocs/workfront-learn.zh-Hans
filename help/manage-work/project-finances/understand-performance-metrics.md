@@ -1,6 +1,8 @@
 ---
 title: 了解性能量度
-description: 性能量度包括 [!UICONTROL Performance Index Method] ([!UICONTROL PIM])和 [!UICONTROL Estimate at Completion] ([!UICONTROL EAC])。
+description: 了解如何使用性能量度 —  [!UICONTROL Performance Index Method] ([!UICONTROL PIM])和 [!UICONTROL Estimate at Completion] ([!UICONTROL EAC])。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-performance-metrics.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '349'
+source-wordcount: '352'
 ht-degree: 0%
 
 ---

@@ -1,6 +1,8 @@
 ---
-title: 说明校样详细信息
+title: 了解校样详细信息
 description: 深入了解 [!DNL  Workfront] 通过摘要面板和 [!UICONTROL Document Details] 页面。
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,14 +10,14 @@ level: Beginner
 thumbnail: understand-proof-details.png
 kt: 10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 0%
 
 ---
 
-# 校样详细信息概述
+# 了解校样详细信息
 
 ## 查看校样详细信息
 

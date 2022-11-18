@@ -2,18 +2,21 @@
 title: 通用连接器演练简介
 description: 了解如何通过HTTP连接器调用Poke API，以收集和发布关于Pokemon字符的信息，所有这些操作均位于 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 通用连接器演练
+# 通用连接器演练简介
 
 ## 概述
 
@@ -29,9 +32,9 @@ Workfront建议先观看练习视频，然后再尝试在您自己的环境中�
 
 ### 练习URL
 
-Pokemon API网站：https://pokeapi.co/
+Pokemon API网站： `https://pokeapi.co/`
 
-练习的URL:https://pokeapi.co/api/v2/pokemon/{Character}
+练习的URL: `https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >

@@ -1,14 +1,17 @@
 ---
 title: 平衡运行、周期和包
-description: 在此视频中，您将了解平衡运行、循环和包的内容 [!DNL Adobe Workfront Fusion].
+description: 了解平衡运行、周期和包的内容 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '40'
+source-wordcount: '35'
 ht-degree: 0%
 
 ---

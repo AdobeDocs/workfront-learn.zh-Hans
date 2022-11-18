@@ -2,13 +2,16 @@
 title: 高级聚合演练
 description: 了解如何调用Web服务以返回有关多个国家/地区的详细信息并识别按子区域分组的人口，所有这些均位于 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: ca56810c9eab36175a6280e319b5fd2aba90b2f2
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '265'
+source-wordcount: '277'
 ht-degree: 0%
 
 ---
@@ -45,6 +48,10 @@ Workfront建议先观看练习视频，然后再尝试在您自己的环境中�
 在您的方案中，您将看到 **初迭代器** 到 **结束聚合器**. 这有助于在Workfront Fusion场景中轻松发现这些区段。
 
 ## 该你了
+
+>[!NOTE]
+>
+>练习是可选的，完成融合培训并不必要。
 
 此练习以您在演练中学到的内容为基础，但未提供解决方案。
 

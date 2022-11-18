@@ -1,5 +1,5 @@
 ---
-title: 如何在Brand Portal中导航 [!UICONTROL DAM]
+title: 在Brand Portal中导航 [!UICONTROL Workfront DAM]
 description: 了解如何在中访问Brand Portal [!UICONTROL Workfront DAM]、创建文件夹、设置单个资产的过期日期，以及编辑资产设置。
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Intermediate
 team: Technical Marketing
 kt: 8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '232'
+source-wordcount: '230'
 ht-degree: 0%
 
 ---

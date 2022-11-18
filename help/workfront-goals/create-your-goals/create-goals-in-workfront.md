@@ -1,5 +1,5 @@
 ---
-title: 在Workfront中创建目标
+title: 在中创建目标 [!DNL Workfront Goals]
 description: 了解如何在 [!DNL Workfront Goals] 使用三个不同的选项。
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 10122
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '900'
+source-wordcount: '898'
 ht-degree: 0%
 
 ---
 
-# 在Workfront中创建目标
+# 在中创建目标 [!DNL Workfront Goals]
 
 在 [!DNL Workfront Goals]、执行人员和公司领导团队可以在每个级别查看整个组织的进展情况，具体到个人。 [!DNL Workfront Goals] 提供可见性，以获取关键的可操作洞察，从而推进最高优先级、确定面临风险的目标、实时诊断问题并主动进行正确的课程。
 

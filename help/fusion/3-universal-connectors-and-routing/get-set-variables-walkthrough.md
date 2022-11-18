@@ -1,14 +1,17 @@
 ---
 title: 设置/获取变量演练
-description: 在此视频中，您将学习如何在Workfront中查找有关项目的信息，并发送一封电子邮件，其中包含 [!DNL Adobe Workfront Fusion].
+description: 了解如何在Workfront中查找有关项目的信息，并发送一封包含相关信息的电子邮件(位于 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9017
 exl-id: bd329144-4c4c-451f-9340-265fbdb5b249
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '207'
+source-wordcount: '214'
 ht-degree: 0%
 
 ---
@@ -32,6 +35,10 @@ Workfront建议先观看练习视频，然后再尝试在您自己的环境中�
 >有关完成演练的分步说明，请转到 [设置/获取变量演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/set-get-variables.html?lang=en) 练习。
 
 ## 该你了
+
+>[!NOTE]
+>
+>练习是可选的，完成融合培训并不必要。
 
 此练习以您在演练中学到的内容为基础，但未提供解决方案。
 

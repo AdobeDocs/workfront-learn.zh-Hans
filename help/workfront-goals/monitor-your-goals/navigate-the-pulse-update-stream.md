@@ -1,5 +1,5 @@
 ---
-title: 导航 [!UICONTROL Pulse] 更新目标中的流
+title: 导航 [!UICONTROL Pulse] 更新流 [!DNL Goals]
 description: 了解如何导航 [!UICONTROL Pulse] 更新[!DNL Goals]中的流。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '73'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

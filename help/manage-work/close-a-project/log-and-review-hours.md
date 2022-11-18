@@ -1,6 +1,8 @@
 ---
 title: 记录和查看小时数
 description: 在关闭项目之前，记录未完成的小时数并查看已记录的小时数 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: log-and-review-hours.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10136
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

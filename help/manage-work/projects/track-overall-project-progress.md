@@ -1,6 +1,8 @@
 ---
 title: 跟踪整个项目进度
 description: 了解项目标题中显示的信息如何帮助您跟踪项目的整体进度和运行状况。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: track-overall-project-progress.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

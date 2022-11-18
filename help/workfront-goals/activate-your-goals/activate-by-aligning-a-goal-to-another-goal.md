@@ -1,15 +1,17 @@
 ---
-title: 通过将目标与另一个目标对齐来激活
+title: 通过将目标与另一个目标相协调来激活目标
 description: 了解如何在 [!DNL Workfront Goals] 将其与另一个目标相协调。
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '147'
 ht-degree: 0%
 
 ---

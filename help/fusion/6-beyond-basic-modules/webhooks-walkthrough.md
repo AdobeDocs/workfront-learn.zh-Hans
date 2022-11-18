@@ -2,13 +2,16 @@
 title: Webhooks演练
 description: 了解如何使用WebHook创建应用程序来确定客户是否年纪大到足以购买酒精，所有这些操作均在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: Jira ticket
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '358'
+source-wordcount: '370'
 ht-degree: 0%
 
 ---
@@ -46,6 +49,10 @@ Workfront建议先观看练习视频，然后再尝试在您自己的环境中�
 ![使用开关模块的图像](assets/beyond-basic-modules-6.png)
 
 ## 该你了
+
+>[!NOTE]
+>
+>练习是可选的，完成融合培训并不必要。
 
 此练习以您在演练中学到的内容为基础，但未提供解决方案。
 

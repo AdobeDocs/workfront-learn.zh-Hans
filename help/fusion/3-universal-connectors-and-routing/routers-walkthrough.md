@@ -2,13 +2,16 @@
 title: 路由器演练
 description: 了解如何使用路由器将Pokemon与超级英雄捆绑在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '877'
 ht-degree: 0%
 
 ---
@@ -29,9 +32,9 @@ Workfront建议先观看练习视频，然后再尝试在您自己的环境中�
 
 ## 练习URL
 
-* 超级英雄API网站：https://www.superheroapi.com/
-* 练习的第一个URL:https://www.superheroapi.com/api/{access-token}/{character-id}/appearance
-* 练习的第二个URL:https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats
+* 超级英雄API网站： `https://www.superheroapi.com/`
+* 练习的第一个URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 练习的第二个URL: `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 如果您在访问自己的超级英雄令牌时遇到问题，您可以使用此共享令牌：10110256647253588。 请考虑您调用超级英雄API的次数，以便此共享令牌可继续适用于所有人。
 
@@ -86,6 +89,10 @@ API身份验证是一种用于控制对服务的访问的标识形式，例如�
 您可以在Experience League中查看我们预建应用程序连接器的完整列表。 如果您想向Workfront Fusion产品团队建议一个新的应用程序连接器，请将您的想法提交给Innovation Lab。 如果您以前没有提交过，请进一步了解创新实验室，以及如何投票支持创意并参与一年两次的领导委员会优先安排。 如果您已经有权访问创新实验室，请登录并提交您的想法。
 
 ## 该你了
+
+>[!NOTE]
+>
+>练习是可选的，完成融合培训并不必要。
 
 此练习以您在演练中学到的内容为基础，但未提供解决方案。
 

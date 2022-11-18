@@ -1,14 +1,17 @@
 ---
 title: 初始方案设计演练
-description: 在此视频中，您将学习如何创建文件夹和新方案、使用方案设计器，以及在 [!DNL Adobe Workfront Fusion].
+description: 了解如何创建文件夹和新方案、使用方案设计器，以及在 [!DNL Adobe Workfront Fusion].
 activity: use
-doc-type: feature video
 team: Technical Marketing
+type: Tutorial
+feature: Workfront Fusion
+role: User
+level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---

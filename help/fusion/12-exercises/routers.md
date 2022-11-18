@@ -1,18 +1,21 @@
 ---
 title: 路由器
 description: 了解路由器的重要性以及如何根据条件处理不同模块。
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11043
 thumbnail: KT11043.png
-source-git-commit: 82b0e8e5875f3cedd25446507b29a46c9d598d29
+exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '744'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
-
 
 # 路由器
 
@@ -55,8 +58,8 @@ ht-degree: 0%
    >
    >如果您在访问自己的超级英雄令牌时遇到问题，您可以使用此共享令牌：10110256647253588。 请考虑您调用超级英雄API的次数，以便此共享令牌可继续适用于所有人。
 
-1. 打开“获取超级英雄外观”的设置，并将URL更改为https://www.superheroapi.com/api/[访问令牌]/332/外观。 确保在URL中包含您的访问令牌。 单击确定。
-1. 打开获取超级英雄能力的设置，并将URL更改为https://www.superheroapi.com/api/[访问令牌]/332/powerstats。 确保在URL中包含您的访问令牌。 单击确定。
+1. 打开“获取超级英雄外观”的设置，并将URL更改为 `https://www.superheroapi.com/api/[access- token]/332/appearance`. 确保在URL中包含您的访问令牌。 单击确定。
+1. 打开获取超级英雄能力的设置，并将URL更改为 `https://www.superheroapi.com/api/[access- token]/332/powerstats`. 确保在URL中包含您的访问令牌。 单击确定。
 1. 右键单击每个超级英雄模块，然后选择“仅运行此模块”。 这将生成映射所需要查看的数据结构。
 1. 运行这两个模块后，将每个URL字段中的数字“332”更改为从解析CSV模块映射的第4列。
 

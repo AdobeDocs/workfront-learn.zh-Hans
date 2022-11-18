@@ -1,15 +1,17 @@
 ---
 title: 设置 [!UICONTROL Workfront Goals] 用于您的组织
 description: 了解如何设置 [!DNL Workfront Goals] 以确保工作执行与您的策略保持一致。
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10125
 exl-id: 7890db2c-21a7-4549-8d46-34f1d334e3d2
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

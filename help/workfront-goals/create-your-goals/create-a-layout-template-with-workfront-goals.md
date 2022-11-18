@@ -1,5 +1,5 @@
 ---
-title: 布局模板 [!DNL Workfront Goals]
+title: 添加 [!DNL Workfront Goals] 到布局模板
 description: 了解如何使用 [!DNL Workfront Goals], assign the layout template to users, and change [!DNL Goals] 术语。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

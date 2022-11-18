@@ -1,6 +1,8 @@
 ---
 title: 上传资产
 description: 在关闭项目之前，将文档、校样和其他资产上传到项目，以确保所有相关数据都与项目关联。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: upload-assets.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

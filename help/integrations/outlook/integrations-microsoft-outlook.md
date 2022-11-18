@@ -1,6 +1,6 @@
 ---
-title: 集成Microsoft Outlook
-description: 了解如何安装Microsoft Outlook加载项
+title: 安装 [!UICONTROL Microsoft Outlook Add-in]
+description: 了解如何安装 [!UICONTROL Microsoft Outlook Add-in]
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8814
 exl-id: bd55c464-aae3-40a4-bc1b-e0dbdc5bb238
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '88'
 ht-degree: 0%
 
 ---
 
-# 集成 [!DNL Microsoft Outlook]
+# 安装Microsoft Outlook加载项
 
 在此视频中，您将学习如何：
 

@@ -10,14 +10,14 @@ thumbnail: 335125.png
 team: Technical Marketing
 kt: 8824
 exl-id: 8e8871a8-866e-4c9a-9f30-578d3b5639c5
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '55'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 校样工作流简介
+# 了解校样工作流程，将其作为项目时间轴的一部分
 
 在此视频中，您将学习：
 

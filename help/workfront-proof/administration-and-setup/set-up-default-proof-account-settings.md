@@ -1,6 +1,8 @@
 ---
 title: 设置校样帐户默认设置
 description: 了解如何设置全局应用于所有校样和校样用户的默认帐户设置。
+activity: use
+team: Technical Marketing
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,7 +10,7 @@ level: Intermediate
 thumbnail: set-up-proof-actual-default-settings.png
 kt: 10236
 exl-id: 6eda8bcd-ab0f-4e02-9080-64b6051b327f
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '189'
 ht-degree: 0%

@@ -1,6 +1,8 @@
 ---
 title: 了解项目通信
 description: 了解如何使用对项目、任务、问题或文档的更新来交流有关项目工作的信息。 然后，在 [!DNL  Workfront].
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-project-communication.jpeg
 type: Tutorial
@@ -8,7 +10,7 @@ role: User
 level: Intermediate
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 0%

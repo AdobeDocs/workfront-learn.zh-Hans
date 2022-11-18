@@ -1,6 +1,8 @@
 ---
 title: 设置汇率
-description: 汇率可用于项目和报告，以反映世界各地不同货币的财务信息。
+description: 了解如何在项目和报告中使用汇率来反映全球不同货币的财务信息。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: set-up-exchange-rates.png
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10049
 exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---

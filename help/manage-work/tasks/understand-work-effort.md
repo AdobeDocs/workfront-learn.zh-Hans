@@ -1,6 +1,8 @@
 ---
 title: 了解 [!UICONTROL Work Effort]
-description: 了解如何使用 [!UICONTROL Work Effort] 而不是项目时间轴中的计划小时数。
+description: 了解如何使用 [!UICONTROL Work Effort] 以快速估算项目时间轴中的计划小时数。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-work-effort.jpeg
 type: Tutorial
@@ -8,9 +10,9 @@ role: User
 level: Intermediate
 kt: 10153
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

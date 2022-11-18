@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# Brand Connect:下载和共享
+# Brand Connect:如何下载和共享Lightbox
 
 在此视频中，您将学习如何：
 

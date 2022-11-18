@@ -1,5 +1,5 @@
 ---
-title: '''[!UICONTROL Workfront DAM] 和用户配置文件说明'
+title: 了解中的用户配置文件和导航 [!UICONTROL Workfront DAM]
 description: 了解三者之间的差异 [!UICONTROL Workfront DAM] 用户配置文件和导航方式 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8992
 exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '35'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---

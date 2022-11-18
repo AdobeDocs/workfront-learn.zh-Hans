@@ -1,16 +1,18 @@
 ---
 title: 传达目标状态
 description: 了解如何在 [!DNL Workfront Goals].
+activity: use
+team: Technical Marketing
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 27e8f0aada77488bd6cfc2e786b997f759fd0a17
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '463'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -34,7 +36,7 @@ ht-degree: 0%
 
    ![Asss](assets/17-workfront-goals-share-a-goal.png)
 
-1. 执行以下操作之一：
+1. 执行下列操作之一：
 
    * 选择 [!UICONTROL Manage system-wide] 设置，以向系统中对具有“编辑”访问权限的每个人授予“管理”权限 [!DNL Goals] 通过 [!DNL Workfront] 访问级别。 默认情况下，所有新目标都将取消选中此选项。
    * 开始键入您要提供的用户的名称 [!UICONTROL Manage] 的权限 [!UICONTROL Give Manage access to] 框中。 当名称显示在列表中时，选择该名称。

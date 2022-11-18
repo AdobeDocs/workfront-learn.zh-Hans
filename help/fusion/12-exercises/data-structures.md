@@ -1,18 +1,21 @@
 ---
 title: 数据结构
 description: 将数据从源文件转换为目标文件。 （应介于60到160个字符之间，但为58个字符）
+activity: use
+team: Technical Marketing
+type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
 kt: 11054
 thumbnail: KT11054.png
-source-git-commit: c348222464180e994e7b414d1b84e07f58b6b2ae
+exl-id: 06a39a87-23f3-4d4a-995e-d32fb9c5f50d
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
 source-wordcount: '1048'
 ht-degree: 0%
 
 ---
-
 
 # 数据结构
 
@@ -48,7 +51,7 @@ ht-degree: 0%
 1. 从Workfront应用程序中的下载文档模块开始。
 1. 设置您的Workfront连接，并包含您从Workfront URL复制的文档ID。
 
-   ![数据结构图像3](../12-exercises/assets/data-structures-walkthrough-3.png)
+   ![数据结构图3](../12-exercises/assets/data-structures-walkthrough-3.png)
 
    **解析时间条目数据。**
 

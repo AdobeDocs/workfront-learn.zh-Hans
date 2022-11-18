@@ -1,6 +1,8 @@
 ---
 title: 了解财务访问
-description: 财务访问权限允许管理员控制谁可以查看和编辑在Workfront中跟踪的财务信息。
+description: 了解金融访问权限如何让管理员控制谁可以查看和编辑在Workfront中跟踪的金融信息。
+activity: use
+team: Technical Marketing
 feature: Work Management
 thumbnail: understand-financial-access.png
 type: Tutorial
@@ -8,10 +10,10 @@ role: User
 level: Intermediate
 kt: 10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: d0c842ad8bf6f52161f003a62237fbcd35d23176
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '389'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 

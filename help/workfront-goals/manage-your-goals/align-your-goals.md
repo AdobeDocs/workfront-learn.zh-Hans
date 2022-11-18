@@ -1,5 +1,5 @@
 ---
-title: 中的目标对齐 [!DNL Workfront Goals] 说明
+title: 调整目标
 description: 了解如何导航 [!UICONTROL Goal Alignment] 页面。
 activity: use
 feature: Workfront Goals
@@ -9,9 +9,9 @@ level: Beginner
 team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '479'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---

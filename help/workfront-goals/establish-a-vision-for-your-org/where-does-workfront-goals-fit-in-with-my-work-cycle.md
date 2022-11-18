@@ -1,5 +1,5 @@
 ---
-title: 其中 [!DNL Workfront Goals] 与我的工作生命周期相符吗？
+title: 了解如何 [!UICONTROL Workfront Goals] 适合您的工作周期
 description: 了解典型工作生命周期中的6个步骤以及工作生命周期中“策略阶段”的核心构建基块。
 activity: use
 feature: Workfront Goals
@@ -9,14 +9,14 @@ level: Beginner
 team: Technical Marketing
 kt: 8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# 其中 [!DNL Workfront Goals] 与我的工作生命周期相符吗？
+# 了解如何 [!UICONTROL Workfront Goals] 适合您的工作周期
 
 在此视频中，您将了解：
 
