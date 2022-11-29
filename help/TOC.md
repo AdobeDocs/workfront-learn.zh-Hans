@@ -3,7 +3,7 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
 workflow-type: tm+mt
 source-wordcount: '2167'
 ht-degree: 2%
@@ -428,7 +428,7 @@ ht-degree: 2%
       + [路由器](fusion/12-exercises/routers.md)
       + [路由模式](fusion/12-exercises/routing-patterns.md)
       + [设置/获取变量](fusion/12-exercises/set-get-variables.md)
-      + [迭代器简介](fusion/12-exercises/introduction-to-iterators.md)
+      + [迭代器简介](fusion/12-exercises/introduction-to-iterators-exercise.md)
       + [聚合](fusion/12-exercises/aggregation.md)
       + [高级聚合](fusion/12-exercises/advanced-aggregation.md)
       + [执行历史记录](fusion/12-exercises/execution-history.md)
