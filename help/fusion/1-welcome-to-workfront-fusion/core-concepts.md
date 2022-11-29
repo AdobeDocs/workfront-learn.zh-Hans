@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '291'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 许多Workfront Fusion用户在思考他们使用的所有系统时都遇到了问题，他们最终问，“Workfront Fusion是否有连接器连____软件？” （为您使用的系统填写空白。）
 
-确定Workfront Fusion是否具有预建连接器的最简单方法是使用“添加应用程序”功能并按名称搜索应用程序。 您还可以检查 **应用程序及其模块** 有关Workfront Fusion可以连接的应用程序列表的Experience League文章。
+确定Workfront Fusion是否具有预建连接器的最简单方法是使用“添加应用程序”功能并按名称搜索应用程序。 您还可以检查 [应用程序及其模块](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) 有关Workfront Fusion可以连接的应用程序列表的Experience League文章。
 
 连接器不仅限于本文中的应用程序。 如果要使用的应用程序没有预建的连接器，您可以使用这些模块直接连接到Web服务：
 
