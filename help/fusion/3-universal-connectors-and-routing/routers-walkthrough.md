@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '877'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
@@ -92,7 +92,7 @@ API身份验证是一种用于控制对服务的访问的标识形式，例如�
 
 >[!NOTE]
 >
->练习是可选的，完成融合培训并不必要。
+>实践练习和挑战是可选的，完成融合培训并非必需的。
 
 此练习以您在演练中学到的内容为基础，但未提供解决方案。
 

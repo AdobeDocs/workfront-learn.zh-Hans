@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: b68a4c103808026caec2c3f8d8be9ab2d9d0d952
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -44,3 +44,18 @@ Workfront不提供Workfront Fusion测试驱动器。 要在完成教程时练习
 
 有关完成演练练习的分步说明。 您可以从左侧导航栏中的“Fusion”>“练习”下访问这些内容，或使用演示教程底部提供的链接。
 
+### 可选实践练习
+
+在部分演练练习之后，提供了实践练习和挑战。
+
+实践练习有多种不同的解决方法。 其目的是挑战您，即在不采取步骤或“正确答案”的情况下尝试实现方案目标，因为在公司构建方案时，您需要执行此操作。
+
+练习与演练活动相关。
+
+挑战在于那些想尝试一些与他们学到的其他概念有关的东西的人。
+
+### 如何获取帮助
+
+我们提供了分步说明，帮助您完成演练练习。
+
+此外， [Workfront Fusion 2.0社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) 您可以在其中发布问题。

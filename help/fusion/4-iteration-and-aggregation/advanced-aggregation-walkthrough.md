@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+source-git-commit: 0618bf27478744e0e9976015a24c5ec8519efbb7
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '279'
 ht-degree: 0%
 
 ---
@@ -51,7 +51,7 @@ Workfront建议先观看练习视频，然后再尝试在您自己的环境中�
 
 >[!NOTE]
 >
->练习是可选的，完成融合培训并不必要。
+>实践练习和挑战是可选的，完成融合培训并非必需的。
 
 此练习以您在演练中学到的内容为基础，但未提供解决方案。
 
