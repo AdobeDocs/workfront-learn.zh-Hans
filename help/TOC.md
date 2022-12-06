@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 1ab337568afd314d461ddea5952c9b4c900b9c26
+source-git-commit: c4850a9fcb1174aa6ef3f0c1c107f619358b30da
 workflow-type: tm+mt
-source-wordcount: '2167'
+source-wordcount: '2210'
 ht-degree: 2%
 
 ---
@@ -330,6 +330,11 @@ ht-degree: 2%
    + Adobe Creative Cloud {#adobe-creative-cloud}
       + [使用Workfront为Adobe Creative Cloud上传校样](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
       + [将Workfront用于Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
+   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
+      + [配置](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [发送文档和链接资产](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
    + G Suite {#g-suite-integrations}
       + [通过G Suite集成增强您的工作流](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
    + Jira {#jira}
@@ -343,6 +348,7 @@ ht-degree: 2%
       + [通过搜索Workfront [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [了解Workfront [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [查看最近的工作 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 
 
 
