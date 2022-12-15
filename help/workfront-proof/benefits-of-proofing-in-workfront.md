@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: 336095.png
 kt: 8822
 exl-id: 9721f0b1-ee24-4db1-ac1b-f0c355ad0a9a
-source-git-commit: 2ee758f7cb3e8d08cc4ec953486be187a59850e7
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
 source-wordcount: '168'
 ht-degree: 0%
@@ -37,6 +37,3 @@ ht-degree: 0%
 * **电子邮件警报 —** 校样上有活动时的通知。
 * **校样用户 —** 有 [!DNL Workfront] 可以上传、审阅、批准、管理等数字校样的计划或工作许可证。
 
-<!--
-For a complete list of [!DNL Workfront] proof terms, download this guide.
--->

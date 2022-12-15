@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c4850a9fcb1174aa6ef3f0c1c107f619358b30da
+source-git-commit: 9e68a35e9803543934ae9ba3db7497395d2f9c31
 workflow-type: tm+mt
-source-wordcount: '2210'
+source-wordcount: '2317'
 ht-degree: 2%
 
 ---
@@ -341,6 +341,14 @@ ht-degree: 2%
       + [使用创建可见性 [!DNL Jira] 集成](integrations/jira/jira.md)
    + Microsoft Outlook {#outlook}
       + [安装Microsoft Outlook加载项](integrations/outlook/integrations-microsoft-outlook.md)
+   + Microsoft Teams {#ms-teams}
+      + [Adobe Workfront for Microsoft Teams概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安装Adobe Workfront forMicrosoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [从Microsoft Teams访问Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在Microsoft Teams中搜索并共享Adobe Workfront项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [从Microsoft Teams创建Adobe Workfront任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [从Microsoft Teams提交Adobe Workfront请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在Microsoft Teams中管理Adobe Workfront通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
    + Slack {#slack}
       + [通过 [!UICONTROL Slack]](integrations/slack/access-your-to-do-list-through-slack.md)
       + [通过 [!UICONTROL Slack]](integrations/slack/assign-tasks-through-slack.md)
@@ -348,6 +356,7 @@ ht-degree: 2%
       + [通过搜索Workfront [!UICONTROL Slack]](integrations/slack/search-workfront-through-slack.md)
       + [了解Workfront [!UICONTROL Slack]](integrations/slack/introduction-to-workfront-for-slack.md)
       + [查看最近的工作 [!UICONTROL Slack]](integrations/slack/view-recent-work-through-slack.md)
+
 
 
 
