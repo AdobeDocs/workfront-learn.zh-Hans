@@ -9,7 +9,7 @@ activity: use
 team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 37a222dd921c0c3ffe72a8e091f6dbf1f18cee68
 workflow-type: tm+mt
 source-wordcount: '404'
 ht-degree: 0%
@@ -32,31 +32,31 @@ CONTAINS和ISBLANK表达式都用于提供简单的true或false值。 区别在�
 
 ISBLANK文本表达式包含表达式的名称和一个数据点。
 
-**ISBLANK（数据点）**
+**ISBLANK（{数据点}）**
 
 ![具有利用率的工作负载平衡器报告](assets/isblank03.png)
 
 在上面的示例中（您想知道项目是否有说明的位置），表达式为：
 
-ISBLANK（描述）
+ISBLANK({description})
 
 ## CONTAINS
 
 CONTAINS文本表达式包括表达式的名称、您要查找的单词或短语以及要查找的字段。
 
-**CONTAINS(&quot;phrase&quot;,field)**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
 请确保在要查找的单词或短语上加引号，否则表达式将无效。
 
 在以上示例（在项目描述中查找“慈善活动”）中，表达式为：
 
-**CONTAINS(&quot;charity event&quot;,Description)**
+**CONTAINS(&quot;charity event&quot;,{description})**
 
 ![具有利用率的工作负载平衡器报告](assets/isblank04.png)
 
 **注意**:CONTAINS表达式区分大小写。 例如，如果“慈善活动”在描述字段中大写，则在表达式中将该短语大写。
 
-**CONTAINS(&quot;Charity Event&quot;,Description)**
+**CONTAINS(&quot;Charity Event&quot;,{description})**
 
 如果要查看是否存在值，则可以使用ISBLANK和CONTAINS表达式。 但是，知道值是什么、实际查看值或使用某种描述符来提供更好的洞察信息，可能更有用。
 
