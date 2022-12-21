@@ -9,9 +9,9 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 2b9a31b45ff94222a77c05292ee5b9d8229f5f0b
+source-git-commit: 402027429b116f3bd0328595b7c8635dea468fab
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '180'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 0%
 
 查看可用的日期和时间表达式时，您会找到多个可用选项。
 
-![资源管理设置一个寻呼机](assets/DTM01.png)
+![日期和时间表达式示例](assets/datetimeexpressions01.png)
 
 有两个最常用的日期和时间表达式集 [!DNL Workfront] 客户：
 
@@ -37,9 +37,11 @@ ht-degree: 0%
 
 查看可用的日期和时间表达式时，您会发现有多个可用选项。
 
-![资源管理设置一个寻呼机](assets/math01.png)
+![示例数学表达式](assets/datetimeexpressions02.png)
 
-[!DNL Workfront] 客户通常使用以下两个数学表达式集：
+Workfront客户通常使用以下两个数学表达式集：
 
 * SUB、SUM、DIV、PROD
 * ROUND
+
+<b>注意</b>:有关每个表达式的完整列表和更多信息，请参阅“计算数据表达式”文档页面。
