@@ -1,6 +1,6 @@
 ---
 title: 创建功能板
-description: 了解如何将各种列表报表、图表、日历和外部网页合并到Workfront的功能板中。
+description: 了解如何将各种列表报告、图表、日历和外部网页组合成 Workfront 中的仪表板。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '417'
-ht-degree: 0%
+ht-degree: 5%
 
 ---
 

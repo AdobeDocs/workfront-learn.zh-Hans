@@ -1,6 +1,6 @@
 ---
 title: 创建任务报告
-description: 了解如何创建具有复杂过滤器的任务报表，并查找在Workfront中创建的报表。 活动 — 创建包含提示的注释报表。
+description: 了解如何创建具有复杂过滤器的任务报告以及查找您在 Workfront 中创建的报告。活动 - 创建带有提示的备注报告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
 workflow-type: tm+mt
 source-wordcount: '352'
-ht-degree: 6%
+ht-degree: 13%
 
 ---
 
