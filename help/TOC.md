@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 24d3d910949169043c51066f4a48bdaaa63f0dee
+source-git-commit: dbc68ed71e366a49a85a2941730338e34ffc5e4d
 workflow-type: tm+mt
-source-wordcount: '2315'
+source-wordcount: '2327'
 ht-degree: 2%
 
 ---
@@ -60,6 +60,9 @@ ht-degree: 2%
    + 审批流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [了解特定于组的审批流程](administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [创建里程碑](administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+   + 系统性能和维护 {#system-perfomance-and-maintenance}
+      + [负责现有的Adobe Workfront实例](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
 
 
 
