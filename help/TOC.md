@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8715647a8b2088260b4cd01a6410d08712126b5a
+source-git-commit: 5665cdab87bf09dc9fde94137481fba4d9764cf4
 workflow-type: tm+mt
-source-wordcount: '2333'
+source-wordcount: '2326'
 ht-degree: 2%
 
 ---
@@ -330,8 +330,7 @@ ht-degree: 2%
 
 + 集成 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
-      + [将Workfront用于Adobe Creative Cloud](integrations/adobe-creative-cloud/use-workfront-for-adobe-creative-cloud.md)
-      + [使用Workfront为Adobe Creative Cloud上传校样](integrations/adobe-creative-cloud/upload-proofs-with-workfront-for-adobe-creative-cloud.md)
+      + [使用Adobe Workfront扩展进行Creative Cloud](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [配置](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
