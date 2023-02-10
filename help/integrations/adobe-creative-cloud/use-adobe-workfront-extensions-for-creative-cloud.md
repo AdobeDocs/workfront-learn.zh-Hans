@@ -8,16 +8,23 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: null
-source-git-commit: 2676209549c4805d372eacaf62daef2cd2481c11
+source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
 workflow-type: tm+mt
-source-wordcount: '214'
+source-wordcount: '209'
 ht-degree: 0%
 
 ---
 
 # 使用Adobe Workfront扩展进行Creative Cloud
 
-在Adobe Workfront中查找并更新分配给您的工作，而无需离开以下Adobe Creative Cloud应用程序 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects。
+在Adobe Workfront中查找并更新分配给您的工作，而无需离开以下Adobe Creative Cloud应用程序：
+
+* Photoshop
+* XD
+* InDesign
+* Illustrator
+* Premiere Pro
+* After Effects
 
 您必须为正在使用的Adobe Creative Cloud应用程序安装正确的插件：
 
@@ -27,7 +34,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->请注意， **Premiere Pro** 和 **After Effects** 目前，无法通过插件在Workfront中上传和查看及批准视频。
+>**Premiere Pro** 和 **After Effects** 在Workfront中，视频上传以及审阅和批准功能当前无法通过插件使用。
 
 
 在此视频中，您将学习如何从Creative Cloud应用程序中执行以下操作：
