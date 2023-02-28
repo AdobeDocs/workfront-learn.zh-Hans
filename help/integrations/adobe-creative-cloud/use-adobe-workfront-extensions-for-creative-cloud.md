@@ -1,5 +1,5 @@
 ---
-title: 使用Adobe Workfront扩展进行Creative Cloud
+title: 将Adobe Workfront插件用于Creative Cloud
 description: 在Adobe Workfront中查找并更新分配给您的工作，而无需离开以下Adobe Creative Cloud应用程序 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
 activity: use
 feature: Workfront Integrations and Apps
@@ -7,15 +7,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: 007114e696d50d0938a4e57b90e981427c277b72
+kt: 8811
+source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
 workflow-type: tm+mt
-source-wordcount: '209'
+source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Workfront扩展进行Creative Cloud
+# 将Adobe Workfront插件用于Creative Cloud
 
 在Adobe Workfront中查找并更新分配给您的工作，而无需离开以下Adobe Creative Cloud应用程序：
 
@@ -41,8 +41,10 @@ ht-degree: 0%
 
 * 查找Workfront任务
 * 将文件上传到Workfront
+* 添加注释和标记团队成员
 * 请求文档批准
 * 上传校样并分配校样工作流
+* 日志时间
 * 标记工作完成
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
