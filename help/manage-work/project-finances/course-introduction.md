@@ -1,6 +1,6 @@
 ---
 title: 课程介绍
-description: 了解如何使用项目预算、跟踪成本和收入，以及处理 [!DNL  Workfront].
+description: 了解如何使用项目预算、跟踪成本和收入以及处理费用 [!DNL  Workfront].
 activity: use
 feature: Work Management
 type: Tutorial
@@ -8,7 +8,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 kt: 8947
-source-git-commit: f766549b8426e1c585b519396864aa857953b6cf
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
@@ -17,9 +18,9 @@ ht-degree: 0%
 
 # 课程介绍
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 使用项目预算
+* 使用项目的预算
 * 跟踪成本和收入
 * 处理费用
 

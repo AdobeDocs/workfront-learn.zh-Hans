@@ -1,6 +1,6 @@
 ---
-title: 将活动转换为一致的目标
-description: 了解如何在[!DNL Goals]中将活动或结果转换为一致的目标。
+title: 将活动转换为对齐的目标
+description: 了解如何在[！DNL Goals]中将活动或结果转换为一致的目标。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -9,7 +9,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8898
 exl-id: 16343eab-1243-4f36-824f-a53da328de78
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 0%
@@ -18,10 +19,10 @@ ht-degree: 0%
 
 # 自上而下的方法。 将现有活动和结果（工作）转换为子目标。
 
-协调目标的第二个方法是将目标的现有结果或活动转换为新目标。 转化的结果/活动将成为原始目标的子目标。 当活动/结果的工作范围比计划的要大时，可采用自上而下的方法，并应纳入其自己的儿童目标，该目标具有更多的活动和成果。 这是一种将目标级联起来、推广工作的方式，以使目标更可衡量、更易实现。
+调整目标的第二种方法是将目标的现有结果或活动转换为新目标。 转换后的结果/活动会成为原始目标的子目标。 当活动/结果的工作范围大于计划时，可以使用自上而下方法，该方法应包含在其自己的子目标中，该子目标具有额外的活动和结果。 这是一种重叠目标和分散工作的方式，使目标更可衡量、更可实现。
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 将活动转换为一致的目标
+* 将活动转换为对齐的目标
 
 >[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)

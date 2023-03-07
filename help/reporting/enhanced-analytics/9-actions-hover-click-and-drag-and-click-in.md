@@ -1,6 +1,6 @@
 ---
 title: 了解操作 — 悬停、单击和拖动，然后单击
-description: 了解如何通过将鼠标悬停在图表上、在图表上创建时间范围以及如何显示其他图表(全部位于 [!UICONTROL Enhanced Analytics].
+description: 了解如何通过将鼠标悬停在图表上获取更多信息、在图表上创建时间范围以及如何使其他图表显示，所有这些信息 [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -10,18 +10,19 @@ level: Beginner
 team: Technical Marketing
 kt: 8722
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 0%
 
 ---
 
-# 了解中的操作 [!UICONTROL Enhanced Analytics]  — 将鼠标悬停，单击并拖动，然后单击
+# 了解中的操作 [!UICONTROL Enhanced Analytics]  — 悬停，单击并拖动，然后单击
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 如何通过将鼠标悬停在图表上来获取更多信息
+* 如何将鼠标悬停在图表上以获取更多信息
 * 在图表上创建时间范围
 * 如何显示其他图表
 
@@ -31,8 +32,8 @@ ht-degree: 0%
 
 单击图表的某些部分会显示其他图表或图表信息的划分。
 
-* **飞行计划** — 单击项目名称，以在飞行图中查看Burndown和Tasks。
-* **项目活动** — 单击项目名称以展开图表，并按用户查看项目活动。
-* **项目树图** — 单击项目框以在飞行图中拉出“燃耗”和“任务”。
-* **按团队划分的活动** — 单击团队名称以展开图表，以便按用户查看活动。
-* **资源能力** — 单击团队名称以查看“团队能力”图表。
+* **外部测试版计划** — 单击项目名称可在飞行图中查看燃尽和任务。
+* **项目活动** — 单击项目名称以展开图表并按用户查看项目活动。
+* **项目树状图** — 单击项目框以调出飞行图中的燃尽和任务。
+* **按团队显示的活动** — 单击团队名称以展开图表，以便按用户查看活动。
+* **资源产能** — 单击团队名称可查看团队容量图表。

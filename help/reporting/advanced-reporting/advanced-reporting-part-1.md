@@ -1,6 +1,6 @@
 ---
 title: 高级报告第1部分
-description: 了解有关报表创建的回顾，以及 [!UICONTROL API explorer] 和文本模式，以及对文本模式过滤器的深入研究。
+description: 了解报告创建的审查以及对 [!UICONTROL API explorer] 和文本模式，并对文本模式过滤器进行了深入的研究。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 3409632.png
@@ -9,7 +9,9 @@ role: User
 level: Experienced
 team: Technical Marketing
 kt: 11196
-source-git-commit: e2b5115d03e0eaa47cba3397b0aeb01044441083
+exl-id: dec3d807-41b2-47a6-b4ff-476313b6fc07
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 0%
@@ -18,15 +20,15 @@ ht-degree: 0%
 
 # 高级报告第1部分
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 报告创建回顾
-* 如何使用API资源管理器和文本模式
+* 报告创建的审核
+* 如何使用API浏览器和文本模式
 * 文本模式过滤器的深入研究
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409632/?quality=12)
 
-## 方便的链接
+## 方便使用的链接
 
 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 

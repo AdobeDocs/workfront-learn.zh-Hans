@@ -1,6 +1,6 @@
 ---
-title: 编辑校样工作流
-description: 了解如何更新校样的截止时间、将用户添加到现有工作流，以及将现有工作流切换到 [!DNL  Workfront].
+title: 编辑验证工作流
+description: 了解如何更新验证截止日期、将用户添加到现有工作流，以及在中将现有工作流切换到自动化工作流 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,31 +10,32 @@ team: Technical Marketing
 thumbnail: 335138.png
 kt: 8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
 
-# 编辑校样工作流
+# 编辑验证工作流
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 更新校样截止时间
+* 更新验证截止日期
 * 将用户添加到现有工作流
 * 将现有工作流切换到自动工作流
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12)
 
-## 该你了
+## 轮到你了
 
 >[!IMPORTANT]
 >
->请不要忘记提醒分配给校样工作流的任何同事，您正在将校样作为Workfront培训的一部分使用。
+>别忘了提醒任何分配到验证工作流的同事，您正在将使用验证作为您的Workfront培训的一部分。
 
-1. 查找您上传到Workfront的校样。 使用校对工作流窗口可执行以下操作：将截止时间推迟一天，然后将审核人更改为审核人和审批人。
-1. 确保为校样分配了自动工作流，然后向校样添加模板。
+1. 查找您上传到Workfront的证据。 使用“验证工作流”窗口可执行以下操作：将截止日期推后一天，并将审核者更改为“审核者和审批者”。
+1. 确保为验证分配了自动化工作流，然后将模板添加到验证中。
 
 
 

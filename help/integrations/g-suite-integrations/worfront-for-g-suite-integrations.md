@@ -1,6 +1,6 @@
 ---
-title: 通过G Suite集成增强您的工作流
-description: 了解如何将电子邮件转换为 [!DNL Workfront] 任务或问题，查看和更新 [!DNL Workfront] 从Gmail工作并批准 [!DNL Workfront] 从Gmail工作。
+title: 通过G Suite集成增强您的工作流程
+description: 了解如何将电子邮件转换为 [!DNL Workfront] 任务或问题，查看和更新 [!DNL Workfront] 从Gmail工作，并审批 [!DNL Workfront] 使用Gmail。
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,19 +9,20 @@ level: Beginner
 team: Technical Marketing
 kt: 8813
 exl-id: 5a752e3c-81c3-4db9-8419-0e5de3483421
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
 
 ---
 
-# 通过G Suite集成增强您的工作流
+# 通过G Suite集成增强您的工作流程
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 将电子邮件转换为Workfront任务或问题
-* 查看和更新Workfront的工作方式 [!DNL Gmail]
-* 批准Workfront工作 [!DNL Gmail]
+* 查看和更新Workfront工作来源 [!DNL Gmail]
+* 批准Workfront工作来源 [!DNL Gmail]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335114/?quality=12)

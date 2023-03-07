@@ -1,6 +1,6 @@
 ---
 title: 了解日期类型和进度状态
-description: 了解如何在 [!DNL  Workfront] 和使用进度状态来帮助您跟踪工作进度。
+description: 了解如何在中查看不同的日期类型 [!DNL  Workfront] 并使用进度状态来帮助您跟踪工作进度。
 activity: use
 feature: Work Management
 thumbnail: 335095.jpeg
@@ -10,7 +10,8 @@ level: Intermediate
 team: Technical Marketing
 kt: 8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
-source-git-commit: b09d634a8b4ec32eda2663f1df04cc8bc04596a9
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
@@ -19,7 +20,7 @@ ht-degree: 0%
 
 # 了解日期类型和进度状态
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 选择要比较的视图 [!DNL Workfront's] 不同的日期类型
 * 使用进度状态帮助您跟踪工作进度

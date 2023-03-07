@@ -1,6 +1,6 @@
 ---
-title: 使用开发工具进行高级故障诊断
-description: 了解如何安装和使用 [!DNL Adobe Workfront Fusion Dev Tool]，并查看其中包含的不同高级方案设计工具。
+title: 使用开发工具进行高级故障排除
+description: 了解如何安装和使用 [!DNL Adobe Workfront Fusion Dev Tool]，并查看它包含的不同高级场景设计工具。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,18 +9,19 @@ role: User
 level: Beginner
 kt: 9061
 exl-id: 4b2bf553-547d-4fc5-afbe-367e680b26b8
-source-git-commit: 96f963bf5a44eac234cbf9215f19f6dddbe23143
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
-source-wordcount: '54'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
-# 使用开发工具进行高级故障诊断
+# 使用开发工具进行高级故障排除
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 如何安装和使用Workfront Fusion Dev工具
+* 如何安装和使用Workfront Fusion开发工具
 * 如何查看不同的高级方案设计工具
 
 >[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12)

@@ -1,6 +1,6 @@
 ---
-title: 上载网站校样
-description: 了解如何在 [!DNL  Workfront].
+title: 上传网站证明
+description: 了解如何在中将网站作为静态验证和交互式验证上传 [!DNL  Workfront].
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -10,41 +10,42 @@ team: Technical Marketing
 thumbnail: 335135.png
 kt: 8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
 
 ---
 
-# 上载网站校样
+# 上传网站证明
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 将网站上传为静态校样
-* 上传网站作为交互式校样
+* 将网站作为静态验证上传
+* 将网站作为交互式验证上传
 
 >[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12)
 
 
 ## 交互式内容注意事项
 
-当您开始打样网站时，您可能会发现 [!DNL Workfront] 不支持每种配置或情况。 必须满足以下某些标准：
+当您开始验证网站时，您可能会发现 [!DNL Workfront] 不支持每个配置或情况。 必须满足以下特定条件：
 
 * 网站必须使用安全协议托管，这意味着网站地址以https开头。
-* 无法将要校验的网站嵌入到iFrame中。
+* 要验证的网站不能嵌入到iframe中。
 * 审阅人必须能够访问该网站。
-* 网站需要公开访问，这意味着它不能在防火墙后。
-* 创建静态网站校样时，网站无法受密码保护。
+* 网站需要可公开访问，这意味着它不能位于防火墙之后。
+* 创建静态网站验证时，网站不能受密码保护。
 
-## 该你了
+## 轮到你了
 
 >[!IMPORTANT]
 >
->别忘了提醒你的同事，作为Workfront培训的一部分，你要向他们发送证据。
+>别忘了提醒你的同事，作为Workfront培训的一部分，你向他们发送了证明。
 
-1. 在Workfront中打开您用于实践的项目、任务或问题。 对贵组织的网站进行静态校样。 如果它不符合静态校样标准，则可以使用adobe.com。
-1. 接下来，对贵组织的网站进行交互式校样。 如果其他网站无法正常运行，您可以使用adobe.com 。
+1. 打开您在Workfront中用于实践实践的项目、任务或问题。 对贵组织的网站进行静态验证。 如果不满足静态验证标准，则可以使用adobe.com。
+1. 接下来，对贵组织的网站进行交互式验证。 如果其他网站无法正常工作，您可以使用adobe.com 。
 
 <!-- 
 Learn more about these considerations in the articles Generate a static proof for a website or other web content and Generate an interactive proof for a website or other web content. 

@@ -1,6 +1,6 @@
 ---
 title: 自定义外观 [!UICONTROL Brand Connect]
-description: 了解 [!UICONTROL Brand Connect] 用于和如何访问 [!UICONTROL Brand Connect] 设置 [!UICONTROL Workfront DAM].
+description: 了解内容 [!UICONTROL Brand Connect] 用于以及如何访问 [!UICONTROL Brand Connect] 中的设置 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,7 +9,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8979
 exl-id: 97b51b63-0ad3-4751-aed8-afc77a9560bc
-source-git-commit: d1f5c4a558f737cb8188e209a16b91b67d32285c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
@@ -18,9 +19,9 @@ ht-degree: 0%
 
 # 自定义外观 [!UICONTROL Brand Connect]
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 什么 [!UICONTROL Brand Connect] 用于
-* 如何访问 [!UICONTROL Brand Connect] 设置 [!UICONTROL Workfront DAM]
+* 内容 [!UICONTROL Brand Connect] 用于
+* 如何访问 [!UICONTROL Brand Connect] 中的设置 [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12)

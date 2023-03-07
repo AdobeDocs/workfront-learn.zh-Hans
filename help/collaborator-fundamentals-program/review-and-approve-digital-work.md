@@ -1,25 +1,26 @@
 ---
-title: 如何审核和批准数字化工作
-description: 了解如何查找和批准项目、任务、问题、文档和校样。
+title: 如何审阅和批准数字工作
+description: 了解如何为项目、任务、问题、文档和验证查找和进行审批。
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8808
-source-git-commit: 3ded3fe9d8b97b1c11cb382f8088930842399c98
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# 审核和批准数字化工作
+# 审阅和批准数字工作
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 查找批准
+* 查找审批
 * 批准项目、任务和问题
-* 批准文档
-* 批准校样
+* 为文档进行审批
+* 审批验证
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12)
 

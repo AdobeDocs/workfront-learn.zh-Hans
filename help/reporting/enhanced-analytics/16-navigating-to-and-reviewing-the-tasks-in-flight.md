@@ -1,6 +1,6 @@
 ---
-title: 在 [!UICONTROL Enhanced Analytics]
-description: 了解如何在飞行图中访问任务，以及如何快速查看项目中尚未完成的任务(全部在Workfront中)。
+title: 在中查看正在进行的任务 [!UICONTROL Enhanced Analytics]
+description: 了解如何访问外部测试版中的任务以及如何快速查看项目中尚未完成的任务(全部在Workfront中)。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335052.png
@@ -10,39 +10,40 @@ level: Beginner
 team: Technical Marketing
 kt: 8735
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
 
 ---
 
-# 在 [!UICONTROL Enhanced Analytics]
+# 在中查看正在进行的任务 [!UICONTROL Enhanced Analytics]
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 如何在飞行图中访问任务
-* 如何快速查看项目中哪些任务尚未完成
+* 如何访问外部测试版图表中的任务
+* 如何快速查看项目中尚未完成的任务
 
 >[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12)
 
 ## 任务级别数据
 
-“飞行图中的任务”允许您深入查看特定项目的任务，以查看每个活动任务已完成的工作量以及任务的调度方式。 通过图表，您可以了解项目中需要完成的任务以及这些任务的完成百分比。
+使用外部测试版中的任务，您可以深入查看特定项目的任务，以查看每个活动任务已完成的工作量以及任务的计划完成情况。 利用图表，您可以了解需要完成项目中哪些任务以及这些任务的完成百分比。
 
 此信息可帮助您确定：
 
-* 人们在做什么。
-* 哪些任务可能会让项目面临风险。
-* 任务完成的距离。
-* 你需要跟谁谈谈具体的任务。
+* 人们正在做的事情。
+* 哪些任务可能会使项目面临风险。
+* 任务距离完成有多近。
+* 关于一项具体任务，您需要与之交谈。
 
-![在飞行图中显示任务的图像，其中包含以下项目符号中描述的区域的数字](assets/section-2-11.png)
+![显示飞行图中任务的图像，其数字位于下面项目符号中所述的区域](assets/section-2-11.png)
 
 在图表上，您可以看到：
 
-1. 任务名称位于左侧。
-1. 在底部的日期。
-1. 任务栏中的深蓝色表示任务已完成的工作量。
+1. 任务名称在左侧。
+1. 底部显示日期。
+1. 任务栏中的深蓝色表示任务完成的工作量。
 1. 任务栏中的浅蓝色表示任务需要完成的工作量。
 1. 任务栏右侧的数字显示任务的完成百分比。

@@ -1,6 +1,6 @@
 ---
 title: 创建基本过滤器
-description: 了解过滤器是什么、如何创建过滤器，以及如何与Workfront中的其他用户共享过滤器。
+description: 了解什么是过滤器，如何创建过滤器，以及如何在Workfront中与其他用户共享过滤器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -10,7 +10,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8857
 exl-id: c64e5362-67ca-492f-95a3-05c660be5c03
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # 创建基本过滤器
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 什么是Workfront中的过滤器
+* Workfront中的过滤器是什么
 * 如何创建和修改过滤器
 * 如何与其他Workfront用户共享过滤器
 

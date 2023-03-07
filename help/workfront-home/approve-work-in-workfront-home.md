@@ -1,6 +1,6 @@
 ---
-title: 如何在中批准工作 [!UICONTROL Home]
-description: 了解如何在 [!UICONTROL Work List]，然后批准或拒绝中的工作 [!DNL  Workfront].
+title: 如何批准中的工作 [!UICONTROL Home]
+description: 了解如何在中查找项目、任务、问题和验证审批请求 [!UICONTROL Work List]，然后批准或拒绝中的工作 [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: User
@@ -9,20 +9,21 @@ activity: use
 team: Technical Marketing
 kt: 8804
 exl-id: b5ec0919-01b1-4bc8-86bd-91ee73d925a6
-source-git-commit: f766549b8426e1c585b519396864aa857953b6cf
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# 在中批准项目、任务、问题或校样 [!DNL Workfront] [!UICONTROL Home]
+# 批准中的项目、任务、问题或验证 [!DNL Workfront] [!UICONTROL Home]
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 在 [!UICONTROL Work List]
+* 在中查找批准 [!UICONTROL Work List]
 * 批准或拒绝工作
-* 查看验证
+* 查看证明
 
 >[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12)
 

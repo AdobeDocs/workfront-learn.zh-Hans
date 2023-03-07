@@ -1,24 +1,25 @@
 ---
-title: 如何委派工作批准
-description: 了解如何将项目、任务、问题和工时记录卡的批准委派给其他用户。
+title: 如何委派工作审批
+description: 了解如何将项目、任务、问题和工时记录卡的审批委派给其他用户。
 activity: use
 type: Tutorial
 team: Technical Marketing
 kt: 8810
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 0%
 
 ---
 
-# 从委派批准 [!DNL Home]
+# 委托审批自 [!DNL Home]
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 将批准分配给其他人
+* 将审批分配给其他人
 * 结束委派期
-* 查找委托批准
+* 查找委托的审批
 
 >[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12)
 

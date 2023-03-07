@@ -1,6 +1,6 @@
 ---
 title: 了解更新和通知
-description: 了解如何更新批准请求并在Workfront中查找通知。
+description: 了解如何更新审批请求并在Workfront中找到您的通知。
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,7 +10,8 @@ team: Technical Marketing
 thumbnail: 335109.png
 kt: 8809
 exl-id: 40296ba0-32c1-4fe7-8060-f71991872c37
-source-git-commit: 187df9e953fc51bf0d1825a57719376b61140798
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '40'
 ht-degree: 0%
@@ -19,9 +20,9 @@ ht-degree: 0%
 
 # 了解更新和通知
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 对批准请求进行自己的更新
+* 自行更新审批请求
 * 查找Workfront通知
 
 >[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12)

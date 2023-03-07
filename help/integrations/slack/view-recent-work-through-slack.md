@@ -1,6 +1,6 @@
 ---
 title: 查看最近的工作 [!DNL Slack]
-description: 通过Slack了解如何查看近期工作
+description: 了解如何通过Slack查看最近的工作
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,7 +9,8 @@ level: Beginner
 team: Technical Marketing
 kt: 8820
 exl-id: e2ac4704-27d9-49fe-96a4-fd8fe8b48d94
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '28'
 ht-degree: 0%
@@ -18,7 +19,7 @@ ht-degree: 0%
 
 # 查看最近的工作 [!DNL Slack]
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 查看最近的工作 [!DNL Slack]
 

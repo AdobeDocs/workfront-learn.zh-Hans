@@ -1,6 +1,6 @@
 ---
-title: 在中搜索资产 [!UICONTROL Workfront DAM]
-description: 了解如何使用元数据和关键字搜索资产、规划元数据和关键字的维护，以及建立 [!UICONTROL Workfront DAM] 最佳实践。
+title: 在中搜索资源 [!UICONTROL Workfront DAM]
+description: 了解如何使用元数据和关键字搜索资源、规划维护元数据和关键字，以及建立 [!UICONTROL Workfront DAM] 最佳实践。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -9,18 +9,19 @@ level: Intermediate
 team: Technical Marketing
 kt: 8976
 exl-id: fffb4ab8-acec-4d7b-a786-f6be538bc7ee
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# 元数据和关键词：搜索资产
+# 元数据和关键词：搜索资源
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 使用元数据和关键字搜索资产
+* 使用元数据和关键字搜索资源
 * 维护元数据和关键字的计划
 * 建立 [!UICONTROL Workfront DAM] 最佳实践
 

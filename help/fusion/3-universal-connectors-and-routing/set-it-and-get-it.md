@@ -1,6 +1,6 @@
 ---
-title: 设置并获取
-description: 了解如何在不同路径之间共享数据，以及如何使用“设置”和“获取”变量，所有这些都位于 [!DNL Adobe Workfront Fusion].
+title: 设置并获取它
+description: 了解如何在不同的路径之间共享数据，并使用Set和Get变量，所有这些都可在 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,16 +9,17 @@ role: User
 level: Beginner
 kt: 9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+doc-type: video
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# 设置并获取
+# 设置并获取它
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 在不同路径之间共享数据
 * 使用Set和Get变量

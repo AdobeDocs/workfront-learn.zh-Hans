@@ -1,6 +1,6 @@
 ---
-title: 在中使用资产 [!UICONTROL Workfront DAM]
-description: 了解如何在 [!UICONTROL Workfront DAM].
+title: 在中处理资源 [!UICONTROL Workfront DAM]
+description: 了解如何使用中的资产 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -8,8 +8,9 @@ role: User
 level: Beginner
 team: Technical Marketing
 kt: 8995
+doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
@@ -18,12 +19,12 @@ ht-degree: 0%
 
 # 参与者：使用资产
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 将资产上传到 [!UICONTROL Workfront DAM]
-* 向资产添加元数据和关键字
+* 将元数据和关键字添加到资源
 * 使用元数据模板
-* 将相关文件添加到资产
+* 将相关文件添加到资源
 * 下载资产
 
 >[!VIDEO](https://video.tv.adobe.com/v/335255/?quality=12)
