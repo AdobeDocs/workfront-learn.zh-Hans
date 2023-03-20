@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: eb3fdf63197c97efb01913ed6c8f7c2c1cbf9ed8
+source-git-commit: 7f582fd33dea98d768182e2ab99506145c1712b6
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2328'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,8 @@ ht-degree: 2%
       + [创建组和子组](administration-and-setup/organizational-setup/user-organization-groups.md)
       + [了解群组管理的需要](administration-and-setup/organizational-setup/introduction-to-group-administrators.md)
       + [创建公司](administration-and-setup/organizational-setup/user-organization-companies.md)
-      + [使用许可证、访问级别和作业角色设置用户](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [使用许可证和访问级别设置用户](administration-and-setup/organizational-setup/create-licenses-access-levels-and-job-roles.md)
+      + [创建和管理作业角色](administration-and-setup/organizational-setup/create-and-manage-job-roles.md)
       + [以其他用户身份登录](administration-and-setup/organizational-setup/log-in-as-another-workfront-user.md)
    + 管理已删除的项目 {#manage-deleted-items}
       + [从回收站还原对象](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
