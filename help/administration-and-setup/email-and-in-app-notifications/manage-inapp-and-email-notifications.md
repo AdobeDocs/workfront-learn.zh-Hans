@@ -1,6 +1,6 @@
 ---
 title: 管理应用程序内和电子邮件事件通知
-description: 了解用户如何控制他们收到的应用程序内通知和电子邮件通知，以便获得与其工作有关的有用电子邮件。
+description: 了解用户如何控制其收到哪些应用程序内通知和电子邮件通知，以使其收到与其工作相关、有帮助的电子邮件。
 short-description: Learn how users can control which in-app and email notifications they receive.
 feature: System Setup and Administration
 activity: deploy
@@ -14,7 +14,7 @@ exl-id: 831646d2-ecf8-4fe6-8d4e-8c5fc233ed56
 source-git-commit: fca5e76133ef0a81aa6063d71baf5500646dbe1e
 workflow-type: tm+mt
 source-wordcount: '508'
-ht-degree: 0%
+ht-degree: 4%
 
 ---
 
