@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: cc1c18f700dc688351dbf3ba3ede9faf5bfc45bb
+source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
 workflow-type: tm+mt
-source-wordcount: '863'
+source-wordcount: '868'
 ht-degree: 0%
 
 ---
@@ -68,7 +68,7 @@ ht-degree: 0%
 
    ![图像 [!UICONTROL Goal Details] 面板 [!DNL Workfront Goals] 和 [!UICONTROL Copy] 选项](assets/03-workfront-goals-copy-a-goal.png)
 
-1. 单击 **[!UICONTROL Activate]**，可将目标状态更新为“活动”。 目标必须具有关联的活动或结果才能“激活”。
+1. 单击3个圆点图标，然后选择  **[!UICONTROL Activate]**，可将目标状态更新为“活动”。 目标必须具有关联的活动或结果才能“激活”。
 
 如果您复制的目标在上一时间段内未完成，并且希望在下一时间段内继续处理该目标，请执行以下操作：
 
