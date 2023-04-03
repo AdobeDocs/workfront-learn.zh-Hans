@@ -9,24 +9,26 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '181'
 ht-degree: 0%
 
 ---
 
 # 通过在 [!DNL Workfront Goals]
 
-1. 查找要对齐的目标并单击其名称以打开 [!UICONTROL Goal Details] 的上界。
-1. 单击 [!UICONTROL Align to another goal] 中。
+当您调整两个目标时，一个将成为父目标，另一个将成为子目标。 父目标可以有多个子目标，但子目标只能与一个父目标一致。
 
-   ![屏幕截图 [!UICONTROL Goal Details] 面板至 [!UICONTROL Align to another goal]](assets/06-workfront-goals-align-goals.png)
+1. 在 [!UICONTROL Goal List]. 默认情况下，您会在 [!UICONTROL Goal Details] 选项卡。
+1. 单击 [!UICONTROL +Add] 按钮 [!UICONTROL Parent goal information] 的上界。
 
-1. 开始在 [!UICONTROL Align to another goal] 字段，然后在列表中显示时将其选中。 列表中只显示同一期间或未来期间的目标。
+   ![屏幕截图 [!UICONTROL Goal Details] 选项卡](assets/06-workfront-goals-align-goals.png)
 
-   ![屏幕截图 [!UICONTROL Goal Details] 显示 [!UICONTROL Aligned to] 部分](assets/07-workfront-goals-align-to.png)
+1. 开始在 [!UICONTROL Parent goal] 字段，然后在列表中显示时将其选中。 列表中只显示同一期间或未来期间的目标。
 
-1. 单击 [!UICONTROL Save].
+   ![屏幕截图 [!UICONTROL Goal Details] 显示 [!UICONTROL Parent goal information] 面板](assets/07-workfront-goals-align-to.png)
+
+1. 单击 [!UICONTROL Save Changes].
 
 将目标与另一个目标对齐会创建子目标。 将子目标视为有助于组织或团队父目标进展的个人目标。 子目标可以激活并影响父目标的进度。
