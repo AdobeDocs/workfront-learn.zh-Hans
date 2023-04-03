@@ -1,6 +1,6 @@
 ---
 title: 了解视图的基本文本模式
-description: 了解什么是文本模式、什么是驼峰式拼写以及可以在Workfront的视图中使用的一些基本“即插即用”文本模式。
+description: 了解什么是文本模式、驼峰式大小写，以及在Workfront中的视图中可以使用的一些基本的“即插即用”文本模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '650'
 ht-degree: 0%
@@ -32,23 +32,23 @@ ht-degree: 0%
 
 >[!TIP]
 >
->* 要更深入地了解文本模式，我们建议您观看录制的网络研讨会活动 [咨询专家 — 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，时长为一小时。
->* 要进一步了解文本模式，我们建议您查看 [高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，总时长为5.5小时。
+>* 为了更深入地了解文本模式，我们建议您观看录制的网络研讨会活动 [咨询专家 — 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，长度为一小时。
+>* 要进一步了解文本模式，我们建议您在 [高级报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，总共需要五个半小时。
 
 
-在本视频中，您将了解：
+在此视频中，您将学习：
 
 * 什么是文本模式
-* 什么是驼峰式的
+* 骆驼的病是什么
 * 您可以在视图中使用一些基本的“即插即用”文本模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## 任务 — 4个父视图
 
-首先为“任务名称”和“父代名称”创建一列，然后使用以下文本模式创建其他三列。
+首先为“任务名称”和“父名称”创建列，然后使用以下文本模式创建其他三列。
 
-### 任务 — 父级名称的父级
+### 任务 — 父名称的父项
 
 ```
 displayname=Parent of Parent Name
@@ -76,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### 任务 — 父项名称的父项的父项
+### 任务 — 父项名称父项的父项
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -92,9 +92,9 @@ valueformat=HTML
 
 ![显示4个父视图的屏幕图像](assets/4-parents-view.png)
 
-## 用户 — 小版本在用户视图中显示列表
+## 用户 — 在用户视图中显示列表的小版本
 
-### 用户 — 所有工作角色
+### 用户 — 所有作业角色
 
 ```
 displayname=All job roles
@@ -106,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### 用户 — 显示主要角色的所有工作角色
+### 用户 — 显示主要的所有作业角色
 
 ```
 displayname=All Job Roles showing primary
@@ -132,7 +132,7 @@ valueformat=HTML
 
 >[!NOTE]
 >
->有一个“团队”字段可通过UI访问，该字段显示所有团队（以逗号分隔），但使用上面的文本模式会将每个团队单独显示在一行。
+>有一个可通过UI访问的“团队”字段，其中以逗号分隔显示所有团队，但使用上述文本模式将在单独的一行上显示每个团队。
 
 
 ### 用户 — 所有组
@@ -160,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### 用户 — 直接下属
+### 用户 — 直接报表
 
 ```
 displayname=Direct reports
@@ -186,7 +186,7 @@ valueformat=HTML
 width=150
 ```
 
-![显示“用户列表”视图的屏幕图像](assets/user-lists-view-large.png)
+![显示用户列表视图的屏幕图像](assets/user-lists-view-large.png)
 
 ## 任务 — 如何显示任务分配和处理状态
 
@@ -202,10 +202,10 @@ valueformat=HTML
 width=150
 ```
 
-![显示“任务”和“状态”视图的屏幕图像](assets/assignments-and-status-view.png)
+![显示“分配”和“状态”视图的屏幕图像](assets/assignments-and-status-view.png)
 
 
-## 任务 — 如何显示多个任务分配中的角色和分配
+## 任务 — 如何显示多个任务分配的角色和分配
 
 ### 任务 — 角色+小时
 
@@ -231,13 +231,13 @@ textmode=true
 type=iterate
 ```
 
-![显示“任务”和“角色”视图的屏幕图像](assets/assignments-roles-and-percent-view.png)
+![显示“分配”和“角色”视图的屏幕图像](assets/assignments-roles-and-percent-view.png)
 
-## 任务 — 跨项目的前置任务及后置任务
+## 任务 — 跨项目的前置任务和后置任务
 
-### 任务过滤器（可选）
+### 任务筛选器（可选）
 
-**显示至少具有一个跨项目前置任务的所有任务**
+**向我显示至少有一个跨项目前身的所有任务**
 
 ```
 predecessorsMM:ID_Mod=notblank
@@ -245,7 +245,7 @@ predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
 ```
 
-### 任务 — 显示前置任务名称和前置任务所在的项目
+### 任务 — 显示前置任务名称和项目前置任务位于
 
 ```
 displayname=Predecessor names
@@ -259,7 +259,7 @@ valueformat=HTML
 width=150
 ```
 
-### 任务 — 显示接替者名称和项目接替者位于
+### 任务 — 显示后继项名称和项目后继项位于
 
 ```
 displayname=Successor names
@@ -303,7 +303,7 @@ valueformat=HTML
 width=90
 ```
 
-### 任务 — 显示跨项目前置任务项目的完成百分比
+### 任务 — 显示跨项目前任项目完成百分比
 
 ```
 displayname=Predecessor project percent complete
@@ -317,10 +317,10 @@ valueformat=HTML
 width=150
 ```
 
-![显示跨项目前置任务和后续任务视图的屏幕图像](assets/cross-project-predecessors-and-successors.png)
+![显示跨项目前置和后继视图的屏幕图像](assets/cross-project-predecessors-and-successors.png)
 
 
-## 任务 — 显示所有已分配人员和已分配人员的迭代
+## 任务 — 小版本，显示分配的所有人员以及分配每个人员的人员
 
 ```
 displayname=All assignees and requesters
@@ -332,9 +332,9 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![显示所有已分配人员和已分配人员的屏幕图像](assets/all-assignees-and-requesters.png)
+![屏幕图像，显示分配了所有人员和分配了每个人员的人员](assets/all-assignees-and-requesters.png)
 
-## 任务/项目 — 显示项目或任务中所有自定义表单的迭代
+## 任务/项目 — 显示项目或任务上所有自定义表单的小版本
 
 ```
 displayname=All Forms Assigned
@@ -346,10 +346,10 @@ valuefield=category:name
 valueformat=HTML
 ```
 
-![显示项目中所有自定义表单的屏幕图像](assets/all-custom-forms-on-a-project.png)
+![显示项目上所有自定义表单的屏幕图像](assets/all-custom-forms-on-a-project.png)
 
 
-## 项目 — 迭代在项目视图中显示可解析项的所有主要联系人
+## 项目 — 小版本，显示项目视图中已解析的应收款的所有主要联系人
 
 ```
 displayname=Requestor
@@ -363,9 +363,9 @@ valueformat=HTML
 width=150
 ```
 
-![显示可解析项的主要联系人的屏幕图像](assets/primary-contacts-for-resolvables.png)
+![显示可解析的主要联系人的屏幕图像](assets/primary-contacts-for-resolvables.png)
 
-## 项目 — 显示所有项目团队成员的迭代
+## 项目 — 显示所有项目团队成员的小版本
 
 ```
 displayname=Project Team Members
@@ -380,7 +380,7 @@ valueformat=HTML
 
 ![显示所有项目团队成员的屏幕图像](assets/all-project-team-members.png)
 
-## 项目 — 显示项目所有可解决问题输入日期的迭代
+## 项目 — 小版本，显示项目所有可解决问题的entryDate
 
 ```
 displayname=Resolvables entry date
@@ -396,7 +396,7 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![显示项目所有可解决问题的输入日期的屏幕图像](assets/resolvables-entry-date.png)
+![显示项目所有可解决问题的entryDate的屏幕图像](assets/resolvables-entry-date.png)
 
 ## 项目 — 显示原始项目请求者的主组
 
@@ -430,7 +430,7 @@ displayname=Public Selection
 
 ![显示项目是否为请求队列的屏幕图像](assets/project-is-a-request-queue.png)
 
-## 问题 — 迭代显示所有已解决项目团队成员
+## 问题 — 显示所有已解决项目团队成员的迭代
 
 ```
 displayname=Resolve Project: Team Members
@@ -462,7 +462,7 @@ width=150
 
 ![显示所有主要联系团队的屏幕图像](assets/all-primary-contact-teams.png)
 
-## 文档 — 迭代在文档报告中显示文件夹
+## 文档 — 在文档报表中显示文件夹的迭代
 
 ```
 displayname=Folder
@@ -474,9 +474,9 @@ valuefield=name
 valueformat=HTML
 ```
 
-![显示文档报告中文件夹的屏幕图像](assets/folder-in-a-document-report.png)
+![显示文档报表中文件夹的屏幕图像](assets/folder-in-a-document-report.png)
 
-## 文档 — 开发周期在文档报告中显示父文件夹
+## 文档 — 在文档报表中显示父文件夹的迭代
 
 ```
 displayname=Parent Folder
@@ -488,9 +488,9 @@ valuefield=parent:name
 valueformat=HTML
 ```
 
-![显示文档报告中父文件夹的屏幕图像](assets/parent-folder-in-a-document-report.png)
+![显示文档报表中父文件夹的屏幕图像](assets/parent-folder-in-a-document-report.png)
 
-## 文档 — 文档审批日期
+## 单据 — 单据审批日期
 
 ```
 displayname=Document Approval Dates
@@ -506,11 +506,11 @@ shortview=false
 section=0
 ```
 
-![显示文档审批日期视图的屏幕图像](assets/document-approval-dates.png)
+![显示“文档批准日期”视图的屏幕图像](assets/document-approval-dates.png)
 
 ## 校对审批
 
-### 校对审批 — 显示项目名称
+### 校样批准 — 显示项目名称
 
 ```
 displayname=Project Name
@@ -519,7 +519,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### 校对审批 — 显示任务名称
+### 校样批准 — 显示任务名称
 
 ```
 displayname=Task Name
@@ -528,4 +528,4 @@ valuefield=documentVersion:document:task:name
 valueformat=HTML
 ```
 
-![显示验证审批的项目和任务的屏幕图像](assets/proof-approval-project-and-task.png)
+![显示校样批准的项目和任务的屏幕图像](assets/proof-approval-project-and-task.png)

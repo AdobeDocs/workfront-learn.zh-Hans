@@ -1,6 +1,6 @@
 ---
-title: 更新计划信息 [!DNL Scenario Planner]
-description: 了解在中创建计划或计划后，如何更改或更新工作角色、预算或成本信息 [!DNL Scenario Planner].
+title: 在中更新计划信息 [!DNL Scenario Planner]
+description: 了解在 [!DNL Scenario Planner].
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,19 +11,19 @@ thumbnail: 335320.jpeg
 kt: 9078
 exl-id: da426ef6-5033-4974-a897-e82563a776f6
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# 调整中的工作角色、预算和成本信息 [!DNL Scenario Planner]
+# 在 [!DNL Scenario Planner]
 
-在本视频中，您将了解如何：
+在此视频中，您将学习如何：
 
-* 向计划或计划添加或删除工作角色
+* 向计划或方案添加或删除作业角色
 * 调整预算信息
 * 调整成本信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on)

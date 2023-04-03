@@ -1,6 +1,6 @@
 ---
 title: 通用连接器练习概述
-description: 了解如何利用通用连接器的强大功能、连接到外部API以及从数组提取信息，所有这些都可在 [!DNL Adobe Workfront Fusion].
+description: 了解如何利用通用连接器的功能，连接到外部API，以及从阵列提取信息，所有这些操作均位于 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,7 +10,7 @@ level: Beginner
 kt: 9010
 exl-id: a44d93cb-6572-497e-b24c-5cacc9d79391
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # 通用连接器练习概述
 
-在本视频中，您将了解如何：
+在此视频中，您将学习如何：
 
-* 利用通用连接器的强大功能
+* 利用通用连接器的电源
 * 连接到外部API
-* 使用公式编辑器从数组提取信息
+* 使用公式编辑器从数组中提取信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on)

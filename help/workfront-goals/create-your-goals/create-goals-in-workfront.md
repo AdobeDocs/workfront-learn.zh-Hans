@@ -10,7 +10,7 @@ team: Technical Marketing
 kt: 10122
 doc-type: video
 exl-id: 784b353f-cc6b-4a4b-9935-9e5d25c532b4
-source-git-commit: f6990cd0fb0c4eb848828fb40f132b320ab8f37d
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '868'
 ht-degree: 0%
@@ -36,7 +36,7 @@ ht-degree: 0%
 
 * 导航 [!UICONTROL Goals List] 添加新目标的部分
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on)
 
 ## 复制现有目标
 
@@ -93,5 +93,5 @@ ht-degree: 0%
 
 * 添加活动并将其转换为一致的目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on)
 

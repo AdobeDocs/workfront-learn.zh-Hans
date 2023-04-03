@@ -1,6 +1,6 @@
 ---
-title: 了解计划小时数
-description: 了解计划小时数 [!DNL  Workfront]，为什么计划小时数对您的项目很重要，以及如何向任务添加计划小时数。
+title: 了解计划时数
+description: 了解计划时间 [!DNL  Workfront]、计划时间对项目的重要性以及如何向任务添加计划时间的原因。
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -11,22 +11,22 @@ team: Technical Marketing
 kt: 8777
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 0%
 
 ---
 
-# 了解计划小时数
+# 了解计划时数
 
-在本视频中，您将了解如何：
+在此视频中，您将学习如何：
 
-* 计划的小时数是多少 [!DNL  Workfront]
-* 为什么计划的小时数对您的项目很重要
+* 计划时间 [!DNL  Workfront]
+* 为什么计划时间对您的项目很重要
 * 如何向任务添加计划小时数
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
 
 
 <!---

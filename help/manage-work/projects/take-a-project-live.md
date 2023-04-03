@@ -1,6 +1,6 @@
 ---
-title: 让项目上线
-description: 了解如何接受 [!DNL  Workfront] 项目使用项目状态处于活动状态。
+title: 启动项目
+description: 了解如何 [!DNL  Workfront] 使用项目状态启动项目。
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -11,17 +11,17 @@ team: Technical Marketing
 kt: 8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 0%
 
 ---
 
-# 让项目上线
+# 启动项目
 
-在本视频中，您将了解如何：
+在此视频中，您将学习如何：
 
-* 使用项目状态使您的项目上线
+* 使用项目状态使项目开始运行
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on)

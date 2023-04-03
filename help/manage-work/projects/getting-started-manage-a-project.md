@@ -1,6 +1,6 @@
 ---
 title: 开始管理项目
-description: 了解您作为项目经理的角色以及在监控项目工作时要考虑什么。
+description: 了解您作为项目经理的角色以及在监控项目工作时要注意的事项。
 activity: use
 feature: Work Management
 thumbnail: 335094.jpeg
@@ -11,7 +11,7 @@ team: Technical Marketing
 kt: 8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 0%
@@ -20,27 +20,27 @@ ht-degree: 0%
 
 # 开始管理项目
 
-在本视频中，您将了解如何：
+在此视频中，您将学习如何：
 
-* 监测项目工作时要考虑的事项
-* 您的项目经理角色
+* 监控项目工作时应注意的事项
+* 您作为项目经理的角色是什么
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
 ## 管理项目 — 审核
 
-对于您管理的每个项目，您将进入一个例程，即何时审阅项目以及每次要审阅的内容。 保持项目领先并推动项目取得成功，是项目经理的宗旨。
+对于您管理的每个项目，您都将按惯例安排何时审核项目以及每次要审核的内容。 保持项目的顶层并推动项目取得成功，是项目经理的本质。
 
 每个项目经理处理项目的方式都略有不同。 每个团队、部门或组织可能有不同的项目要求和需求。
 
-但是，无论您如何管理项目，您都需要：
+但无论您如何管理项目，您都会希望：
 
-* 确保按时完成工作。
+* 确保工作按时完成。
 * 预测问题和风险。
-* 与利益相关者沟通。
-* 一路庆祝胜利。
+* 与利益相关方沟通。
+* 庆祝一路上的胜利。
 
-最终，您的主要工作是推动项目成功完成。 [!DNL Workfront] 可以帮助您通过项目时间线；过滤器、视图和分组；更新；报告……等监控正在进行的工作。
+最终，您的主要工作是推动项目顺利完成。 [!DNL Workfront] 可以帮助您通过项目时间轴监控正在完成的工作；过滤器、视图和分组；更新；报表……等。
 
 <!---
 learn more urls

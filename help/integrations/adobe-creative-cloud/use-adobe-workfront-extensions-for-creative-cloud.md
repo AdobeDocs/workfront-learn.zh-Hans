@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Workfront插件进行Creative Cloud
-description: 无需离开以下Adobe Creative Cloud应用程序，即可在Adobe Workfront中查找并更新分配给您的工作 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
+title: 将Adobe Workfront插件用于Creative Cloud
+description: 在Adobe Workfront中查找并更新分配给您的工作，而无需离开以下Adobe Creative Cloud应用程序 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,16 +9,16 @@ level: Beginner
 team: Technical Marketing
 kt: 8811
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '217'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Workfront插件进行Creative Cloud
+# 将Adobe Workfront插件用于Creative Cloud
 
-无需离开以下Adobe Creative Cloud应用程序，即可在Adobe Workfront中查找并更新分配给您的工作：
+在Adobe Workfront中查找并更新分配给您的工作，而无需离开以下Adobe Creative Cloud应用程序：
 
 * Photoshop
 * XD
@@ -29,23 +29,23 @@ ht-degree: 0%
 
 您必须为正在使用的Adobe Creative Cloud应用程序安装正确的插件：
 
-* 有关Photoshop的信息，请参阅 [安装并打开适用于Photoshop的Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
+* 对于Photoshop，请参阅 [安装并打开Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
 * 对于XD，请参阅 [安装并打开Adobe Workfront for XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* 有关InDesign、Illustrator、Premiere Pro和After Effects的信息，请参阅 [安装和打开Adobe Workfront以进行设计和视频](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* 有关InDesign、Illustrator、Premiere Pro和After Effects，请参阅 [安装并打开Adobe Workfront以进行设计和视频](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 >[!NOTE]
 >
->**Premiere Pro** 和 **After Effects** 目前，无法在Workfront中通过插件上传视频、进行审阅和批准。
+>**Premiere Pro** 和 **After Effects** 在Workfront中，视频上传以及审阅和批准功能当前无法通过插件使用。
 
 
-在本视频中，您将了解如何从Creative Cloud应用程序中执行以下操作：
+在此视频中，您将学习如何从Creative Cloud应用程序中执行以下操作：
 
-* 查找您的Workfront分配
+* 查找Workfront任务
 * 将文件上传到Workfront
 * 添加注释和标记团队成员
-* 请求文档审批
-* 上传验证并分配验证工作流
-* 记录时间
-* 将您的工作标记为完成
+* 请求文档批准
+* 上传校样并分配校样工作流
+* 日志时间
+* 标记工作完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on)

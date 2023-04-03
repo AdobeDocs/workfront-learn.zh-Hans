@@ -1,5 +1,5 @@
 ---
-title: 创建LEFT/RIGHT表达式
+title: 创建左/右表达式
 description: 了解如何在Adobe的计算字段中使用LEFT/RIGHT表达式 [!DNL Workfront].
 feature: System Setup and Administration
 type: Tutorial
@@ -11,18 +11,18 @@ thumbnail: 335179.png
 kt: 8885
 exl-id: 6d0ad842-e354-465c-8b9c-88eb75d47fbc
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '46'
 ht-degree: 0%
 
 ---
 
-# 创建LEFT/RIGHT表达式
+# 创建左/右表达式
 
-在本视频中，您将了解：
+在此视频中，您将学习：
 
-* LEFT / RIGHT表达式的作用
+* LEFT/RIGHT表达式的功能
 * 如何在计算字段中使用LEFT/RIGHT文本表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on)

@@ -11,7 +11,7 @@ thumbnail: 335073.jpeg
 kt: 8760
 exl-id: 5fa4e251-fcf3-41a4-be50-f0302a481358
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 0%
@@ -20,11 +20,11 @@ ht-degree: 0%
 
 # 自定义 [!UICONTROL Main Menu] 使用布局模板
 
-在本视频中，您将了解如何：
+在此视频中，您将学习如何：
 
 * 设置 [!UICONTROL Main Menu]
-* 从删除项目 [!UICONTROL Main Menu]
+* 从 [!UICONTROL Main Menu]
 * 将项目添加到 [!UICONTROL Main Menu]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on)

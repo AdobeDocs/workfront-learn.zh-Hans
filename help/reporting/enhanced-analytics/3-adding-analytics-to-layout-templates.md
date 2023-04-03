@@ -1,6 +1,6 @@
 ---
-title: 添加 [!UICONTROL Analytics] 至布局模板
-description: 了解系统和组管理员如何授予对Analytics的访问权限。
+title: 添加 [!UICONTROL Analytics] 到布局模板
+description: 了解系统和组管理员如何授予Analytics访问权限。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335045.png
@@ -11,20 +11,20 @@ team: Technical Marketing
 kt: 8726
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
-# 添加 [!UICONTROL Enhanced Analytics] 至布局模板
+# 添加 [!UICONTROL Enhanced Analytics] 到布局模板
 
-在本视频中，您将了解：
+在此视频中，您将学习：
 
-* 系统和组管理员如何授予对的访问权限 [!UICONTROL Analytics] 在 [!UICONTROL New Workfront Experience]
-* 系统和组管理员如何授予对的访问权限 [!UICONTROL Analytics] 在 [!UICONTROL Workfront Classic]
+* 系统和组管理员如何授予 [!UICONTROL Analytics] 在 [!UICONTROL New Workfront Experience]
+* 系统和组管理员如何授予 [!UICONTROL Analytics] in [!UICONTROL Workfront Classic]
 
->[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on)
 
-任何拥有Workfront许可证的人([!UICONTROL Work]， [!UICONTROL Plan]，或 [!UICONTROL Collaborator] 在 [!UICONTROL Workfront Business] 计划或更高版本)可以访问 [!UICONTROL Analytics] 将其添加到布局模板后，即会分配这些模板。 但是，只有当Workfront访问级别以及特定项目和用户的共享权限允许时，您才会看到项目和用户信息。
+拥有Workfront许可证([!UICONTROL Work], [!UICONTROL Plan]或 [!UICONTROL Collaborator] in [!UICONTROL Workfront Business] 计划或更高)可以访问 [!UICONTROL Analytics] 将其添加到布局模板后，即会为其分配。 但是，仅当您的Workfront访问级别以及特定项目和用户的共享权限允许时，您才会看到项目和用户信息。

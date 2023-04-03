@@ -1,6 +1,6 @@
 ---
-title: 在中进行质量更新 [!DNL Workfront Goals]
-description: 了解如何在[！DNL Goals]中进行定性或书面更新。
+title: 在 [!DNL Workfront Goals]
+description: 了解如何在[!DNL Goals]中进行定性或编写更新。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,19 +10,19 @@ team: Technical Marketing
 kt: 8925
 exl-id: 92d40d56-0a25-488b-9308-64ddfe545baa
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 0%
 
 ---
 
-# 进行质量更新
+# 定性更新
 
-可以在以下多个区域进行质量更新或书面更新： [!DNL Workfront Goals]. 您可以向中的目标添加注释 [!UICONTROL Goal Details] 面板， [!UICONTROL Check-in] 部分，或 [!UICONTROL Pulse] 部分。 虽然向目标添加注释的过程在这些区域类似，但在使用某个区域时能够编辑、删除注释或对注释做出反应方面与使用另一个区域时有所不同。 在任意这些区域输入注释时，该注释将显示在目标注释显示的所有区域中。
+定性或书面更新可以在 [!DNL Workfront Goals]. 您可以在 [!UICONTROL Goal Details] 面板， [!UICONTROL Check-in] 或 [!UICONTROL Pulse] 中。 虽然在这些方面，向目标添加评论的过程是相似的，但在使用一个区域与使用另一个区域时，在能够编辑、删除或对评论做出反应方面存在差异。 在其中的任何区域中输入评论时，该评论都会显示在显示目标评论的所有区域中。
 
-在本视频中，您将了解如何：
+在此视频中，您将学习如何：
 
-* 进行定性或书面更新
+* 定性更新或编写更新
 
->[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12&learn=on)

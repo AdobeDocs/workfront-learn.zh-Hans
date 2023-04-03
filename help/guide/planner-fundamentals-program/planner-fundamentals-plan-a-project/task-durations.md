@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 * 持续时间如何影响项目时间表
 * 使用任务持续时间的最佳实践建议
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

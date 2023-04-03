@@ -6,7 +6,7 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
-source-git-commit: 2ac96361d0cc90b62dfd5378b5a487f889d07199
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '85'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 * 视图如何帮助您查看所需的信息
 * 如何设置开始或完成日期
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on)

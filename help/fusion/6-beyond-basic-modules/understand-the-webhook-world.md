@@ -1,6 +1,6 @@
 ---
-title: 了解webhook世界
-description: 了解如何使用Webhook作为触发器，以及如何使用Webhook为传入数据创建队列，所有这些都可在 [!DNL Adobe Workfront Fusion].
+title: 了解网页钩世界
+description: 了解如何将Webhook用作触发器，以及如何使用Webhook为传入数据创建队列(全部位于 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,19 +10,19 @@ level: Beginner
 kt: 9050
 exl-id: 87140000-e26b-48b3-ad58-c60b6be7a7fa
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# 了解webhook世界
+# 了解网页钩世界
 
-在本视频中，您将了解：
+在此视频中，您将学习：
 
-* 如何使用Webhook作为触发器
-* 响应式和被动式Webhook之间的区别
-* 如何使用Webhook为传入数据创建队列
+* 如何将Web挂接用作触发器
+* 响应式和被动式网络挂钩的区别
+* 如何使用Web挂接为传入数据创建队列
 
->[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on)

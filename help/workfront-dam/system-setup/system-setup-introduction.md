@@ -9,7 +9,7 @@ level: Intermediate
 team: Technical Marketing
 kt: 8964
 doc-type: video
-source-git-commit: d39754b619e526e1a869deedb38dd2f2b43aee57
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '31'
 ht-degree: 0%
@@ -18,11 +18,11 @@ ht-degree: 0%
 
 # 系统设置：简介
 
-在本视频中，您将执行以下操作：
+在此视频中，您将：
 
-* 大致了解 [!UICONTROL Workfront DAM] 课程
+* 了解 [!UICONTROL Workfront DAM] 课程
 
->[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on)
 
 <!-- Learn more graphic & links to documentation articles
 * Accessing help for Workfront DAM

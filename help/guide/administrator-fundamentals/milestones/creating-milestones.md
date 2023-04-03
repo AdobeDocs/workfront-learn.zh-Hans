@@ -7,7 +7,7 @@ doc-type: feature video
 team: Technical Marketing
 kt: Jira ticket
 role: Admin
-source-git-commit: 7cdce710ecc6fbcdccfe147a40623dc96f07ed2c
+source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -22,4 +22,4 @@ ht-degree: 0%
 * 如何创建里程碑路径
 * 如何向里程碑路径添加里程碑步骤
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on)
