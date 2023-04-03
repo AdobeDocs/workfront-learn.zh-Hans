@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10117
 exl-id: 2d57eede-59a8-48df-a00c-820a0aa1609d
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '181'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
@@ -32,3 +32,10 @@ ht-degree: 0%
 1. 单击 [!UICONTROL Save Changes].
 
 将目标与另一个目标对齐会创建子目标。 将子目标视为有助于组织或团队父目标进展的个人目标。 子目标可以激活并影响父目标的进度。
+
+## 现在激活父目标
+
+现在，您已创建子目标，接下来它将成为父目标的进度指示器。 单击父目标名称旁边的三个圆点菜单时，您将看到激活选项。
+
+![显示如何激活父目标的屏幕截图。](assets/activate-the-parent-goal.png)
+

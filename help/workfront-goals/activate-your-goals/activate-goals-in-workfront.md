@@ -9,9 +9,9 @@ role: User
 level: Beginner
 kt: 10118
 exl-id: 53df924b-0ba2-442a-95a6-40bd9b12d206
-source-git-commit: 61759365512cac8781ef148d578504a29a7843ac
+source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
 workflow-type: tm+mt
-source-wordcount: '278'
+source-wordcount: '323'
 ht-degree: 0%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 ![处于草稿状态的Workfront目标中目标的屏幕截图](assets/04-workfront-goals-activate-goals.png)
 
-## 进展指标激活目标
+## 需要进度指标来激活目标
 
 在继续之前，必须了解 [!DNL Workfront Goals]. 进度指标是 [!DNL Goals] 用于计算目标的进度。 进度指标是一致的目标、结果、活动和项目。 你稍后会详细了解这些。 目前，必须了解必须将一致的目标、结果、活动和项目添加到目标中才能激活它。
 
@@ -32,3 +32,8 @@ ht-degree: 0%
 
 与其他进展指标相比，项目有些独特，因为它们被视为一种活动。 活动可分为两种类型：手动进度条和项目。 因此，项目也会推动进展。 尽管所有类型的进度指标都可以与父目标相关联，但务必要记住，在管理这些指标的方式上存在差异。
 
+## 现在，激活目标
+
+当您的目标上至少有一个进度指示器时，当您单击目标名称旁边的三个圆点菜单时，将看到激活选项。
+
+![显示如何激活目标的屏幕截图。](assets/activate-a-goal-with-a-result.png)
