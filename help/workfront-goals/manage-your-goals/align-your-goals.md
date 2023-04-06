@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
 workflow-type: tm+mt
-source-wordcount: '478'
+source-wordcount: '485'
 ht-degree: 0%
 
 ---
@@ -25,11 +25,11 @@ ht-degree: 0%
 
 <!--Insert link to LP 1, above -->
 
-使用目标对齐方式：
+使用“目标对齐”部分可以：
 
 * 查看属于您或您组织的目标。
 * 显示目标层次结构并查看对齐的子目标。
-* 访问“目标详细信息”面板并更新目标、其结果或活动。
+* 打开目标以查看其进度指标。
 
 确保目标一致，意味着从上到下的每个人都将在推动相同计划的工作上执行。 可视化图表是每个顶级公司目标如何直接与部门、团队和个人级别保持一致的重要部分。 通过跨功能调整团队，减少了孤岛。 协调可以围绕每个人的目的实现清晰，并将组织与真正重要的事项联系起来。
 
@@ -49,6 +49,7 @@ ht-degree: 0%
 
 在此视频中，您将学习如何：
 
-* 导航 [!UICONTROL Goal Alignment] 页面
+* 使用自下而上和自上而下的方法来调整目标
+* 导航 [!UICONTROL Goal Alignment] 部分
 
 >[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on)
