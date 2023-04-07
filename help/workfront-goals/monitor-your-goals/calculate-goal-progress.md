@@ -9,7 +9,7 @@ role: User
 level: Beginner
 kt: 10119
 exl-id: fa7aba9b-503e-4fad-93ee-9b709a839e11
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -34,11 +34,8 @@ ht-degree: 0%
 
 ![覆盖 [!DNL Workfront Goals]](assets/15-workfront-goals-progress-bar-code.png)
 
-![中目标进度百分比列的屏幕截图 [!UICONTROL Check-in] 部分 [!DNL Workfront Goals]](assets/16-workfront-goals-progress-status-bar.png)
 
-<!-- Learn more graphic -->
+>[!TIP]
+>
+>有关用于计算目标进度的公式的更多信息，请浏览以下文章： [Adobe Workfront目标中的目标进度和条件概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-goals/goal-management/calculate-goal-progress.html?lang=en#overview-of-goal-progress-and-threshold).
 
-* 有关用于计算目标进度的公式的更多信息，请参阅文章在 [!DNL   Goals].
-
-
-<!-- need link to documentation article, above -->

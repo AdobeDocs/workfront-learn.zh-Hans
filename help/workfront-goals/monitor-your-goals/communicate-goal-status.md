@@ -9,21 +9,20 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
 workflow-type: tm+mt
-source-wordcount: '463'
+source-wordcount: '449'
 ht-degree: 1%
 
 ---
 
 # 传达目标状态
 
-现在，您已使用 [!UICONTROL Check-ins]，请稍等后退一步，并鸟瞰您正在处理的目标以及这些目标与团队、组和公司目标的关系。 就目标的进度和状态与他人沟通是保持一致的一个重要部分。
+现在，您已使用更新目标，请花些时间退后一步，以鸟瞰您正在处理的目标以及它们与团队、组和公司目标的关系。 就目标的进度和状态与他人沟通是保持一致的一个重要部分。
 
 有多种方法可让适当的人员了解您的目标。 您可以通过以下方式开始：
 
 * 共享和报告您的目标
-* 设置视图 [!UICONTROL Pulse] 创建和查看单个目标更新的流
 * 利用 [!UICONTROL Graphs] 部分，以全面了解目标进度
 
 ## 共享目标
