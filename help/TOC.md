@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
+source-git-commit: 990c3af143989e37ab01d9f0b2af9f06a86c0f8f
 workflow-type: tm+mt
-source-wordcount: '2301'
+source-wordcount: '2308'
 ht-degree: 2%
 
 ---
@@ -141,6 +141,7 @@ ht-degree: 2%
       + [了解流量请求的设置](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [创建请求队列](manage-work/request-queues/create-a-request-queue.md)
       + [创建请求流](manage-work/request-queues/create-a-request-flow.md)
+      + [有关请求队列的常见问题解答](manage-work/request-queues/request-queue-faq.md)
    + 审批流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建一次性审批流程](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [附加和编辑现有审批流程](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)

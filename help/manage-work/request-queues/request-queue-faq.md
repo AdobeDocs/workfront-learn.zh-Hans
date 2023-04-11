@@ -1,15 +1,15 @@
 ---
-title: 有关请求队列的问题解答
+title: 有关请求队列的常见问题解答
 description: 获取有关 [!DNL  Workfront].
 feature: Work Management
 type: Tutorial
 role: Admin, User
 level: Beginner, Intermediate
 kt: 10101
-source-git-commit: a0aa8328842d2db1235edc42664eb0b18f4038e4
+source-git-commit: f111f198d3d7587bb9e2de4e19434131cbef9c93
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 0%
+source-wordcount: '279'
+ht-degree: 1%
 
 ---
 
@@ -17,42 +17,31 @@ ht-degree: 0%
 
 **为什么我可以看到请求队列，但我的用户看不到？**
 
-在请求队列/项目的“队列详细信息”选项卡中，确保用户符合“谁可以向此队列添加请求？”的条件 字段。
+在 [!UICONTROL Queue Details] ，请确保用户符合“谁可以向此队列添加请求？”的条件 字段。
 
 **我为用户授予了队列的访问权限，但现在他们也可以看到请求队列项目。 为什么?**
 
 这与您授予他们访问请求队列的方式有关。
 
-如果您从请求队列项目登录页面中使用了共享工具，则您已经为这些用户授予了在项目列表中查看项目的访问权限。
+如果您使用 [!UICONTROL Sharing] 工具，则您已经为这些用户授予了在项目列表中查看项目的访问权限。
 
 但是，如果您希望授予他们仅向队列提交请求的访问权限，请转到“队列设置”，然后在“谁可以向此项目添加请求”下选择相应的选项。
 
-**我可以将我的请求转换为项目吗？**
+**我可以将请求转换为项目吗？**
 
 是. 您可以根据需要将问题转换为任务或项目。
 
-有关更多信息，请参阅本文：转换问题
+有关更多信息，请参阅本文： [转换问题](https://experienceleague.adobe.com/docs/workfront/using/manage-work/issues/convert-issues/convert-issues-overview.html?lang=en).
 
 **在哪里可以找到要进行编辑的请求队列？**
 
-您可以使用导航栏中的搜索字段，也可以在“项目”区域中找到列出的搜索字段。
+您可以使用 [!UICONTROL Search] 字段，或在 [!UICONTROL Projects] 的上界。
 
 **我是否可以将信息从请求自定义表单传输到项目？**
 
-是. 这包括为请求（问题）创建自定义表单以及为项目创建匹配的自定义表单。
-
-<!---
-need URL for following sentence
---->
-
-有关更多信息，请参阅本文：将自定义表单数据传输到较大的工作项
+是. 这包括创建自定义表单并选择两者 [!UICONTROL Issue] 和 [!UICONTROL Project] 对象类型。
 
 **我在查项目或任务报告。 如何查找此对象源自的请求？**
 
-您可以利用“原始问题”字段来源将该信息添加到您的项目和任务报表中。
+您可以利用 **[!UICONTROL Converted Issue Originator]** 字段源，以将该信息添加到项目和任务报表中。
 
-<!---
-need URL for following sentence
---->
-
-有关更多信息，请参阅管理问题课程。
