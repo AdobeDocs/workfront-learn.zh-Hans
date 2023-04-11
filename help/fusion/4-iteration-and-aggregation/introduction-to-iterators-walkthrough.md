@@ -10,16 +10,14 @@ level: Beginner
 kt: 9021
 exl-id: 16ad5fb3-bc8f-4d95-8e4b-15b655438621
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '168'
 ht-degree: 0%
 
 ---
 
 # 迭代器演练简介
-
-## 概述
 
 在Workfront中查看特定项目，然后查看该项目中的所有任务。 然后，您将使用增量工具模块计算项目中的任务数。最后，您将使用设置变量模块从未解决问题数中减去子项数，为每个任务包生成一个数值。
 

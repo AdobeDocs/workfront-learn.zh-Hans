@@ -10,16 +10,14 @@ level: Beginner
 kt: 9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '879'
+source-wordcount: '878'
 ht-degree: 0%
 
 ---
 
 # 路由器演练
-
-## 概述
 
 使用路由器将Pokemon与超级英雄捆绑到正确的路径中，然后为每个字符创建一个任务。
 

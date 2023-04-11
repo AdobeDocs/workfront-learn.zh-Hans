@@ -10,16 +10,14 @@ level: Beginner
 kt: 9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '296'
 ht-degree: 0%
 
 ---
 
 # 超越基本映射演练
-
-## 概述
 
 使用映射面板公式，从您在第一个演练中创建的“初始方案设计”中更改项目名称、计划开始日期和优先级。
 

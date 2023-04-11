@@ -10,16 +10,14 @@ level: Beginner
 kt: 9062
 exl-id: 93717347-6b51-427b-82e3-ca7becbf5f0f
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 0%
 
 ---
 
 # 开发工具演练
-
-## 概述
 
 安装和使用Workfront开发工具中的不同区域，以便更深入地了解所发出的请求/响应以及高级方案设计技巧。
 

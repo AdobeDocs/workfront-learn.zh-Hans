@@ -10,16 +10,14 @@ level: Beginner
 kt: 9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '131'
 ht-degree: 0%
 
 ---
 
 # 初始方案设计演练
-
-## 概述
 
 在Workfront中为项目列表CSV文件中的每一行创建新项目。
 

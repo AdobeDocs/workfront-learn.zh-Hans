@@ -10,16 +10,14 @@ level: Beginner
 kt: 9048
 exl-id: 567847e5-a690-445f-8aaf-ef5751e0ff21
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '132'
 ht-degree: 0%
 
 ---
 
 # 切换功能演练
-
-## 概述
 
 要进行简单的数据更改，请使用Switch函数在模块字段中将一个值转换为另一个值。 在本练习中，将双字母键更改为电子邮件中发送的项目进度状态的实际名称。
 

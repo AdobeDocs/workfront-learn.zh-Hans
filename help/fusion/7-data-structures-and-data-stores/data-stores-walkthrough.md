@@ -10,16 +10,14 @@ level: Beginner
 kt: 9055
 exl-id: e96fd109-2463-4702-b1bf-b42a6dcd7fc4
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '427'
+source-wordcount: '426'
 ht-degree: 0%
 
 ---
 
 # 数据存储演练
-
-## 概述
 
 在本练习中，我们将使用数据存储来同步公司列表与Workfront之间的公司名称。
 

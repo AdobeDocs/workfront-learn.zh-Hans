@@ -10,16 +10,14 @@ level: Beginner
 kt: 9051
 exl-id: 7870c9db-d538-440a-8972-e7bc5ac5af93
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 57b112921738c01fe4222e50403c8953c412a0f7
 workflow-type: tm+mt
-source-wordcount: '372'
+source-wordcount: '371'
 ht-degree: 0%
 
 ---
 
 # Webhooks演练
-
-## 概述
 
 这种情景会创建一个便利店应用程序，以便他们能够轻松确定顾客是否年纪大到足以购买酒精。 收银员只需将客户的姓名和出生日期以及经过验证的客户令牌发布到提供的URL即可。 输入后，将触发我们的方案以计算相应的响应并将其返回给请求者。
 
