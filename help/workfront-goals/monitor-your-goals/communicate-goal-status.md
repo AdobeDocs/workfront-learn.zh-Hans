@@ -9,16 +9,16 @@ role: User
 level: Beginner
 kt: 10120
 exl-id: 337b187d-bc73-48ca-9e2a-08ea164ad457
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '449'
+source-wordcount: '452'
 ht-degree: 1%
 
 ---
 
 # 传达目标状态
 
-现在，您已使用更新目标，请花些时间退后一步，以鸟瞰您正在处理的目标以及它们与团队、组和公司目标的关系。 就目标的进度和状态与他人沟通是保持一致的一个重要部分。
+现在，您已更新目标，请花些时间退后一步，以鸟瞰您正在处理的目标以及它们与团队、组和公司目标的关系。 就目标的进度和状态与他人沟通是保持一致的一个重要部分。
 
 有多种方法可让适当的人员了解您的目标。 您可以通过以下方式开始：
 
@@ -33,7 +33,7 @@ ht-degree: 1%
 
 1. 单击目标名称旁边的3个圆点图标，然后单击 [!UICONTROL **共享**]. 的 [!UICONTROL Goal Access] 框中。
 
-   ![Asss](assets/17-workfront-goals-share-a-goal.png)
+   ![共享目标的屏幕截图](assets/17-workfront-goals-share-a-goal.png)
 
 1. 执行下列操作之一：
 

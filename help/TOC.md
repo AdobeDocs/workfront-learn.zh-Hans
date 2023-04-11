@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8406bee48af87b80d0bcbff08fb682b8da80a091
+source-git-commit: 0e724793f2c222cc82f8a01ccd4b338e26812812
 workflow-type: tm+mt
-source-wordcount: '2296'
+source-wordcount: '2301'
 ht-degree: 2%
 
 ---
@@ -222,6 +222,7 @@ ht-degree: 2%
       + [高级报告第2部分](reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高级报告第3部分](reporting/advanced-reporting/advanced-reporting-part-3.md)
    + 已优化的分析 {#enhanced-analytics}
+      + [产品简介 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [开始使用 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [添加 [!UICONTROL analytics] 到布局模板](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [了解基本导航](reporting/enhanced-analytics/4-basic-navigation.md)
@@ -274,7 +275,7 @@ ht-degree: 2%
       + [查看分配任务时的结束时间](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [资源管理工具中的可见性](manage-resources/pto/visibility-in-resource-management-tools.md)
    + 场景计划器 {#scenario-planner}
-      + [关于方案规划器的产品](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
+      + [关于方案规划器的产品时刻](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [方案规划器是什么？](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [在方案计划员中访问计划](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
       + [在方案计划员中创建计划](manage-resources/scenario-planner/create-plans-in-the-scenario-planner.md)
