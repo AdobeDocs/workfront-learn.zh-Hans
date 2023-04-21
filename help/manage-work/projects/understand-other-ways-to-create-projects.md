@@ -1,5 +1,5 @@
 ---
-title: 了解创建项目的其他方法
+title: 了解创建项目的四种方法
 description: 了解如何从模板创建项目、从头开始创建项目、复制现有项目或导入 [!DNL Microsoft Project] 文件。
 activity: use
 feature: Work Management
@@ -11,14 +11,14 @@ team: Technical Marketing
 kt: 8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
 
-# 了解创建项目的其他方法
+# 了解创建项目的四种方法
 
 在此视频中，您将学习如何：
 

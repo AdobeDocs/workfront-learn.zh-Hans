@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 850b7de7aa4a396643da6e029e8663276d40ef05
+source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
 workflow-type: tm+mt
-source-wordcount: '2316'
+source-wordcount: '2317'
 ht-degree: 2%
 
 ---
@@ -100,7 +100,7 @@ ht-degree: 2%
 + 管理工作 {#manage-work}
    + 项目 {#projects}
       + [了解基本项目创建](manage-work/projects/understand-basic-project-creation.md)
-      + [了解创建项目的其他方法](manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [了解创建项目的四种方法](manage-work/projects/understand-other-ways-to-create-projects.md)
       + [填写项目详细信息](manage-work/projects/fill-in-the-project-details.md)
       + [导航项目页面](manage-work/projects/navigate-the-project-page.md)
       + [开始规划项目](manage-work/projects/getting-started-plan-a-project.md)
