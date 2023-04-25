@@ -10,27 +10,21 @@ role: User
 level: Intermediate
 kt: 10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 518ede1e0a57a3075d8db122d48666c45dae8a4b
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '77'
 ht-degree: 0%
 
 ---
 
 # 共享项目
 
-让利益相关方和协作者了解项目是管理项目的一个重要部分。
+在此视频中，您将学习：
 
-通过共享项目，确保每个人都能看到所需的信息。 在Workfront中，这是通过 [!UICONTROL Share] 选项。 您可以在单个项目中，通过 [!UICONTROL More] 菜单。
+* 自动共享在Workfront中的工作原理
+* 如何与人员共享项目
+* 如何与团队共享项目
+* 如何将项目放入项目组合中进行共享
+* 共享项目的最佳实践是什么
 
-![“项目访问”窗口](assets/planner-fund-share-project-smaller.png)
-
-或者，您也可以从 [!UICONTROL Projects] 页面，方法是选择项目并单击 [!UICONTROL Share] 按钮。
-
-通过共享项目，参与的每个人都可以在需要时查看项目信息。
-
-<!---
-Learn More Icon
-Share permissions on objects
-Share a project
---->
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
