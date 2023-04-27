@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10044
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: ab5203c8edc01c60386d9057e1d82c0e980ade02
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,10 @@ ht-degree: 0%
 
 ![选择计划小时数而非持续时间的图像](assets/section-1-5.png)
 
+
+
 计划小时数是默认值。 如果切换到持续时间，则当您从 [!DNL Analytics] 然后重新登录Workfront。
+
+## 盒子大小和颜色阴影是什么意思？
+
+较小、较浅的蓝色框表示小时数，而较大的框和较深的蓝色阴影表示比较的小时数更多。 有关详细信息，请参阅 [了解项目树状图可视化图表](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
