@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '270'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -38,3 +38,9 @@ ht-degree: 0%
 1. 紫色的框显示分配给该项目的用户在当天登录，而颜色较深的框表示登录的用户数较高。
 1. 粉红色框显示用户在当天更改了项目任务的状态，而较深的阴影表示更多任务状态发生更改。
 1. 蓝色方框显示用户已完成项目的任务，且阴影较深，表示已完成的任务数较多。
+
+## 如何导航到图表
+
+1. 单击 [!UICONTROL People] 选项卡。
+1. 使用 [!UICONTROL Filter] 来选择要检查的主团队。
+1. 您将看到按团队划分的活动图表显示在人员图表的顶部。

@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10047
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '348'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ ht-degree: 0%
 1. 底部的日期来自选定的日期范围。
 1. 颜色较深的蓝色表示家庭队要么感到倦怠(4)，要么没有受到挑战。
 1. 更浅或更透明的蓝色表示主队的工作量已平衡
+
+## 如何导航到图表
+
+1. 单击 [!UICONTROL People] 选项卡。
+1. 使用 [!UICONTROL Filter] 来选择要检查的主团队。
+1. 您将看到团队能力图表显示在 [!UICONTROL Resource capacity] 图表。
 
 ## 如何使用图表
 

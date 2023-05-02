@@ -10,9 +10,9 @@ role: User
 level: Beginner
 kt: 10046
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
-source-git-commit: 252ba3ba44f22519a35899fcda9c6bca597a6c2c
+source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: '397'
 ht-degree: 0%
 
 ---
@@ -36,6 +36,12 @@ ht-degree: 0%
 1. 小时数在最底部。 这是图表的x轴，它将计算到上面团队中显示的小时数范围。
 1. 圆圈显示分配给主团队的计划小时数。
 1. 竖线显示主队可用的总小时数。
+
+## 如何导航到图表
+
+1. 单击 [!UICONTROL People] 选项卡。
+1. 使用 [!UICONTROL Filter] 来选择要检查的主团队。
+1. 您将看到 [!UICONTROL Resource capacity] 图表显示在团队活动图表下方。
 
 ## 如何使用图表
 
