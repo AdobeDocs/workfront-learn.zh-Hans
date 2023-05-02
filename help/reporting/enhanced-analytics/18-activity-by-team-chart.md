@@ -10,7 +10,7 @@ role: User
 level: Beginner
 kt: 10045
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: 55e5065741b4252158c7c33b7bdf56adc7c8cf51
+source-git-commit: 038663f3bb3d7d152271a2c10dcd29a0220ad2fa
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -42,5 +42,5 @@ ht-degree: 0%
 ## 如何导航到图表
 
 1. 单击 [!UICONTROL People] 选项卡。
-1. 使用 [!UICONTROL Filter] 来选择要检查的主团队。
+1. 使用 [!UICONTROL Filter] 来选择要检查的一个或多个主团队。
 1. 您将看到按团队划分的活动图表显示在人员图表的顶部。
