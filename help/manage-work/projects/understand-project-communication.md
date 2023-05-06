@@ -1,6 +1,6 @@
 ---
 title: 了解项目通信
-description: 了解如何使用对项目、任务、问题或文档的更新来交流有关项目工作的信息。 然后，在 [!DNL  Workfront].
+description: 了解如何使用良好的项目规划、更新、任务状态、完成率、问题和报告来传达有关项目工作的信息。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,32 +8,30 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2023-05-05T00:00:00Z
 kt: 10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 96e0a94ad39354765c171f762003c58feec5a4c8
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
 
 # 了解项目通信
 
-正如俗话所说，管理项目的90%是沟通。 与项目团队、您的经理和项目利益相关方进行沟通。
+在此视频中，您将学习如何使用以下方法与所有项目利益相关方通信：
 
-但是，当项目团队使用电子邮件、即时消息、会议和便笺进行项目通信时，信息会被分散……或者更糟，被遗忘。 在 [!DNL Workfront] 使用更新。
+* 良好的项目规划
+* 更新
+* 任务状态和完成百分比
+* 问题
+* 报告
 
-由于项目团队成员正在处理分配，因此他们可以从 [!DNL Workfront] [!UICONTROL Home] 任务。
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on)
 
-![更新项目中的章节](assets/planner-fund-project-communication.png)
-
-从任务、问题和文档更新汇总到项目级别 [!UICONTROL Updates] 选项卡，使信息快速且易于查看。
-
-然后，您只需单击按钮即可回复更新。 这会将所有对话保留在一个位置，以便您稍后再回顾它。
-
-<!---
-learn more urls
-Communicate about work in Home
-Subscribe to items in Workfront
-Update work
---->
+>[!TIP]
+>
+>要创建视频中显示的注释搜索报表，请参阅 [创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=en) 教程。
+>
+>要将注释搜索报表添加到项目面板，请参阅 [创建功能板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=en) 教程。
