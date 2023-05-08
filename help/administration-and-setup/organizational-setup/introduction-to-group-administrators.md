@@ -1,6 +1,6 @@
 ---
 title: 了解组管理员的需求
-description: 了解系统管理员如何使用群组管理员帮助维护 [!DNL Workfront] 设置，同时为组提供对其工作的更多控制权。
+description: 了解系统管理员如何使用组管理员帮助维护  [!DNL Workfront]  设置，同时让组对其工作有更多的控制权。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -13,7 +13,7 @@ exl-id: 03060ac6-27af-4442-9705-1882d8c55012
 source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
 workflow-type: tm+mt
 source-wordcount: '331'
-ht-degree: 0%
+ht-degree: 6%
 
 ---
 
