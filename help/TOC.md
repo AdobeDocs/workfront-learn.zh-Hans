@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6b651fa3e8da77627d4fa1379f1221ebd5793b34
+source-git-commit: c59055ce84ea42d7f7f20fa9e0e414fa50e73938
 workflow-type: tm+mt
-source-wordcount: '2317'
+source-wordcount: '2314'
 ht-degree: 2%
 
 ---
@@ -113,9 +113,9 @@ ht-degree: 2%
       + [跟踪整个项目进度](manage-work/projects/track-overall-project-progress.md)
       + [使用项目量度跟踪工作进度](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [了解 [!UICONTROL Gantt] 视图](manage-work/projects/understand-the-gantt-view.md)
-      + [更改项目状态](manage-work/projects/change-the-project-status.md)
+      + [关闭项目](manage-work/projects/change-the-project-status.md)
    + 任务 {#tasks}
-      + [如何创建任务](manage-work/tasks/how-to-create-tasks.md)
+      + [创建任务](manage-work/tasks/how-to-create-tasks.md)
       + [了解父子任务](manage-work/tasks/understand-parent-child-tasks.md)
       + [处理任务](manage-work/tasks/work-with-tasks.md)
       + [从项目计划中分配任务](manage-work/tasks/assign-tasks-from-the-project-plan.md)
@@ -465,7 +465,7 @@ ht-degree: 2%
 
 
 
-+ Workfront Proof {#workfront-proof}
++ Workfront 校样 {#workfront-proof}
    + [了解校对的好处](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [了解文档和校样之间的区别](workfront-proof/document-vs-proof.md)
    + [校样查看器说明](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -615,7 +615,7 @@ ht-degree: 2%
    + [预览沙盒](best-practices/preview-sandbox-bp.md)
    + [项目、任务和问题首选项](best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](best-practices/project-templates-bp.md)
-   + [Workfront Proof](best-practices/proofing-bp.md)
+   + [Workfront 校样](best-practices/proofing-bp.md)
    + [请求队列](best-practices/request-queues-bp.md)
    + [资源规划程序](best-practices/resource-planner-bp.md)
    + [资源池](best-practices/resource-pools-bp.md)
