@@ -1,6 +1,6 @@
 ---
-title: 查找请求
-description: 了解如何使用功能板， [!UICONTROL Home], [!UICONTROL Requests] 区域，以及 [!UICONTROL Teams] 页面以查找通过请求队列发出的传入请求。
+title: 尋找請求
+description: 瞭解如何使用儀表板、 [!UICONTROL Home]，則 [!UICONTROL Requests] 區域，以及 [!UICONTROL Teams] 頁面，以尋找透過要求佇列提出的傳入要求。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,20 +10,18 @@ role: User
 level: Intermediate
 kt: 10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 9ac8702eaab26c4efd972507097557cb6728902d
 workflow-type: tm+mt
-source-wordcount: '230'
+source-wordcount: '210'
 ht-degree: 0%
 
 ---
 
-# 查找请求
+# 尋找請求
 
-在您发现请求可能有所不同的位置，请与内部部门沟通 [!DNL  Workfront] 团队来了解如何管理请求接收。 中的某些位置 [!DNL Workfront] 在这里，您可以找到以下请求：
+在哪裡可以找到不同的請求，所以請與您的內部人員交談 [!DNL  Workfront] 團隊以瞭解您將如何管理請求接收。 中的某些位置 [!DNL Workfront] 您可在此找到請求，包括：
 
-* **功能板：** 许多 [!DNL Workfront] 客户会编写自定义报表来显示传入请求、跟踪已转换为项目的请求等。 这些单个报表会组合到一个功能板中，以便能够轻松、快速地查看所有内容。 [!DNL Workfront] 建议使用此请求管理方法，因为它可以根据贵组织的需求进行自定义。
-* **[!UICONTROL Home]:** 请求将标记为问题，因为后端 [!DNL Workfront] 处理通过请求队列发出的请求。
-* **[!UICONTROL Requests]** 区域：的 [!UICONTROL Submitted] 默认情况下，页面会显示您有权访问的仍处于打开或未解析状态的请求。 更改 [!UICONTROL Filter] 要查看您有权访问的所有已提交请求，请仅查看您的请求，或仅查看您的打开请求。 要快速查看有关请求的详细信息，请在列表中选择请求并打开摘要面板。
-* **[!UICONTROL Teams]页面：** 请求被路由到团队后，会显示在 [!UICONTROL Teams] 页面 [!UICONTROL Team Requests] 中。 从那里，团队成员可以自行分配工作，或由团队主管分配工作。
-
-在您知道在何处查找请求后，即可通过将请求转换为项目来启动项目。
+* **儀表板：** 許多 [!DNL Workfront] 客戶編寫自訂報告以顯示傳入請求、追蹤已轉換為專案的請求等。 這些個別報表會組合到儀表板中，以便輕鬆快速地檢視所有內容。 [!DNL Workfront] 建議使用此請求管理方法，因為您可以根據組織的需求自訂此方法。
+* **[!UICONTROL Home]：** 請求會標示為問題，因為請求的後端會 [!DNL Workfront] 處理透過請求佇列提出的請求。
+* **[!UICONTROL Requests area]**：此 [!UICONTROL Submitted] 頁面預設會顯示您有權存取但仍處於開啟狀態或未解決的請求。 變更 [!UICONTROL Filter] 檢視您有權存取的所有已提交請求、僅您的請求，或僅您的未完成請求。 若要快速檢視請求的詳細資訊，請在清單中選取該請求，然後開啟摘要面板。
+* **[!UICONTROL Teams]頁面：** 當請求被路由到專案團隊時，它們會出現在 [!UICONTROL Teams] 中的頁面 [!UICONTROL Team Requests] 區段。 從那裡，專案團隊成員可以自行指派工作，或專案團隊負責人可以指派工作。
