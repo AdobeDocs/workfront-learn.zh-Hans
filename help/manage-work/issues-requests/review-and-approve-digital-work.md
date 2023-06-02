@@ -1,6 +1,6 @@
 ---
-title: 审核数字化和批准工作
-description: 了解如何在中查找和批准项目、任务、问题、文档和校样 [!DNL  Workfront].
+title: 审阅和批准数字工作
+description: 了解如何在中查找和批准项目、任务、问题、文档和验证 [!DNL  Workfront].
 activity: use
 feature: Work Management
 thumbnail: 335108.jpeg
@@ -11,21 +11,21 @@ team: Technical Marketing
 kt: 8808
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: e8318b89bcf2fb3a6f27a9468495dac1d9084732
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 0%
 
 ---
 
-# 审核数字化和批准工作
+# 审阅和批准数字工作
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 在中查找批准 [!DNL  Workfront]
+* 在中查找审批 [!DNL  Workfront]
 * 批准项目、任务和问题
-* 批准文档
-* 批准校样
+* 为文档进行审批
+* 审批验证
 
 >[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on)
 
