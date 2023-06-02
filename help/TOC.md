@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 65bd26fefb280d12ec44a4923f6d96ac8d88d6fb
+source-git-commit: 81ea900e3204fac1c3c4e4b11e380ae487122410
 workflow-type: tm+mt
-source-wordcount: '2315'
+source-wordcount: '2316'
 ht-degree: 2%
 
 ---
@@ -364,10 +364,10 @@ ht-degree: 2%
 
 + Fusion {#fusion}
    + 欢迎使用Workfront Fusion {#welcome-to-workfront-fusion}
-      + [Workfront Fusion概述](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
+      + [简介和技术策略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
+      + [Workfront Fusion培训概述](fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
       + [设置Workfront Fusion练习文件](fusion/1-welcome-to-workfront-fusion/set-up-your-fusion-exercise-files-walkthrough.md)
       + [以新用户身份登录](fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
-      + [简介和技术策略](fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [核心概念](fusion/1-welcome-to-workfront-fusion/core-concepts.md)
    + 了解基础知识 {#understand-the-basics}
       + [初始方案设计演练](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
