@@ -10,48 +10,38 @@ role: User
 level: Intermediate
 kt: 10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '257'
 ht-degree: 0%
 
 ---
 
 # 问题报告
 
-## 通过创建报告来集中化问题
+## 通过创建报告来集中处理问题
 
-许多流量和项目经理都创建了 [!UICONTROL Workfront] 自定义报告以集中所有传入的问题。 这样，便可以轻松跟踪新增内容并需要关注。
+许多流量和项目经理都创建 [!UICONTROL Workfront] 自定义报告，集中处理所有传入问题。 这使您能够轻松跟踪新增内容，并需要关注。
 
-然后，可以将该报表添加到功能板，将您完成工作所需的所有内容整合在一起 [!UICONTROL Workfront] 窗口。
+然后，可以将报告添加到仪表板，将您工作所需的一切内容放在一个仪表板中 [!UICONTROL Workfront] 窗口。
 
-![图像 [!UICONTROL Resolving Object] 列。](assets/18-resolving-object-report.png)
+![的图像 [!UICONTROL Resolving Object] 问题报告的列。](assets/18-resolving-object-report.png)
 
-要显示问题已转换为的任务或项目的名称，请包括“[!UICONTROL Resolving Object]列。 A &quot;[!UICONTROL Resolving Object]“ ”是转换问题时创建的任务或项目。 如果问题未转换，则 [!UICONTROL Resolving Object] 字段将为空。 此报表可快速显示已转换的问题，因此您不会最终出现重复项。 只需单击解析对象名称以将其打开，即可跟踪完成工作的进度。
+要显示问题被转换为的任务或项目的名称，请包含&quot;[!UICONTROL Resolving Object]”列。 A ”[!UICONTROL Resolving Object]”是转化问题时创建的任务或项目。 如果问题尚未转化 [!UICONTROL Resolving Object] 字段将为空。 此报表可让您快速查看哪些问题已转化，这样您就不会最终出现重复问题。 只需单击解析对象名称即可将其打开，以便您可以跟踪正在完成的工作的进度。
 
-## 在报表中显示原始问题信息
+## 在报告中显示原始问题信息
 
-有时，问题会转换为任务或项目，以便根据贵组织的工作流跟踪和监控解决该问题所需的工作。
+当问题转化为项目或任务时，可在项目或任务报告中报告许多原始问题详细信息。 原始问题称为&quot;[!UICONTROL Converted Issue]“。
 
-项目或任务报表可显示有关原始问题的有用信息。 这些列可以添加到带有文本模式报表的自定义视图：
+项目或任务报告可以使用以下图标显示此信息： [!UICONTROL Converted Issue Originator] 对象以及两个专用字段。 无需文本模式，即可将这些列添加到自定义视图中：
 
-* [!UICONTROL Original Issue Entry Date]
-* [!UICONTROL Original Issue Name]
-* [!UICONTROL Original Issue Originator Name]
+* [!UICONTROL Converted Issue Entry Date]
+* [!UICONTROL Converted Issue Name]
+* [!UICONTROL Converted Issue Originator > Name]
 
 ![问题报告信息的图像。](assets/19-text-mode-reporting-for-issues.png)
 
-<!-- Need wf one documentation article link below
+>[!NOTE]
+>
+>有关如何创建视图的说明，请参阅 [创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
 
-For the text mode used to create this report, see the article titled View: Display original issue information on task and project list.
-
--->
-
-
-<!--  Learn more graphic and documentation article links
-
-* Create and customize views
-* Overview of resolving and resolvable objects
-* Understanding resolving and resolvable objects
-
--->
