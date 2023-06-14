@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 5038db46f9c369ef5b356fc8e1a078a2d1d32bea
+source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
 workflow-type: tm+mt
-source-wordcount: '2318'
+source-wordcount: '2322'
 ht-degree: 2%
 
 ---
@@ -73,6 +73,13 @@ ht-degree: 2%
 
    + 系统性能和维护 {#system-perfomance-and-maintenance}
       + [负责现有的Adobe Workfront实例](administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
+
+   + 项目财务 {#project-finances}
+      + [了解性能指标](manage-work/project-finances/understand-performance-metrics.md)
+      + [设置任务收入和成本默认值](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+      + [设置汇率](manage-work/project-finances/set-up-exchange-rates.md)
+      + [设置费用类型](manage-work/project-finances/set-up-expense-types.md)
+      + [了解财务访问权限](manage-work/project-finances/understand-financial-access.md)
 
 
 + 自定义数据 {#custom-data}
@@ -176,16 +183,10 @@ ht-degree: 2%
       + [记录并查看小时数](manage-work/close-a-project/log-and-review-hours.md)
       + [关闭项目活动](manage-work/close-a-project/close-a-project-activity.md)
 
-   + 项目财务 {#project-finances}
-      + [了解性能指标](manage-work/project-finances/understand-performance-metrics.md)
-      + [设置任务收入和成本默认值](manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-      + [设置汇率](manage-work/project-finances/set-up-exchange-rates.md)
-      + [设置费用类型](manage-work/project-finances/set-up-expense-types.md)
-      + [了解财务访问权限](manage-work/project-finances/understand-financial-access.md)
+   + 用户的项目财务 {#project-finances-users}
       + [更新并查看财务](manage-work/project-finances/update-and-review-finances.md)
       + [查找财务信息](manage-work/project-finances/find-financial-information.md)
       + [了解多个记帐费率](manage-work/project-finances/multiple-billing-rates.md)
-
 
 
 + 报告 {#reporting}
