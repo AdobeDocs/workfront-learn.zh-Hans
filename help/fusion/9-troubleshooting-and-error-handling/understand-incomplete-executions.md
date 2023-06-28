@@ -1,16 +1,16 @@
 ---
 title: 了解未完成的执行
-description: 了解未完成的执行是什么，以及如何处理导致在 [!DNL Adobe Workfront Fusion].
+description: 了解执行不完整是什么以及如何处理导致执行不完整的错误 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9066
+jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 0%
@@ -19,29 +19,29 @@ ht-degree: 0%
 
 # 了解未完成的执行
 
-未完成的执行可以存储在Workfront Fusion中，以后可以在其中进行审核和解析。 了解如何利用这项令人惊叹的功能。
+未完成的执行可以存储在Workfront Fusion中，稍后可以在其中查看和解析它们。 了解如何利用这一令人惊叹的功能。
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 未完成的执行
+* 未完成的执行是什么
 * 如何处理导致执行不完整的错误
 
 >[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on)
 
 ## 导致执行不完整的错误
 
-存储不完整执行时会出现几类错误。
+有几类错误会导致存储不完整的执行。
 
-收到的不同错误类型将取决于您连接到的API。 该错误可能是由于数据不完整或错误而导致的验证错误，主要是因为为了成功处理通过模块的所有数据而需要缺少的项目。 或者，由于临时或长期连接失败（例如，在与电子邮件或远程FTP服务器的连接过程中），最终目标的不可用性可能会导致错误。
+收到的不同错误类型将取决于您连接到的API。 该错误可能是由于数据不完整或错误导致的验证错误，主要原因是缺少预期的项目才能成功处理通过模块的所有数据。 或者，由于临时或长期连接故障（例如，在连接电子邮件或远程FTP服务器期间），最终目标不可用也会发生错误。
 
-如果方案中第一个模块发生错误，则执行会立即停止，并且不会存储不完整的执行。
+如果场景中的第一个模块发生错误，执行将立即停止，并且不会存储不完整的执行。
 
-如果任何其他模块发生错误，并且未附加错误处理程序路由，则：
+如果任何其他模块发生错误，并且没有附加错误处理程序路由，则：
 
-* 如果错误类型为ConnectionError、RateLimitError、OutOfSpaceError或ModuleTimeoutError，则会存储不完整的执行记录WITH自动重试。
-* 如果错误类型为DataError、InvalidConfigurationError、InvalidAccessTokenError、InquestedError、MaxFileSizeExceededError或MaxResultsExceededError，则会存储不完整的执行记录（不自动重试）。
-* 如果错误类型与上述内容不同，则执行会失败。
+* 如果错误类型为ConnectionError、RateLimitError、OutOfSpaceError或ModuleTimeoutError，则存储不完整的执行记录WITH自动重试。
+* 如果错误类型为DataError、InvalidConfigurationError、InvalidAccessTokenError、UnexpectedError、MaxFileSizeExceededError或MaxResultsExceededError，则会存储不完整的执行记录（没有自动重试）。
+* 如果错误类型不是上述类型，则执行失败。
 
-## 想了解更多吗？ 我们建议执行以下操作：
+## 想要了解更多信息？ 我们建议执行以下操作：
 
 [Workfront Fusion文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)

@@ -1,110 +1,110 @@
 ---
-title: 设置/获取变量
-description: 了解如何使用设置和获取变量模块来使用不同路径中一个路径中可用的字段。
+title: Set/Get变量
+description: 了解如何使用Set和Get Variable模块，将某个路径中可用的字段用于其他路径。
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11045
+jira: KT-11045
 thumbnail: KT11045.png
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '628'
 ht-degree: 0%
 
 ---
 
-# 设置/获取变量
+# Set/Get变量
 
-了解如何使用设置和获取变量模块来使用不同路径中一个路径中可用的字段。
+了解如何使用Set和Get Variable模块，将某个路径中可用的字段用于其他路径。
 
 ## 练习概述
 
-在Workfront中查找有关项目的信息，并发送一封包含相关信息的电子邮件。
+在Workfront中查找有关项目的信息，并发送包含相关信息的电子邮件。
 
-![设置获取变量图像1](../12-exercises/assets/set-get-variables-walkthrough-1.png)
+![Set Get variables图像1](../12-exercises/assets/set-get-variables-walkthrough-1.png)
 
 ## 要遵循的步骤
 
-1. 创建新方案并将其命名为“在路由路径之间共享变量”。
-1. 对于触发器，在Workfront应用程序中选择搜索模块。
+1. 创建一个新方案，并将其命名为“在路由路径之间共享变量”。
+1. 对于触发器，选择Workfront应用程序中的搜索模块。
 
-   + 将记录类型设置为“项目”。
+   + 将“记录类型”设置为“项目”。
    + 对于结果集，选择“所有匹配记录”。
-   + 对于“搜索”标准，将其设置为“状态等于CUR”。
-   + 对于“输出”，选择“ID”、“名称”、“描述”和“赞助商ID”。
+   + 对于“搜索”条件，将其设置为“状态等于CUR”。
+   + 对于输出，请选择ID、名称、描述和赞助者ID。
 
-   ![设置获取变量图像2](../12-exercises/assets/set-get-variables-walkthrough-2.png)
+   ![Set Get variables图像2](../12-exercises/assets/set-get-variables-walkthrough-2.png)
 
-   ![设置获取变量图像3](../12-exercises/assets/set-get-variables-walkthrough-3.png)
+   ![Set Get variables图像3](../12-exercises/assets/set-get-variables-walkthrough-3.png)
 
 1. 单击“确定”并将此模块重命名为“查找当前项目”。
-1. 添加其他模块，然后选择Workfront读取记录模块。
+1. 添加另一个模块，然后选择Workfront读取记录模块。
 
    + 对于“记录类型”，选择“用户”。
    + 对于“输出”，选择“名称”。
-   + 将赞助商ID从搜索模块映射到ID字段。
+   + 将发起人ID从搜索模块映射到ID字段。
 
-1. 单击确定。
-1. 重命名模块“查找赞助商名称”。
+1. 单击“确定”。
+1. 将模块重命名为“查找发起人姓名”。
 
-   ![设置获取变量图像4](../12-exercises/assets/set-get-variables-walkthrough-4.png)
+   ![Set Get variables图像4](../12-exercises/assets/set-get-variables-walkthrough-4.png)
 
-1. 保存方案，然后单击运行一次。
+1. 保存方案并单击运行一次。
 
-   如果您在“读取记录”模块中收到错误，则可能是因为“搜索”模块在没有列出赞助商的情况下查找项目。
+   如果您在读取记录模块中收到错误，可能是因为搜索模块查找未列出赞助者的项目。
 
-   **要避免出现此错误，请创建两个路径：一个用于具有赞助商ID的项目，另一个用于没有赞助商ID的项目。**
+   **要避免此错误，请创建两个路径：一个用于具有发起人ID的项目，另一个用于没有发起人ID的项目。**
 
-1. 单击路由器与读取记录模块之间的扳手图标，在两个模块之间添加路由器。 设置名为“赞助商存在”的过滤器，并将条件设置为“赞助商ID存在”。
+1. 通过单击路由器和读取记录模块之间的扳手图标，在两个模块之间添加路由器。 设置名为“发起人存在”的过滤器，并将条件设置为“发起人ID存在”。
 
-   ![设置获取变量图像5](../12-exercises/assets/set-get-variables-walkthrough-5.png)
+   ![Set Get variables图像5](../12-exercises/assets/set-get-variables-walkthrough-5.png)
 
 1. 单击路由器以创建另一条路径。 从电子邮件应用程序添加发送电子邮件模块。
 
-   + 在“收件人”字段中放置您自己的电子邮件地址。
+   + 在“收件人”字段中输入您自己的电子邮件地址。
    + 在“主题”字段中，键入“当前项目信息”。
-   + 在“内容”字段中，输入项目名称、描述和赞助商。
-   + 您无法从读取记录模块中提取赞助商名称输出。 您只能在路由器之前从搜索模块访问赞助商ID。 您需要找到从其他路由器路径访问赞助商名称的方法。
+   + 在内容字段中，放置项目名称、描述和发起人。
+   + 您无法从读取记录模块提取赞助者名称输出。 您只能从位于路由器之前的搜索模块访问发起人ID。 您需要找到一种从另一条路由器路径访问发起人名称的方法。
 
-   ![设置获取变量图像6](../12-exercises/assets/set-get-variables-walkthrough-6.png)
+   ![Set Get variables图像6](../12-exercises/assets/set-get-variables-walkthrough-6.png)
 
-1. 现在单击确定，并将此模块重命名为“发送项目信息”
+1. 现在单击“确定”，并将此模块重命名为“发送项目信息”
 
-   **使用设置/获取变量在不同路径之间共享数据。**
+   **使用Set/Get变量在不同路径之间共享数据。**
 
-1. 在“查找赞助商名称”模块之后，添加“设置变量”工具模块。
+1. 在“查找发起人姓名”模块之后，添加一个“设置变量”工具模块。
 
    + 将“赞助商名称”作为变量名称。
    + 将变量生命周期保留为一个周期。
-   + 将字段映射到查找赞助商名称模块中的名称输出。
+   + 将字段映射到查找发起人名称模块的名称输出。
 
-1. 单击“确定”，然后重命名“设置赞助商名称”模块。
+1. 单击“确定”，然后将模块重命名为“设置赞助者名称”。
 
-   ![设置获取变量图像7](../12-exercises/assets/set-get-variables-walkthrough-7.png)
+   ![Set Get variables图像7](../12-exercises/assets/set-get-variables-walkthrough-7.png)
 
-1. 接下来，在路由器和发送电子邮件模块之间右键单击以添加获取变量工具模块。 在变量名称字段中输入“赞助商名称”。
-1. 单击确定。 重命名模块“获取赞助商名称”。
+1. 接下来，在路由器和发送电子邮件模块之间单击鼠标右键，以添加“获取变量”工具模块。 在Variable name字段中输入“Sponser name”。
+1. 单击“确定”。 将模块重命名为“获取赞助商名称”。
 
-   ![设置获取变量图像8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
+   ![Set Get variables图像8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
-1. 返回“发送电子邮件”模块，并将“获取赞助商名称”模块中的值映射到内容字段。 单击确定。
+1. 返回发送电子邮件模块，并将获取赞助者名称模块中的值映射到内容字段。 单击“确定”。
 
-   ![设置获取变量图像8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
+   ![Set Get variables图像8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
    >[!IMPORTANT]
    >
-   >在测试此方案之前，我们建议限制您处理的项目数量，以避免收到大量电子邮件。
+   >在测试场景之前，我们建议限制您处理的项目数量以避免收到大量电子邮件。
 
-1. 转到您的Workfront试车，找到北星时尚参展商展位项目。 这是一个有赞助商的项目。 从URL复制项目ID。
+1. 转到Workfront试用版，然后找到Northstar Fashion Exhibitors Booth项目。 这是当前项目的一个发起人。 从URL复制项目ID。
 
-   ![设置获取变量图像10](../12-exercises/assets/set-get-variables-walkthrough-10.png)
+   ![Set Get variables图像10](../12-exercises/assets/set-get-variables-walkthrough-10.png)
 
-1. 在方案中，单击查找当前项目模块。 通过单击绿色的“添加与规则”按钮，向搜索标准添加其他条件。 指定ID必须等于您复制的项目ID。 单击确定。
-1. 保存方案并单击运行一次。
-1. 检查执行检查员和您收到的电子邮件。
+1. 在您的场景中，单击查找当前项目模块。 通过单击绿色的“添加AND规则”按钮，将另一个条件添加到搜索条件中。 指定ID必须与复制的项目ID相同。 单击“确定”。
+1. 保存方案，然后单击运行一次。
+1. 检查执行检查员以及您收到的电子邮件。
 
-   ![设置获取变量图像11](../12-exercises/assets/set-get-variables-walkthrough-11.png)
+   ![Set Get variables图像11](../12-exercises/assets/set-get-variables-walkthrough-11.png)

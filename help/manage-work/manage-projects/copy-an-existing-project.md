@@ -1,6 +1,6 @@
 ---
 title: 复制现有项目
-description: 了解如何复制现有项目。
+description: 了解如何制作现有项目的副本。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,9 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10155
+jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 0%
@@ -19,14 +19,14 @@ ht-degree: 0%
 
 # 复制现有项目
 
-有时，您只需复制项目以供另一次使用，而无需使用模板来创建项目。 要实现此目的，您必须具有计划许可证，并具有项目的编辑和创建访问权限。
+有时，您只需要复制一个项目以供另一次使用，而不是使用模板来创建项目。 为此，您必须拥有计划许可证，并具有对项目的编辑和创建访问权限。
 
-导航到要复制的项目，然后单击项目名称旁边的3个圆点菜单。 然后选择复制。
+导航到要复制的项目，然后单击项目名称旁边的3点菜单。 然后选择“复制”。
 
 ![Cr](assets/copy-existing-01.png)
 
-通过“复制项目”窗口，您可以更改标题和状态，并清除与项目关联的各种数据（如分配、文档和自定义数据等选项）。
+“复制项目”窗口允许您更改标题和状态，以及清除与项目相关的各种数据，例如分配、文档和自定义数据等选项。
 
 ![Cr](assets/copy-existing-02.png)
 
-选择“清除分配”和/或将状态设置为“计划”可阻止复制的项目在复制后立即发出任务分配通知。
+选择“清除分配”和/或将“状态”设置为“计划”，可防止复制后的项目在复制后立即发送任务分配通知。

@@ -8,10 +8,10 @@ level: Beginner
 activity: deploy
 type: Tutorial
 thumbnail: 335081.jpeg
-kt: 8767
+jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -20,12 +20,12 @@ ht-degree: 0%
 
 # 自定义 [!UICONTROL Home] 使用布局模板
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 导航到 [!UICONTROL Home] 设置
 * 编辑全局设置
 * 自定义 [!UICONTROL Home] 使用布局模板
-* 从 [!UICONTROL Home]
+* 从删除项目 [!UICONTROL Home]
 * 将项目添加到 [!UICONTROL Home]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)

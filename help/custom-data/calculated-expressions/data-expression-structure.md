@@ -8,10 +8,10 @@ level: Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335174.png
-kt: 8911
+jira: KT-8911
 exl-id: 9696c36a-ffde-491c-a8c2-12f20f6bc374
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '34'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # 了解数据表达式结构
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
 * 在中构建表达式时使用的标准元素 [!DNL Workfront]
 

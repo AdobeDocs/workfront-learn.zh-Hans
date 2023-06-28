@@ -7,17 +7,17 @@ role: Admin, Leader, User
 level: Beginner, Intermediate
 activity: use
 team: Technical Marketing
-kt: 8908
+jira: KT-8908
 hidefromtoc: true
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# 自定义表单课程介绍
+# 自定义表单课程简介
 
-在此视频中，您将了解自定义表单是什么，以及如何使用它们捕获特定于组织的信息。
+在本视频中，您将了解什么是自定义表单以及如何使用它们捕获特定于组织的信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on)

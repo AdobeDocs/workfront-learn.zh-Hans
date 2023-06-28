@@ -1,16 +1,16 @@
 ---
 title: 了解数组、集合和元素
-description: 了解如何将数据组织到数组、集合和元素中，以及如何在 [!DNL Adobe Workfront Fusion].
+description: 了解如何将数据组织到阵列、集合和元素中，以及如何使用简单和复杂的阵列，请参见 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 9057
+jira: KT-9057
 exl-id: 6c8f7a4d-ff38-4b3f-a12b-91349669cc52
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '62'
 ht-degree: 0%
@@ -19,10 +19,10 @@ ht-degree: 0%
 
 # 了解数组、集合和元素
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 数据如何通常组织为数组、集合和元素
-* 简单数组和复杂数组的区别
-* 如何使用简单而复杂的阵列
+* 数据通常如何组织到数组、集合和元素中
+* 简单阵列和复杂阵列的区别
+* 如何使用简单和复杂的阵列
 
 >[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on)

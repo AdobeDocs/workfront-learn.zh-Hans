@@ -1,6 +1,6 @@
 ---
-title: 了解过滤器的基本文本模式
-description: 了解什么是文本模式、什么是驼峰式大小写，以及在Workfront的报表过滤器中可以使用的一些基本的“即插即用”文本模式。
+title: 了解筛选器的基本文本模式
+description: 了解什么是文本模式、什么是驼峰式拼写以及可以在Workfront的报告过滤器中使用的一些基本“即插即用”文本模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -8,17 +8,17 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 9086
+jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 0%
 
 ---
 
-# 了解过滤器的基本文本模式
+# 了解筛选器的基本文本模式
 
 >[!IMPORTANT]
 >
@@ -28,26 +28,24 @@ ht-degree: 0%
 >* 了解报表组件
 >* 创建基本过滤器
 
-
 >[!TIP]
 >
->* 为了更深入地了解文本模式，我们建议您观看录制的网络研讨会活动 [咨询专家 — 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，长度为一小时。
->* 要进一步了解文本模式，我们建议您在 [高级报表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，总共需要五个半小时。
+>* 要更深入地了解文本模式，我们建议您观看录制的网络研讨会活动 [咨询专家 — 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，时长为一小时。
+>* 要进一步了解文本模式，我们建议您查看 [高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，总时长为5.5小时。
 
 
-
-在此视频中，您将学习：
+在本视频中，您将了解：
 
 * 什么是文本模式
-* 骆驼的病是什么
-* 您可以在报表过滤器中使用一些基本的“即插即用”文本模式
+* 什么是驼峰式的
+* 您可以在报表过滤器中使用的一些基本“即插即用”文本模式
 
 >[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 
-## 任务 — 筛选我标记为“完成部分”的任务
+## 任务 — 筛选出我已标记“已完成我的部分”的任务
 
-以下文本模式将排除用户标记为“完成我的部件”的任务。 您只需创建一个任务过滤器，添加所需的任何过滤器规则，然后切换到文本模式，并在过滤器中看到的任何文本模式之后粘贴下面的代码。
+以下文本模式将排除用户已标记“已完成我的部件”的任务。 您只需创建一个任务过滤器，添加所需的任何过滤器规则，然后切换到文本模式，并将代码粘贴到您在过滤器中看到的任何文本模式之后。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -68,7 +66,7 @@ currentUserApproversMM_Join=allowingnull
 
 ## 任务 — 显示我已批准的所有任务
 
-创建包含您想要的任何过滤器的任务报告，然后转到过滤器选项卡并单击切换到文本模式。 将此代码添加到任何已存在的代码中：
+创建包含所需过滤器的任务报告，然后转到“过滤器”选项卡，并单击“切换到文本模式”。 将此代码添加到已有的任何代码中：
 
 ```
 approvalProcessID_Mod=notblank
@@ -86,7 +84,7 @@ predecessorsMM:projectID_Mod=ne
 
 ## 任务 — 显示我分配给其他人的所有任务
 
-创建包含您想要的任何过滤器的任务报告，然后转到过滤器选项卡并单击切换到文本模式。 将此代码添加到任何已存在的代码中：
+创建包含所需过滤器的任务报告，然后转到“过滤器”选项卡，并单击“切换到文本模式”。 将此代码添加到已有的任何代码中：
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN
@@ -94,17 +92,9 @@ EXISTS:1:taskID=FIELD:ID
 EXISTS:1:assignedByID=$$USER.ID
 ```
 
-这将显示登录用户分配了至少一个当前受分配者的所有任务。 如果受分配人由多个人分配，则任务登录页面上只有分配了某人的第一个人的姓名将显示为“请求者”。
+这将显示登录用户至少分配了一个当前被分配人的所有任务。 如果被分配人是由多个人员分配的，则仅分配人员的第一个人员的姓名将在任务登陆页面上显示为“请求者”。
 
-## 任务 — 显示所有已完成的任务 — 待批准
-
-```
-status=CPL:A
-status_Mod=in
-```
-
-
-## 问题 — 显示所有已完成的问题 — 待批准
+## 任务 — 显示已完成 — 未决批准的所有任务
 
 ```
 status=CPL:A
@@ -112,7 +102,7 @@ status_Mod=in
 ```
 
 
-## 项目 — 显示所有已完成的项目 — 待批准
+## 问题 — 显示所有已完成的问题 — 未决批准
 
 ```
 status=CPL:A
@@ -120,7 +110,15 @@ status_Mod=in
 ```
 
 
-## 注意 — 显示我标记的所有评论
+## 项目 — 显示所有已完成 — 未决批准的项目
+
+```
+status=CPL:A
+status_Mod=in
+```
+
+
+## 注意 — 显示我已标记的所有评论
 
 ```
 tags:userID=$$USER.ID
@@ -128,7 +126,7 @@ tags:userID_Mod=in
 ```
 
 
-## 参数/自定义字段报表 — 显示未附加到自定义表单的自定义字段（在清理工作中非常有用）
+## 参数/自定义字段报告 — 显示未附加到自定义表单的自定义字段（在清理工作中非常有用）
 
 ```
 EXISTS:A:$$EXISTSMOD=NOTEXISTS

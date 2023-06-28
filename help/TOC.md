@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 42e75991ea78bfa8959158f9f3fd9a69e8ce0829
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '2322'
+source-wordcount: '2332'
 ht-degree: 2%
 
 ---
@@ -187,6 +187,9 @@ ht-degree: 2%
       + [更新并查看财务](manage-work/project-finances/update-and-review-finances.md)
       + [查找财务信息](manage-work/project-finances/find-financial-information.md)
       + [了解多个记帐费率](manage-work/project-finances/multiple-billing-rates.md)
+
+   + 中间项目 {#intermediate-projects}
+      + [了解和管理持续时间类型和任务限制](manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 
 
 + 报告 {#reporting}
@@ -466,7 +469,7 @@ ht-degree: 2%
       + [使用JSON](fusion/12-exercises/working-with-json.md)
       + [开发工具](fusion/12-exercises/devtool.md)
 
-+ Workfront 校样 {#workfront-proof}
++ Workfront 验证 {#workfront-proof}
    + [了解验证的好处](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [了解文档与验证之间的区别](workfront-proof/document-vs-proof.md)
    + [校对查看者介绍](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -616,7 +619,7 @@ ht-degree: 2%
    + [预览沙盒](best-practices/preview-sandbox-bp.md)
    + [项目、任务和问题偏好设置](best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](best-practices/project-templates-bp.md)
-   + [Workfront 校样](best-practices/proofing-bp.md)
+   + [Workfront 验证](best-practices/proofing-bp.md)
    + [请求队列](best-practices/request-queues-bp.md)
    + [资源规划程序](best-practices/resource-planner-bp.md)
    + [资源池](best-practices/resource-pools-bp.md)

@@ -1,6 +1,6 @@
 ---
-title: 完成批准
-description: 了解如何识别未完成的批准并解决它们，以便在 [!DNL  Workfront].
+title: 完成审批
+description: 了解如何识别未完成的批准并解决它们，以便您能够在以下位置关闭项目： [!DNL  Workfront].
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,27 +8,27 @@ thumbnail: complete-approvals.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-kt: 10134
+jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
 
-# 完成批准
+# 完成审批
 
-任务和问题审批是许多工作流的一部分。 但是，未解决的审批可能会阻止您将项目状态设置为“完成”。
+任务和问题审批是许多工作流的一部分。 但是，未解析的批准可能会阻止您将项目状态设置为“完成”。
 
-在 [!UICONTROL Task] ，请选择 [!UICONTROL View] 包括 [!UICONTROL Status] 列。 快速查看该列将显示是否对具有“[!UICONTROL -approval pending]“ ”。
+在 [!UICONTROL Task] 部分，请选择 [!UICONTROL View] 其中包括 [!UICONTROL Status] 列。 快速浏览该列将显示对具有&#39;&#39;的任务是否未完成批准[!UICONTROL -approval pending]”在状态名称之后。
 
-![显示完成审批的项目](assets/planner-fund-approval-pending.png)
+![显示未完成审批的项目](assets/planner-fund-approval-pending.png)
 
-您可以选择以下操作：
+有几个选项可供您选择：
 
-* **完成批准 —** 这可能意味着提醒其他人尚未批准。 通过进行更新以执行此操作 [!DNL Workfront]. 根据您的 [!DNL Workfront] 权限，则您可能能够自行完成批准。
-* **删除批准 —** 如果不需要批准，则只删除它可能会更容易。 您的能力取决于您的 [!DNL Workfront] 权限。
-* **更改状态 —** 选择未附加批准的状态。 只需确保状态等于“Complete”。
+* **完成审批 —** 这可能意味着提醒其他人注意未获批准。 通过更新执行此操作 [!DNL Workfront]. 根据您的 [!DNL Workfront] 权限，您可以自行完成审批。
+* **删除审批 —** 如果不需要批准，则只删除它可能会更容易。 您能否做到这一点取决于您的 [!DNL Workfront] 权限。
+* **更改状态 —** 选择未附加审批的状态。 只需确保状态等于“完成”。
 
-如果贵组织在项目期间使用问题来跟踪问题、更改订单或其他事件，请按照 [!UICONTROL Issues] 的子代。
+如果您的组织在项目期间使用问题来跟踪问题、更改单或其他事件，请遵循上的相同步骤 [!UICONTROL Issues] 部分。

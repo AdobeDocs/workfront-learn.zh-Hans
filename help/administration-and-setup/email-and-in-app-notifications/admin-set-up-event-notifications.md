@@ -8,9 +8,9 @@ team: Technical Marketing
 role: Admin
 level: Intermediate
 thumbnail: 10093.jpeg
-kt: 10093
+jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
-source-git-commit: 1f7a4da813805691fc0e52d3ad1ea708f9e07a9a
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '520'
 ht-degree: 0%
@@ -29,66 +29,66 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->由于分阶段推出，系统和组管理员管理事件通知的功能暂时不适用于某些人员 [!DNL Workfront] 客户。 有关此版本的更新，请阅读本文：解锁组事件通知的配置。
+>由于分阶段推出，某些用户暂时无法使用系统和组管理员管理事件通知的功能 [!DNL Workfront] 客户。 有关版本：解锁组事件通知的配置，请参阅本文。
 
 系统管理员确定用户应通过接收哪些通知 [!DNL Workfront].
 
-![[!UICONTROL Email Notifications] 窗口 [!UICONTROL Setup] 面积](assets/admin-fund-notifications-1.png)
+![[!UICONTROL Email Notifications] 中的窗口 [!UICONTROL Setup] 区域](assets/admin-fund-notifications-1.png)
 
-的 [!UICONTROL Event Notifications] 列表按类型分组。 对于列出的每个事件通知，您将看到五条信息：
+此 [!UICONTROL Event Notifications] 列表按类型分组。 对于列出的每个事件通知，您将看到五项信息：
 
-* **[!UICONTROL Active]—** 的 [!UICONTROL Active] 列中，您可以在系统范围内打开或关闭通知。
-* **[!UICONTROL Name]—** 这是 [!DNL Workfront].
-* **[!UICONTROL Description]—** 该描述简要说明了为触发通知而采取了哪些操作，或在收到通知时需要采取哪些操作。
-* **[!UICONTROL Email Subject]—** 向用户发送电子邮件时，主题行中将向用户显示的内容。
-* **[!UICONTROL Group Access]—** 解锁通知，以便群组管理员可以管理这些通知。
+* **[!UICONTROL Active]—** 此 [!UICONTROL Active] 列允许您在系统范围级别打开或关闭通知。
+* **[!UICONTROL Name]—** 这是中通知的名称 [!DNL Workfront].
+* **[!UICONTROL Description]—** 描述简要说明了触发通知时执行的操作或接收通知时需要执行的操作。
+* **[!UICONTROL Email Subject]—** 将电子邮件发送给用户时，在主题行中向用户显示的内容。
+* **[!UICONTROL Group Access]—** 解锁通知，以便组管理员可以管理这些通知。
 
 ## 打开通知
 
-要在全局系统级别管理通知，请确保搜索栏显示 [!UICONTROL System Event Notifications].
+要在全局系统级别管理通知，请确保搜索栏中显示 [!UICONTROL System Event Notifications].
 
-通过单击切换按钮打开特定通知，使其可供所有用户使用，以使蓝色显示。 如果蓝色被隐藏，则通知关闭。
+打开特定通知，通过单击切换按钮使其对所有用户都可用，从而显示蓝色。 如果蓝色处于隐藏状态，则通知处于关闭状态。
 
-![[!UICONTROL Active] 列 [!UICONTROL Email Notifications] 页面](assets/admin-fund-notifications-2.png)
+![[!UICONTROL Active] 列于 [!UICONTROL Email Notifications] 页面](assets/admin-fund-notifications-2.png)
 
-打开事件通知后，即会在事件发生时立即发送消息。
+打开事件通知后，将在事件发生时立即发送消息。
 
 ## 允许组管理员控制
 
-系统管理员可以根据其组和子组的工作方式及其工作流程，为群组管理员授予进一步自定义通知列表的权限。
+系统管理员可以向组管理员授予权限，以便根据其组和子组的运作方式及其工作流程进一步自定义通知列表。
 
-![[!UICONTROL Group Access] 列 [!UICONTROL Email Notifications] 页面](assets/ganotifications_01.png)
+![[!UICONTROL Group Access] 列于 [!UICONTROL Email Notifications] 页面](assets/ganotifications_01.png)
 
 要让组管理员能够管理其组和子组的通知，需要解锁系统级通知。
 
-* 导航到“电子邮件通知”页面的事件通知选项卡。
+* 导航到“电子邮件通知”页的“事件通知”选项卡。
 
 * 确保搜索栏显示“系统事件通知”。
 
-* 通过单击“组访问”列中的切换开关，为所有组管理员解锁单个通知，以使蓝色显示。
+* 通过单击“组访问”列中的切换，使蓝色显示，可解锁所有组管理员的单个通知。
 
-* 通过选中每个通知左侧的框并单击列表上方工具栏中的解锁图标，一次解锁多个通知。
+* 选中每个通知左侧的框，然后单击列表上方工具栏中的解锁图标，可一次性解锁多个通知。
 
-![[!UICONTROL Group Access] 列 [!UICONTROL Email Notifications] 页面](assets/ganotifications_02.png)
+![[!UICONTROL Group Access] 列于 [!UICONTROL Email Notifications] 页面](assets/ganotifications_02.png)
 
-通过单击切换锁定已解锁通知，使灰色显示。 通过选中复选框并单击工具栏中的解锁图标，可同时锁定多个通知。
+通过单击切换开关锁定解锁的通知，使灰色显示。 通过选中复选框并单击工具栏中的解锁图标，同时锁定多个通知。
 
-![[!UICONTROL Group Access] 列 [!UICONTROL Email Notifications] 页面](assets/ganotifications_03.png)
+![[!UICONTROL Group Access] 列于 [!UICONTROL Email Notifications] 页面](assets/ganotifications_03.png)
 
-顶层组管理员将显示解锁通知，以确定其组和子组是否需要该通知。 子组将从其顶部父组继承通知配置。 ﻿
+将为顶级组管理员显示解锁的通知，以确定其组和子组是否需要该通知。 子组从其顶级父组继承通知配置。 ﻿
 
 
 ## 管理组通知
 
-系统管理员具有解锁通知选项后，群组管理员可以通过单击左侧面板菜单中的事件通知，从单个群组页面管理群组的通知。 然后，您可以激活或停用通知选项。
+系统管理员解锁通知选项后，组管理员可以通过单击左侧面板菜单中的“事件通知”，从单独的“组”页面管理组的通知。 然后，您可以激活或取消激活通知选项。
 
-![[!UICONTROL Group Access] 列 [!UICONTROL Email Notifications] 页面](assets/managegroupnotifications_01.png)
+![[!UICONTROL Group Access] 列于 [!UICONTROL Email Notifications] 页面](assets/managegroupnotifications_01.png)
 
-如果需要，系统管理员可以通过在窗口顶部的搜索栏中输入组名称，从“通知”页面管理组的通知。
+如果需要，系统管理员可以通过在窗口顶部的搜索栏中输入组名称来从“通知”页面管理组通知。
 
-![[!UICONTROL Group Access] 列 [!UICONTROL Email Notifications] 页面](assets/managegroupnotifications_02.png)
+![[!UICONTROL Group Access] 列于 [!UICONTROL Email Notifications] 页面](assets/managegroupnotifications_02.png)
 
-## 专业技巧
+## 专业提示
 
 有一些通知 [!DNL Workfront] 建议向用户提供。
 
@@ -100,7 +100,7 @@ add URL link in the note at the top of the LP
 * [!UICONTROL The due date changes on a task I’m assigned to]
 
 
-具体针对项目经理：
+具体到项目经理：
 
 * [!UICONTROL A project I’m on becomes active]
 * [!UICONTROL A project I own gets behind]

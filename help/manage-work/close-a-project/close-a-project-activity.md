@@ -1,6 +1,6 @@
 ---
 title: 关闭项目活动
-description: 查找您在培训期间练习的Workfront项目，并准备将其关闭。
+description: 查找您在培训期间一直在练习的Workfront项目，并准备好将其关闭。
 activity: use
 feature: Work Management
 thumbnail: close-a-project-activity.png
@@ -8,8 +8,9 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: null
-source-git-commit: e81ba47db087aa33510ddfa13ab8e5d4ef329d00
+jira: KT-null
+exl-id: ffbe2169-d475-4907-a78f-5c092b923900
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '182'
 ht-degree: 0%
@@ -18,20 +19,18 @@ ht-degree: 0%
 
 # 关闭项目活动
 
-查找您在培训期间练习的Workfront项目，并准备将其关闭。 完成以下Workfront步骤：
+查找您在培训期间一直在练习的Workfront项目，并准备好将其关闭。 完成以下Workfront步骤：
 
-* 完成任务和问题
-* 解决批准
+* 关闭任务和问题
+* 解决审批
 * 上传文档
 * 查看记录的小时数（如果适用）
 * 审阅财务资料（如适用）
 * 更改项目状态
 
-与您的经理或内部Workfront团队联系，了解在组织中关闭项目时应遵循哪些步骤。 这些步骤中哪些步骤位于Workfront? 谁在Workfront外？
+请与经理或Workfront内部团队联系，了解在组织内完成项目时应遵循的步骤。 Workfront中包含以下哪些步骤？ 哪些位于Workfront之外？
 
-作为项目经理，举行“经验教训”会议可提供宝贵的信息。
+作为项目经理，举办“经验教训”课程可提供宝贵的信息。
 
-* 想想你在过去一年中管理过的一些项目。 您会提出哪些类型的问题，或在“总结的经验教训”课程中收集哪些信息？
-* 决定是否要将“汲取的教训”纳入您的项目。 那就决定怎么办。 例如，您可以做一些非正式的事情，例如与您的团队快速对话。 或者，也可以将其构建到您的项目计划中。
-
-
+* 想一想您去年管理的一些项目。 在“经验教训”课程中，您会问哪些类型的问题或收集哪些信息？
+* 决定是否要将“经验教训”纳入您的项目。 然后决定如何操作。 例如，您可以做一些非正式的事情，例如与团队快速对峙。 或者，它可以内置到您的项目计划中。

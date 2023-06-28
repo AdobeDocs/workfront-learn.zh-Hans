@@ -1,6 +1,6 @@
 ---
 title: 了解请求队列
-description: 了解请求队列的结构 [!DNL  Workfront] 以及如何提交请求。
+description: 了解请求队列的结构方式 [!DNL  Workfront] 以及如何提交请求。
 activity: use
 feature: Work Management
 type: Tutorial
@@ -8,10 +8,10 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335220.jpeg
-kt: 8957
+jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
@@ -20,43 +20,43 @@ ht-degree: 0%
 
 # 了解请求队列
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
 * 如何通过 [!DNL  Workfront] 请求队列
 * 请求队列的结构方式
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
-## 自动请求草稿保存
+## 自动保存请求草稿
 
-开始填写请求表时， [!DNL Workfront] 在填写后自动保存草稿 [!UICONTROL Subject] 字段。 这意味着如果您需要从 [!UICONTROL Requests] 区域以执行其他操作，或者如果需要在请求中暂停以收集更多信息，请执行此操作。
+当你开始填写申请表时， [!DNL Workfront] 填写草稿后会自动保存草稿 [!UICONTROL Subject] 字段。 这意味着如果您需要导航离开 [!UICONTROL Requests] 区域执行其他操作，或者如果您需要在请求中途暂停以收集更多信息。
 
-您将在窗口顶部看到草稿已保存的指示。 [!DNL Workfront] 即使尚未填写必填字段，也会保存您请求的草稿。
+您将在窗口顶部看到草稿已保存的指示。 [!DNL Workfront] 将保存请求的草稿，即使尚未填写必填字段也是如此。
 
 ![创建请求草稿的图像](assets/queue-mgt-make-a-request-draft-1.png)
 
-准备好提交请求后，请在 [!UICONTROL Drafts] 选项卡。 单击名称以将其打开，然后完成表单的填写。 然后，单击 [!UICONTROL Submit Request] 等你完事了。
+当您准备好提交请求时，请在 [!UICONTROL Drafts] 选项卡。 单击名称以将其打开，并完成表单填写。 然后单击 [!UICONTROL Submit Request] 等你完事了。
 
 ![回顾请求草稿的图像](assets/queue-mgt-make-a-request-draft-2.png)
 
-## 该你了
+## 轮到你了
 
-让我们花一分钟时间来回顾一下您刚才呈现的信息。
+让我们花点时间回顾一下您刚才介绍的信息。
 
-**问题：** 如何在Workfront提出请求？ 按顺序列出步骤。
+**问题：** 如何在Workfront中提出请求？ 按顺序列出各个步骤。
 
-* 选择您需要发出的请求类型
-* 单击Submit request
-* 填写表格上的信息
-* 单击“New Request”
+* 选择您需要创建的请求类型
+* 单击提交请求
+* 填写表单上的信息
+* 单击“新建请求”
 * 导航到请求区域
 
 
-**答案：** 导航到请求区域>单击新建请求>选择您需要发出的请求类型>填写有关表单的信息>单击提交请求
+**回答：** 导航到请求区域>单击新建请求>选择您需要创建的请求类型>在表单上填写信息>单击提交请求
 
 **问题：** 请求实际上是……
 
-**答案：** 问题
+**回答：** 问题
 
 <!---
 You can also access request drafts from the [!UICONTROL Select a Request Type] menu at the top of the window. Select an option from the [!UICONTROL Recent Drafts] section, or start a new request by picking a queue from the [!UICONTROL New Requests] section. Fill everything out like normal, then submit the request.

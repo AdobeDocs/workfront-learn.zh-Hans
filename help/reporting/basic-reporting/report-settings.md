@@ -1,6 +1,6 @@
 ---
 title: 了解报表设置
-description: 了解如何访问Workfront报表设置以及一些常用报表设置的用途。
+description: 了解如何访问Workfront报表设置以及一些常见报表设置的作用。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -8,10 +8,10 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335159.png
-kt: 8871
+jira: KT-8871
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -20,9 +20,9 @@ ht-degree: 0%
 
 # 了解报表设置
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
 * 如何访问报表设置
-* 一些常用报表设置用于
+* 一些常见报表设置的用途
 
 >[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on)

@@ -9,12 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
-kt: 8854
+jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: f7e6fa6a728699c307fbba926d1bdaa697ba4894
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: '538'
 ht-degree: 0%
 
 ---
@@ -87,3 +87,45 @@ ht-degree: 0%
 1. 单击 **[!UICONTROL Save]**.
 
 ![使用里程碑视图的任务列表图像](assets/view-milestone-exercise-2.png)
+
+## 活动3：创建持续时间类型和任务约束视图
+
+通过此视图，您可以检查和编辑项目中的所有持续时间类型和任务限制。
+
+创建一个名为“持续时间类型和任务约束视图”的任务视图，该视图包含以下列：
+
+* [!UICONTROL Task Name]
+* [!UICONTROL Assignments]
+* [!UICONTROL Duration]
+* [!UICONTROL Planned Duration]
+* [!UICONTROL Pln Hrs]
+* [!UICONTROL Predecessors]
+* [!UICONTROL Start On]
+* [!UICONTROL Due On]
+* [!UICONTROL Duration Type]
+* [!UICONTROL Task Constraint]
+* [!UICONTROL Constraint Date]
+
+更改 [!UICONTROL Field Format] 在 [!UICONTROL Start On] 和 [!UICONTROL Due On] 列来同时显示日期和时间。
+
+## 活动3答案
+
+![显示持续时间类型和任务限制视图的屏幕图像](assets/view-activity-3.png)
+
+1. 在项目任务列表中，转到 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**.
+1. 将视图命名为“持续时间类型和任务限制视图”。
+1. 删除 [!UICONTROL % Complete] 列。
+1. 单击 **[!UICONTROL Add Column]**.
+1. 在 [!UICONTROL Show in this column] 字段，类型 [!UICONTROL "duration"] 然后选择 [!UICONTROL "Planned Duration"] 在 [!UICONTROL Task] 字段源。
+1. 将此列移动到 [!UICONTROL Duration] 和 [!UICONTROL Pln Hrs] 列。
+1. 单击 **[!UICONTROL Add Column]** 再来一次。
+1. 在 [!UICONTROL Show in this column] 字段，类型 [!UICONTROL "duration type"] 然后选择 [!UICONTROL "Duration Type"] 在 [!UICONTROL Task] 字段源。
+1. 单击 **[!UICONTROL Add Column]** 再来一次。
+1. 在 [!UICONTROL Show in this column] 字段，类型 [!UICONTROL "constraint"] 然后选择 [!UICONTROL "Task Constraint"] 在任务字段源下。
+1. 单击 **[!UICONTROL Add Column]** 再来一次。
+1. 在 [!UICONTROL Show in this column] 字段，类型 [!UICONTROL "constraint"] 然后选择 [!UICONTROL "Constraint Date"] 在任务字段源下。
+1. 选择 [!UICONTROL Start On] 列，然后单击 [!UICONTROL Advanced Options].
+1. 在 [!UICONTROL Field Format] 下拉选择 [!UICONTROL "10/17/60 3:00 AM"].
+1. 选择 [!UICONTROL Due On] 列，然后单击 [!UICONTROL Advanced Options].
+1. 在 [!UICONTROL Field Format] 下拉选择 [!UICONTROL "10/17/60 3:00 AM"].
+1. 单击 **[!UICONTROL Save]**.

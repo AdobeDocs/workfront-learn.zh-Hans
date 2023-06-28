@@ -1,26 +1,26 @@
 ---
-title: 更新 [!DNL Workfront Goals]
-description: 了解如何在 [!DNL Workfront Goals].
+title: 更新中的结果和活动的进度 [!DNL Workfront Goals]
+description: 了解如何更新中的结果和活动的进度 [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8924
+jira: KT-8924
 exl-id: c535cb38-bc33-403c-a9a0-3333d715eb14
 doc-type: video
-source-git-commit: 36c13f5b6d5d2cbf6143d659861a7988153aeb7e
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# 更新成果和活动进展
+# 更新结果和活动的进度
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 更新成果和活动进展
+* 更新结果和活动的进度
 
 >[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on)

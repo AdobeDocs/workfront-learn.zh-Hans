@@ -1,27 +1,27 @@
 ---
 title: 了解中的用户配置文件和导航 [!UICONTROL Workfront DAM]
-description: 了解三者之间的差异 [!UICONTROL Workfront DAM] 用户配置文件和导航方式 [!UICONTROL Workfront DAM].
+description: 了解三者之间的区别 [!UICONTROL Workfront DAM] 用户配置文件和导航方式 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8992
+jira: KT-8992
 exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '37'
 ht-degree: 0%
 
 ---
 
-# 参与者：入门
+# 参与者：快速入门
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 三者之间的区别 [!UICONTROL Workfront DAM] 用户配置文件
+* 这三者之间的区别 [!UICONTROL Workfront DAM] 用户配置文件
 * 如何导航 [!UICONTROL Workfront DAM]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on)

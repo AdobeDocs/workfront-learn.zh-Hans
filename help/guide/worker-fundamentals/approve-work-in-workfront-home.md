@@ -1,25 +1,25 @@
 ---
-title: 在主页中批准工作
-description: 在此视频中，了解如何在工作列表中查找批准、批准或拒绝工作以及查看校样。
+title: 批准主页中的工作
+description: 在本视频中，了解如何在工作列表中查找批准、批准或拒绝工作以及查看验证。
 topic: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 335105.png
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 0%
 
 ---
 
-# 在主页中批准工作
+# 批准主页中的工作
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 在工作列表中查找批准
+* 在工作列表中查找审批
 * 批准或拒绝工作
-* 查看验证
+* 查看证明
 
 >[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on)

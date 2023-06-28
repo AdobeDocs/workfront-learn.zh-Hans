@@ -1,6 +1,6 @@
 ---
-title: 在 [!UICONTROL Enhanced Analytics]
-description: 了解如何快速了解员工在Workfront的每个项目中投入的时间。
+title: 深入了解中的导航 [!UICONTROL Enhanced Analytics]
+description: 了解如何快速查看工作人员在Workfront中为每个项目投入了多少时间。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -8,39 +8,39 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8733
+jira: KT-8733
 doc-type: video
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '225'
 ht-degree: 0%
 
 ---
 
-# 在 [!UICONTROL Enhanced Analytics]
+# 深入了解中的导航 [!UICONTROL Enhanced Analytics]
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 如何快速了解员工在每个项目中投入的时间
+* 如何快速查看工作人员投入到每个项目中的时间
 
 >[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on)
 
-## 审查项目逗留时间
+## 查看项目花费的时间
 
-利用项目树图，可了解用户为项目投入了多少时间。 框表示项目。 该框的大小显示与其他项目相比，在项目上花费的时间。 盒子越大，所花费的时间就越多。
+利用项目树状图，可了解用户为项目投入了多少时间。 框表示项目。 框的大小显示与其他项目相比，该项目花费了多少时间。 箱子越大，花费的时间就越多。
 
 查看此信息可帮助您确定：
 
-* 在选定日期范围内处理的项目的优先级。
-* 用户花时间的内容。
-* 如果用户关注正确的事情。
-* 选择特定项目后，该时间段内项目的范围发生了多大更改。
+* 所选日期范围内正在处理的项目的优先级。
+* 用户正在将时间花在哪些方面。
+* 用户是否关注正确的内容。
+* 选择特定项目时，项目范围在该时间段内的变化量。
 
-![显示项目树状图的图像，其中包含下面项目符号中描述的区域的数字](assets/section-2-7.png)
+![下图显示了一个项目树状图，其中包含下面项目符号中描述的区域上的数字](assets/section-2-7.png)
 
 在图表上，您可以看到：
 
-1. 在过滤时间内完成的项目会用较大的框和深蓝色表示。
-1. 在过滤时间内完成的项目会用较小的框和浅蓝色表示。
-1. 图表右侧的图例显示了每个蓝色阴影的已完成小时数范围。
+1. 在筛选时间内，已完成小时数较多的项目会用较大的框和深蓝色表示。
+1. 在过滤时间内，完成小时数较少的项目用较小的框和浅蓝色表示。
+1. 图表右侧的图例显示每种蓝色阴影的完成小时数范围。

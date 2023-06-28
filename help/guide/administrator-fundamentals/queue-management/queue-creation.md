@@ -1,13 +1,13 @@
 ---
 title: 队列创建
-description: 在此视频中，了解如何设置请求队列和建立队列详细信息。
+description: 在本视频中，了解如何设置请求队列和建立队列详细信息。
 topic: null
 activity: deploy
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
+jira: KT-Jira ticket
 role: Admin
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 0%
@@ -16,9 +16,9 @@ ht-degree: 0%
 
 # 队列创建
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 首先创建项目以创建请求队列
+* 通过首先创建项目来创建请求队列
 * 设置请求队列
 * 设置请求队列详细信息
 

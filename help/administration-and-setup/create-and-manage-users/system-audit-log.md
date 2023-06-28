@@ -1,6 +1,6 @@
 ---
 title: 了解系统审核日志
-description: 了解如何使用系统审核日志来审核更改的时间和项目的时间。
+description: 了解如何使用系统审核日志来查看何时对项目进行了更改以及何时对项目进行了更改。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -8,9 +8,9 @@ team: Technical Marketing
 role: Admin
 level: Beginner, Intermediate
 thumbnail: 10040.jpeg
-kt: 10040
+jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
-source-git-commit: adf12d7846d2a1b4c32513a3955c080905044576
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '247'
 ht-degree: 0%
@@ -19,17 +19,17 @@ ht-degree: 0%
 
 # 了解系统审核日志
 
-系统审核日志是系统管理员监视当前情况的最佳方法 [!DNL Workfront]. 请将日志视为您的真相来源，了解谁做出了什么更改以及何时做出了更改。
+系统审核日志是系统管理员监视当前状况的最佳方法 [!DNL Workfront]. 将日志视为由谁更改了哪些内容以及何时更改了哪些内容的真实来源。
 
-通过转到 [!UICONTROL Preferences] 部分 [!UICONTROL Setup] 的上界。 默认情况下，您会看到过去七天的数据。 更改筛选条件以查看不同日期范围中的数据。
+访问审核日志，方法是转到 [!UICONTROL Preferences] 中的部分 [!UICONTROL Setup] 区域。 默认情况下，您会看到过去七天的数据。 更改筛选条件以查看不同日期范围的数据。
 
-当用户执行某些操作时， [!UICONTROL Workfront] 记录在 [!UICONTROL Audit Logs] 部分 [!UICONTROL Setup] 的上界。
+当用户执行某些操作时， [!UICONTROL Workfront] 将它们记录在 [!UICONTROL Audit Logs] 部分 [!UICONTROL Setup] 区域。
 
-![[!UICONTROL Log Type] 下拉菜单 [!UICONTROL Audit Logs] 页面 [!UICONTROL Setup]](assets/admin-fund-audit-log-1.png)
+![[!UICONTROL Log Type] 上的下拉菜单 [!UICONTROL Audit Logs] 页面位置 [!UICONTROL Setup]](assets/admin-fund-audit-log-1.png)
 
 记录或记录的每个操作都会显示：
 
-* 更改的日期和时间
+* 更改日期和时间
 * 日志类型
 * 完成操作的用户的名称
 * 对象
@@ -40,11 +40,11 @@ ht-degree: 0%
 
 ## 导出审核日志
 
-通过导出审核日志数据，系统管理员可以与内部/外部审计员或安全专家共享该信息。 一些组织要求保留某些日志以遵守网络安全条例。 其他用户需要将信息导入安全系统进行分析。
+导出审核日志数据可让系统管理员与内部/外部审核员或安全专家共享信息。 有些组织要求保留某些日志，以遵守网络安全法规。 其他客户需要导入安全系统的信息进行分析。
 
-审核日志可以以CSV（以逗号分隔的值）文件导出，该文件可以打开到电子表格应用程序或纯文本编辑器中。 导出一次限制为50,000行，因此，如果总数超过50,000，请使用过滤器缩小列表范围。
+审核日志可导出为CSV（逗号分隔值）文件，该文件可在电子表格应用程序或纯文本编辑器中打开。 导出限制为一次最多50,000行，因此如果总数超过50,000，请使用过滤器缩小列表范围。
 
-![[!UICONTROL Export] 按钮 [!UICONTROL Audit Logs] 页面](assets/admin-fund-audit-log-3.png)
+![[!UICONTROL Export] 按钮打开 [!UICONTROL Audit Logs] 页面](assets/admin-fund-audit-log-3.png)
 
 <!---
 learn more URLs

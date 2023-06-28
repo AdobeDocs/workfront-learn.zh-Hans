@@ -1,25 +1,25 @@
 ---
-title: 向目标中添加结果
-description: 了解如何通过在 [!DNL Workfront Goals].
+title: 将结果添加到目标
+description: 了解如何通过添加结果来激活目标 [!DNL Workfront Goals].
 activity: use
 feature: Workfront Goals
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-kt: 8922
+jira: KT-8922
 exl-id: e54aa547-97d1-4603-bb63-503e605be408
 doc-type: video
-source-git-commit: 7a1211f0c8450845544dfdbf588864b96900c1f0
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# 向目标中添加结果
+# 将结果添加到目标
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 通过添加结果激活目标
 

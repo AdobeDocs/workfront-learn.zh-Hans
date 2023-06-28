@@ -1,6 +1,6 @@
 ---
-title: 在工作负载平衡器中分配工作
-description: 了解如何查看任务摘要面板并分配未分配的任务。
+title: 在工作负载均衡器中分配工作
+description: 了解如何查看任务摘要面板以及如何为未分配任务分配工作。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -8,10 +8,10 @@ level: Intermediate, Experienced
 activity: use
 team: Technical Marketing
 thumbnail: 335166.png
-kt: 8878
+jira: KT-8878
 exl-id: ec3dd98e-4944-4d6a-9936-be83c390fa2e
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 0%
@@ -20,10 +20,10 @@ ht-degree: 0%
 
 # 在中分配工作 [!DNL Workload Balancer]
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
 * 查看任务摘要面板以查看任务的详细信息
-* 为未分配的任务分配
+* 为未分配任务分配工作
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335166/?quality=12&learn=on)

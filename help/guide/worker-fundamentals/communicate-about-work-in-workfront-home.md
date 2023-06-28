@@ -1,22 +1,22 @@
 ---
-title: 在家中交流工作
-description: 在此视频中，了解如何通过工作分配的更新进行通信、在更新时标记用户以及回复现有更新。
+title: 传达有关家庭工作的信息
+description: 在本视频中，了解如何通过工作分配的更新进行交流、在更新上标记用户以及回复现有更新。
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
 
 ---
 
-# 在家中交流工作
+# 传达有关家庭工作的信息
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 通过工作任务的更新进行通信
+* 通过工作分派更新进行沟通
 * 在Workfront更新中标记用户
 * 回复现有更新
 

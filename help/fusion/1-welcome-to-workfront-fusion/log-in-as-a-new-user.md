@@ -7,9 +7,9 @@ type: Tutorial
 feature: Workfront Fusion
 role: User
 level: Beginner
-kt: 11036
+jira: KT-11036
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
-source-git-commit: 58a545120b29a5f492344b89b77235e548e94241
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '165'
 ht-degree: 0%
@@ -20,18 +20,18 @@ ht-degree: 0%
 
 当您作为新用户受邀加入Workfront Fusion实例时，您会收到两封电子邮件。
 
-一封电子邮件在Workfront Fusion系统管理员创建您的用户档案并邀请您加入组织时添加了注释。 电子邮件的底部是 [!UICONTROL Accept The Role] 按钮。 **还不要单击此按钮！**
+一封电子邮件包含了Workfront Fusion系统管理员在创建您的配置文件并邀请您加入组织时添加的注释。 电子邮件底部为 [!UICONTROL Accept The Role] 按钮。 **不要单击此按钮！**
 
 ![电子邮件邀请的图像](assets/new-user-1.png)
 
-其他电子邮件包含您的登录凭据。
+另一封电子邮件包含您的登录凭据。
 
 ![电子邮件邀请的图像](assets/new-user-2.png)
 
-要开始使用Workfront Fusion，请单击 [!UICONTROL Sign In] 按钮，然后使用提供的密码登录。
+要开始使用Workfront Fusion，请单击 [!UICONTROL Sign In] 按钮并使用提供的密码登录。
 
 首次登录后，系统会提示您更改密码。
 
-登录后，返回到另一封电子邮件，然后单击 [!UICONTROL Accept The Role] 按钮。
+登录后，返回另一封电子邮件并单击 [!UICONTROL Accept The Role] 按钮。
 
-完成此操作后，返回到Workfront Fusion并刷新页面。 现在，您可以在左侧面板中看到您的团队和概述部分。
+执行此操作后，返回到Workfront Fusion并刷新页面。 您现在可以看到您的团队和左侧面板中的概述部分。

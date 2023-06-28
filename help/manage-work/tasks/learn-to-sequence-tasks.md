@@ -1,6 +1,6 @@
 ---
-title: 了解如何排序任务
-description: 了解前身是什么以及它们如何在项目中排列任务。 然后，了解如何使用持续时间和前置时间来创建时间轴。
+title: 了解如何对任务进行排序
+description: 了解前置任务是什么，以及前置任务如何在项目中排序。 然后，学习使用持续时间和前置任务创建时间线。
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -8,23 +8,23 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
-kt: 8778
+jira: KT-8778
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 0%
 
 ---
 
-# 了解如何排序任务
+# 了解如何对任务进行排序
 
-在此视频中，您将学习：
+在本视频中，您将了解：
 
-* 前身是什么 [!DNL  Workfront]
-* 前置任务如何对项目中的任务进行排序
-* 如何使用持续时间和前置时间表创建时间轴
+* 前置任务处于什么状态 [!DNL  Workfront]
+* 前置任务如何在项目中排列任务
+* 如何使用持续时间和前置任务创建时间线
 * 如何更改或输入前置任务
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)

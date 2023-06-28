@@ -1,11 +1,11 @@
 ---
 title: 计划小时数
-description: 在此视频中，了解Workfront中的计划时数、计划时数对项目的重要性，以及如何向任务添加计划时数
+description: 在本视频中，了解Workfront中的计划小时数、为什么计划小时数对您的项目很重要、如何向任务添加计划小时数
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 6%
@@ -14,10 +14,10 @@ ht-degree: 6%
 
 # 计划小时数
 
-在此视频中，您将学习如何：
+在本视频中，您将了解如何：
 
-* 在Workfront的计划时间
-* 为什么计划时间对您的项目很重要
+* Workfront中的计划小时数
+* 为什么计划的小时数对您的项目很重要
 * 如何向任务添加计划小时数
 
 >[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)

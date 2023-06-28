@@ -1,20 +1,20 @@
 ---
-title: 项目时间轴课程介绍
-description: 了解项目时间轴如何加快和标准化项目创建。
+title: 项目时间表课程简介
+description: 了解项目时间线如何加快项目创建速度并使之标准化。
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
-kt: Jira ticket
-source-git-commit: 650e4d346e1792863930dcebafacab4c88f2a8bc
+jira: KT-Jira ticket
+source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 0%
 
 ---
 
-# 项目时间表课程介绍
+# 项目时间表课程简介
 
-在此视频中，您将了解项目时间轴如何加快和标准化项目创建。
+在本视频中，您将了解项目时间线如何加快项目创建速度并使之标准化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on)
