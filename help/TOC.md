@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '2332'
+source-wordcount: '2335'
 ht-degree: 2%
 
 ---
@@ -120,7 +120,6 @@ ht-degree: 2%
       + [跟踪整个项目进度](manage-work/projects/track-overall-project-progress.md)
       + [使用项目量度跟踪工作进度](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [了解 [!UICONTROL Gantt] 视图](manage-work/projects/understand-the-gantt-view.md)
-      + [关闭项目](manage-work/projects/change-the-project-status.md)
 
    + 任务 {#tasks}
       + [创建任务](manage-work/tasks/how-to-create-tasks.md)
@@ -176,6 +175,7 @@ ht-degree: 2%
 
    + 关闭项目 {#close-a-project}
       + [关闭项目](manage-work/close-a-project/close-a-project-in-workfront.md)
+      + [将项目状态更改为“完成”](manage-work/projects/change-the-project-status.md)
       + [关闭任务和问题](manage-work/close-a-project/close-tasks-and-issues.md)
       + [完成审批](manage-work/close-a-project/complete-approvals.md)
       + [上传资产](manage-work/close-a-project/upload-assets.md)
@@ -469,7 +469,7 @@ ht-degree: 2%
       + [使用JSON](fusion/12-exercises/working-with-json.md)
       + [开发工具](fusion/12-exercises/devtool.md)
 
-+ Workfront 验证 {#workfront-proof}
++ Workfront 校样 {#workfront-proof}
    + [了解验证的好处](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [了解文档与验证之间的区别](workfront-proof/document-vs-proof.md)
    + [校对查看者介绍](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -619,7 +619,7 @@ ht-degree: 2%
    + [预览沙盒](best-practices/preview-sandbox-bp.md)
    + [项目、任务和问题偏好设置](best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](best-practices/project-templates-bp.md)
-   + [Workfront 验证](best-practices/proofing-bp.md)
+   + [Workfront 校样](best-practices/proofing-bp.md)
    + [请求队列](best-practices/request-queues-bp.md)
    + [资源规划程序](best-practices/resource-planner-bp.md)
    + [资源池](best-practices/resource-pools-bp.md)

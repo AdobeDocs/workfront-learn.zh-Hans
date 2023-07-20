@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 5d8337dc369c6e7c664f110235847737d342b2c7
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '193'
 ht-degree: 0%
 
 ---
@@ -29,6 +29,6 @@ ht-degree: 0%
 
 * **完成审批 —** 这可能意味着提醒其他人注意未获批准。 通过更新执行此操作 [!DNL Workfront]. 根据您的 [!DNL Workfront] 权限，您可以自行完成审批。
 * **删除审批 —** 如果不需要批准，则只删除它可能会更容易。 您能否做到这一点取决于您的 [!DNL Workfront] 权限。
-* **更改状态 —** 选择未附加审批的状态。 只需确保状态等于“完成”。
+* **更改状态 —** 选择未附加审批的状态。 只需确保状态等同于“完成”。
 
 如果您的组织在项目期间使用问题来跟踪问题、更改单或其他事件，请遵循上的相同步骤 [!UICONTROL Issues] 部分。
