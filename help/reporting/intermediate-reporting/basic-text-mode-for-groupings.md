@@ -2,7 +2,7 @@
 title: 了解分组的基本文本模式
 description: 了解什么是文本模式、什么是驼峰式拼写以及可以在Workfront中的分组中使用的一些基本“即插即用”文本模式。
 activity: use
-feature: Reports and Dashboards
+feature: Text Mode Reporting
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '283'
 ht-degree: 0%

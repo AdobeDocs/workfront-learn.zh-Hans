@@ -2,7 +2,7 @@
 title: 委派任务、问题和审批
 description: 了解如何将项目、任务、问题和工时记录卡的审批委派给其他Workfront用户。 还了解如何委派任务和问题分配。
 activity: use
-feature: Work Management
+feature: Approvals
 type: Tutorial
 role: User
 level: Intermediate
@@ -11,7 +11,7 @@ thumbnail: 336094.png
 jira: KT-8810
 exl-id: e89f0fdb-45ef-46b3-9845-3eebf774c25c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
 workflow-type: tm+mt
 source-wordcount: '315'
 ht-degree: 0%
