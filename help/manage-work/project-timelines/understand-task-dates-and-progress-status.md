@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '56'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,11 @@ ht-degree: 0%
 * 使用进度状态帮助您跟踪工作进度
 
 >[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on)
+
+>[!NOTE]
+>
+>如视频中所述，用户务必要将状态从 **[!UICONTROL New]** 到 **[!UICONTROL In Progress]** 当他们开始一项任务时 [!UICONTROL Actual Start Date] 都是正确的。 但如果他们在启动任务时忘记执行此操作，则可以返回并编辑 [!UICONTROL Actual Start Date] 随时。
+
 
 <!---
 Task progress status overview

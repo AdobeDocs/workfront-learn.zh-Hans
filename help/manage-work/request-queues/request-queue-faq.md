@@ -8,9 +8,9 @@ level: Beginner, Intermediate
 last-substantial-update: 2023-07-18T00:00:00Z
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: 3749de45d255e638d532131d38cba12c7f5d32f0
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '402'
 ht-degree: 0%
 
 ---
@@ -41,9 +41,9 @@ ht-degree: 0%
 
 如果从请求队列中打开请求，则可以在痕迹导航区域中单击项目名称。
 
-**我是否可以将请求自定义表单中的信息传输到项目？**
+**能否将信息从请求自定义表单传输到项目自定义表单？**
 
-是. 这包括创建自定义表单并选择两者 [!UICONTROL Issue] 和 [!UICONTROL Project] 对象类型。
+是. 创建自定义表单时，选择两者 [!UICONTROL Project] 和 [!UICONTROL Issue] 作为对象类型。 将自定义表单附加到请求。 将请求转换为项目时，自定义表单将自动附加到新项目，并且任何字段中包含的值将显示在请求和项目自定义表单中。
 
 **我在查看项目或任务报告。 如何才能找到此对象源自哪个请求？**
 

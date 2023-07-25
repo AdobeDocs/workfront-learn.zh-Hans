@@ -1,6 +1,6 @@
 ---
-title: 使用Adobe Workfront插件进行Creative Cloud
-description: 无需离开以下Adobe Creative Cloud应用程序，即可在Adobe Workfront中查找并更新分配给您的工作 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
+title: 使用Adobe Workfront插件与Creative Cloud集成
+description: 将Workfront与Creative Cloud集成，以查找和更新在Workfront中分配给您的工作，而无需离开以下Creative Cloud应用程序 — Photoshop、XD、InDesign、Illustrator、Premiere Pro和After Effects
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,16 +10,19 @@ team: Technical Marketing
 jira: KT-8811
 doc-type: video
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+badgeIntegration: label="集成" type="positive"
+feature-set: Workfront
+topic: Integrations
+source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
 workflow-type: tm+mt
-source-wordcount: '217'
+source-wordcount: '232'
 ht-degree: 0%
 
 ---
 
-# 使用Adobe Workfront插件进行Creative Cloud
+# 使用Adobe Workfront插件与Creative Cloud集成
 
-无需离开以下Adobe Creative Cloud应用程序，即可在Adobe Workfront中查找并更新分配给您的工作：
+将Workfront与Creative Cloud集成以查找和更新在Adobe Workfront中分配给您的工作，而无需离开以下Adobe Creative Cloud应用程序：
 
 * Photoshop
 * XD
