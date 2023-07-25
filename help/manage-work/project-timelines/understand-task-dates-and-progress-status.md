@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8782
 exl-id: 5504c294-80d4-4c37-8b41-9caf521cea27
 doc-type: video
-source-git-commit: ce2aad1cd0ecb7d568ed9a01d97147cbd126ca05
+source-git-commit: b26ce60a2cac197d19b48656fedaa2eb51c33657
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 0%
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->如视频中所述，用户务必要将状态从 **[!UICONTROL New]** 到 **[!UICONTROL In Progress]** 当他们开始一项任务时 [!UICONTROL Actual Start Date] 都是正确的。 但如果他们在启动任务时忘记执行此操作，则可以返回并编辑 [!UICONTROL Actual Start Date] 随时。
+>如视频中所述，用户务必要将状态从 **[!UICONTROL New]** 到 **[!UICONTROL In Progress]** 当他们开始一项任务时 [!UICONTROL Actual Start Date] 都将是正确的。 但如果他们在启动任务时忘记执行此操作，则可以返回并编辑 [!UICONTROL Actual Start Date] 随时。
 
 
 <!---
