@@ -1,6 +1,6 @@
 ---
 title: 了解视图的基本文本模式
-description: 了解什么是文本模式、什么是驼峰式拼写以及可以在Workfront的视图中使用的一些基本“即插即用”文本模式。
+description: 了解什么是文本模式、什么是驼峰式拼写以及可在Workfront的视图中使用的一些基本“即插即用”文本模式。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 078fa7b82919ada1dcf35791b43f996b875cbf8f
 workflow-type: tm+mt
-source-wordcount: '650'
+source-wordcount: '685'
 ht-degree: 0%
 
 ---
@@ -25,26 +25,26 @@ ht-degree: 0%
 >
 >先决条件：
 >
->* 了解报表元素
->* 了解报表组件
->* 创建基本视图
+>* [了解报表元素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=en)
+>* [了解报表组件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=en)
+>* [创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en)
 
 >[!TIP]
 >
 >* 要更深入地了解文本模式，我们建议您观看录制的网络研讨会活动 [咨询专家 — 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，时长为一小时。
->* 要进一步了解文本模式，我们建议您查看 [高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，总时长为5.5小时。
+>* 要了解有关文本模式的更多信息，我们建议您观看 [高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，共计五个半小时。
 
 在本视频中，您将了解：
 
 * 什么是文本模式
-* 什么是驼峰式的
+* 什么是驼峰式拼写
 * 您可以在视图中使用一些基本的“即插即用”文本模式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## 任务 — 4个父视图
 
-首先为“任务名称”和“父代名称”创建一列，然后使用以下文本模式创建其他三列。
+首先为“任务名称”和“父项名称”创建一列，然后使用以下文本模式创建其他三列。
 
 ### 任务 — 父级名称的父级
 
@@ -74,7 +74,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### 任务 — 父项名称的父项的父项
+### 任务 — 父项名称的父项父项
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -92,7 +92,7 @@ valueformat=HTML
 
 ## 用户 — 小版本在用户视图中显示列表
 
-### 用户 — 所有工作角色
+### 用户 — 所有职位角色
 
 ```
 displayname=All job roles
@@ -104,7 +104,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### 用户 — 显示主要角色的所有工作角色
+### 用户 — 所有显示主要工作角色的工作角色
 
 ```
 displayname=All Job Roles showing primary
@@ -130,7 +130,7 @@ valueformat=HTML
 
 >[!NOTE]
 >
->有一个“团队”字段可通过UI访问，该字段显示所有团队（以逗号分隔），但使用上面的文本模式会将每个团队单独显示在一行。
+>有一个团队字段可以通过UI访问，该字段显示所有团队（以逗号分隔），但使用上面的文本模式将在单独一行中显示每个团队。
 
 
 ### 用户 — 所有组
@@ -186,7 +186,7 @@ width=150
 
 ![显示“用户列表”视图的屏幕图像](assets/user-lists-view-large.png)
 
-## 任务 — 如何显示任务分配和处理状态
+## 任务 — 如何显示任务分配和工作状态
 
 ```
 displayname=Assignments and Status
@@ -205,7 +205,7 @@ width=150
 
 ## 任务 — 如何显示多个任务分配中的角色和分配
 
-### 任务 — 角色+小时
+### 任务 — 角色+小时数
 
 ```
 displayname=Role+hours
@@ -235,12 +235,19 @@ type=iterate
 
 ### 任务过滤器（可选）
 
-**显示至少具有一个跨项目前置任务的所有任务**
+**显示当前项目中具有至少一个跨项目前置任务或至少一个跨项目前置任务的所有任务**
 
 ```
 predecessorsMM:ID_Mod=notblank
 predecessorsMM:projectID=FIELD:projectID
 predecessorsMM:projectID_Mod=ne
+project:statusEquatesWith=CUR
+project:statusEquatesWith_Mod=in
+OR:1:project:statusEquatesWith=CUR
+OR:1:project:statusEquatesWith_Mod=in
+OR:1:successorsMM:ID_Mod=notblank
+OR:1:successorsMM:projectID=FIELD:projectID
+OR:1:successorsMM:projectID_Mod=ne
 ```
 
 ### 任务 — 显示前置任务名称和前置任务所在的项目
@@ -257,7 +264,7 @@ valueformat=HTML
 width=150
 ```
 
-### 任务 — 显示接替者名称和项目接替者位于
+### 任务 — 显示后续任务名称和项目后续任务位于
 
 ```
 displayname=Successor names
@@ -318,7 +325,7 @@ width=150
 ![显示跨项目前置任务和后续任务视图的屏幕图像](assets/cross-project-predecessors-and-successors.png)
 
 
-## 任务 — 显示所有已分配人员和已分配人员的迭代
+## 任务 — 显示所有已分配人员和每个已分配人员的迭代
 
 ```
 displayname=All assignees and requesters
@@ -330,7 +337,7 @@ valueexpression=CONCAT("Assigned To: ",{assignedTo}.{name},"; Requested By: ",{a
 valueformat=HTML
 ```
 
-![显示所有已分配人员和已分配人员的屏幕图像](assets/all-assignees-and-requesters.png)
+![显示所有已分配人员和每个人员的屏幕图像](assets/all-assignees-and-requesters.png)
 
 ## 任务/项目 — 显示项目或任务中所有自定义表单的迭代
 
@@ -347,7 +354,7 @@ valueformat=HTML
 ![显示项目中所有自定义表单的屏幕图像](assets/all-custom-forms-on-a-project.png)
 
 
-## 项目 — 迭代在项目视图中显示可解析项的所有主要联系人
+## 项目 — 显示项目视图中可解析项的所有主要联系人的迭代
 
 ```
 displayname=Requestor
@@ -394,7 +401,7 @@ valuefield=entryDate
 valueformat=HTML
 ```
 
-![显示项目所有可解决问题的输入日期的屏幕图像](assets/resolvables-entry-date.png)
+![显示项目所有可解决问题的entryDate的屏幕图像](assets/resolvables-entry-date.png)
 
 ## 项目 — 显示原始项目请求者的主组
 
