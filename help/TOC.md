@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 497e93fefedeb3c1c72838cb9c09f5f4d17fb0dd
+source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
 workflow-type: tm+mt
-source-wordcount: '2340'
+source-wordcount: '2349'
 ht-degree: 2%
 
 ---
@@ -28,13 +28,15 @@ ht-degree: 2%
       + [从回收站恢复对象](administration-and-setup/manage-deleted-items/restore-objects-from-the-recycle-bin.md)
 
    + 配置系统默认值 {#configure-system-defaults}
-      + [配置全局默认项目设置](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
+      + [创建和管理对象状态](administration-and-setup/configure-system-defaults/create-and-manage-object-statuses.md)
       + [了解默认问题类型](administration-and-setup/configure-system-defaults/default-issue-types.md)
       + [创建问题状态](administration-and-setup/configure-system-defaults/create-an-issue-status.md)
       + [创建系统范围问题状态](administration-and-setup/configure-system-defaults/customize-systemwide-issue-status.md)
+      + [创建和管理计划](administration-and-setup/configure-system-defaults/create-and-manage-schedules.md)
       + [创建和管理问题严重程度](administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [自定义问题类型和术语](administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [配置全局默认问题偏好设置](administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [配置全局默认项目设置](administration-and-setup/configure-system-defaults/configure-global-default-project-settings.md)
 
    + 布局模板 {#layout-templates}
       + [什么是布局模板？](administration-and-setup/layout-templates/what-are-layout-templates.md)
