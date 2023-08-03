@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2c0cbec8de35ef7d517e856a3080f2495bc41e7d
+source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
 workflow-type: tm+mt
-source-wordcount: '2349'
+source-wordcount: '2352'
 ht-degree: 2%
 
 ---
@@ -122,6 +122,7 @@ ht-degree: 2%
       + [跟踪整个项目进度](manage-work/projects/track-overall-project-progress.md)
       + [使用项目量度跟踪工作进度](manage-work/projects/track-work-progress-with-project-metrics.md)
       + [了解 [!UICONTROL Gantt] 视图](manage-work/projects/understand-the-gantt-view.md)
+      + [了解 [!UICONTROL Board] 视图](manage-work/projects/understand-the-board-view.md)
 
    + 任务 {#tasks}
       + [创建任务](manage-work/tasks/how-to-create-tasks.md)
@@ -453,7 +454,7 @@ ht-degree: 2%
    + 练习 {#exercises}
       + [初始方案设计](fusion/12-exercises/initial-scenario-design.md)
       + [超出基本映射](fusion/12-exercises/beyond-basic-mapping.md)
-      + [过滤器](fusion/12-exercises/filters.md)
+      + [筛选条件](fusion/12-exercises/filters.md)
       + [访问以前的版本](fusion/12-exercises/access-previous-versions.md)
       + [通用连接器简介](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [路由器](fusion/12-exercises/routers.md)
