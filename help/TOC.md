@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
+source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
 workflow-type: tm+mt
-source-wordcount: '2352'
+source-wordcount: '2357'
 ht-degree: 2%
 
 ---
@@ -600,6 +600,7 @@ ht-degree: 2%
       + [管理展示板列](boards/manage-board-columns.md)
       + [向展示板添加信息卡](boards/add-cards-to-a-board.md)
       + [在展示板上管理信息卡](boards/manage-cards-on-a-board.md)
+      + [自定义展示板上的信息卡](boards/customize-cards-on-a-board.md)
       + [添加和管理讨论区的团队成员](boards/add-and-manage-team-members-for-a-board.md)
       + [在展示板上添加和编辑列设置](boards/add-and-edit-column-settings-on-a-board.md)
       + [添加和管理信息卡的标记](boards/add-and-manage-tags-for-cards.md)
