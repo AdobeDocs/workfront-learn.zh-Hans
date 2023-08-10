@@ -3,7 +3,7 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: d4f12d257aa65f2a72ca952467ff0dbce1b999cf
+source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
 workflow-type: tm+mt
 source-wordcount: '2357'
 ht-degree: 2%
@@ -138,18 +138,12 @@ ht-degree: 2%
       + [处理计划外工作](manage-work/issues-requests/handle-unplanned-work.md)
       + [提出请求](manage-work/issues-requests/make-a-request.md)
       + [查找请求](manage-work/issues-requests/find-requests.md)
-      + [管理请求](manage-work/issues-requests/manage-incoming-requests.md)
       + [管理问题分配](manage-work/issues-requests/manage-issue-assignments.md)
       + [更新请求](manage-work/issues-requests/update-a-request.md)
-      + [从请求创建项目](manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [将问题转换为其他工作项](manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [将问题/请求转换为项目](manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [将问题/请求转换为任务](manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [审阅和批准数字工作](manage-work/issues-requests/review-and-approve-digital-work.md)
       + [问题报告](manage-work/issues-requests/report-on-issues.md)
-
-   + 项目组合 {#portfolios}
-      + [项目组合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [业务案例简介](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [优先处理和管理项目组合的工作](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 请求队列 {#request-queues}
       + [了解请求队列](manage-work/request-queues/understand-request-queues.md)
@@ -157,6 +151,11 @@ ht-degree: 2%
       + [创建请求队列](manage-work/request-queues/create-a-request-queue.md)
       + [创建请求流](manage-work/request-queues/create-a-request-flow.md)
       + [有关请求队列的常见问题解答](manage-work/request-queues/request-queue-faq.md)
+
+   + 项目组合 {#portfolios}
+      + [项目组合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [业务案例简介](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [优先处理和管理项目组合的工作](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 批准流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建一次性审批流程](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
