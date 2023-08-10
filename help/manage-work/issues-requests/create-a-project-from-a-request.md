@@ -11,9 +11,9 @@ team: Technical Marketing
 jira: KT-9723
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: ce044bb73f980bd7424d3a477a05cef2a8527230
+source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
 workflow-type: tm+mt
-source-wordcount: '412'
+source-wordcount: '413'
 ht-degree: 0%
 
 ---
@@ -32,13 +32,13 @@ ht-degree: 0%
 
 此 [!UICONTROL Options] 如果系统管理员希望您使用他们设置的默认值，则可以隐藏部分。 如果 [!UICONTROL Options] 部分确实会显示，以下是选项的含义：
 
-**保留原来的问题，并将其解决方案与此项目绑定。**
+**保留原来的问题，并将其解决方案与此项目绑定**
 
 如果选择此选项，则原始问题将在项目完成时标记为已解决。 如果此选项为 **非** 选择，则创建项目时将删除原始问题。
 
 **允许（用户名）访问此项目**
 
-如果选择此选项，则在创建新项目后，提出请求的人员（或代表提出请求的人员）将自动获得对新项目的访问权限。 如果此选项为 **非** 选中后，将不会授予他们任何权限。
+如果选择此选项，则在创建新项目后，提出请求的人员（或代表提出请求的人员）将自动获得对新项目的访问权限。 如果此选项为 **非** 选中后，将不会自动授予他们任何权限。
 
 ![显示转换选项的项目屏幕图像](assets/conversion-options.png)
 
