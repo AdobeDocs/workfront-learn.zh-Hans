@@ -1,5 +1,5 @@
 ---
-title: 查找请求
+title: 查找和管理请求
 description: 了解如何使用功能板， [!UICONTROL Home]， [!UICONTROL Requests] 区域，以及 [!UICONTROL Teams] 页面查找通过请求队列发出的传入请求。
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ level: Beginner
 last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
+source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
 workflow-type: tm+mt
-source-wordcount: '94'
+source-wordcount: '98'
 ht-degree: 1%
 
 ---
 
-# 查找请求
+# 查找和管理请求
 
 在本视频中，您将了解如何查找已分配到的请求、已创建的请求以及您管理的请求。
 
