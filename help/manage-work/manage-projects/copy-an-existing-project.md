@@ -10,9 +10,9 @@ role: User
 level: Intermediate
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: e25a7c0119567c068504edcb8c3ddd29622d52c5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '129'
 ht-degree: 0%
 
 ---
@@ -25,8 +25,8 @@ ht-degree: 0%
 
 ![Cr](assets/copy-existing-01.png)
 
-“复制项目”窗口允许您更改标题和状态，以及清除与项目相关的各种数据，例如分配、文档和自定义数据等选项。
+“复制项目”窗口允许您更改标题和状态，以及清除与项目相关的各种数据 — 选项，如分配、文档和自定义数据。
 
 ![Cr](assets/copy-existing-02.png)
 
-选择“清除分配”和/或将“状态”设置为“计划”，可防止复制后的项目在复制后立即发送任务分配通知。
+选择“清除分配”或将状态设置为“计划”，可防止复制后的项目在复制后立即发送任务分配通知。
