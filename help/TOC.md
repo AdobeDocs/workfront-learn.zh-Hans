@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
+source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
 workflow-type: tm+mt
-source-wordcount: '2361'
+source-wordcount: '2359'
 ht-degree: 2%
 
 ---
@@ -154,8 +154,8 @@ ht-degree: 2%
 
    + 项目组合 {#portfolios}
       + [项目组合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [业务案例简介](portfolios-and-programs/introduction-to-the-business-case.md)
-      + [优先处理和管理项目组合的工作](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [了解 [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
+      + [使用 [!UICONTROL Portfolio Optimizer] 优先处理和管理工作](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 批准流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建一次性审批流程](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
@@ -634,7 +634,7 @@ ht-degree: 2%
    + [文本模式报表](best-practices/test-mode-reporting-bp.md)
    + [时间表规划和管理](best-practices/timeline-planning-management-bp.md)
    + [时间表和登录时间](best-practices/timesheets-logging-time-bp.md)
-   + [利用](best-practices/utilization-bp.md)
+   + [使用情况](best-practices/utilization-bp.md)
    + [Workfront 目标](best-practices/workfront-goals-bp.md)
    + [工作负载均衡器](best-practices/workload-balancer-bp.md)
 
