@@ -10,7 +10,7 @@ jira: KT-11747
 team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
-source-git-commit: be1afb2a1c24b35c7fc84e77fab08934e3cbbe48
+source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
 workflow-type: tm+mt
 source-wordcount: '772'
 ht-degree: 0%
@@ -30,13 +30,13 @@ Workfront的奇妙之处在于它可自定义。 Workfront的挑战在于，它�
 
 该核对清单已创建为Workfront Blueprint和可下载的Excel电子表格。 我们建议使用Blueprint直接在Workfront中管理和记录您的工作。
 
-Blueprint和电子表格都按主题组织，而不是按时间线组织，以便您能够以对您和您的组织最有意义的方式进展。. 提供的持续时间只是一个示例，您应该调整它们以满足您的特定需求。 这不一定非要一蹴而就！
+Blueprint和电子表格都按主题组织，而不是按时间线组织，以便您能够以对您和您的组织最有意义的方式进展。 提供的持续时间只是一个示例，您应该调整它们以满足您的特定需求。 这不一定非要一蹴而就！
 
 我们建议您尽可能与组织中的其他人员合作，审查并记录这些元素，并在发生任何重大更改时使文档保持最新。 您实例中的未来管理员将感谢您！
 
-* 要下载Blueprint，请导航到您自己的Workfront实例中的主菜单，然后选择Blueprint。 查找标题为“继承的实例基础知识”的Blueprint | Checklist”，然后单击Install。 选择您的生产或沙盒环境并继续配置。 有关安装和配置Blueprint的更多信息，请参阅 [此处](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>下载Blueprint</b>，导航到您自己的Workfront实例中的主菜单，然后选择Blueprint。 查找标题为“继承的实例基础知识”的Blueprint | Checklist”，然后单击Install。 选择您的生产或沙盒环境并继续配置。 有关安装和配置Blueprint的更多信息，请参阅 [此处](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
 
-* 要下载Excel核对清单，请单击 [此处](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>下载Excel</b> 清单，单击 [此处](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
 
 无论您使用的是Blueprint还是Excel核对清单，都可以将此过程分为3个关键阶段 — 发现、审核和文档。 以下列出了描述和理想的结果。
 
