@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
+source-git-commit: 92efb9c393580fa7a466ecc855f5440e4c177d11
 workflow-type: tm+mt
-source-wordcount: '2365'
+source-wordcount: '2369'
 ht-degree: 2%
 
 ---
@@ -165,7 +165,7 @@ ht-degree: 2%
       + [应用里程碑](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
 
    + 创建和管理项目模板 {#create-and-manage-project-templates}
-      + [创建项目模板](manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [创建项目模板并了解Blueprint](manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [直接从模板创建项目](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [共享项目模板](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [复制现有项目](manage-work/manage-projects/copy-an-existing-project.md)
