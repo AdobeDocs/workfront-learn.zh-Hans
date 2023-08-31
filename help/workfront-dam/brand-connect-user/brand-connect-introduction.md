@@ -1,6 +1,6 @@
 ---
-title: 了解 [!UICONTROL Workfront DAM] 和Brand Connect
-description: 了解内容 [!UICONTROL Workfront DAM] 和Brand Connect以及它们的使用方式。
+title: 了解Brand Connect作为用户
+description: 了解内容 [!UICONTROL Workfront DAM] 和Brand Connect的含义及其使用方式。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
-# Brand Connect：简介
+# Brand Connect：了解Brand Connect的用户身份
 
-[!UICONTROL Brand Connect] 属于 [!UICONTROL Workfront DAM]，这是一种数字资产管理(DAM)解决方案，旨在管理、控制和发布您的营销、创意、专业服务和其他资产。 使用 [!DNL Workfront] 以创建资产请求，然后管理资产的制作和审查。 使用策划、存储和分发已完成和批准的资产 [!UICONTROL Workfront DAM]. 将资产发布到 [!UICONTROL Brand Connect] 确保合适的受众、需要信息的位置和方式能够获得正确的消息。
+[!UICONTROL Brand Connect] 属于 [!UICONTROL Workfront DAM]，这是一种数字资产管理(DAM)解决方案，旨在管理、控制和发布您的营销、创意、专业服务和其他资产。 使用 [!DNL Workfront] 创建资产请求，然后管理资产的制作和审核。 使用策划、存储和分发已完成的和已批准的资产 [!UICONTROL Workfront DAM]. 将资源发布到 [!UICONTROL Brand Connect] 确保正确的消息在正确的受众需要的时间和地点提供给正确的受众。
 
 在本视频中，您将了解：
 
