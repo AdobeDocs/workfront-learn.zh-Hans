@@ -1,6 +1,6 @@
 ---
 title: 面向高管的Workfront
-description: 了解如何访问报告和仪表板、提出请求以及审查请求。
+description: 了解Workfront如何帮助您管理组织中的工作。
 activity: use
 feature: Work Management
 type: Tutorial
@@ -10,17 +10,19 @@ team: Technical Marketing
 thumbnail: workfront-4-executives.png
 hide: true
 hidefromtoc: true
-jira: KT-null
+jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: 254a31d341f0b3b1ecf458cbbeddc0d6ad5c779a
+source-git-commit: e272158326592cdb50195a00668b9cb60e4cb659
 workflow-type: tm+mt
-source-wordcount: '499'
-ht-degree: 1%
+source-wordcount: '509'
+ht-degree: 0%
 
 ---
 
 # 面向高管的Workfront
+
+了解Workfront如何帮助您管理组织中的工作。
 
 作为高管，Adobe Workfront可以：
 
