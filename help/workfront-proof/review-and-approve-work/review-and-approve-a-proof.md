@@ -11,9 +11,9 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: cbeb3387107da639899ab22e4372200356551154
+source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
 workflow-type: tm+mt
-source-wordcount: '654'
+source-wordcount: '738'
 ht-degree: 0%
 
 ---
@@ -69,6 +69,16 @@ ht-degree: 0%
 2. 单击 [!UICONTROL Documents] 在项目页面的左侧面板菜单中。
 3. 在中查找证明 [!UICONTROL Documents] 列表。
 4. 单击 [!UICONTROL Open Proof] 用于打开验证查看器的链接。
+
+## 如何审批验证
+
+打开验证后，您将看到 **做决定** 顶部按钮，旁边 **添加评论**. 如果您不是此校对的审批者，则不会看到此按钮。
+
+![第一个决策按钮的图像。](assets/make-decision-1.png)
+
+当您准备好做出决策时，请单击 **做决定** 按钮以查看您的决策选项。 选择您的选择，然后单击另一个 **做决定** 按钮。
+
+![第二个决策按钮的图像。](assets/make-decision-2.png)
 
 ## 审阅和批准验证
 
