@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 90620c916e5b276c851d3d32c49b8f0ab33f3efb
+source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
 workflow-type: tm+mt
-source-wordcount: '2366'
+source-wordcount: '2373'
 ht-degree: 2%
 
 ---
@@ -246,7 +246,7 @@ ht-degree: 2%
       + [了解日期范围和时间范围](reporting/enhanced-analytics/7-date-ranges-vs-timeframes.md)
       + [了解计划的小时数和持续时间视图](reporting/enhanced-analytics/8-planned-hours-and-duration-views.md)
       + [了解操作：悬停鼠标单击并拖入](reporting/enhanced-analytics/9-actions-hover-click-and-drag-and-click-in.md)
-      + [了解KPI](reporting/enhanced-analytics/10-kpis-overview.md)
+      + [了解关键绩效指标](reporting/enhanced-analytics/10-kpis-overview.md)
       + [了解如何导航和审查项目](reporting/enhanced-analytics/11-navigating-and-reviewing-projects.md)
       + [使用时间范围和其他图表深入了解](reporting/enhanced-analytics/12-digging-deeper-using-timeframes-and-additional-charts.md)
       + [了解如何导航和审查项目活动](reporting/enhanced-analytics/13-navigating-and-reviewing-project-activity.md)
@@ -571,6 +571,7 @@ ht-degree: 2%
       + [以用户身份使用资产](workfront-dam/brand-connect-user/brand-connect-working-with-assets.md)
 
 + 主页 {#home}
+   + [移除、添加和重新排列主页中的小组件](workfront-home/remove-add-and-rearrange-widgets.md)
    + [查找您的工作](workfront-home/find-your-work-in-workfront-home.md)
    + [组织您的待办事项列表](workfront-home/organize-your-to-do-list-in-workfront-home.md)
    + [排定工作优先级](workfront-home/prioritize-your-work-in-workfront-home.md)
