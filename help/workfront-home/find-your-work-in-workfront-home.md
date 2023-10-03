@@ -10,9 +10,9 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 1febdaea4c66540db39882404293ecd3fe9015e9
+source-git-commit: 72d187e0d0ba2bf09af518e0977faedd0885f50f
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '70'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,10 @@ ht-degree: 0%
 # 在中查找您分配的工作 [!DNL Workfront] [!UICONTROL Home]
 
 
->[!NOTE] 目前有两个Workfront主页体验。 如果您拥有 <b>新的主页体验</b>，查看 [移除、添加和重新排列主页中的小组件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/home/remove-add-and-rearrange-widgets.html?lang=en) 教程。
+
+>[!NOTE]
+>
+>Workfront目前提供两种主页体验。 如果您有新的主页体验，请查看 [移除、添加和重新排列主页中的小组件](help/workfront-home/review-work-in-my-updates-or-workfront-home.md) 教程。
 
 
 在本视频中，您将学习如何：
