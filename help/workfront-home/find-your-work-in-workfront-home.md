@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: 72d187e0d0ba2bf09af518e0977faedd0885f50f
+source-git-commit: 372e815c623a81ab155aecf2177c84c3f14041f0
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 0%
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Workfront目前提供两种主页体验。 如果您有新的主页体验，请查看 [移除、添加和重新排列主页中的小组件](help/workfront-home/review-work-in-my-updates-or-workfront-home.md) 教程。
+>Workfront目前提供两种主页体验。 如果您有新的主页体验，请查看 [移除、添加和重新排列主页中的小组件](/help/workfront-home/remove-add-and-rearrange-widgets.md) 教程。
 
 
 在本视频中，您将学习如何：

@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8962
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: e639d3391ea6a8b46592dd18cf57b9eed50fbf8c
+source-git-commit: 9045f121d34cb95eeb0ea7ddc1b35acd11f56bb2
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -36,5 +36,5 @@ ht-degree: 0%
 >
 >您可以按照视频中任务描述的方式，对项目和问题设置单次使用审批。
 >
->如果要设置自动问题批准，这些只能使用全局问题批准流程完成，并应用于队列主题。 请参阅 [创建请求队列](https://experienceleague.corp.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) 以获取有关如何执行此操作的信息。
+>如果要设置自动问题批准，这些只能使用全局问题批准流程完成，并应用于队列主题。 请参阅 [创建请求队列](https://experienceleague.adobe.com/docs/workfront/using/manage-work/requests/create-and-manage-request-queues/create-request-queue.html) 以获取有关如何执行此操作的信息。
 
