@@ -11,7 +11,7 @@ thumbnail: 335220.jpeg
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '257'
 ht-degree: 0%
@@ -22,20 +22,20 @@ ht-degree: 0%
 
 在本视频中，您将了解：
 
-* 如何通过 [!DNL  Workfront] 请求队列
+* 如何通过提交请求 [!DNL  Workfront] 请求队列
 * 请求队列的结构方式
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## 自动保存请求草稿
 
-当你开始填写申请表时， [!DNL Workfront] 填写草稿后会自动保存草稿 [!UICONTROL Subject] 字段。 这意味着如果您需要导航离开 [!UICONTROL Requests] 区域执行其他操作，或者如果您需要在请求中途暂停以收集更多信息。
+当你开始填写申请表时， [!DNL Workfront] 填写后会自动保存草稿 [!UICONTROL Subject] 字段。 这意味着如果您需要离开 [!UICONTROL Requests] 区域执行其他操作，或者如果您需要在请求过程中暂停以收集更多信息。
 
-您将在窗口顶部看到草稿已保存的指示。 [!DNL Workfront] 将保存请求的草稿，即使尚未填写必填字段也是如此。
+您将在窗口顶部看到草稿已保存的指示。 [!DNL Workfront] 将保存您的请求的草稿，即使尚未填写必填字段也是如此。
 
 ![创建请求草稿的图像](assets/queue-mgt-make-a-request-draft-1.png)
 
-当您准备好提交请求时，请在 [!UICONTROL Drafts] 选项卡。 单击名称以将其打开，并完成表单填写。 然后单击 [!UICONTROL Submit Request] 等你完事了。
+当您准备好提交请求时，请在 [!UICONTROL Drafts] 选项卡。 单击名称以将其打开并完成表单填写。 然后单击 [!UICONTROL Submit Request] 等你完事了。
 
 ![回顾请求草稿的图像](assets/queue-mgt-make-a-request-draft-2.png)
 
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 **问题：** 如何在Workfront中提出请求？ 按顺序列出各个步骤。
 
-* 选择您需要创建的请求类型
+* 选择您需要进行的请求类型
 * 单击提交请求
 * 填写表单上的信息
 * 单击“新建请求”

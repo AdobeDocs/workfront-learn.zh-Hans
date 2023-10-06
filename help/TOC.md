@@ -3,7 +3,7 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 71f4e25a5971f16801b513c70de6e46fa7d5f0b2
+source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
 workflow-type: tm+mt
 source-wordcount: '2373'
 ht-degree: 2%
@@ -160,8 +160,8 @@ ht-degree: 2%
       + [创建一次性审批流程](manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [附加和编辑现有审批流程](manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [委派任务、问题和审批](manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [查看里程碑](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
       + [应用里程碑](manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [查看里程碑](manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + 创建和管理项目模板 {#create-and-manage-project-templates}
       + [创建项目模板并了解Blueprint](manage-work/create-and-manage-project-templates/create-a-project-template.md)
