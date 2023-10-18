@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6e0f1a5c426625635d29c601a03edc16ec315245
+source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
 workflow-type: tm+mt
-source-wordcount: '2373'
+source-wordcount: '2379'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ ht-degree: 2%
       + [了解报表组件](reporting/basic-reporting/reporting-components.md)
       + [创建基本分组](reporting/basic-reporting/create-a-basic-grouping.md)
       + [创建基本视图](reporting/basic-reporting/create-a-basic-view.md)
-      + [添加基本条件格式](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
+      + [向视图添加基本条件格式](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [创建基本过滤器](reporting/basic-reporting/create-a-basic-filter.md)
       + [创建基本过滤器活动](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [创建简单报表](reporting/basic-reporting/create-a-simple-report.md)
@@ -308,7 +308,7 @@ ht-degree: 2%
       + [为您的组织制定愿景和战略](workfront-goals/establish-a-vision-for-your-org/establish-a-vision-and-strategy.md)
       + [创建明确的目标语句](workfront-goals/establish-a-vision-for-your-org/create-a-clear-objective-statement.md)
       + [围绕企业和组织目标进行协作](workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
-      + [使组和团队与您的策略保持一致](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
+      + [将组和团队与策略保持一致](workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
    + 创建目标 {#create-goals}
       + [[!UICONTROL Workfront Goals] 概述](workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
@@ -340,10 +340,10 @@ ht-degree: 2%
       + [使用Adobe Workfront插件与Creative Cloud集成](integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [配置](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
       + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
       + [发送文档并链接资产](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-      + [版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+      + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [通过G Suite集成增强您的工作流程](integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -465,7 +465,7 @@ ht-degree: 2%
       + [聚合](fusion/12-exercises/aggregation.md)
       + [高级聚合](fusion/12-exercises/advanced-aggregation.md)
       + [执行历史记录](fusion/12-exercises/execution-history.md)
-      + [浏览运行、循环和束](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [浏览运行循环和束](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
       + [Switch函数](fusion/12-exercises/switch-function.md)
       + [交换机模块](fusion/12-exercises/switch-module.md)
       + [Webhooks](fusion/12-exercises/webhooks.md)
@@ -493,8 +493,8 @@ ht-degree: 2%
       + [验证用户的设置](workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + 上传校样 {#upload-proofs}
-      + [什么是验证版本？](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [谁会上传校样版本？](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [什么是验证版本](workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [谁上传了校对版本](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [将文档转换为验证](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [查看和比较验证版本](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [上传校对版本](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -544,7 +544,7 @@ ht-degree: 2%
       + [设置元数据](workfront-dam/metadata-and-keywords/metadata-setup.md)
 
    + Brand Connect自定义 {#brand-connect-customization}
-      + [什么是 [!UICONTROL Brand Connect]？](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
+      + [什么是 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [在中建立系统设置 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [在中添加自定义页面 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
       + [在中创建品牌指南 [!UICONTROL Brand Connect]](workfront-dam/brand-connect-customization/create-brand-guidelines-in-brand-connect.md)

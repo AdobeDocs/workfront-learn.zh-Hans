@@ -1,5 +1,5 @@
 ---
-title: 如何自定义 [!UICONTROL Workfront DAM]
+title: 自定义 [!UICONTROL Workfront DAM]
 description: 了解如何自定义 [!UICONTROL Workfront DAM] 通过创建水印，自定义 [!UICONTROL DAM] 登录窗口、品牌化界面等。
 activity: use
 feature: Digital Content and Documents
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8969
 exl-id: cc7c90f8-8af0-45d8-b5d3-69d40ebacb7e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 3%
 
 ---
 
-# 系统设置：自定义 [!UICONTROL Workfront DAM]
+# 自定义 [!UICONTROL Workfront DAM]
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
 * 创建水印
 * 自定义 [!UICONTROL Workfront DAM] 登录窗口

@@ -11,7 +11,7 @@ thumbnail: 335126.png
 jira: KT-8826
 exl-id: d055825a-712c-426c-8803-37bb6105ce9f
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 0%
@@ -20,14 +20,14 @@ ht-degree: 0%
 
 # 验证用户的设置
 
-在中开始创建用户之前 [!DNL  Workfront]，最佳做法是让您的 [!DNL Workfront] 和验证系统设置已完成。 其中一些设置在创建时适用于用户配置文件。 但是，如果您在创建某些用户之前未设置这些设置，请不要担心……您可以在每个单独的用户配置文件中编辑这些设置。
+在中开始创建用户之前 [!DNL  Workfront]，最佳做法是让您的 [!DNL Workfront] 和验证系统设置已完成。 其中一些设置在创建时适用于用户配置文件。 但是，如果您在创建某些用户之前未设置这些设置，请不要担心……您可以在每个单独的用户配置文件上编辑这些设置。
 
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
 * 确定哪些用户获得了证明许可证
 * 调整中的校样用户设置 [!DNL  Workfront]
-* 调整验证后端设置中的验证用户设置
+* 在验证后端设置中调整验证用户设置
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: 在中更深入地使用时间范围和其他图表 [!UICONTROL Enhanced Analytics]
-description: 了解如何在外部测试版计划图中深入分析项目，以使燃尽图和外部测试版中的任务图显示在Workfront中。
+title: 使用时间范围和其他图表深入了解
+description: 了解如何在外部测试版计划图中向下展开项目，以使燃尽图和外部测试版中的任务显示在中 [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -11,14 +11,14 @@ team: Technical Marketing
 jira: KT-8730
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '85'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
-# 在中更深入地使用时间范围和其他图表 [!UICONTROL Enhanced Analytics]
+# 使用时间范围和其他图表深入了解
 
 在本视频中，您将了解：
 

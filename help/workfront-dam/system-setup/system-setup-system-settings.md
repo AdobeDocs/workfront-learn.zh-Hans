@@ -1,5 +1,5 @@
 ---
-title: 了解中的系统设置 [!UICONTROL Workfront DAM]
+title: 了解系统设置
 description: 了解如何在中建立全局设置、设置资源选项、建立文件夹设置、制定下载规则以及查看报告和审核日志 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8968
 exl-id: 88b528a4-85be-44ed-b4d1-7acfdb2742d0
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
-source-wordcount: '60'
+source-wordcount: '58'
 ht-degree: 0%
 
 ---
 
-# 系统设置：系统设置
+# 了解系统设置
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
 * 建立全局设置
 * 设置影响资源的选项

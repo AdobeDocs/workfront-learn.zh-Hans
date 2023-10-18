@@ -1,5 +1,5 @@
 ---
-title: 配置 [!UICONTROL Workfront DAM] Workfront中的集成
+title: 在Workfront中配置集成
 description: 了解如何启用 [!UICONTROL Workfront DAM] 系统管理员访问级别的集成。
 activity: use
 team: Technical Marketing
@@ -9,14 +9,14 @@ role: Admin
 level: Intermediate
 jira: KT-10087
 exl-id: ee9489a5-abe9-4a81-96bd-625c82189d3d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '61'
 ht-degree: 0%
 
 ---
 
-# 配置 [!UICONTROL Workfront DAM] Workfront中的集成
+# 在Workfront中配置集成
 
 启用 [!UICONTROL Workfront DAM] Workfront的集成 **[!UICONTROL Setup]** 区域。 您需要拥有 [!UICONTROL Workfront] 系统管理员访问级别。
 

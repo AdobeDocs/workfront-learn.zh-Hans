@@ -1,6 +1,6 @@
 ---
-title: 在中设置元数据模板 [!UICONTROL Workfront DAM]
-description: 了解如何使用元数据模板节省时间、设置元数据模板以及将模板应用到中的文件夹 [!UICONTROL Workfront DAM].
+title: 设置元数据模板
+description: 了解如何使用元数据模板节省时间，如何设置元数据模板，以及如何将模板应用到中的文件夹 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8975
 exl-id: 6455e20f-9c5c-4727-84cb-1f8bb825bd2a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
 workflow-type: tm+mt
 source-wordcount: '55'
 ht-degree: 0%
 
 ---
 
-# 元数据和关键字：元数据模板
+# 设置元数据模板
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
 * 使用元数据模板节省时间
 * 设置元数据模板
