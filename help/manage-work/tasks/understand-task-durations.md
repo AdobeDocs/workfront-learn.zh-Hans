@@ -6,12 +6,12 @@ feature: Work Management
 thumbnail: 335089.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 team: Technical Marketing
 jira: KT-8776
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 0%
@@ -22,9 +22,9 @@ ht-degree: 0%
 
 在本视频中，您将了解：
 
-* 任务持续时间的单位 [!DNL Workfront]
+* 任务持续时间是多少 [!DNL Workfront]
 * 持续时间对任务开始日期和完成日期有何影响
-* 持续时间如何影响项目时间线
+* 持续时间如何计入项目时间线
 * 有关使用任务持续时间的最佳实践建议
 
 >[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on)

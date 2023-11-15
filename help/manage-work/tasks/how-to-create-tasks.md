@@ -5,11 +5,11 @@ feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-15T00:00:00Z
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '41'
 ht-degree: 0%
@@ -21,6 +21,6 @@ ht-degree: 0%
 在本视频中，您将了解：
 
 * 在Workfront项目中创建任务的漫长过程
-* 一些用于创建任务的方便快捷方式
+* 创建任务的一些简便快捷方式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)

@@ -1,17 +1,17 @@
 ---
 title: 了解 [!UICONTROL Gantt] 视图
-description: 了解如何使用甘特图以令人惊讶的详细程度快速从高级别查看您的任务和项目。
+description: 了解如何使用甘特图以令人惊讶的详细程度从较高层面快速查看您的任务和项目。
 activity: use
 team: Technical Marketing
 feature: Work Management
 thumbnail: understand-the-gantt-view.jpeg
 type: Tutorial
 role: User
-level: Intermediate
+level: Beginner
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 0%
