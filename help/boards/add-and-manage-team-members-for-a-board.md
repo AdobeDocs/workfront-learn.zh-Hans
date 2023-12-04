@@ -10,7 +10,7 @@ role: User, Leader
 level: Beginner
 exl-id: 2ed7d5b5-e795-42cb-8a36-af6e8801a3b5
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解如何在展示板上添加和删除个人和团队，以便他们能够访问展示板信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/346808)
+>[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on)

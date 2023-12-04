@@ -455,7 +455,7 @@ ht-degree: 2%
    + 练习 {#exercises}
       + [初始方案设计](fusion/12-exercises/initial-scenario-design.md)
       + [超出基本映射](fusion/12-exercises/beyond-basic-mapping.md)
-      + [筛选条件](fusion/12-exercises/filters.md)
+      + [过滤器](fusion/12-exercises/filters.md)
       + [访问以前的版本](fusion/12-exercises/access-previous-versions.md)
       + [通用连接器简介](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [路由器](fusion/12-exercises/routers.md)
@@ -474,7 +474,7 @@ ht-degree: 2%
       + [使用JSON](fusion/12-exercises/working-with-json.md)
       + [开发工具](fusion/12-exercises/devtool.md)
 
-+ Workfront 验证 {#workfront-proof}
++ Workfront 校样 {#workfront-proof}
    + [了解验证的好处](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [了解文档与验证之间的区别](workfront-proof/document-vs-proof.md)
    + [验证查看者说明](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -626,7 +626,7 @@ ht-degree: 2%
    + [预览沙盒](best-practices/preview-sandbox-bp.md)
    + [项目、任务和问题偏好设置](best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](best-practices/project-templates-bp.md)
-   + [Workfront 验证](best-practices/proofing-bp.md)
+   + [Workfront 校样](best-practices/proofing-bp.md)
    + [请求队列](best-practices/request-queues-bp.md)
    + [资源规划程序](best-practices/resource-planner-bp.md)
    + [资源池](best-practices/resource-pools-bp.md)
