@@ -3,10 +3,10 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 444e3019bf3ed707bb205c9fcce7f96d7ffc0cde
+source-git-commit: eb1fdeaf12cec97a576802007a5e0683e50579ee
 workflow-type: tm+mt
-source-wordcount: '2379'
-ht-degree: 2%
+source-wordcount: '2318'
+ht-degree: 1%
 
 ---
 
@@ -84,11 +84,12 @@ ht-degree: 2%
 
 
 + 自定义数据 {#custom-data}
-   + 自定义表单 {#custom-forms}
+   + 自定义Forms {#custom-forms}
       + [创建和共享自定义表单](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
       + [共享自定义字段](custom-data/custom-forms/share-custom-fields.md)
       + [编辑自定义表单](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [将自定义表单附加到对象](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
+      + [将分区界限和逻辑添加到自定义表单](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [将自定义表单导出为PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + 计算表达式 {#calculated-expressions}
@@ -151,7 +152,7 @@ ht-degree: 2%
       + [创建请求流](manage-work/request-queues/create-a-request-flow.md)
       + [有关请求队列的常见问题解答](manage-work/request-queues/request-queue-faq.md)
 
-   + 项目组合 {#portfolios}
+   + Portfolio {#portfolios}
       + [项目组合概述](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [了解 [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [使用 [!UICONTROL Portfolio Optimizer] 优先处理和管理工作](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
@@ -195,7 +196,7 @@ ht-degree: 2%
       + [高级前置任务](manage-work/intermediate-projects/advanced-predecessors.md)
 
 
-+ 报告 {#reporting}
++ 报表 {#reporting}
    + 基本报告 {#basic-reporting}
       + [了解报表元素](reporting/basic-reporting/reporting-elements.md)
       + [了解报表组件](reporting/basic-reporting/reporting-components.md)
@@ -236,7 +237,7 @@ ht-degree: 2%
       + [了解其他日历报告选项](reporting/basic-reporting/additional-calendar-options.md)
       + [轮到您创建日历报告](reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 已优化的分析 {#enhanced-analytics}
+   + 增强的分析 {#enhanced-analytics}
       + [产品使用时刻，关于 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [开始使用 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [添加 [!UICONTROL analytics] 到布局模板](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -290,7 +291,7 @@ ht-degree: 2%
       + [查看分配任务时的空闲时间](manage-resources/pto/see-time-off-when-assigning-tasks.md)
       + [资源管理工具的可见性](manage-resources/pto/visibility-in-resource-management-tools.md)
 
-   + 场景计划器 {#scenario-planner}
+   + 场景规划器 {#scenario-planner}
       + [关于Scenario Planner的产品时刻](manage-resources/scenario-planner/a-moment-with-product-workfront-scenario-planner.md)
       + [什么是Scenario Planner？](manage-resources/scenario-planner/what-is-scenario-planner.md)
       + [访问Scenario Planner中的计划](manage-resources/scenario-planner/access-a-plan-in-scenario-planner.md)
@@ -300,7 +301,7 @@ ht-degree: 2%
       + [更新和复制计划](manage-resources/scenario-planner/update-and-copy-plans.md)
       + [发布方案](manage-resources/scenario-planner/publish-a-scenario.md)
 
-+ Workfront 目标 {#workfront-goals}
++ Workfront目标 {#workfront-goals}
    + 为您的组织制定远景 {#establish-a-vision-and-strategy}
       + [了解Workfront目标背后的愿景](workfront-goals/establish-a-vision-for-your-org/understand-the-vision-behind-workfront-goals.md)
       + [了解Workfront目标的工作方式](workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)
@@ -455,7 +456,7 @@ ht-degree: 2%
    + 练习 {#exercises}
       + [初始方案设计](fusion/12-exercises/initial-scenario-design.md)
       + [超出基本映射](fusion/12-exercises/beyond-basic-mapping.md)
-      + [过滤器](fusion/12-exercises/filters.md)
+      + [筛选器](fusion/12-exercises/filters.md)
       + [访问以前的版本](fusion/12-exercises/access-previous-versions.md)
       + [通用连接器简介](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [路由器](fusion/12-exercises/routers.md)
@@ -474,7 +475,7 @@ ht-degree: 2%
       + [使用JSON](fusion/12-exercises/working-with-json.md)
       + [开发工具](fusion/12-exercises/devtool.md)
 
-+ Workfront 校样 {#workfront-proof}
++ Workfront Proof {#workfront-proof}
    + [了解验证的好处](workfront-proof/benefits-of-proofing-in-workfront.md)
    + [了解文档与验证之间的区别](workfront-proof/document-vs-proof.md)
    + [验证查看者说明](workfront-proof/two-options-for-the-proofing-viewers.md)
@@ -523,7 +524,7 @@ ht-degree: 2%
       + [管理校对评论](workfront-proof/review-and-approve-work/manage-proof-comments.md)
       + [跟踪校对进度](workfront-proof/review-and-approve-work/track-proof-progress.md)
 
-+ Workfront DAM {#workfront-dam-program}
++ WORKFRONT DAM {#workfront-dam-program}
    + 系统设置 {#system-setup}
       + [了解 [!DNL Workfront DAM]](workfront-dam/system-setup/introduction-to-workfront-dam.md)
       + [了解系统设置](workfront-dam/system-setup/system-setup-system-settings.md)
@@ -587,7 +588,7 @@ ht-degree: 2%
 + 敏捷 {#agile}
 
    + Scrum {#scrum}
-      + [创建Scum Agile团队](agile/create-a-scrum-agile-team.md)
+      + [创建Scrum敏捷团队](agile/create-a-scrum-agile-team.md)
       + [作为Scrum团队管理工作](agile/manage-work-scrum-team.md)
       + [整理积压](agile/gooming-the-backlog.md)
       + [计划和创建迭代](agile/plan-and-create-an-iteration.md)
@@ -597,7 +598,7 @@ ht-degree: 2%
       + [创建Kanban团队](agile/create-a-kanban-team.md)
       + [作为Kanban团队管理工作](agile/manage-work-kanban-team.md)
 
-   + 展示板  {#boards}
+   + 讨论区  {#boards}
       + [查找并创建基本展示板](boards/find-and-create-a-basic-board.md)
       + [管理展示板列](boards/manage-board-columns.md)
       + [向展示板添加信息卡](boards/add-cards-to-a-board.md)
@@ -612,7 +613,7 @@ ht-degree: 2%
    + [API资源管理器](best-practices/api-explorer-bp.md)
    + [业务案例和项目组合优化器](best-practices/business-case-and-portfolio-optimizer-bp.md)
    + [通信](best-practices/communication-bp.md)
-   + [自定义表单](best-practices/custom-forms-bp.md)
+   + [我的组中的自定义表单](best-practices/custom-forms-bp.md)
    + [自定义报表](best-practices/custom-reports-bp.md)
    + [仪表板](best-practices/dashboards-bp.md)
    + [文档](best-practices/documents-bp.md)
@@ -626,9 +627,9 @@ ht-degree: 2%
    + [预览沙盒](best-practices/preview-sandbox-bp.md)
    + [项目、任务和问题偏好设置](best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](best-practices/project-templates-bp.md)
-   + [Workfront 校样](best-practices/proofing-bp.md)
+   + [Workfront Proof](best-practices/proofing-bp.md)
    + [请求队列](best-practices/request-queues-bp.md)
-   + [资源规划程序](best-practices/resource-planner-bp.md)
+   + [资源规划者](best-practices/resource-planner-bp.md)
    + [资源池](best-practices/resource-pools-bp.md)
    + [场景计划器](best-practices/scenario-planner-bp.md)
    + [计划](best-practices/schedules-bp.md)
