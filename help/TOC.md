@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '2318'
+source-wordcount: '2317'
 ht-degree: 98%
 
 ---
@@ -204,7 +204,7 @@ ht-degree: 98%
       + [创建基本视图](reporting/basic-reporting/create-a-basic-view.md)
       + [向视图中添加基本条件格式](reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [创建基本过滤器](reporting/basic-reporting/create-a-basic-filter.md)
-      + [创建一个基本过滤器活动](reporting/basic-reporting/create-a-basic-filter-activity.md)
+      + [创建基本过滤器活动](reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [创建简单的报告](reporting/basic-reporting/create-a-simple-report.md)
       + [单击任务报告](reporting/basic-reporting/create-a-task-report.md)
       + [创建带有图表的报告](reporting/basic-reporting/create-reports-with-charts.md)

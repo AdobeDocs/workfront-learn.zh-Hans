@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 75%
@@ -51,7 +51,7 @@ ht-degree: 75%
 
 它还让您有机会向利益相关者展示您的项目如何为部门、区域和/或公司目标做出贡献。
 
-有关如何使用业务案例的说明，请参阅 [了解业务案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+有关如何使用业务案例的说明，请参阅 [了解业务案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
 </br>
 </br>
@@ -64,7 +64,7 @@ ht-degree: 75%
 
 确保此信息与“现实生活”项目所需的信息尽可能接近，以便您能够准确地使用Portfolio优化程序中的得分功能来确定所列项目的优先级。 Portfolio优化器是一个非常好的工具，可确保有效地确定项目的优先级，并与公司的战略和价值保持一致。
 
-有关如何使用业务案例的说明，请参阅 [了解业务案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)
+有关如何使用业务案例的说明，请参阅 [了解业务案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html).
 
-有关如何使用Portfolio优化器的说明，请参阅 [使用Portfolio优化程序来排定工作优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)
+有关如何使用Portfolio优化器的说明，请参阅 [使用Portfolio优化程序来排定工作优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).
 

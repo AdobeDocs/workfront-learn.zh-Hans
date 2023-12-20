@@ -1,50 +1,56 @@
 ---
-title: 最佳实践 — Portfolio和计划
-description: 探索Adobe Workfront专家提出的有关设置、管理和使用项目组合和程序的最佳实践建议。
+title: 最佳实践 -项目组合和项目群
+description: 探索 Adobe Workfront 专家提供的有关设置、管理和使用项目组合和项目群的最佳实践建议。
 feature: Strategic Planning
 role: Admin, Leader, User
 level: Beginner
 jira: KT-10916
 exl-id: a5aabc2b-4b7a-4bf4-882e-f9d939130ec0
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '325'
-ht-degree: 0%
+source-wordcount: '389'
+ht-degree: 83%
 
 ---
 
-# 最佳实践 — Portfolio和计划
+# 最佳实践 -项目组合和项目群
 
-## 什么是Adobe Workfront“最佳实践”？
+## 什么是 Adobe Workfront“最佳实践”？
 
-最佳实践是指导准则，它们代表了一个有效、高效的操作过程；您和您公司的用户可轻松采用；并且可在您的整个组织中成功复制。
+最佳实践是代表有效、高效行动方针的指南；您和您公司的用户很容易采用；并且可以在您的组织中成功复制的实践。
 
-在查看这些建议时，请牢记，某些Workfront最佳实践是通用的，而其他最佳实践可能更特定于此主题。 使用这些最佳实践作为框架，帮助指导您的Workfront系统设置和使用。
+当您查看这些建议时，请记住，一些 Workfront 最佳实践是通用的，而其他最佳实践可能更特定于相关主题。使用这些最佳实践作为框架来帮助指导您对 Workfront 系统的设置和使用。
 
-## 导航此页面
+## 浏览此页面
 
-滚动浏览本页时，首先您会找到该主题所有最佳实践的高级列表。 这样，您就可以查看推荐，而无需深入了解“原因”的详细信息。
+当您滚动浏览此页面时，首先您将找到该主题的所有最佳实践的高级列表。通过该列表，您可以查看建议，而无需深入了解有关“原因”的细节。
 
-“为什么这些是最佳实践？” 区域位于高级列表之后，它提供了一些最佳实践的更多详细信息，以及为什么将它们视为流程、工具等，您应考虑使用Workfront实例进行实施。
-
-</br>
-</br>
-
-## Portfolio和计划最佳实践
-
-* 利用项目组合和项目群帮助管理项目和报告。
+“这些为什么是最佳实践？”高级列表后面的区域提供了一些最佳实践的更多详细信息以及为什么将它们视为应考虑使用 Workfront 实例实施的流程、工具等。
 
 </br>
 </br>
 
-## 为什么有这些最佳实践？
+## 项目组合和项目群最佳实践
+
+* 利用项目组合和项目群来帮助管理项目和报告。
+
+</br>
+</br>
+
+## 这些为什么是最佳实践？
 
 **最佳实践**
 
-利用项目组合和项目群帮助管理项目和报告。
+利用项目组合和项目群来帮助管理项目和报告。
 
 **原因如下**
 
-在使用项目组合和程序时，您可以更高效地使用其他Workfront工具。 例如，在报表中，您可能只想查看具有相同目标或正在争夺相同预算的一组项目。 通过将项目组织到一个项目组合和/或项目中，您可以轻松地按该项目组合而不是若干其他条件筛选这些项目，以缩小报表范围。
+使用项目组合和项目群时，您可以更有效地使用其他 Workfront 工具。例如，在一份报告中，您可能只想查看一组具有相同目标或争夺相同预算的项目。通过将项目组织为项目组合和/或项目群，您可以轻松地按该 项目组合（而不是多个其他条件）过滤这些项目，以缩小报告范围。
 
-此外，您还可以使用其他工具，如利用率报告（可帮助您了解用户的工作方式和工作位置）或Portfolio优化器（使您能够更轻松地确定项目的优先级，并使它们与公司的总体目标和战略保持一致）。
+此外，您还可以使用其他工具，如“利用率”报告，它可以帮助您了解用户的工作方式和工作内容，或者使用“项目组合优化器”，它可以更容易地对项目进行优先级排序，并使其与公司的总体目标和战略保持一致。
+
+要了解如何按特定项目组合筛选项目列表，请参阅中的“活动1 — 营销项目组合中的所有项目” [创建基本过滤器活动](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html).
+
+要了解利用率报表，请参阅文章 [使用利用率报告跟踪进度、成本和收入](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=en#track-progress-cost-and-revenue-with-the-utilization-report).
+
+要了解Portfolio优化器，请参阅 [使用Portfolio优化程序来排定工作优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html).

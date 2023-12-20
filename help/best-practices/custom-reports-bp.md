@@ -6,9 +6,9 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10908
 exl-id: 780b80fc-0f7e-41e2-8c6b-455d91642631
-source-git-commit: 4c00418e88cf7e52a234b2f3c5af3c7eec6406ab
+source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
 workflow-type: tm+mt
-source-wordcount: '632'
+source-wordcount: '620'
 ht-degree: 84%
 
 ---
@@ -35,8 +35,6 @@ ht-degree: 84%
 * 考虑使用报告提示来缩小报告结果的范围，而不是构建多个类似的报告或在报告中创建复杂的过滤器结构。
 
 * 通过复制类似的现有报告来构建新报告，可以加快报告创建速度。
-
-* 尽可能使用开箱即用的报告功能来代替文本模式。
 
 * 使用基于用户的通配符创建动态报告，以便查看报告的用户可以看到与其相关的信息。
 
@@ -88,7 +86,7 @@ ht-degree: 84%
 </br>
 </br>
 
-有关如何在报表中使用基于用户的通配符的说明，请参阅 [使用基于用户的通配符创建过滤器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)
+有关如何在报表中使用基于用户的通配符的说明，请参阅 [使用基于用户的通配符创建过滤器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html).
 
 **最佳实践**
 
