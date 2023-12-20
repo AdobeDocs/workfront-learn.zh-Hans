@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
-source-wordcount: '783'
-ht-degree: 71%
+source-wordcount: '785'
+ht-degree: 70%
 
 ---
 
@@ -53,7 +53,7 @@ ht-degree: 71%
 
 为您想要查看的每个数据段创建一次性使用的报告非常耗时，并且会使 Workfront 系统变得拥挤不堪。
 
-有关如何创建带有提示的报表的说明，请参阅中标有“如何设置和使用报表提示”的一章 [了解报表设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html).
+有关如何创建带有提示的报表的说明，请参阅 [了解报表设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html) 视频。
 
 有关如何使用自定义提示创建报告的说明，请参阅 [创建自定义提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html).
 

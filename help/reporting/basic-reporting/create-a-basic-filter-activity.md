@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 0ff5accae867f07cc31ac2be7b0c12981412346e
 workflow-type: tm+mt
 source-wordcount: '339'
-ht-degree: 34%
+ht-degree: 37%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 34%
 ![用于创建新过滤器的屏幕图像](assets/basic-filter-activity-1.png)
 
 1. 从 [!UICONTROL Main Menu] 导航到 [!UICONTROL Projects] 区域。这会向您显示项目列表。
-1. 单击 **[!UICONTROL Filter]** 菜单并选择 [!UICONTROL Legacy Filters]
+1. 单击 **[!UICONTROL Filter]** 菜单并选择 [!UICONTROL Legacy Filters]。
 1. 选择 **[!UICONTROL New Filter]**。
 1. 将您的过滤器命名为“营销项目组合中的所有项目”。
 1. 单击 **[!UICONTROL Add Filter Rule]**。
@@ -39,7 +39,7 @@ ht-degree: 34%
 1. 使 [!UICONTROL Equal] 运算符保持原样。
 1. Type &quot;[!UICONTROL marketing]中的&quot; [!UICONTROL Start typing name] 字段。
 1. 选择 [!UICONTROL Marketing Portfolio] 假设您有一个该名称的项目组合要筛选。 如果不是简单地使用“提前键入”功能来查找所需的项目组合，
-1. 单击 **[!UICONTROL Save Filter]**
+1. 单击 **[!UICONTROL Save Filter]**。
 
 ## 活动2 — 我拥有的项目本月关闭
 
@@ -54,7 +54,7 @@ ht-degree: 34%
 ![用于创建新过滤器的屏幕图像](assets/basic-filter-activity-updated-6-15-21.png)
 
 1. 从 [!UICONTROL Main Menu] 导航到 [!UICONTROL Projects] 区域。这会向您显示项目列表。
-1. 单击 **[!UICONTROL Filter]** 菜单并选择 [!UICONTROL Legacy Filters]
+1. 单击 **[!UICONTROL Filter]** 菜单并选择 [!UICONTROL Legacy Filters]。
 1. 选择 **[!UICONTROL New Filter]**。
 1. 将您的过滤器命名为“本月关闭的我所拥有的项目”。
 1. 单击 **[!UICONTROL Add Filter Rule]**。
@@ -69,4 +69,4 @@ ht-degree: 34%
 1. 再次单击 [!UICONTROL Add Filter Rule]。
 1. 在 [!UICONTROL Start typing field name] 字段类型“已计划”，然后选择 [!UICONTROL Planned Completion Date] 在 [!UICONTROL Project] 字段源。
 1. 将 [!UICONTROL Equal] 运算符更改为 [!UICONTROL This Month]。
-1. 单击 **[!UICONTROL Save Filter]**
+1. 单击 **[!UICONTROL Save Filter]**。
