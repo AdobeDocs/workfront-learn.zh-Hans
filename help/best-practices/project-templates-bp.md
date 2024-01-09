@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '1705'
-ht-degree: 61%
+source-wordcount: '1743'
+ht-degree: 60%
 
 ---
 
@@ -190,6 +190,8 @@ ht-degree: 61%
 
 随着流程和团队的变化，应该对项目模板进行更新。建立定期频率（如每季度）以检查并查看哪些模板未主动使用。 您可以停用这些模板，因为它们仍保留在Workfront中，但不会显示在模板选择列表中。
 
+有关如何停用项目模板的说明，请参阅 [停用项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html).
+
 </br>
 </br>
 
@@ -245,4 +247,4 @@ ht-degree: 61%
 
 所有这些用户都会在项目的“人员”和“计划”部分中列为项目团队的一部分。因此，它们将被传播到使用该模板创建的所有项目。 这可能会导致用户混淆，因为作为项目团队的一部分，他们收到有关项目活动的通知，在“我参与的项目”列表中看到项目，并获得有关项目及其任务、问题和文档的权限。
 
-
+有关如何编辑项目模板中的项目团队的说明，请参阅 [在项目模板中编辑项目团队](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html).

@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
+source-git-commit: d39151288d8b749940c5183063392ee471769445
 workflow-type: tm+mt
-source-wordcount: '643'
+source-wordcount: '642'
 ht-degree: 85%
 
 ---
@@ -134,7 +134,7 @@ ht-degree: 85%
 
 任何管理项目模板的人都会喜欢在列表中看到每个模板的活动状态（True或False）。 更棒的是 — 字段可内联编辑！
 
-创建名为“项目模板活动状态”的项目模板视图，该视图具有以下列：
+创建名为“标准+活动状态”的项目模板视图，该视图具有以下列：
 
 * [!UICONTROL Name]
 * [!UICONTROL Owner]
