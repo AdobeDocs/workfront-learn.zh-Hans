@@ -11,9 +11,9 @@ last-substantial-update: 2024-01-09T00:00:00Z
 team: Technical Marketing
 jira: KT-14755
 doc-type: video
-source-git-commit: d39151288d8b749940c5183063392ee471769445
+source-git-commit: 20d9bb3a9bccd3e78335f49cac1aabbc00b2da3d
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '63'
 ht-degree: 9%
 
 ---
@@ -22,7 +22,7 @@ ht-degree: 9%
 
 在本视频中，您将了解到：
 
-* 如何避免在模板项目团队中无意中包含****项目团队成员。
+* 如何避免无意中包括 **非** 模板项目团队中的项目团队成员。
 * 如何编辑模板项目团队。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on)
