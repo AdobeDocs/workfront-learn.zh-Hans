@@ -3,10 +3,10 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+source-git-commit: 6a155c50d31e789381c1151e9ee9c091e62c909e
 workflow-type: tm+mt
-source-wordcount: '2317'
-ht-degree: 98%
+source-wordcount: '2329'
+ht-degree: 97%
 
 ---
 
@@ -169,6 +169,8 @@ ht-degree: 98%
       + [直接从模板创建项目](manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
       + [共享项目模板](manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [复制现有项目](manage-work/manage-projects/copy-an-existing-project.md)
+      + [停用项目模板](manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+      + [在项目模板中编辑项目团队](manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + 项目时间线 {#project-timelines}
       + [了解项目时间线](manage-work/project-timelines/understand-project-timelines.md)
