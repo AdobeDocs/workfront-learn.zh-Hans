@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 8810d3ff896060eef192c06da648a40f7a9333a0
+source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
 workflow-type: tm+mt
-source-wordcount: '2326'
+source-wordcount: '2329'
 ht-degree: 97%
 
 ---
@@ -86,6 +86,7 @@ ht-degree: 97%
 + 自定义数据 {#custom-data}
    + 自定义表单 {#custom-forms}
       + [创建和共享自定义表单](custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.md)
+      + [共享自定义字段](custom-data/custom-forms/share-custom-fields.md)
       + [编辑自定义表单](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [将自定义表单附加到对象](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [将分区界限和逻辑添加到自定义表单](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
