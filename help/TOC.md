@@ -3,9 +3,9 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6a2e3a96d6a8733f712fd69e57b7cd552a79b59c
+source-git-commit: 74af2d2eebceded98ef9c26db15e66c1ea830c55
 workflow-type: tm+mt
-source-wordcount: '2329'
+source-wordcount: '2321'
 ht-degree: 97%
 
 ---
@@ -62,8 +62,6 @@ ht-degree: 97%
 
    + 创建和管理用户 {#create-and-manage-users}
       + [添加用户](administration-and-setup/create-and-manage-users/add-users-to-adobe-workfront.md)
-      + [创建个人用户](administration-and-setup/create-and-manage-users/create-an-individual-user-profile.md)
-      + [批量添加用户](administration-and-setup/create-and-manage-users/add-users-in-bulk.md)
       + [修改用户信息](administration-and-setup/create-and-manage-users/modify-user-information.md)
       + [何时以及如何停用或删除用户](administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [了解系统审核日志](administration-and-setup/create-and-manage-users/system-audit-log.md)
