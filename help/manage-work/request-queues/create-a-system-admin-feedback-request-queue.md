@@ -11,7 +11,7 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: a371abf052a0ef37edc31fa1e0b02d8265567447
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 5%
@@ -37,6 +37,5 @@ ht-degree: 5%
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 要了解如何创建 **管理员团队反馈报告** 在视频中使用，请参见 [创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hans) 教程并查找要执行的活动 **创建管理员团队反馈报告** 观看视频。
-<br>
-<br>
+
 要了解如何创建自定义表单，请参阅 [创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 教程。
