@@ -11,9 +11,9 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
+source-git-commit: 8cd01b3dca3a62c1d8699d7d076dccddf2010907
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '683'
 ht-degree: 46%
 
 ---
@@ -101,7 +101,7 @@ ht-degree: 46%
 
 ## 活动2：创建管理员团队反馈报告
 
-这是一个问题报告，显示的是为系统管理员创建的反馈请求队列中的所有问题。 您可以在以下位置了解如何创建此请求队列： **创建系统管理员反馈请求队列** 教程。
+这是一个问题报告，显示的是为系统管理员创建的反馈请求队列中的所有问题。 您可以在以下位置了解如何创建此请求队列： [创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html) 教程。
 
 此报表还使用自定义表单。 要了解如何创建自定义表单，请参阅 [创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 教程。
 
@@ -159,7 +159,8 @@ ht-degree: 46%
    ![用于创建问题报告列的屏幕图像](assets/task-report-activity-2-1.png)
 
    * [!UICONTROL Issue] > [!UICONTROL Name]
-   * [!UICONTROL Primary Contact] > [!UICONTROL Name] 注意：这将以“所有者：名称”作为列标签显示。 您可以通过单击高级选项并在中键入“报告者”，将此项更改为“报告者” **自定义列标签** 字段。
+   * [!UICONTROL Primary Contact] > [!UICONTROL Name]
+      * 注意：这将以“所有者：名称”作为列标签显示。 您可以通过单击高级选项并在中键入“报告者”，将此项更改为“报告者” **自定义列标签** 字段。
    * [!UICONTROL Issue] > [!UICONTROL Process type]
    * [!UICONTROL Issue] > [!UICONTROL Process name]
    * [!UICONTROL Issue] > [!UICONTROL Process grade]
