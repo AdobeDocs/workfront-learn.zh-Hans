@@ -1,6 +1,6 @@
 ---
-title: 创建任务报告
-description: 了解如何创建具有复杂过滤器的任务报告以及查找您在 Workfront 中创建的报告。活动 - 创建带有提示的备注报告。
+title: 单击任务报告
+description: 了解如何创建具有复杂过滤器的任务报告以及查找您在 Workfront 中创建的报告。活动 - 创建带有提示的注释报告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -11,58 +11,58 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 2134c921e39a549808bb11235b32e25903f77df4
 workflow-type: tm+mt
-source-wordcount: '352'
-ht-degree: 13%
+source-wordcount: '682'
+ht-degree: 46%
 
 ---
 
-# 创建任务报告
+# 单击任务报告
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 如何创建具有复杂过滤器的任务报告
+* 如何使用复杂的过滤器创建任务报告
 * 如何查找您创建的报告
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## 活动：创建带有提示的注释报告
+## 活动1：创建带有提示的注释报告
 
-创建附注报告，以便根据附注内容、作者、输入日期、项目名称或审核类型搜索用户附注（即注释或更新）或系统附注。 将报表命名为“注释搜索”。
+创建一份“注释”报告，该报告可用于根据注释内容、作者、输入日期、项目名称或审核类型搜索用户注释（即评论或更新）或系统注释。将报表命名为“注释搜索”。
 
-使用“注释文本”提示时，此报表将在更新线程中搜索，以快速提取满足提示中指定的条件的任何内容。 运行报告时，您无需填写每个提示，只需填写您关心的提示。 空白标记将自动被忽略。
+使用“注释文本”提示时，此报告将会在更新跟帖中进行搜索，以快速提取满足提示中指定条件的任何内容。运行报告时，您无需填写每个提示，只需填写您关心的提示。 空白的提示将会被自动忽略。
 
-该视图应包括以下列：
+该视图应包含以下列：
 
 * 注释文本
-* 审计文本
+* 审核文本
 * 输入日期
 * 所有者：名称
-* 审计类型
+* 审核类型
 * 任务名称
 * 问题名称
 
 将过滤器选项卡留空。
 
-按项目名称分组。
+根据项目名称分组。
 
-包括以下内容的提示：
+包括以下提示：
 
-* 审计文本
+* 审核文本
 * 注释文本
 * 所有者名称
 * 输入日期
 * 项目名称
-* 审计类型
+* 审核类型
 
-## 答案
+## 活动 1 答案
 
-1. 选择 **[!UICONTROL Reports]** 从 **[!UICONTROL Main Menu]**.
-1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Note]**.
-1. In **[!UICONTROL Columns (View)]** 设置要包含的列：
+1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
+1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Note]**。
+1. 在 **[!UICONTROL Columns (View)]** 中，将您的列设置为包括：
 
-   ![用于创建注释报表列的屏幕图像](assets/note-report-columns.png)
+   ![创建注释报告列的屏幕图像](assets/note-report-columns.png)
 
    * [!UICONTROL Note] > [!UICONTROL Note Text]
    * [!UICONTROL Note] > [!UICONTROL Audit Text]
@@ -72,22 +72,22 @@ ht-degree: 13%
    * [!UICONTROL Task] > [!UICONTROL Name]
    * [!UICONTROL Issue] > [!UICONTROL Name]
 
-1. 选择 **[!UICONTROL Entry Date]** 列并更改 **[!UICONTROL Sort to Descending]**.
-1. 在 **[!UICONTROL Groupings]** 选项卡，将报表设置为分组依据 [!UICONTROL Project] > [!UICONTROL Name].
+1. 选择 **[!UICONTROL Entry Date]** 列，并更改 **[!UICONTROL Sort to Descending]**。
+1. 在 **[!UICONTROL Groupings]** 选项卡中，将报告设置为根据 [!UICONTROL Project] > [!UICONTROL Name] 分组。
 
-   ![用于创建注释报表分组的屏幕图像](assets/note-report-groupings.png)
+   ![创建注释报告分组的屏幕图像](assets/note-report-groupings.png)
 
-1. 离开 [!UICONTROL Filters] 空白。
+1. 将 [!UICONTROL Filters] 留空。
 1. 打开 **[!UICONTROL Report Settings]** 并将报表命名为“注释搜索”。
-1. 在 [!UICONTROL Description] 字段，输入诸如“Search for System or User notes based on the Audit Type selected（根据选定的审核类型搜索系统或用户注释）”等内容以及其他提示。 “系统注释显示在‘审核文本’列中，用户注释显示在‘注释文本’列中。”
+1. 在 [!UICONTROL Description] 字段，输入诸如“Search for System or User notes based on the Audit Type selected（根据选定的审核类型搜索系统或用户注释）”之类的内容。 “系统注释显示在‘审核文本’列中，用户注释显示在‘注释文本’列中。”
 
-   ![用于创建注释报表设置的屏幕图像](assets/note-report-report-options.png)
+   ![创建注释报告设置的屏幕图像](assets/note-report-report-options.png)
 
-1. 选择 **[!UICONTROL Details Tab]** 以便在报告加载时显示。
-1. 将报表设置为在仪表板上包含报表时显示200个项目。
+1. 选择 **[!UICONTROL Details Tab]**，以便在加载报告时显示它。
+1. 当在仪表板中加入报告时，将报告设置为显示 200 个项目。
 1. 单击 **[!UICONTROL Report Prompts]** 并添加：
 
-   ![用于创建注释报告提示的屏幕图像](assets/note-report-report-prompts.png)
+   ![创建注释报告提示的屏幕图像](assets/note-report-report-prompts.png)
 
    * [!UICONTROL Note] > [!UICONTROL Audit Text]
    * [!UICONTROL Note] > [!UICONTROL Note Text]
@@ -96,5 +96,86 @@ ht-degree: 13%
    * [!UICONTROL Project] > [!UICONTROL Name]
    * [!UICONTROL Note] > [!UICONTROL Audit Type]
 
-1. 选中复选框 **[!UICONTROL Show Prompts in Dashboards]**.
-1. 保存并关闭报告。
+1. 选中 **[!UICONTROL Show Prompts in Dashboards]** 框。
+1. 保存并关闭您的报告。
+
+## 活动2：创建管理员团队反馈报告
+
+这是一个问题报告，显示的是为系统管理员创建的反馈请求队列中的所有问题。 您可以在以下位置了解如何创建此请求队列： **创建系统管理员反馈请求队列** 教程。
+
+此报表还使用自定义表单。 要了解如何创建自定义表单，请参阅 [创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html) 教程。
+
+应按如下方式创建此自定义表单：
+
+名称：管理员进程反馈
+
+1. 流程类型（下拉字段）
+   * 访问级别
+   * 审批流程（仅限全局）
+   * 电子邮件通知
+   * 布局模板
+   * 里程碑路径
+   * 项目模板
+   * 提醒通知
+   * 请求队列
+1. 进程名称（单行文本字段）
+1. 流程等级（下拉字段）
+   * 1 — 完全没用
+   * 2 — 不太有用
+   * 3 — 好，但可能更好
+   * 4 — 优秀
+1. 问题或好消息（段落文本字段）
+
+创建名为的问题报告 **管理员团队反馈报告**.
+
+视图应具有以下列：
+
+* 问题：名称
+* 主要联系人：姓名
+* 问题：流程类型
+* 问题：进程名称
+* 问题：流程等级
+* 问题：问题或好消息
+* 问题：输入日期
+* 问题：年龄
+* 问题：工作
+* 问题：状态
+
+按进程类型分组。
+
+筛选反馈问题所在的请求队列项目的ID。
+
+
+![管理员团队反馈报告的屏幕截图](assets/create-a-system-admin-feedback-request-queue.png)
+
+
+
+## 活动 2 答案
+
+1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
+1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Issue]**。
+1. 在 **[!UICONTROL Columns (View)]** 中，将您的列设置为包括：
+
+   ![用于创建问题报告列的屏幕图像](assets/task-report-activity-2-1.png)
+
+   * [!UICONTROL Issue] > [!UICONTROL Name]
+   * [!UICONTROL Primary Contact] > [!UICONTROL Name] 注意：这将以“所有者：名称”作为列标签显示。 您可以通过单击高级选项并在中键入“报告者”，将此项更改为“报告者” **自定义列标签** 字段。
+   * [!UICONTROL Issue] > [!UICONTROL Process type]
+   * [!UICONTROL Issue] > [!UICONTROL Process name]
+   * [!UICONTROL Issue] > [!UICONTROL Process grade]
+   * [!UICONTROL Issue] > [!UICONTROL Problem or good news]
+   * [!UICONTROL Issue] > [!UICONTROL Entry date]
+   * [!UICONTROL Issue] > [!UICONTROL Age]
+   * [!UICONTROL Issue] > [!UICONTROL Assignments]
+   * [!UICONTROL Issue] > [!UICONTROL Status]
+
+1. 选择 **[!UICONTROL Entry Date]** 列，并更改 **[!UICONTROL Sort to Descending]**。
+1. 在 **[!UICONTROL Groupings]** 选项卡中，将报告设置为根据 **[!UICONTROL Issue]>[!UICONTROL Process type]** 分组。
+
+   ![用于创建问题报告分组的屏幕图像](assets/task-report-activity-2-2.png)
+
+1. 在 **[!UICONTROL Filters]** 选项卡，为添加筛选器 **[!UICONTROL Issue]>[!UICONTROL Project ID]** 等于反馈问题所在的请求队列项目。
+
+   ![用于创建问题报告过滤器的屏幕图像](assets/task-report-activity-2-3.png)
+
+1. 保存并关闭您的报告。
