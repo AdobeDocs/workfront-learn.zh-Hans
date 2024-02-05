@@ -1,6 +1,6 @@
 ---
-title: 使用创建可见性 [!DNL Jira] 集成
-description: 一窥它的 [!DNL Jira] 集成可让您了解团队正在做什么。
+title: 通过与  [!DNL Jira]  集成创建可见性
+description: 了解  [!DNL Jira]  集成如何帮助您了解您的团队正在进行的工作。
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -10,40 +10,40 @@ team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '365'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用创建可见性 [!DNL Jira] 集成
+# 通过与 [!DNL Jira] 集成创建可见性
 
-[!DNL Jira]  是用于跟踪开发和技术支持团队的项目和问题的产品。 虽然许多团队使用Jira来跟踪任务级别的进度，但他们使用 [!DNL Workfront] 进行真正的项目管理，因为他们可以获得一个高层次的进度视图。 使用 [!DNL Jira]  本机集成，此信息可在两个应用程序之间自动传输。
+[!DNL Jira] 是一款开发和技术支持团队用来跟踪项目和问题的产品。虽然许多团队使用 Jira 来跟踪任务级别进度，但他们使用 [!DNL Workfront] 来进行真正的项目管理，因为他们可以由此获得高级进度视图。有了 [!DNL Jira] 原生集成，这些信息便可以在两个应用程序之间自动传输。
 
-## 什么是 [!DNL Jira] ？
+## 什么是 [!DNL Jira]？
 
-[!DNL Jira]  是由创建的产品 [!DNL Atlassian] 为开发和技术支持团队跟踪项目和问题。 许多团队都使用 [!DNL Jira]  跟踪任务级别的进度，但它们也使用 [!DNL Workfront] 以管理项目。 这意味着团队要加倍努力，在中创建任务 [!DNL Workfront] 和 [!DNL Jira] . 但使用 [!DNL Jira]  原生集成，此类信息可以在两个应用程序之间自动传输。
+[!DNL Jira] 是一款由 [!DNL Atlassian] 创建的适用于开发和技术支持团队跟踪项目和问题的产品。很多团队都使用 [!DNL Jira] 来跟踪任务级别的进度，但他们也会使用 [!DNL Workfront] 来管理项目。这意味着团队同时在 [!DNL Workfront] 和 [!DNL Jira] 中创建任务时需要做双倍的工作。而有了 [!DNL Jira] 原生集成，此类信息便可以在两个应用程序之间自动传输。
 
-## 如何安装适用于Jira的Adobe Workfront？
+## 如何安装 Adobe Workfront for Jira？
 
-转到 [适用于Jira的Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=en) 了解如何安装和配置Adobe Workfront for Jira。
+访问 [Adobe Workfront for Jira](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-jira/workfront-for-jira.html?lang=zh-Hans)，了解如何安装和配置 Adobe Workfront for Jira。
 
-## 什么可以 [!DNL Jira]  集成do？
+## [!DNL Jira] 集成有什么作用？
 
-这里有冲刺 [!DNL Workfront] 标题为&#39;&#39;[!DNL Workfront] 故事之春。”
+在这里，我们在 [!DNL Workfront] 中有一个名为“[!DNL Workfront] Story Spring”的冲刺。
 
-![情节提要燃尽图](assets/Jira01.png)
+![故事板燃尽图](assets/Jira01.png)
 
-Dev-Jedi Council Agile团队负责人Joan Harris使用Scrum板和燃尽图作为衡量整体冲刺进度的方法。 它给团队提供了对正在发生事情的良好视觉呈现。 此外，这一信息还被纳入每季度审查一次的执行报告。 但是，团队中的大多数人都在以下位置进行了更新： [!DNL Jira] ，不是 [!DNL Workfront].
+Dev-Jedi Council 敏捷团队负责人 Joan Harris 使用 Scrum 展示板和燃尽图来衡量整个冲刺的进度。它有助于团队清晰地了解当前的情况。此外，这些信息还会纳入每季度审查一次的执行报告中。然而，大多数团队都会在 [!DNL Jira] 中进行更新，而不是在 [!DNL Workfront] 中。
 
-琼的团队一直在用 [!DNL Jira]  数年来，一直发现这是他们跟踪各个任务和/或他们被分派处理的错误的好方法。 但琼真的需要这些信息来连接 [!DNL Workfront] 最后，为高管报告提供素材。
+Joan 的团队多年来一直在使用 [!DNL Jira]，他们发现这是跟踪分配给他们处理的个人任务和/或错误的好方法。但 Joan 非常需要将这些信息与 [!DNL Workfront] 相连，并最终为这些执行报告提供信息。
 
-![Jira Storyboard](assets/Jira02.png)
+![Jira 故事板](assets/Jira02.png)
 
-通过 [!DNL Jira]  本机集成，对任务、故事或错误所做的任何更新都可以自动更新中的任务、故事和/或问题 [!DNL Workfront].
+通过 [!DNL Jira] 原生集成，对任务、故事或错误所做的任何更新都可以自动更新 [!DNL Workfront] 中的任务、故事和/或问题。
 
-因此，当分配给“审核硬件要求”故事的团队成员更新中的状态时 [!DNL Jira] ，将其从“新”移动到“进行中”，该更新将自动更改文章的状态 [!DNL Workfront] 也是。
+因此，当被分配到“审查硬件需求”故事的团队成员更新 [!DNL Jira] 中的状态，将其从“新建”移动到“正在进行中”时，该更新也将自动更改 [!DNL Workfront] 中故事的状态。
 
-![Jira状态页](assets/Jira03.png)
+![Jira 状态页面](assets/Jira03.png)
 
 ![状态列](assets/Jira04.png)
