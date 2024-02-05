@@ -1,6 +1,6 @@
 ---
-title: 负责现有的Adobe Workfront实例
-description: 了解以新的系统或组管理员身份评估、了解和优化您的Workfront实例的关键阶段。
+title: 负责现有的 Adobe Workfront 实例
+description: 作为新系统或组管理员，了解评估、理解和优化 Workfront 实例的关键阶段。
 feature: System Setup and Administration
 type: Tutorial
 role: Admin
@@ -11,94 +11,94 @@ team: Technical Marketing
 thumbnail: null
 exl-id: ad900f59-319b-49ee-bc23-e816edc2de24
 source-git-commit: ed631261fc3ad4eb72b59e1ca5b3a79951d8645b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '772'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 负责现有的Adobe Workfront实例
+# 负责现有的 Adobe Workfront 实例
 
-Workfront的奇妙之处在于它可自定义。 Workfront的挑战在于，它是如此可自定义。 如果您是新的系统或组、管理员来接管现有的Workfront实例，了解最初是如何配置和设置它的，可能会非常困难。
+Workfront 的优点在于它的可定制性很强。Workfront 的缺点也在于它的可定制性很强。如果您是接管现有 Workfront 实例的新系统或组管理员，那么弄清楚它最初是如何配置和设置的可能会让人倍感压力。
 
-但是，通过我们的继承实例核对清单，您可以了解有关实例的所有所需信息。
+但是，通过我们的继承的实例清单，您可以了解到您需要知道的有关您的实例的所有信息。
 
 ![继承的实例清单图像](assets/wf-inherited-instance-image.png)
 <br></br>
 
-在继承实例核对清单中，您将查看一组全面的问题、资源和链接，以清楚地了解其配置方式。
+在继承的实例清单中，您会查看一组全面的问题、资源和链接，以清楚地了解其配置方式。
 
-该核对清单已创建为Workfront Blueprint和可下载的Excel电子表格。 我们建议使用Blueprint直接在Workfront中管理和记录您的工作。
+该清单已创建为 Workfront Blueprint 和可下载的 Excel 电子表格。我们建议使用 Blueprint 在 Workfront 中直接管理和记录您的工作。
 
-Blueprint和电子表格都按主题组织，而不是按时间线组织，以便您能够以对您和您的组织最有意义的方式进展。 提供的持续时间只是一个示例，您应该调整它们以满足您的特定需求。 这不一定非要一蹴而就！
+Blueprint 和电子表格均按主题进行组织（而不是按时间线），以便您可以按照对您和您的组织最有意义的方式取得进展。所提供的持续时间只是一个示例，您应该对它们进行调整，以满足您的特定需求。这不必一次性完成！
 
-我们建议您尽可能与组织中的其他人员合作，审查并记录这些元素，并在发生任何重大更改时使文档保持最新。 您实例中的未来管理员将感谢您！
+如果有可能，我们鼓励您与组织中的其他人合作来审查和记录这些元素，并在出现任何重大更改时保持您的文档最新。您实例中未来的管理员会非常感谢您！
 
-* <b>下载Blueprint</b>，导航到您自己的Workfront实例中的主菜单，然后选择Blueprint。 查找标题为“继承的实例基础知识”的Blueprint | Checklist”，然后单击Install。 选择您的生产或沙盒环境并继续配置。 有关安装和配置Blueprint的更多信息，请参阅 [此处](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=en).
+* <b>若要下载 Blueprint</b>，请导航到您自己的 Workfront 实例中的主菜单并选择 Blueprint。找到标题为“继承的实例基本知识|清单”的 Blueprint，然后单击“安装”。选择您的生产或沙盒环境并继续配置。有关安装和配置 Blueprint 的更多信息，请参阅[这里](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/blueprints/blueprints-install.html?lang=zh-Hans)。
 
-* <b>下载Excel</b> 清单，单击 [此处](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx).
+* <b>若要下载 Excel </b>清单，请单击[这里](assets/adobe-workfront-system-admin-playbook-inherited-instance.xlsx)。
 
-无论您使用的是Blueprint还是Excel核对清单，都可以将此过程分为3个关键阶段 — 发现、审核和文档。 以下列出了描述和理想的结果。
+无论您使用 Blueprint 还是 Excel 清单，您都可以将此过程视为 3 个关键阶段——发现、审核和文档。下面列出了相关的描述和理想的结果。
 
 <br>
 </br>
 
-## 第1阶段：学习和发现
+## 第一阶段：学习与发现
 
-<b>建议的时间范围：4周</b>
+<b>建议时间范围：4 周</b>
 
-首先要了解您的Workfront实例当前是如何设置的。
+首先要做的是了解您的 Workfront 实例今天是如何设置的。
 
-这涉及到与利益相关者进行访谈并审查任何现有的文档，以了解您组织内的各个组如何利用Workfront。
+这包括开展利益相关者访谈，并审查任何现有文档，以了解组织内的各个组如何利用 Workfront。
 
-如果您从技术角度不熟悉Workfront，请参加系统管理员培训。 这提供了必要的分析，让您了解不同的设置如何在Workfront中运行并影响每个工具，还可能会影响每个用户。
+如果您从技术角度不熟悉 Workfront，请参加系统管理员培训。这提供了对 Workfront 中不同设置如何发挥作用并影响每个工具以及潜在的每个用户的必要见解。
 
-在此阶段结束时，您应该拥有：
+到此阶段结束时，您应该：
 
-* 清楚地了解贵组织使用Workfront背后的原因
+* 清楚了解您的组织使用 Workfront 的原因
 
-* 对实例运行状况的一般了解，包括关键用例
+* 对实例运行状况具有总体的了解，其中包括关键用例
 
-* 概述哪些方面工作正常，以及各种流程和用户需求之间的挑战和/或差距的文件
+* 概述哪些方面做得好，以及流程和用户需求方面的挑战和/或差距的文档
 <br>
 </br>
 
-## 第2阶段：系统审核
+## 第二阶段：系统审核
 
-<b>建议的时间范围：4周 </b>
+<b>建议时间范围：4 周</b>
 
-初次发现后，建议您对实例进行技术性更强的审核。 这意味着您需要确定可能需要进行的更改或增强功能，以确保您的当前设置和配置满足您的业务要求和需求。
+进行初步发现后，建议您对实例进行更具技术性的审核。这意味着您需要确定可能需要更改或增强的方面，以确保当前的设置和配置满足您的业务要求和需求。
 
-在此阶段结束时，您应该拥有：
+到此阶段结束时，您应该：
 
 * 更深入地了解实例的当前状态
 
-* 已确定您想要对实例进行的更改或增强以满足业务需求。
+* 确定了您希望对实例进行的更改或增强，以满足业务需求。
 <br>
 </br>
 
-## 阶段3：文档和优化
+## 第三阶段：文档记录和优化
 
-<b>建议的时间范围：初始= 2周；持续更新 </b>
+<b>建议的时间范围：初始 = 2 周；持续更新</b>
 
-根据您在阶段1和2中学到的内容，您将需要创建、更新和记录您的实例，并制定路线图以解决战略和项目级别的挑战。
+根据您在第一阶段和第二阶段中学到的知识，您需要创建或更新您实例的文档，并制定路线图，以解决战略和项目级别的挑战。
 
-在此阶段进行时，您应：
+当此阶段正在进行时，您应该：
 
-* 书面集中式文档，用于解答本文档中各个选项卡的问题
+* 编写了回答本文档中各个选项卡的问题的集中文档
 
-* 优先级最高的工作流、自动化和集成的可视化图表
+* 具有最高优先级的工作流、自动化和集成的可视化图表
 
-* 积压的工作或路线图，其中记录了未来为改善组织和战略挑战而开展的增强工作
+* 记录未来用于改善组织和战略挑战的增强功能的积压工作文件或路线图
 
 <br>
-通过执行各个阶段，并在继承实例核对清单的帮助下，您作为新的系统或组管理员，应该更好地了解您的Workfront实例的配置方式、需要进行的调整或增强，并巩固您的文档以优化组织的Workfront体验。
+通过完成每个阶段，并在继承的实例清单的帮助下，作为新的系统或组管理员，您应该能够更好地了解 Workfront 实例的配置方式、需要进行哪些调整或增强，并巩固您的文档，从而优化您组织的 Workfront 体验。
 
 <br>
 </br>
 
-其他信息如下所示：
-* [网络研讨会：接管继承实例的提示](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
-* [定义Workfront实施的目标](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=en)
-* [博客帖子：管理层支持与领导力价值](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [博客帖子：Adobe Workfront KPI简介](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+其他信息如下：
+* [网络研讨会：接管继承实例的技巧](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [定义 Workfront 实施的目标](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=zh-Hans)
+* [博客文章：高管的赞助以及领导层获得的价值](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
+* [博客文章：Adobe Workfront KPI 简介](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
