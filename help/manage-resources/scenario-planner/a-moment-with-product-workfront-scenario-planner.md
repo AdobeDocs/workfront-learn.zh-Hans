@@ -1,6 +1,6 @@
 ---
-title: 简介 [!DNL Scenario Planner]
-description: 了解如何 [!DNL Scenario Planner] 有助于使决策与业务成果保持一致。 了解如何导航 [!DNL Scenario Planner].
+title: ' [!DNL Scenario Planner] 简介'
+description: 了解  [!DNL Scenario Planner]  如何帮助您根据业务结果调整决策。了解如何导航  [!DNL Scenario Planner]。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -11,17 +11,17 @@ jira: KT-9074
 exl-id: 9a8bec0b-1f48-48d4-883b-2cb9cff251cf
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '48'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 产品时刻：简介 [!DNL Scenario Planner]
+# 产品时刻：[!DNL Scenario Planner] 简介
 
-在本视频中，您将执行以下操作：
+在此视频中，您将：
 
-* 获取导航概述 [!DNL Scenario Planner]
-* 了解 [!DNL Scenario Planner] 有助于使决策与业务成果保持一致。
+* 获取 [!DNL Scenario Planner] 的导航概览
+* 了解 [!DNL Scenario Planner] 如何帮助您根据业务结果调整决策。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on)
