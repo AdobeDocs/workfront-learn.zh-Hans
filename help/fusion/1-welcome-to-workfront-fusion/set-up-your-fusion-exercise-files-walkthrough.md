@@ -1,6 +1,6 @@
 ---
-title: 设置Workfront Fusion练习文件
-description: 了解如何下载练习文件并将这些文件上传到Workfront中的文件夹中，位置为 [!DNL Adobe Workfront Fusion].
+title: 设置 Workfront Fusion 练习文件
+description: 了解如何在  [!DNL Adobe Workfront Fusion] 中下载练习文件并将这些文件上传到 Workfront 中的文件夹中。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8998
 exl-id: 2499a65a-a3c6-4ba9-82c6-c2932831f33e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 设置Workfront Fusion练习文件
+# 设置 Workfront Fusion 练习文件
 
-了解如何设置Fusion练习文件。
+了解如何设置 Fusion 练习文件。
 
-1. 下载 [Fusion练习文件](/help/assets/fusion-exercise-files.zip).
+1. 下载[ Fusion 练习文件。](/help/assets/fusion-exercise-files.zip)
 
-1. 观看视频，了解如何将这些文件上传到Workfront中的文件夹。
+1. 观看该视频，了解如何将这些文件上传到 Workfront 中的文件夹中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on)
