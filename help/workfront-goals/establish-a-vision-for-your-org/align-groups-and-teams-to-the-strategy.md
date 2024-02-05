@@ -1,6 +1,6 @@
 ---
-title: 使组和团队与战略保持一致
-description: 了解如何使用[！DNL Goals]审核和激活建议的目标，以及级联和调整季度目标。
+title: 让小组和团队遵循策略
+description: 了解如何使用 [!DNL   Goals] 审查和激活拟议的目标，并层叠和调整季度目标。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8894
 exl-id: 2f3ef8e3-f667-4efa-9cf0-44f8835d1671
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使组和团队与战略保持一致
+# 让小组和团队遵循策略
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 审核和激活建议的目标
-* 级联和调整季度目标
+* 审查并激活拟议的目标
+* 层叠并调整季度目标
 
 >[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on)
 
@@ -30,4 +30,4 @@ ht-degree: 0%
 Pro-tips graphic
 -->
 
-* 确定审核和设置季度目标和增量目标的频率。 建议为每个规划期间设置目标，但不要提前太久设定目标，以确保您保持灵活并对业务变化做出响应。
+* 确定审查和设定季度目标和增量目标的频率。建议为每个规划期设定目标，但不要提前太早制定目标，以确保您能够保持灵活并响应企业内的变化。
