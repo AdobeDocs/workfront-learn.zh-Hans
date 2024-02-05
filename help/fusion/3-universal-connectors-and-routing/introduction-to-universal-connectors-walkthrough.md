@@ -1,6 +1,6 @@
 ---
 title: 通用连接器演练简介
-description: 了解如何通过HTTP连接器调用Poke API，以收集和发布有关“神奇宝贝”角色的信息，所有这些都在 [!DNL Adobe Workfront Fusion].
+description: 了解如何通过 HTTP 连接器调用 Poke API 来收集和发布有关宠物小精灵角色的信息，一切尽在  [!DNL Adobe Workfront Fusion]。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9011
 exl-id: 87cc93a0-5ad8-4d40-bc85-b7fda35b0df3
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '140'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,27 +21,27 @@ ht-degree: 0%
 
 ## 概述
 
-在电子表格中使用“精灵宝可梦”字符，通过HTTP连接器调用Poke API以收集和发布有关该字符的更多信息。
+使用电子表格中的宠物小精灵角色，通过 HTTP 连接器调用 Poke API 来收集并发布有关该角色的更多信息。
 
-![融合场景的图像](assets/universal-connectors-and-routing-1.png)
+![Fusion 场景的图像](assets/universal-connectors-and-routing-1.png)
 
 ## 通用连接器演练简介
 
-Workfront建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
+Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335270/?quality=12&learn=on)
 
-### 练习URL
+### 练习 URL
 
-Pokémon API网站： `https://pokeapi.co/`
+宠物小精灵 API 网站：`https://pokeapi.co/`
 
-练习URL： `https://pokeapi.co/api/v2/pokemon/{Character}`
+练习网址：`https://pokeapi.co/api/v2/pokemon/{Character}`
 
 >[!TIP]
 >
->有关完成演练的分步说明，请转到 [通用连接器演练简介](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=en) 运动。
+>有关完成演练的分步说明，请参阅[通用连接器简介演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/introduction-to-universal-connectors.html?lang=zh-Hans)练习。
 
 
-## 想要了解更多信息？ 我们建议执行以下操作：
+## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
