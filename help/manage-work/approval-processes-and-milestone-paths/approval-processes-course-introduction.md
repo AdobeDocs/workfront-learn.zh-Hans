@@ -1,6 +1,6 @@
 ---
-title: 批准流程课程简介
-description: 了解批准流程如何简化和自动化工作审查流程。
+title: 审批流程课程介绍
+description: 了解审批流程如何简化和自动化工作审核流程。
 activity: deploy
 feature: Approvals
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8961
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 批准流程课程简介
+# 审批流程课程介绍
 
-在本视频中，您将了解批准流程如何简化和自动化工作审查流程。
+在本视频中，您将了解到审批流程如何简化和自动化工作审核流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on)
