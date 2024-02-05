@@ -1,6 +1,6 @@
 ---
 title: 了解 [!UICONTROL Business Case]
-description: 了解如何使用 [!UICONTROL Business Case] Workfront以评估请求的项目，并将它们与您项目组合中的其他项目进行比较。
+description: 了解如何使用 Workfront 中的 [!UICONTROL Business Case] 来评估请求的项目，并将其与您项目组合中的其他项目进行比较。
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -12,85 +12,85 @@ role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
 source-git-commit: 64789af613bd6b38e58bd2c15df622729b883b22
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '698'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 了解 [!UICONTROL Business Case]
 
-作为经理，您的目标是确保项目以积极的方式为公司的总体目标和计划做出贡献。 为了做出明智的决策，您需要项目经理提供信息，告知他们推进项目将需要什么。 这可以通过以下方式实现 [!UICONTROL Business Case].
+作为一名管理者，您的目标是确保项目以积极的方式为公司的总体目标和举措做出贡献。若要作出明智的决策，您需要项目经理提供有关他们推进其项目所需的信息。这可以通过 [!UICONTROL Business Case] 来完成。
 
 ## 什么是 [!UICONTROL Business Case]？
 
-想一想 [!UICONTROL Business Case] 作为需要完成的工作的蓝图或提议。 它捕获帮助您规划和管理项目组合的概要性初步估计。 在这里，可以输入潜在支出、资源和风险，以构建该项目让公司受益的“案例”。
+将 [!UICONTROL Business Case] 视为需要完成的工作的 Blueprint 或建议。它捕获的是概括的初步估计值，有助于您规划和管理项目组合。在这里输入潜在的费用、资源和风险，以构建一个“案例”来说明为什么该项目可使公司受益。
 
-## [!UICONTROL Business Case] 建议用于项目优先级的字段
+## 推荐用于项目优先级排序的 [!UICONTROL Business Case] 字段
 
-每个部分 [!UICONTROL Business Case] 提供有关项目的独特重要信息。 让我们看一下将信息馈送到的部分 [!UICONTROL Portfolio Optimizer] 工具，这将帮助您确定项目组合中的项目的优先级。
+[!UICONTROL Business Case] 的每一部分都提供了有关该项目的独特而重要的信息。让我们来看看向 [!UICONTROL Portfolio Optimizer] 工具提供信息的部分，该工具将会帮助您确定您项目组合中的项目的优先级。
 
 ## [!UICONTROL Project Info]
 
-大多数的信息输入于 [!UICONTROL Project Info] 部分涉及一般项目详细信息，如项目发起人和项目所属的程序。
+在 [!UICONTROL Project Info] 部分输入的大多数信息都涉及项目的一般细节，例如项目赞助者和项目所属的项目群。
 
-但是，有一个信息可能会影响项目的优先顺序 — [!UICONTROL Planned Benefit].
+然而，有一条信息可能会影响项目的优先级——[!UICONTROL Planned Benefit]。
 
-![的图像 [!UICONTROL Planned Benefit] 中的区域 [!UICONTROL Project Info] 的部分 [!UICONTROL Business Case]](assets/05-portfolio-management4.png)
+![图像：[!UICONTROL Project Info] 部分中的 [!UICONTROL Planned Benefit] 区域，位于 [!UICONTROL Business Case]](assets/05-portfolio-management4.png)
 
-此 [!UICONTROL Planned Benefit] 表示如果项目完成，贵公司可能从中受益的预计美元金额。
+[!UICONTROL Planned Benefit] 表示如果项目完成，您的公司可能会从中受益的估计美元金额。
 
-这是部分内容之一，对于让您的公司推进此项目而言，这可能是一个转折点。 如果能证明该项目将对贵公司的盈利水平产生重大影响，那么该项目被更快地推进的几率就更高。
+这可能会是促使公司推进该项目的转折点的部分之一。如果您能够验证该项目将会为您公司的盈利做出重大贡献，那么该项目更有可能会加快通过速度。
 
 ## [!UICONTROL Expenses]
 
-[!UICONTROL Expenses] 指项目期限内可能产生的非劳动成本。
+[!UICONTROL Expenses] 代表一个项目的生命周期内可能产生的非劳动力成本。
 
-![的图像 [!UICONTROL Expenses] 中的部分 [!UICONTROL Business Case]](assets/06-portfolio-management5.png)
+![图像：[!UICONTROL Expenses] 部分，位于 [!UICONTROL Business Case]](assets/06-portfolio-management5.png)
 
-例如，用户会议的费用可能包括地点付款、礼品包物品或地点大厅的标志。
+例如，用户会议的费用可能包括场地费用、礼品袋项目或场地大厅标志。
 
 ## [!UICONTROL Resource Budgeting]
 
-此 [!UICONTROL Resource Budgeting] 部分允许您估计项目前进所需的人力。 信息提取自 [!DNL Workfront's] [!UICONTROL Resource Planner].
+[!UICONTROL Resource Budgeting] 部分允许您估计您认为推进项目所需的劳动力。信息从 [!DNL Workfront's] [!UICONTROL Resource Planner] 中提取。
 
-![的图像 [!UICONTROL Resource Budgeting] 中的部分 [!UICONTROL Business Case]](assets/07-portfolio-management6.png)
+![图像：[!UICONTROL Resource Budgeting] 部分，位于 [!UICONTROL Business Case]](assets/07-portfolio-management6.png)
 
-通过输入每个工作角色的估计需求，这会创建项目可能需要的预算，并深入分析项目组合有多少预算可用于项目。
+通过输入每个工作角色的估计需求，这可以创建项目所需的潜在预算，并深入了解项目组合的预算中有多少可用于该项目。
 
 >[!NOTE]
 >
->您必须在中设置资源池 [!DNL Workfront] 要使用的 [!UICONTROL Business Case].
+>您必须在 [!DNL Workfront] 中设置资源池才能使用 [!UICONTROL Business Case] 中的该部分。
 
 ## [!UICONTROL Risks]
 
-您始终对项目的顺利运行抱着最高的希望。 但识别风险并据此制定计划很重要。 这就是 [!UICONTROL Risks] 中的部分 [!UICONTROL Business Case] 会有所帮助。
+您总是抱着最大的希望，希望您的项目能顺利进行。但识别风险并相应地制定计划非常重要。这就是 [!UICONTROL Business Case] 中的 [!UICONTROL Risks] 部分可以提供帮助的地方。
 
-![的图像 [!UICONTROL Risks] 中的部分 [!UICONTROL Business Case]](assets/08-portfolio-management7.png)
+![图像：[!UICONTROL Risks] 部分，位于 [!UICONTROL Business Case]](assets/08-portfolio-management7.png)
 
-您应该与团队集思广益，确定项目存在的任何风险。 对于可以估计发生风险时的成本以及发生风险的可能性，请确保并输入这些值。 Workfront会将潜在成本乘以概率，并将之用于 [!UICONTROL Potential Risk] 从项目投资中扣除的基金 [!UICONTROL Planned Benefit] 在计算其 [!UICONTROL Net Value].
+您应该和您的团队一起集思广益，找出项目面临的任何风险。对于可以估计发生时所产生的成本以及发生概率的风险，请一定要输入这些值。Workfront 会将潜在的成本乘以概率，并将其放入 [!UICONTROL Potential Risk] 资金中，在计算其 [!UICONTROL Net Value] 时，会将该资金从项目的 [!UICONTROL Planned Benefit] 中减去。
 
 ## [!UICONTROL Scorecards]
 
-[!UICONTROL Scorecards] 帮助确定所提议的项目与为项目组合或公司设定的总体目标和计划的匹配程度。
+[!UICONTROL Scorecards] 有助于确定拟议项目与项目组合或公司的总体目标和举措的一致性。
 
-每个记分卡都有一个问题列表，其中包含附加值的问题和答案。 当记分卡填写完毕后， [!DNL Workfront] 可以计算项目与您组织预先确定的目标的对齐情况。
+每个记分卡都有一个问题和答案列表，这些问题和答案都附有值。填写记分卡后，[!DNL Workfront] 可以计算该项目与组织预定目标之间的一致性。
 
-![的图像 [!UICONTROL Scorecards] 中的部分 [!UICONTROL Business Case]](assets/09-portfolio-management8.png)
-
->[!NOTE]
->
->项目经理将无法看到分配给每个答案的值。 只有创建记分卡的用户才能看到值。
-
-## [!UICONTROL Business Case] 非必填
-
-此 [!UICONTROL Business Case] 非常灵活。 您可以只填写几个部分或根本不填写任何部分。 这些字段都不是必填字段。 但是，您填写的信息越多，就越容易分析和优先处理争夺相同预算或资源的项目。
-
-一旦 [!UICONTROL Business Case] 已填写，请单击 **[!UICONTROL Submit]** 窗口右侧“摘要”面板中的按钮。 这会将项目状态更改为 [!UICONTROL Requested]. 现在您已准备好使用 [!UICONTROL Portfolio Optimization] 优先处理同一项目组合中的项目。
+![图像：[!UICONTROL Scorecards] 部分，位于 [!UICONTROL Business Case]](assets/09-portfolio-management8.png)
 
 >[!NOTE]
 >
->中的对齐分数 [!UICONTROL Business Case] 填写记分卡时，会生成摘要面板。 对齐分数是计算中使用的值之一 [!UICONTROL Portfolio Optimizer] 分数。
+>项目经理将无法看到分配给每个答案的值。只有创建记分卡的用户才能看到这些值。
+
+## [!UICONTROL Business Case] 不是必需的
+
+[!UICONTROL Business Case] 是灵活的。您可以只填写几个部分，也可以不填写。没有任何字段是必填的。但是，您填写的信息越多，就越容易分析和确定争夺相同预算或资源的项目的优先级。
+
+填写 [!UICONTROL Business Case] 后，单击窗口右侧摘要面板中的 **[!UICONTROL Submit]** 按钮。这会将项目状态更改为 [!UICONTROL Requested]。现在，您可以使用 [!UICONTROL Portfolio Optimization] 对同一项目组合中的项目进行优先级排序了。
+
+>[!NOTE]
+>
+>填写记分卡时，会生成 [!UICONTROL Business Case] 摘要面板中的一致性分数。一致性分数是计算 [!UICONTROL Portfolio Optimizer] 分数时使用的值之一。
 
 <!-- 
 Learn more graphic and links to documentation articles
