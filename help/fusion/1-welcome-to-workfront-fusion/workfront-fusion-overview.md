@@ -1,6 +1,6 @@
 ---
-title: Workfront Fusion培训概述
-description: 了解Adobe Workfront Fusion活动手册以及如何获取Workfront试用帐户。
+title: Workfront Fusion 培训概述
+description: 了解 Adobe Workfront Fusion 活动手册，以及如何获取 Workfront 测试版帐户。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,52 +10,52 @@ level: Beginner
 jira: KT-11035
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '413'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Workfront Fusion培训概述
+# Workfront Fusion 培训概述
 
-每个Workfront Fusion部分都包含多个教程，每个教程都介绍了在进入下一个教程之前需要了解的概念。 演练有助于您主控大多数概念。
+每个 Workfront Fusion 分区都包含多个教程，每个教程都介绍了在进入下一个教程之前需要了解的概念。演练练习有助于您掌握大多数概念。
 
-这些视频向您展示了如何完成每个演练练习，演练通常会创建一个新的Workfront Fusion场景。 然后，您可以在自己的Workfront Fusion环境中完成本练习，将添加到自己的场景集合中。
+这些视频向您展示如何完成每个演练练习，这通常会创建一个新的 Workfront Fusion 场景。然后，您可以在自己的 Workfront Fusion 环境中完成练习，并将其添加到您自己的场景集合中。
 
-在一些教程中，您将从头开始创建一个新场景。 在其他教程中，您将首先复制之前创建的方案。
+在某些教程中，您将会从头开始创建一个新场景。在其他教程中，您首先需要复制之前创建的场景。
 
 >[!IMPORTANT]
 >
->请确保按顺序完成每个教程，以便在需要制作副本时您有正确的方案可用。
+>请务必按顺序完成每个教程，以便在需要复制场景时可以使用相应的场景。
 
-## 培训资源和访问Workfront Fusion
+## 培训资源和访问 Workfront Fusion
 
-### 请求Workfront试用版
+### 请求获得 Workfront 测试版
 
-要完成Workfront Fusion学习路径中的练习，您需要使用Workfront试用版。 如果您已有试用，我们建议您为本培训使用新的试用。
+要完成 Workfront Fusion 学习路径中的练习，您将需要 Workfront 测试版。如果您已经有一个测试版，我们建议使用新的测试版进行此次培训。
 
-通过填写请求实践环境 [此表单](https://forms.office.com/r/f1J8HRGrNY). 如果您无法访问表单，请将您的姓名、电子邮件地址和公司名称发送到wfttstdr@adobe.com。
+填写[该表格](https://forms.office.com/r/f1J8HRGrNY)，请求获得练习环境。如果您无法访问该表格，请将您的姓名、电子邮件地址和公司名称发送至 wfttstdr@adobe.com。
 
-### 访问Workfront Fusion以进行实践
+### 访问 Workfront Fusion 进行练习
 
-Workfront不提供Workfront Fusion测试驱动器。 要在完成教程后进行练习，请从贵组织的Workfront Fusion管理员请求访问Workfront Fusion。
+Workfront 不提供 Workfront Fusion 测试版。要在完成这些教程时进行练习，请向贵组织的 Workfront Fusion 管理员请求访问 Workfront Fusion。
 
-### 关于完成演练的分步说明
+### 完成演练练习的分步说明
 
-提供了有关完成演练练习的分步说明。 您可以从“Fusion”>“练习”下的左侧导航栏访问这些内容，也可以使用演练教程底部提供的链接。
+我们提供有关完成演练练习的分步说明。您可以从左侧导航栏的“Fusion”>“练习”下访问这些内容，也可以使用演练教程底部提供的链接。
 
-### 可选的练习练习
+### 可选实践练习
 
-一些演练练习之后会提供练习和挑战。
+在一些演练练习之后会提供实践练习和相关挑战。
 
-有多种不同的方法可以解决这些实践练习。 其目的是挑战您尝试在不执行步骤的情况下实现场景目标或“正确答案”，因为这是您在公司构建场景时需要做的事。
+解决实践练习的方法有很多种。其目的是挑战您在没有相应步骤或“正确答案”的情况下尝试实现场景目标，因为您在自己的公司构建场景时就需要这么做。
 
-练习练习与演练活动有关。
+实践练习与演练活动相关。
 
-挑战在于那些想要尝试一些与他们所学到的其他概念有关的东西的人。
+这些挑战针对的是那些想要尝试涉及他们所学到的其他概念的人员。
 
 ### 如何获得帮助
 
-提供了分步说明，以帮助您完成演练练习。
+我们提供的分步说明可以帮助您完成演练练习。
 
-此外， [Workfront Fusion 2.0社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2) 您可以在此处发布问题。
+您还可以在 [Workfront Fusion 2.0 社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)中发布问题。
