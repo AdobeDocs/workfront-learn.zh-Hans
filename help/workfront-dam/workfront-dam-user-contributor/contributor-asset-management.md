@@ -1,6 +1,6 @@
 ---
-title: 了解如何在中管理资源 [!UICONTROL Workfront DAM]
-description: 了解如何在中管理资源 [!UICONTROL Workfront DAM] 以改进您的工作流。
+title: 了解如何在 [!UICONTROL Workfront DAM] 中管理资源。
+description: 了解如何管理 [!UICONTROL Workfront DAM] 中的资源，以改善工作流。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,20 +11,20 @@ jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 参与者：资产管理
+# 投稿人：资源管理
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 使用资源上的编辑菜单
-* 设置到期日期
+* 使用资源的“编辑”菜单
+* 设置过期日期
 * 查看通知
-* 建立单个通知设置
+* 建立个人通知设置
 * 上传资源版本
 * 创建新文件夹
 * 将元数据模板应用到文件夹
@@ -32,24 +32,24 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on)
 
-## 资源版本的工作方式
+## 资源版本如何工作
 
-工作流程的一部分可能包括管理资源的多个版本（或倒圆角、校样、小版本，无论您怎样称呼它们）。 您可以通过管理所有版本 [!UICONTROL Workfront DAM].
+您的工作流的一部分可能包括管理资源的多个版本（或轮次、验证、迭代，无论您如何称呼它们）。您可以通过 [!UICONTROL Workfront DAM] 管理所有版本。
 
-当一个与现有文件同名的文件上载到同一文件夹时，系统允许进行自动资源版本控制。 请与系统管理员联系，查看此功能是否已启用。
+当与现有文件同名的文件上传到同一文件夹时，系统允许进行自动资源版本控制。请咨询您的系统管理员以查看此功能是否已开启。
 
-如果启用了自动版本控制，则仅当资产加载到保存原始资产的文件夹时，才会进行版本控制。 两个资源必须具有相同的文件名。 如果资产加载到其他文件夹中，则该资产会作为新文件进入。
-如果未打开版本控制，则与现有文件同名的文件将上载为新文件，而不管它放在哪个文件夹中。 这可能会导致同一文件夹中包含两个同名资产。
+如果开启自动版本控制，则仅当资源加载到保存原始资源的文件夹中时，该资源才会进行版本控制。这两个资源必须具有相同的文件名。如果资源被加载到不同的文件夹中，则资源会作为新文件进入该文件夹。
+如果未开启版本控制，则与现有文件同名的文件将作为新文件上传，无论将它放在哪个文件夹中均是如此。这可能会导致同一文件夹中出现两个同名的资源。
 
-您还可以手动上传特定资源的版本。 单击资源上的编辑图标，然后选择 **[!UICONTROL Upload new version]**.
+您还可以手动上传特定资源的版本。单击资源上的编辑图标，然后选择 **[!UICONTROL Upload new version]**。
 
-如果将带有版本的资产发布到Brand Connect，则Brand Connect用户只会看到该资产的最新版本。
+如果您将带有版本的资源发布到 Brand Connect，则 Brand Connect 用户只能看到该资源的最新版本。
 
-## 文件夹和资产状态和到期
+## 文件夹和资源状态和到期时间
 
-状态是另一种管理对文件夹和资产访问的方式。 [!UICONTROL Workfront DAM]. 状态可用于对某些资源或文件夹进行隐藏 [!UICONTROL Brand Connect] 使用户或使资源或文件夹过期，以便除系统管理员外无人能访问。
+状态是您管理对 [!UICONTROL Workfront DAM] 中的文件夹和资源的访问的另一种方式。状态可用于隐藏 [!UICONTROL Brand Connect] 用户的某些资源或文件夹，或使资源或文件夹过期，以便除系统管理员之外的任何人都无法访问它。
 
-* **[!UICONTROL Active]** — 用于资源和文件夹。 具有的资源和文件夹 [!UICONTROL Active] 状态对具有权限的所有用户可见，并可发布到 [!UICONTROL Brand Connect]. [!UICONTROL Active] 资源或文件夹上以绿色圆点指示。
-* **[!UICONTROL Inactive]** — 用于资源和文件夹。 具有的资源和文件夹 [!UICONTROL Inactive] 状态对 [!UICONTROL Workfront DAM] 用户，但在中不可见 [!UICONTROL Brand Connect]. [!UICONTROL Inactive] 资源或文件夹上以红点指示。
-* **[!UICONTROL Unexpired]** — 仅用于资产。 这是所有资源的默认状态。 未到期的资产，也 [!UICONTROL Active] 在中可见 [!UICONTROL Brand Connect].
-* **[!UICONTROL Expired]** — 仅用于资产。 具有的资产 [!UICONTROL Expired] 除系统管理员外，任何用户都不能下载状态。 过期的资产在中可见/不可见 [!UICONTROL Brand Connect]，具体取决于系统配置。
+* **[!UICONTROL Active]**—用于资源和文件夹。处于 [!UICONTROL Active] 状态的资源和文件夹对所有有权限的用户可见，并且可以发布到 [!UICONTROL Brand Connect]。[!UICONTROL Active] 在资源或文件夹上用绿点表示。
+* **[!UICONTROL Inactive]**—用于资源和文件夹。处于 [!UICONTROL Inactive] 状态的资源和文件夹对 [!UICONTROL Workfront DAM] 用户可见，但在 [!UICONTROL Brand Connect] 中不可见。[!UICONTROL Inactive] 在资源或文件夹上用红点表示。
+* **[!UICONTROL Unexpired]**—仅用于资源。这是所有资源的默认状态。同样为 [!UICONTROL Active] 的未到期资源在 [!UICONTROL Brand Connect] 中可见。
+* **[!UICONTROL Expired]**—仅用于资源。除系统管理员外，任何用户都不能下载状态为 [!UICONTROL Expired] 的资源。根据系统配置，过期资源在 [!UICONTROL Brand Connect] 中可见/不可见。
