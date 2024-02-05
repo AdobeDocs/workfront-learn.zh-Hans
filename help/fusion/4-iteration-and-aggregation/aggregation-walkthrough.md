@@ -1,6 +1,6 @@
 ---
 title: 聚合演练
-description: 了解如何汇总项目中每个工作任务的计划小时数，并通过该信息向您自己发送电子邮件，所有这些都可在以下位置找到 [!DNL Adobe Workfront Fusion].
+description: 了解如何汇总项目中每项工作任务的规划小时数，并向自己发送包含该信息的电子邮件，一切尽在  [!DNL Adobe Workfront Fusion]。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-9020
 exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -21,21 +21,21 @@ ht-degree: 0%
 
 ## 概述
 
-使用您在上次演练中构建的“迭代简介”方案，聚合项目中每个工作任务的已计划小时数，并向您自己发送一封包含该信息的电子邮件。
+使用您在上一个演练中构建的“迭代简介”场景，汇总项目中每个工作任务的规划小时数，并向自己发送包含该信息的电子邮件。
 
-![融合场景的图像](assets/iteration-and-aggregation-2.png)
+![Fusion 场景的图像](assets/iteration-and-aggregation-2.png)
 
 ## 聚合演练
 
-Workfront建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
+Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335280/?quality=12&learn=on)
 
 >[!TIP]
 >
->有关完成演练的分步说明，请转到 [聚合演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=en) 运动。
+>有关完成该演练的分步说明，请参阅[聚合演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/aggregation.html?lang=zh-Hans)练习。
 
 
-## 想要了解更多信息？ 我们建议执行以下操作：
+## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
