@@ -1,6 +1,6 @@
 ---
-title: 映射面板重要说明
-description: 了解在中使用映射面板中提供的运算符的重要性 [!DNL Adobe Workfront Fusion].
+title: 有关映射面板的重要说明
+description: 了解使用  [!DNL Adobe Workfront Fusion] 中映射面板中提供的运算符的重要性。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,15 +11,15 @@ jira: KT-9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 映射面板重要说明
+# 有关映射面板的重要说明
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
 * 使用映射面板中提供的运算符的重要性
 
