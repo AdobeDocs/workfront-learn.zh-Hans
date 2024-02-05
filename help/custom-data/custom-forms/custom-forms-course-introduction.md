@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8908
 hidefromtoc: true
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '37'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 自定义表单课程简介
 
-在本视频中，您将了解什么是自定义表单以及如何使用它们捕获特定于组织的信息。
+在本视频中，您将会了解到什么是自定义表单，以及如何使用它们来捕获特定于组织的信息。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on)
