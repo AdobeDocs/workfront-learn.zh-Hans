@@ -1,6 +1,6 @@
 ---
-title: 协作处理我的更新
-description: 使用“我的更新”页面访问分配给您的工作项。
+title: 使用“我的更新”进行协作
+description: 使用“我的更新”页面访问分配给您的工作项目。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,19 +12,19 @@ jira: KT-9721
 exl-id: 76e9dc5d-05e7-40e9-af05-af880018170c
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 协作处理我的更新
+# 使用“我的更新”进行协作
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 使用“我的更新”页面访问要求您查看的工作项
-* 完成审核批准请求
-* 使用“提及”部分可查看已包含的更新
+* 使用“我的更新”页面访问需要您查看的工作项
+* 完成对审批请求的审查
+* 使用“提及”部分查看包含您的更新
 * 回复更新
 
 >[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on)
