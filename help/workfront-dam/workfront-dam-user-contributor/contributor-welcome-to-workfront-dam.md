@@ -1,6 +1,6 @@
 ---
-title: 了解 [!UICONTROL Workfront DAM]，参与者课程
-description: 了解 [!UICONTROL Workfront DAM]，参与者课程。
+title: 了解《[!UICONTROL Workfront DAM]，投稿人》课程
+description: 了解《[!UICONTROL Workfront DAM]，投稿人》课程中涵盖的内容。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,19 +10,19 @@ team: Technical Marketing
 jira: KT-8991
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '109'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 参与者：欢迎使用 [!UICONTROL Workfront DAM]
+# 投稿人：欢迎使用 [!UICONTROL Workfront DAM]
 
-[!UICONTROL Workfront DAM] 是一个数字资产管理(DAM)解决方案，专为管理、控制和发布您的营销和创意资产而设计。 它可以与您已在的工作流结合使用 [!DNL Workfront]，您可能正在那里管理项目、任务分配和其他工作。 使用 [!DNL Workfront] 以创建资产请求，然后管理资产的制作和审查。 在中作为参与者用户 [!UICONTROL Workfront DAM]，您可以策划、存储和分发已完成和批准的资产。
+[!UICONTROL Workfront DAM] 是一种数字资源管理 (DAM) 解决方案，专门用于管理、控制和发布您的营销和创意资源。它可以与用于管理项目、任务分配和其他工作的 [!DNL Workfront] 中已有的工作流结合使用。使用 [!DNL Workfront] 来创建资源请求，然后管理资源的生产和审查。作为 [!UICONTROL Workfront DAM] 中的投稿人用户，您可以管理、存储和分发已完成和已审批的资源。
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 本课程您将学到什么
-* 内容 [!UICONTROL Workfront DAM] 是以及如何使用它
+* 您将在本课程中学到的内容
+* 什么是 [!UICONTROL Workfront DAM]，以及如何使用它
 
 >[!VIDEO](https://video.tv.adobe.com/v/335251/?quality=12&learn=on)
