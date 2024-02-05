@@ -1,6 +1,6 @@
 ---
-title: 通过布局模板自定义报表列表
-description: 了解如何使用布局模板在报表列表中添加和删除筛选器、视图和组。
+title: 使用布局模板自定义报告列表
+description: 了解如何使用布局模板在报告列表中添加和删除过滤器、视图和组。
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing
@@ -12,45 +12,45 @@ jira: KT-8765
 exl-id: 00653fc8-0d12-49de-995a-6068d3fb7a2d
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '205'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用布局模板自定义报表列表
+# 使用布局模板自定义报告列表
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 导航到布局模板中的报表列表设置
-* 删除筛选器、视图和分组
-* 添加筛选器、视图和分组
+* 导航至布局模板中的报告列表设置
+* 删除过滤器、视图和分组
+* 添加过滤器、视图和分组
 
 >[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on)
 
 ## 设置列表默认值
 
-为用户设置默认筛选器、视图和/或分组可让他们更快地访问重要信息，从而更快速地开展工作。
+通过为用户设置默认过滤器、视图和/或分组，他们便能够更快地访问重要信息，从而更快地推进工作。
 
-作为系统或组管理员，您可以通过设置默认筛选器、视图和/或通过布局模板进行分组，来确定在查看项目、任务、问题等列表时最初看到的用户。
+作为系统或组管理员，您可以使用布局模板来设置默认过滤器、视图和/或分组，从而确定用户在查看项目、任务、问题等列表时最初看到的内容。
 
-![布局模板 [!UICONTROL Lists] 窗口](assets/admin-fund-layout-template-default-lists-1-1.JPG)
+![布局模板[!UICONTROL Lists]窗口](assets/admin-fund-layout-template-default-lists-1-1.JPG)
 
 >[!NOTE]
 >
->尽管可以设置默认筛选器、视图和/或分组，但系统具有粘性，将显示用户上次使用的任何筛选器、视图和/或分组。
+>尽管可以设置默认过滤器、视图和/或分组，但系统比较难处理，它会显示用户上次使用的任何过滤器、视图和/或分组。
 
 
-如果要设置列表默认值，可以执行以下任一操作：
+如果您想设置列表默认值，您可以：
 
-* 将鼠标悬停在已列出的选项上，然后单击 [!UICONTROL Set as default].
+* 将鼠标悬停在已列出的选项上，然后单击 [!UICONTROL Set as default]。
 
-![布局模板 [!UICONTROL Lists] 窗口 [!UICONTROL Set as default] 可见](assets/admin-fund-layout-template-default-lists-1-2.JPG)
+[!UICONTROL Set as default] 可见](assets/admin-fund-layout-template-default-lists-1-2.JPG)的![布局模板 [!UICONTROL Lists] 窗口
 
-* 或者添加自定义筛选条件、视图或分组，然后选中旁边的复选框 [!UICONTROL Set default].
+* 或者添加一个自定义过滤器、视图或分组，然后选中 [!UICONTROL Set default] 旁边的框。
 
 ![[!UICONTROL Add an existing View] 窗口](assets/admin-fund-layout-template-default-lists-1-3.JPG)
 
-完成后，您将看到 [!UICONTROL Default] 标记之前。
+完成后，您会看到 [!UICONTROL Default] 标记。
 
-![[!UICONTROL Default] 列表选项旁边的标记](assets/admin-fund-layout-template-default-lists-1-4.JPG)
+列表选项旁边的 ![[!UICONTROL Default] 标记](assets/admin-fund-layout-template-default-lists-1-4.JPG)
