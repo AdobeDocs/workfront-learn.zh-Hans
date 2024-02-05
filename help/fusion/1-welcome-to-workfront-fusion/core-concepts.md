@@ -1,6 +1,6 @@
 ---
 title: 核心概念
-description: 了解构成Workfront Fusion的三个核心概念 — 中的场景、应用程序和模块 [!DNL Adobe Workfront Fusion].
+description: 了解构成 Workfront Fusion 的三个核心概念—— [!DNL Adobe Workfront Fusion] 中的场景、应用程序和模块。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,38 +11,38 @@ jira: KT-9000
 exl-id: c04baa0c-40e4-4c61-8a04-9ea62f8f2935
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 核心概念
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 构成Workfront Fusion的三个核心概念：场景、应用程序和模块
+* 构成 Workfront Fusion 的三个核心概念——场景、应用程序和模块
 
 >[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on)
 
 ## 核心概念术语
 
-**方案** — 场景包含一系列步骤（模块），这些步骤（模块）指示应在应用程序/服务之间如何传输和转换数据。
+**场景**——场景由一系列步骤（模块）组成，其指示的是数据应如何在应用程序/服务之间传输和转换。
 
-**应用程序** — 应用程序通常表示软件应用程序的连接器，但也可以表示处理数据的特殊功能。
+**应用程序**——应用程序最常代表软件应用程序的连接器，但也可以代表操纵数据的特殊功能。
 
-**模块** — 根据关联的应用程序执行某些功能的场景中的单一步骤。
+**模块**——场景中基于相关应用程序执行某些功能的单个步骤。
 
-## Workfront Fusion是否具有用于……的预建连接器？
+## Workfront Fusion 是否有预建的连接器可连接到……？
 
-许多Workfront Fusion用户都考虑到了他们使用的所有系统，最后都问：“Workfront Fusion是否具有连接____软件的连接器？” （为您使用的系统填写空白。）
+许多 Workfront Fusion 用户在某个时刻考虑其使用的所有系统时，最终会问道：“Workfront Fusion 是否有能够连接到 ____ 软件的连接器？”（在空白处填写您使用的系统。）
 
-确定Workfront Fusion是否具有预建连接器的最简单方法是，使用添加应用程序功能并按名称搜索应用程序。 您还可以检查 [应用程序及其模块](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=en) 有关Experience League的文章，其中列出了Workfront Fusion可以连接的一系列应用程序。
+确定 Workfront Fusion 是否具有预建连接器的最简单方法是使用“添加应用程序”功能，并按名称搜索应用程序。您也可以查看 Experience League 上的[应用程序及其模块](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-apps-and-modules/apps-and-their-modules.html?lang=zh-Hans)文章，了解 Workfront Fusion 可以连接的应用程序列表。
 
-连接器不限于本文中的应用程序。 如果要使用的应用程序没有预建连接器，您可以使用这些模块直接连接到Web服务：
+连接器不仅限于本文中的应用程序。如果您要使用的应用程序没有预建的连接器，您可以使用这些模块直接连接到 Web 服务：
 
-* HTTP模块
-* SOAP模块
-* JSON模块
+* HTTP 模块
+* SOAP 模块
+* JSON 模块
 
-不要担心对这些模块挖掘得过深 — 其他Workfront Fusion教程中提供了培训。 尽管这些模块涉及的编码比预建连接器多一些，但向其他系统验证最困难的部分可通过这些模块轻松处理。
+暂时不需要对这些模块进行太深入的研究——其他 Workfront Fusion 教程中会提供培训。尽管这些模块涉及的编码比预建连接器要多一些，但使用这些模块可以轻松处理向其他系统进行身份验证的最困难的部分。
