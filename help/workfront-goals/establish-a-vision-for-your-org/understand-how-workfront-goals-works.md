@@ -1,6 +1,6 @@
 ---
-title: 了解如何 [!DNL Workfront Goals] 工作
-description: 了解如何在规划阶段阐明“什么”和“为什么”、示例目标和影响范围。
+title: 了解  [!DNL Workfront Goals]  的工作原理
+description: 了解如何在规划阶段阐明“内容”和“原因”、示例目标和影响范围。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,37 +11,37 @@ jira: KT-8889
 exl-id: fda92664-6774-4c3f-8bb8-ee95ded77a98
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 了解如何 [!DNL Workfront Goals] 工作
+# 了解 [!DNL Workfront Goals] 的工作原理
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 在规划阶段阐明“什么”和“为什么”
+* 在规划阶段阐明“内容”和“原因”
 * 目标示例
 * 影响范围
 
 >[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on)
 
-## 指定负责人员
+## 指定责任人
 
-开始配置之前 [!DNL Workfront Goals]，您需要确定贵组织中负责领导实现每个目标的个人。
+开始配置 [!DNL Workfront Goals] 之前，您需要确定组织中负责领导实现每个目标的个人。
 
-有几种方法可以做到这一点。 [!DNL Workfront] 建议草绘组织图。 目标所有者可能会有好几层。 从顶层领导开始，然后确定负责执行实现这些期望结果所需工作的团队和团队成员。 他们需要有工作目标的前后环境，才能做出最好的作品。
+有几种方法可以实现这一点。[!DNL Workfront] 建议勾勒出您的组织结构图。可能会有几个层次的目标所有者。从高层领导开始，然后确定负责执行交付这些预期结果所需工作的团队和团队成员。他们需要了解他们正在朝着什么目标努力，才能将工作做到最好。
 
-接下来，退后一步，看看你的员工。 确定谁需要完全管理/编辑权限、仅查看权限和完全无访问权限。 根本无法进入的人数应该相对较少，因为多数人至少需要根据战略背景来审视目标。
+接下来，退后一步，看看您员工的情况。确定谁需要所有的管理/编辑访问权限，谁需要仅供查看的访问权限，谁不需要任何访问权限。不需要任何访问权限的人数应该相对较少，因为大多数人至少需要查看目标的战略背景。
 
 >[!NOTE]
 >
->在确定主要目标所有者时，应考虑到您为企业成果设置战略目标，而不是个人发展目标。 Workfront建议您只添加直接有助于或推动业务和企业目标的发展目标。
+>在确定主要目标所有者时，请考虑到您正在为企业成果设定战略目标，而不是个人发展目标。Workfront 建议您仅添加直接有助于或能够推动业务和企业目标的发展目标。
 
 ![空白组织结构图](assets/01-workfront-goals-blank-org-chart.png)
 
-我们将向您说明如何在中设置和配置您的设置 [!DNL Workfront Goals]，第2部分：创建和管理目标。
+我们将会在《[!DNL Workfront Goals]，第 2 部分：创建和管理您的目标》中向您展示如何进行设置和配置。
 
 <!--
 URL for part 2 reference above
