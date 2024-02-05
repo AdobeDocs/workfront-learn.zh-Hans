@@ -1,6 +1,6 @@
 ---
 title: 编辑验证工作流
-description: 了解如何更新验证截止日期、将用户添加到现有工作流，以及在中将现有工作流切换到自动化工作流 [!DNL  Workfront].
+description: 了解如何在  [!DNL  Workfront] 中更新验证期限、将用户添加到现有工作流以及将现有工作流切换为自动化工作流。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,30 +12,30 @@ jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 编辑验证工作流
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 更新验证截止日期
+* 更新验证期限
 * 将用户添加到现有工作流
-* 将现有工作流切换到自动工作流
+* 将现有工作流切换为自动化工作流
 
 >[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
 
-## 轮到你了
+## 到您了
 
 >[!IMPORTANT]
 >
->别忘了提醒任何分配到验证工作流的同事，您正在将使用验证作为您的Workfront培训的一部分。
+>不要忘记提醒分配给验证工作流的任何同事，您正在使用验证作为 Workfront 培训的一部分。
 
-1. 查找您上传到Workfront的证据。 使用“验证工作流”窗口可执行以下操作：将截止日期推后一天，并将审核者更改为“审核者和审批者”。
-1. 确保为验证分配了自动化工作流，然后将模板添加到验证中。
+1. 查找您已上传到 Workfront 的验证。使用“验证工作流”窗口执行以下操作：将截止日期推迟一天，并将审核人更改为审核人和审批人。
+1. 确保为验证分配了自动化工作流，然后在验证中添加一个模板。
 
 
 
