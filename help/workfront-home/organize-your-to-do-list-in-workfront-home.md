@@ -1,6 +1,6 @@
 ---
-title: 在中组织您的待办事项列表 [!DNL Workfront] [!UICONTROL Home]
-description: 了解如何筛选和排序分配的工作，确定已准备开始的工作，以及接受中的工作分配 [!DNL  Workfront].
+title: 在  [!DNL Workfront] [!UICONTROL Home] 中整理您的待办事项清单
+description: 学习如何在  [!DNL  Workfront] 中过滤和排序分配的工作，识别准备好开始进行的工作，以及接受工作分配。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,29 +12,29 @@ jira: KT-8798
 exl-id: fd941683-5866-453a-8e15-70b35f183730
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '119'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在中组织您的待办事项列表 [!DNL Workfront] [!UICONTROL Home]
+# 在 [!DNL Workfront] [!UICONTROL Home] 中整理您的待办事项清单
 
 >[!NOTE]
 >
->此 [!UICONTROL [!DNL Sort by]] 中的选项 [!UICONTROL Work List] 已重命名为 [!UICONTROL Group by]、和任务及问题也可按其分组 [!UICONTROL Planned Start Date].
+>[!UICONTROL Work List] 中的 [!UICONTROL [!DNL Sort by]] 选项已重命名为 [!UICONTROL Group by]，任务和问题也可以按其 [!UICONTROL Planned Start Date] 分组。
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 排序工作分派
-* 按类型筛选工作分配
-* 确定已准备开始的工作
-* 接受工作分派
+* 对工作任务进行排序
+* 按类型过滤工作分配
+* 确定准备好开始进行的工作
+* 接受工作分配
 
 >[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on)
 
 >[!NOTE]
 >
->默认情况下，最早到期项目显示在 [!UICONTROL Work List]. 如果要以降序显示工作项，请单击“分组依据”区域右侧的箭头。
+>默认情况下，最早到期的项目会显示在 [!UICONTROL Work List] 的顶部。如果您希望工作项按降序显示，请单击“分组方式”区域右侧的箭头。
 
 ![显示按截止日期分组的工作列表的屏幕图像。](assets/work-list-arrows.png)
