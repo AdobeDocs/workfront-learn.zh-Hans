@@ -1,6 +1,6 @@
 ---
-title: 如何排定工作的优先级 [!UICONTROL Home]
-description: 了解如何在中标记项目 [!UICONTROL Work List] 作为主页上的优先级分配。 然后，筛选列表以查看您的优先工作 [!DNL  Workfront].
+title: 如何在 [!UICONTROL Home] 中确定工作优先级
+description: 了解如何在主页上将 [!UICONTROL Work List] 中的项目标记为具有优先级的任务。然后过滤该列表，以查看您在  [!DNL  Workfront] 中具有优先级的工作。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,17 +12,17 @@ jira: KT-8799
 exl-id: 8879e812-75aa-43f2-9c0d-74a1f155ceb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 优先处理您的工作 [!DNL Workfront] [!UICONTROL Home]
+# 在 [!DNL Workfront] [!UICONTROL Home] 中确定工作优先级
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 将工作标记为优先级分配
-* 筛选 [!UICONTROL Work List] 只查看优先级工作
+* 将工作标记为具有优先级的任务
+* 过滤 [!UICONTROL Work List]，以仅查看具有优先级的工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on)
