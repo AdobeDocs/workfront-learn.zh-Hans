@@ -1,6 +1,6 @@
 ---
 title: 将活动和项目添加到目标
-description: 了解如何通过在中添加活动或项目来激活目标 [!DNL Workfront Goals].
+description: 了解如何通过在  [!DNL Workfront Goals] 中添加活动或项目来激活目标。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,15 +11,15 @@ jira: KT-8921
 exl-id: 5ef96f4e-8bdb-402b-89e2-2940774359cc
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 将活动和项目添加到目标
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
 * 将活动和项目添加到目标
 
