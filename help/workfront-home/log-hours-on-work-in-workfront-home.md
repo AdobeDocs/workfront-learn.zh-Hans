@@ -1,6 +1,6 @@
 ---
-title: 如何记录工作小时数 [!UICONTROL Home]
-description: 了解如何在中记录工作分派的时间 [!DNL  Workfront]. 了解为什么您的组织可能需要日志记录时间。
+title: 如何在 [!UICONTROL Home] 记录工作时间
+description: 了解如何在  [!DNL  Workfront] 中记录在工作分配上花费的时间。了解您的组织为什么可能要求记录时间。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,27 +12,27 @@ jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 将工时记录到中 [!DNL Workfront] [!UICONTROL Home]
+# 在 [!DNL Workfront] [!UICONTROL Home] 中记录工作时间
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
 * 记录时间的值
-* 如何记录工作分派的时间
+* 如何记录在工作分配上花费的时间
 
 >[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on)
 
-## 有关记录上班时间的提示 [!DNL Home]
+## 在 [!DNL Home] 中记录工作时间的技巧
 
-一些与记录时间相关的选项取决于系统管理员如何设置Workfront。
+与记录时间相关的一些选项取决于系统管理员如何设置 Workfront。
 
-* 您可能无法记录未来日期的时间。
-* 您可能需要从下拉菜单中选择小时类型，以便更加详细地了解您如何花时间。 该小时类型还可以指示您的时间是可记帐还是不可记帐。 在输入您的时间之前，请务必选择小时类型，然后单击 [!UICONTROL Log Time] 按钮。
+* 您也许能够，也可能无法记录未来几天的时间。
+* 您可能需要从下拉菜单中选择一个小时类型，以便您可以更具体地了解您如何度过时间。此小时类型还可能会表明您的时间是可计费的还是不可计费的。在单击 [!UICONTROL Log Time] 按钮输入时间之前，请务必选择小时类型。
 
 <!---
 learn more URLs
