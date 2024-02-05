@@ -1,6 +1,6 @@
 ---
-title: 查看并回复校对评论
-description: 了解如何查看和响应验证查看者和的验证评论 [!UICONTROL Updates] 部分 [!DNL  Workfront].
+title: 审查并回复验证评论
+description: 了解如何从验证查看器和  [!DNL  Workfront] 的 [!UICONTROL Updates] 部分查看和回复验证评论。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,18 +12,18 @@ jira: KT-8839
 exl-id: be205a02-2f77-4598-ae15-31463d1ce8e1
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '61'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 查看并回复校对评论
+# 审查并回复验证评论
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 在验证查看器中查看和响应评论
-* 在中查看校对评论 [!UICONTROL Updates] 部分
-* 回复校对评论 [!UICONTROL Updates] 部分
+* 在验证查看器中查看并回复评论
+* 在 [!UICONTROL Updates] 部分查看验证评论
+* 从 [!UICONTROL Updates] 部分回复验证评论
 
 >[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on)
