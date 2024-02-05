@@ -1,6 +1,6 @@
 ---
 title: 路由器演练
-description: 了解如何使用路由器将“精灵宝可梦”与“超级英雄”捆绑包传递到中的正确路径 [!DNL Adobe Workfront Fusion].
+description: 了解在  [!DNL Adobe Workfront Fusion] 中如何使用路由器将宠物小精灵和超级英雄捆绑包沿着正确的路径传递。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,100 +11,100 @@ jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '878'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 路由器演练
 
-使用路由器将“精灵宝可梦”与“超级英雄”捆绑包传递到正确的路径，然后为每个字符创建一个任务。
+使用路由器将宠物小精灵与超级英雄捆绑包沿着正确的路径传递，然后为每个角色创建一个任务。
 
-![融合场景的图像](assets/universal-connectors-and-routing-2.png)
+![Fusion 场景的图像](assets/universal-connectors-and-routing-2.png)
 
 ## 路由器演练
 
-Workfront建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
+Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on)
 
-## 练习URL
+## 练习 URL
 
-* Superhero API网站： `https://www.superheroapi.com/`
-* 练习的首个URL： `https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* 练习的第二个URL： `https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* 超级英雄 API 网站：`https://www.superheroapi.com/`
+* 练习的第一个 URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 练习的第二个 URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
-如果您在访问自己的超级英雄令牌时遇到问题，可以使用此共享令牌：10110256647253588。 请注意您调用超级英雄API的次数，以便此共享令牌继续适用于每个人。
+如果您在访问自己的超级英雄令牌时遇到问题，可以使用此共享令牌：10110256647253588。请注意您调用超级英雄 API 的次数，以便其他人可以继续使用该共享令牌。
 
 >[!TIP]
 >
->有关完成演练的分步说明，请转到 [路由器演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=en) 运动。
+>有关完成该演练的分步说明，请参阅[路由器演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/routers.html?lang=zh-Hans)练习。
 
 
-## 在映射面板中搜索项
+## 在映射面板中搜索项目
 
-映射面板顶部的搜索项字段可帮助您快速查找面板中的字段，即使这些字段嵌套在数组中也是如此。 搜索不区分大小写。
+映射面板顶部的“搜索项目”字段可以帮助您快速查找面板中的字段，即使它们嵌套在数组中也是如此。搜索不区分大小写。
 
 ![第一个搜索面板的图像](assets/universal-connectors-and-routing-3.png)
 
 ![第二个搜索面板的图像](assets/universal-connectors-and-routing-4.png)
 
-## 使用API的提示和技巧
+## 使用 API 的提示和技巧
 
-到目前为止，您已经使用了一个非常简单的API（应用程序编程接口），它不需要额外的身份验证来提取场景中所需的信息。 以下提供了一些提示，可帮助您导航使用API和通用连接器。
+到目前为止，您已经使用了一个非常简单的 API（应用程序编程接口），它不需要额外的身份验证即可提取场景中所需的信息。以下是一些可帮助您使用 API 和通用连接器的提示。
 
-## 步骤1：确定API的类型
+## 步骤 1：确定 API 的类型
 
-Workfront和许多软件系统都是使用REST（代表性状态传输）API构建的，它是当今最简单且最标准的API类型。 但是，还有其他一些情况，例如：
+Workfront 和许多软件系统都是使用 REST（表述性状态传输）API 构建的，这是当今最简单、最标准的 API 类型。但是，还有其他一些类型，例如：
 
-* SOAP（简单对象访问协议）(Workfront的验证API基于SOAP)
+* SOAP（简单对象访问协议）（Workfront 的验证 API 是以 SOAP 为基础的）
 * FTP（文件传输协议）
 * SFTP（安全文件传输协议）
-* 要了解更多信息，请在Web上搜索感兴趣的API类型和关键词。
+* 要了解更多信息，请在网络上搜索 API 类型和感兴趣的关键词。
 
 >[!NOTE]
 >
->当连接到更大的平台（如Salesforce）时，这些平台的不同区域将提供不同的API。 确保找到要连接的服务的正确服务器。
+>当连接到更大的平台（例如 Salesforce）时，这些平台的不同区域将提供不同的 API。确保为要连接的服务找到合适的选择。
 
-## 步骤2：确定API所需的身份验证类型
+## 步骤 2：确定 API 所需的身份验证类型
 
-API身份验证是一种标识形式，用于控制对服务的访问，例如，当您尝试通过Workfront Fusion连接时。 它有助于向其他系统证明您有权访问系统。 OAuth 2是当今使用的最常见身份验证类型。 通过互联网搜索了解有关API身份验证的更多信息。
+API 身份验证是一种身份验证形式，用于控制对服务的访问权限，例如当您尝试通过 Workfront Fusion 进行连接时的情况。它可以帮助您向另一个系统验证您有权访问该系统。OAuth 2 是当今最常用的身份验证类型。通过在互联网上进行搜索，了解有关 API 身份验证的更多信息。
 
-身份验证可能是使用API时最困难的方面。 Workfront Fusion通用连接器最有价值的功能之一是，在使用基本身份验证等常用身份验证方法（如OAuth 2、API密钥等）时，Workfront Fusion可以处理您的身份验证。 在使用适用于您的身份验证方法（例如，OAuth 2）的Workfront Fusion模块创建连接后，Workfront Fusion将在您每次想要运行场景时不断生成API密钥和/或令牌。
+身份验证可能是使用 API 时最困难的方面。Workfront Fusion 通用连接器最有价值的功能之一是，在使用基本身份验证等常见身份验证方法（例如 OAuth 2、API 密钥等）时，Workfront Fusion 可以为您处理身份验证。使用适合您的身份验证方法的 Workfront Fusion 模块（例如 OAuth 2）创建连接后，每次您想要运行场景时，Workfront Fusion 将会不断生成 API 密钥和/或令牌。
 
-在有关Experience League的增强型身份验证概述文章中了解Workfront提供的不同类型的身份验证。
+请参阅有关 Experience League 的增强型身份验证概述文章，了解 Workfront 提供的不同类型的身份验证。
 
-## 步骤3：阅读API文档并查找所需的端点
+## 步骤 3：阅读 API 文档并找到所需的端点
 
-当API与另一个系统交互时，此通信的接触点被视为端点。 端点是API发送请求和资源所在的位置。
+当 API 与另一个系统交互时，这种通信的接触点会被视为端点。端点是 API 发送请求和资源所在的位置。
 
-使用通用连接器与API交互时，您需要了解API支持哪些端点以及每个请求需要什么数据。 API文档应描述API的端点以及如何执行创建、读取、更新或删除等常见操作。 执行这些调用需要一些实践，尤其是当您不熟悉API调用或使用新API时。
+使用通用连接器与 API 交互时，您需要了解 API 支持哪些端点以及每个请求需要哪些数据。API 文档应描述 API 的端点以及如何执行创建、读取、更新或删除等常见操作。执行这些调用需要一些练习，特别是如果您不熟悉进行 API 调用或使用新的 API 时更是如此。
 
-详细了解Workfront Fusion Universal连接器，以及如何将其设置为与Experience League时所需的API连接。
+了解更多关于 Workfront Fusion 通用连接器的信息，以及如何设置它们以与 Experience League 上所需的 API 连接。
 
-## 最终注释
+## 最后说明
 
-您可以在Experience League中查看我们预建的应用程序连接器的完整列表。 如果您想向Workfront Fusion产品团队建议新的应用程序连接器，请将您的想法提交给创新实验室。 如果您以前没有提交过，请进一步了解创新实验室，以及如何投票支持想法并参与每年两次的排行榜。 如果您已经拥有创新实验室的访问权限，请登录并提交您的想法。
+您可以在 Experience League 中查看我们预构建的应用程序连接器的完整列表。如果您想向 Workfront Fusion 产品团队推荐新的应用程序连接器，请将您的想法提交给 Innovation Lab。如果您之前没有提交过，请了解有关 Innovation Lab 的更多信息，以及如何为创意投票，并参与一年两次的排行版优先排序。如果您已经具有访问 Innovation lab 的权限，请登录并提交您的想法。
 
-## 轮到你了
+## 到您了
 
 >[!NOTE]
 >
->练习和挑战是可选的，不是完成Fusion培训所必需的。
+>练习和挑战是可选的，并不是完成 Fusion 培训所必需的。
 
-此练习练习基于您在演练中所学到的内容，但未提供解决方案。
+本练习以您在演练中学到的内容为基础，但未提供解决方案。
 
-在为“神奇宝贝”字符设置多个变量模块中，创建一个名为“Stat（级别）”的变量。 将“神奇宝贝统计”的名称映射到此变量。 使用数组值功能更改数组的显示方式，以便每个Stat都是一行新行，如下所示。
+在为宠物小精灵角色“设置”多个变量模块中，创建一个名为“统计数据（级别）”的变量。将宠物小精灵“统计数据”的名称映射到此变量中。使用数组值功能更改数组的显示方式，以便每个“统计数据”都是一个新行，如下所示。
 
-**提示：** 只有6个不同的《神奇宝贝》数据具有相应的水平。
+**提示：**&#x200B;只有六种不同的宠物小精灵“统计数据”具有相应的级别。
 
-![统计信息图像](assets/universal-connectors-and-routing-5.png)
+![统计数据的图像](assets/universal-connectors-and-routing-5.png)
 
-**挑战：** 查看是否可以使用数组公式使功能以与上面相同的方式显示为不同的行，而不是显示为以逗号分隔的值字符串。 下面的屏幕快照中有一个提示。
+**挑战：**&#x200B;看看是否可以使用数组公式来获得以与上面相同的方式显示为不同行的“能力”，而不是用逗号分隔的一串值。下面的屏幕快照中有一个提示。
 
 ![数组名称的图像](assets/universal-connectors-and-routing-6.png)
 
-## 想要了解更多信息？ 我们建议执行以下操作：
+## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
