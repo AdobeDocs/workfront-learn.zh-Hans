@@ -1,6 +1,6 @@
 ---
-title: 了解如何 [!UICONTROL Workfront Goals] 适合您的工作周期
-description: 了解典型工作生命周期的6个步骤以及工作生命周期“策略阶段”的核心构建块。
+title: 了解如何在您的工作周期中使用 [!UICONTROL Workfront Goals]
+description: 了解典型工作生命周期中的 6 个步骤，以及工作生命周期“战略阶段”的核心构建模块。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 了解如何 [!UICONTROL Workfront Goals] 适合您的工作周期
+# 了解如何在您的工作周期中使用 [!UICONTROL Workfront Goals]
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 典型工作生命周期中的6个步骤
-* 工作生命周期“战略阶段”的核心构建块
+* 典型工作生命周期中的 6 个步骤
+* 工作生命周期“战略阶段”的核心构建模块
 
 >[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on)
 
@@ -30,8 +30,8 @@ ht-degree: 0%
 Your turn graphic
 -->
 
-请花一分钟时间思考视频中提出的以下问题。 作为回应，我记下了一些初步的想法。 使用这些问题帮助指导您与团队的讨论。 你学到了什么？
+请花一点时间思考视频中提出的以下问题。请记下初步的一些想法作为回应。使用这些问题来帮助指导您与团队的讨论。您学到了什么？
 
-1. 我们想要达到什么目的？
+1. 我们想要实现什么？
 1. 我们如何衡量成功？
-1. 实现这些目标的不同选择有哪些？ 鉴于我们的局限，哪些选项最合适？
+1. 实现这些目标有哪些不同的选择？考虑到我们的限制，哪些选项是最好的？
