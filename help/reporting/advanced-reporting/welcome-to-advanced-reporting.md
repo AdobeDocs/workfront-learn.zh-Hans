@@ -1,6 +1,6 @@
 ---
 title: 欢迎使用高级报告
-description: 了解如何使用 [!UICONTROL API Explorer] 和文本模式来创建超出 [!UICONTROL Reporting UI].
+description: 了解如何使用 [!UICONTROL API Explorer] 和文本模式来创建超出 [!UICONTROL Reporting UI] 功能的高级过滤器、视图和分组。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 3409632.png
@@ -11,42 +11,42 @@ team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '417'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 欢迎使用高级报告
 
-了解如何使用 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/) 和文本模式来创建超出 [!UICONTROL Reporting UI].
+了解如何使用 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/) 和文本模式来创建超出 [!UICONTROL Reporting UI] 功能的高级过滤器、视图和分组。
 
-三个教程构成了高级报告。 它们是高级报告部分1、2和3。 他们总共要接受5小时33分钟的培训。
+高级报告培训由三个教程组成。它们是高级报告第 1、2 和 3 部分。培训的时长合计为 5 小时 33 分钟。
 
-除了要下载的视频之外， [高级报告手册](/help/assets/advanced-reporting-manual.pdf) 以供参考和练习。
+除了视频之外，您还需要下载[高级报告手册](/help/assets/advanced-reporting-manual.pdf)，以供参考和练习。
 
-**高级报告第1部分** 包含对报告创建的回顾，以及对以下内容的介绍： [!UICONTROL API explorer] 和文本模式，并对文本模式过滤器进行了深入的研究。
+**高级报告第 1 部分**&#x200B;包含对报告创建的回顾、对 [!UICONTROL API explorer] 和文本模式的介绍，以及对文本模式过滤器的深入研究。
 
-**高级报告第2部分** 包含对文本模式视图的深入研究、有关文本模式结构的其他详细信息、计算的自定义数据和计算的列。
+**高级报告第 2 部分**&#x200B;包含对文本模式视图的深入研究、有关文本模式结构的其他详细信息、计算自定义数据和计算列。
 
-**高级报告第3部分** 包含对文本模式分组、计算聚合和计算分组的深入研究。
+**高级报告第 3 部分**&#x200B;包含对文本模式分组的深入研究、计算聚合和计算分组。
 
 ## 先决条件
 
-在观看这些教程之前，您应该了解：
+在观看这些教程之前，您应该：
 
-* 很好地了解如何使用Workfront。 这意味着您至少已成为Workfront的一名认真的用户3至6个月。
-* 很好地了解要包含在报表中的对象。
-* 充分了解使用自定义表单，尤其是计算的自定义字段。
-* A [!UICONTROL Plan] 启用了创建报告和筛选器的权限的许可证类型。
-* 你本该参加 [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) 当然， [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) 课程和 [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) 当然。
+* 对 Workfront 的使用有很好的理解。这意味着您已经成为 Workfront 的正式用户至少 3 到 6 个月了。
+* 充分了解要包含在报告中的对象。
+* 很好地理解如何使用自定义表单，尤其是计算自定义字段。
+* 具有可创建报告的权限并启用了过滤器的 [!UICONTROL Plan] 许可证类型。
+* 您应该已经参加了 [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) 课程、[[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) 课程和 [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) 课程。
 
 ## 目标受众
 
-这些教程的目标受众是 [!UICONTROL Plan] 许可当前创建自定义报告以及希望了解如何使用文本模式完成超出报告用户界面设计要求的任务的用户。
+这些教程的目标受众是 [!UICONTROL Plan] 许可证用户，他们目前在创建自定义报告，并且希望知道如何使用文本模式来完成报告用户界面用途之外的更多任务。
 
-## 这些教程来自何处？
+## 这些教程从哪里来？
 
-这些教程是2018年2月为期三天的实时课程的录像。 您可能会注意到视频中使用了较旧的UI，但这不会影响所提供内容的准确性或相关性。
+这些教程是 2018 年 2 月为期三天的现场课程录音。您可能会注意到视频中的用户界面较旧，但这不会影响所提供内容的准确性或相关性。
 
-您还将听到一些参考资料，介绍如何在中练习使用试运行帐户。 Adobe Experience League不提供试用帐户，但无需担心。 您可以在生产帐户中进行练习。 毕竟，报表只是用于查看Workfront中的对象，与创建或删除任何对象无关。 当然，除了创建报告本身。 但是，除了系统管理员，只有您才能看到您创建的报告，除非您决定共享它们。
+您还会听到一些关于获得测试帐户进行练习的参考信息。Adobe Experience League 不提供测试帐户，但不用担心。您可以在生产帐户中进行练习。毕竟，报告只是查看 Workfront 中的对象，而不是创建或删除任何对象。当然，创建报告本身的情况除外。但除了系统管理员之外，您是唯一可以看到您创建的报告的人，除非您决定共享它们。
