@@ -1,6 +1,6 @@
 ---
-title: 如何在中创建计划 [!DNL Scenario Planner]
-description: 了解如何在中创建计划 [!DNL Scenario Planner].
+title: 如何在  [!DNL Scenario Planner] 中创建计划
+description: 了解如何在  [!DNL Scenario Planner] 中创建计划。
 feature: Resource Management
 type: Tutorial
 role: Leader, User
@@ -12,24 +12,24 @@ jira: KT-9076
 exl-id: 554c00cd-5958-4e5d-acec-22a96a7353b0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在中创建计划 [!DNL Scenario Planner]
+# 在 [!DNL Scenario Planner] 中创建计划
 
-在本视频中，您将了解如何在 [!DNL Scenario Planner].
+在本视频中，您将学习如何在 [!DNL Scenario Planner] 中创建计划。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on)
 
-## 估算计划的工作角色信息
+## 估计计划的工作角色信息
 
-在创建计划时，您可以确定应按FTE还是按小时估计工作角色工作量。 系统默认值为FTE，但在创建计划时可以切换此默认值。
+创建计划时，您可以确定工作角色的工作量是以全职员工还是以小时来估计。系统默认值为全职员工，但在创建计划时可以对其进行切换。
 
-![选择 [!UICONTROL FTE] 或 [!UICONTROL Hours] 在 [!UICONTROL New Plan] 窗口](assets/scenario-planner-1.png)
+![在 [!UICONTROL New Plan] 窗口中选择 [!UICONTROL FTE] 或 [!UICONTROL Hours]](assets/scenario-planner-1.png)
 
-创建计划后，将按选定的格式输入并显示为计划中的工作角色、计划的方案和任何计划添加的所有数字。 该格式显示在需要工作角色信息的列的顶部。
+创建计划后，为规划中的工作角色、计划的场景和任何举措所添加的所有编号都会以选定的格式输入和显示。该格式显示在需要工作角色信息的列的顶部。
 
-![在中查看信息 [!UICONTROL FTE] 或 [!UICONTROL Hours] 在 [!DNL Scenario Planner]](assets/scenario-planner-2.png)
+![查看 [!UICONTROL FTE] 或 [!UICONTROL Hours] 中的信息，位于 [!DNL Scenario Planner]](assets/scenario-planner-2.png)
