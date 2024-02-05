@@ -1,6 +1,6 @@
 ---
 title: 将提醒通知附加到工作项
-description: 了解如何将提醒通知附加到项目、任务、问题或时间表，以告知人员工作已到期或过期。
+description: 了解如何将提醒通知附加到项目、任务、问题或时间表，以便人们知道工作何时到期或逾期。
 feature: System Setup and Administration
 activity: deploy
 type: Tutorial
@@ -10,31 +10,31 @@ level: Intermediate, Experienced
 jira: KT-10096
 exl-id: 5d49108e-1795-4833-a374-3b598c90b345
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 将提醒通知附加到工作项
 
-事件通知和订阅通知并不是您可通过Workfront收到的唯一通知类型。 提醒通知可以附加到特定项目、任务、问题和/或时间表，以告知人们情况何时到期或过期。
+事件和订阅通知并不是您可以通过 Workfront 接收的唯一通知类型。提醒通知可以附加在特定项目、任务、问题和/或时间表，以便人们知道相关事项何时到期或逾期。
 
-提醒通知最初由系统管理员创建，然后根据需要附加到特定工作项。
+提醒通知最初由系统管理员创建，然后会在需要时附加到特定工作项目。
 
-例如，可以将提醒设置为当分配用户的任务在计划的完成日期后一天内时向其发送电子邮件。 或者，可以在计划开始日期两天后向项目团队发送提醒。
+例如，提醒可以设置为当已分配用户的任务离规划完成日期不足一天时通过电子邮件发送给他们。或者，可以在规划开始日期后两天向项目团队发出提醒。
 
-这些通知是继续推进工作并顺利运行的又一种方式。
+这些通知是保持工作顺利进行的另一种方式。
 
 ## 附加提醒
 
-创建提醒并可供您使用后，必须将其附加到您希望发送提醒的项目。
+创建提醒并可供您使用后，必须将其附加到与要发送的提醒相关的项目上。
 
-![[!UICONTROL Reminder Notification] 中的部分 [!UICONTROL Edit Task] 窗口](assets/admin-fund-user-notifications-17.png)
+![[!UICONTROL Reminder Notification] 部分，在 [!UICONTROL Edit Task] 窗口中](assets/admin-fund-user-notifications-17.png)
 
 >[!TIP]
 >
->如果要对同一项目或任务多次使用提醒通知，请将提醒通知附加到项目模板。
+>如果您希望对同一项目或任务多次使用提醒通知，请将提醒通知附加到项目模板上。
 
 <!---
 learn more URLs
