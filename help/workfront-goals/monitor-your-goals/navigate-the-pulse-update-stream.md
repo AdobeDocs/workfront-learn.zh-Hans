@@ -1,6 +1,6 @@
 ---
-title: 导航至 [!UICONTROL Pulse] 更新流于 [!DNL Goals]
-description: 了解如何导航 [!UICONTROL Pulse] [！DNL Goals]中的更新流。
+title: 在  [!DNL Goals] 中浏览 [!UICONTROL Pulse] 更新流
+description: 了解如何在 [!DNL   Goals] 中浏览 [!UICONTROL Pulse] 更新流。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -11,18 +11,18 @@ jira: KT-8927
 exl-id: 441d5056-5e5f-4104-aa44-321fe0da9a12
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 导航至 [!UICONTROL Pulse] 更新流
+# 浏览 [!UICONTROL Pulse] 更新流
 
-使用 [!UICONTROL Pulse] 部分，以审查和请求对可能影响目标进度的目标进行更新，包括校准的目标及其结果或活动。 这些可以是属于您、您的团队、组或组织的目标。
+使用 [!UICONTROL Pulse] 部分来审查并要求更新可能影响目标进度的目标，包括一致的目标及其结果或活动。这些目标可以是属于您、您的团队、组或组织的目标。
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 导航至 [!UICONTROL Pulse] 更新流
+* 浏览 [!UICONTROL Pulse] 更新流
 
 >[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on)
