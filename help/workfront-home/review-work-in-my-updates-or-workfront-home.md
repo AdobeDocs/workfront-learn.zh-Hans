@@ -1,6 +1,6 @@
 ---
-title: 审阅中的工作 [!DNL My Updates] 或 [!DNL Home]
-description: ‘[!DNL  Workfront] 提供两个位置来访问分配给您进行审阅和批准的工作 —  [!DNL My Updates] 和 [!DNL Home] ‘
+title: 在  [!DNL My Updates]  或  [!DNL Home] 中审核工作
+description: “[!DNL  Workfront] 提供两个位置来访问分配给您进行审核和审批的工作 - [!DNL My Updates]  和  [!DNL Home] ”
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,25 +11,25 @@ thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '191'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 审阅中的工作 [!DNL My Updates] 或 [!DNL Home]
+# 在 [!DNL My Updates] 或 [!DNL Home] 中审核工作
 
-Workfront提供两个位置来访问分配给您进行审阅和批准的工作：
+Workfront 提供两个位置来访问分配给您进行审核和审批的工作：
 
 * [!DNL My Updates]
 * [!DNL Home]
 
-此 [!DNL My Updates] 页面可显示分配给您的任何审批请求以及您所属的更新，从而简化操作。 默认情况下，此页面会在您登录Workfront时为“审阅”许可证用户加载，除非您组织的系统管理员设置了其他登录页面。
+[!DNL My Updates] 页面通过显示分配给您的任何审批请求，以及涉及您的更新，使事情变得简单。当您登录 Workfront 时，默认情况下会为审核许可证用户加载此页面，除非您的组织的系统管理员设置了不同的登陆页面。
 
-![的图像 [!DNL My Updates] 页面](assets/my-updates-overview.png)
+![[!DNL My Updates] 页面的图像](assets/my-updates-overview.png)
 
-[!DNL Home] 不仅可用于批准。 如果您在Workfront中拥有工作或计划许可证，则可在主页中找到项目和请求中的工作分配。 主页可能是登录Workfront时登陆的页面，或者，您可能需要从主菜单中选择主页，具体取决于贵组织的Workfront系统配置。
+[!DNL Home] 不仅仅可以用于审批事项。如果您在 Workfront 中拥有“工作”或“计划”许可证，则可以在“主页”中找到您的项目任务和相关请求。“主页”可能是您登录 Workfront 时所在的页面，或者，您可能需要从“主菜单”中选择“主页”，具体取决于您组织的 Workfront 系统配置。
 
-![的图像 [!DNL Home] 页面](assets/home-overview.png)
+![[!DNL Home] 页面的图像](assets/home-overview.png)
 
-您使用哪个部分管理批准请求取决于您组织审阅和批准工作的流程。 请与您的经理、系统管理员或Workfront内部团队核实，确定您应使用哪种工具才能最好地支持您的工作流。
+您使用哪个部分来管理审批请求取决于您组织的审核和审批工作流。请咨询您的经理、系统管理员或内部 Workfront 团队，以确定您应该使用哪个部分来最好地支持您的工作流。
