@@ -1,6 +1,6 @@
 ---
-title: 查看带校对的视频
-description: 了解如何使用校对调整查看器设置并向视频添加带有时间戳的评论 [!DNL  Workfront].
+title: 查看具有验证的视频
+description: 了解如何调整查看器设置以及如何使用  [!DNL  Workfront] 中的验证功能向视频添加带时间戳的评论。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,17 +12,17 @@ jira: KT-8847
 exl-id: 42715056-5edb-4619-8754-d48392677d51
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '43'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 查看带校对的视频
+# 查看具有验证的视频
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 向视频添加带有时间戳的评论
+* 向视频添加带时间戳的评论
 * 调整查看器设置
 
 >[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on)
