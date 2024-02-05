@@ -1,6 +1,6 @@
 ---
-title: 查看和比较校对版本
-description: 了解如何在中打开、识别、标记、评论和比较验证版本 [!DNL  Workfront].
+title: 查看并比较验证版本
+description: 了解如何在  [!DNL  Workfront] 中打开、识别、标记、评论和比较验证版本。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,20 +12,20 @@ jira: KT-8845
 doc-type: video
 exl-id: 8ade7208-4a39-4471-845f-5290fe27b66b
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 查看和比较校对版本
+# 查看并比较验证版本
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 打开验证的版本
-* 确定您所查看的校对版本
-* 对版本进行注释和标记
-* 将当前版本与文件的早期版本进行比较
+* 打开验证的一个版本
+* 确定您正在查看的是哪个验证版本
+* 对版本进行评论和标记
+* 将文件的当前版本与早期版本进行比较
 
 >[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on)
 
