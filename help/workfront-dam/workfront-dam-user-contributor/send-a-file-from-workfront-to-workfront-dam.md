@@ -1,6 +1,6 @@
 ---
-title: 将文件从Workfront发送到 [!UICONTROL Workfront DAM]
-description: 了解如何在中通过完成的文件发送 [!DNL Workfront] 到 [!UICONTROL Workfront DAM].
+title: 将文件从 Workfront 发送至 [!UICONTROL Workfront DAM]
+description: 了解如何将  [!DNL Workfront]  中的完整文件发送到 [!UICONTROL Workfront DAM]。
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -10,30 +10,30 @@ level: Beginner
 jira: KT-10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 发送文件来源 [!DNL Workfront] 到 [!UICONTROL Workfront DAM]
+# 将文件从 [!DNL Workfront] 发送到 [!UICONTROL Workfront DAM]
 
-当您在中完成文件时 [!DNL Workfront]，您可以将其发送至 [!UICONTROL Workfront DAM] 只需单击几下。
+当您在 [!DNL Workfront] 中有一个完整的文件时，只需单击几下即可将其发送到 [!UICONTROL Workfront DAM]。
 
-1. 登录 [!DNL Workfront].
-1. 导航到 **[!UICONTROL Documents]** 部分 [!DNL Workfront] 文件附加到的项目。
-1. 在列表中选择文档。
-1. 然后单击 **[!UICONTROL Send To]** 图标并选择 **[!UICONTROL Workfront DAM]**.
+1. 登录 [!DNL Workfront]。
+1. 导航到文件所附的 [!DNL Workfront] 项目的 **[!UICONTROL Documents]** 部分。
+1. 选择列表中的文档。
+1. 然后单击 **[!UICONTROL Send To]** 图标并选择 **[!UICONTROL Workfront DAM]**。
 
-   ![的图像 [!UICONTROL Share To] 中的图标 [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
+   ![图像：[!UICONTROL Share To] 图标，位于 [!DNL Workfront]](assets/04-send-to-wrkfront-dam.png)
 
-1. 此时将显示一个窗口，其中显示您有权访问的文件夹 [!UICONTROL Workfront DAM]. 选择文件应进入的文件夹。
+1. 出现一个窗口，显示您在 [!UICONTROL Workfront DAM] 中有权限访问的文件夹。选择文件应放入的文件夹。
 
-   ![显示您有权访问的文件夹的窗口的图像 [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png)
+   ![一个窗口的图像，其中显示您有权限访问的文件夹，位于 [!UICONTROL Workfront DAM]](assets/05-workfront-dam-folders.png)
 
-1. 单击 **[!UICONTROL Save]**.
-1. 此 [!UICONTROL Documents] 页面重新载入，现在 [!UICONTROL Workfront DAM] 图标显示在文件名旁。 这表示文件已发送到 [!UICONTROL DAM].
+1. 单击 **[!UICONTROL Save]**。
+1. [!UICONTROL Documents] 页面重新加载，现在文件名旁边会出现 [!UICONTROL Workfront DAM] 图标。这表明文件已发送至 [!UICONTROL DAM]。
 
-   ![的图像 [!UICONTROL Workfront DAM] 文件名称旁边显示的图标](assets/06-dam-logo.png)
+   ![文件名旁边出现的 [!UICONTROL Workfront DAM] 图标的图像](assets/06-dam-logo.png)
 
-1. 现在，单击文件名以在中打开该项目 [!UICONTROL Workfront DAM] 以便添加适当的元数据和关键字。
+1. 现在单击文件名打开 [!UICONTROL Workfront DAM] 中的项目，以便添加适当的元数据和关键词。
