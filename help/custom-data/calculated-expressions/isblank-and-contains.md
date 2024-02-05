@@ -1,6 +1,6 @@
 ---
-title: 使用ISBLANK和CONTAINS表达式
-description: 了解如何在Adobe的计算字段中使用和创建ISBLANK和CONTAINS表达式 [!DNL Workfront].
+title: 使用 ISBLANK 和 CONTAINS 表达式
+description: 了解如何在 Adobe  [!DNL Workfront] 的计算字段中使用和创建 ISBLANK 和 CONTAINS 表达式。
 feature: Custom Forms
 type: Tutorial
 role: Admin, Leader, User
@@ -10,58 +10,58 @@ team: Technical Marketing
 thumbnail: isblank-contains.png
 exl-id: 819ffec8-e7e6-4a3c-a589-1348aa09e27d
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用ISBLANK和CONTAINS表达式
+# 使用 ISBLANK 和 CONTAINS 表达式
 
-CONTAINS和ISBLANK表达式都用于提供简单的true或false值。 区别在于ISBLANK表达式检查字段是否完全保留值，而CONTAINS文本表达式在字段内查找特定字符串。
+CONTAINS 和 ISBLANK 表达式都可用于提供简单的 true 或 false 值。其区别在于 ISBLANK 表达式会检查字段是否包含值，而 CONTAINS 文本表达式则会查找字段中的特定字符串。
 
-例如，要查看某个项目是否有说明，请使用ISBLANK表达式。 如果描述字段为空，则表达式返回值true。 如果描述字段不为空，则返回值false。
+例如，若要查看项目是否具有描述，则使用 ISBLANK 表达式。如果描述字段为空，则表达式会返回 true 值。如果描述字段不为空，则会返回 false 值。
 
-![具有利用率报告的工作负载均衡器](assets/isblank01.png)
+![带有利用率报告的工作负载均衡器](assets/isblank01.png)
 
-要在描述中查找特定值（如“慈善事件”），请使用CONTAINS文本表达式。 如果它在描述中找到“慈善事件”，则计算字段显示“true”。 如果找不到“慈善活动”，则显示“false”。
+要在说明中查找特定值（例如“慈善活动”），请使用 CONTAINS 文本表达式。如果在描述中找到“慈善活动”，则计算字段将显示为 &quot;true&quot;。如果没有找到“慈善活动”，则显示为 &quot;false&quot;。
 
-![具有利用率报告的工作负载均衡器](assets/isblank02.png)
+![带有利用率报告的工作负载均衡器](assets/isblank02.png)
 
 ## ISBLANK
 
-ISBLANK文本表达式包括表达式的名称和一个数据点。
+ISBLANK 文本表达式包括表达式的名称和一个数据点。
 
 **ISBLANK({data point})**
 
-![具有利用率报告的工作负载均衡器](assets/isblank03.png)
+![带有利用率报告的工作负载均衡器](assets/isblank03.png)
 
-在上面的示例中（您希望了解项目是否具有说明），表达式将为：
+在上面的示例中，您想知道项目是否具有描述，则其表达式为：
 
 ISBLANK({description})
 
 ## CONTAINS
 
-CONTAINS文本表达式包括表达式名称、要查找的单词或短语以及要查找的字段。
+CONTAINS 文本表达式包括表达式的名称、您要查找的单词或短语以及要查找的字段。
 
-**CONTAINS(“短语”，{fields})**
+**CONTAINS(&quot;phrase&quot;,{fields})**
 
-请确保在要查找的单词或短语周围加上引号，否则表达式将无效。
+确保在您要查找的单词或短语两边加上引号，否则表达式将会无效。
 
-在上述示例中（在项目描述中查找“慈善事件”），表达式将为：
+在上面的示例中（在项目描述中查找“慈善活动”），其表达式为：
 
-**CONTAINS(“慈善活动”，{description})**
+**CONTAINS(&quot;charity event&quot;,{description})**
 
-![具有利用率报告的工作负载均衡器](assets/isblank04.png)
+![带有利用率报告的工作负载均衡器](assets/isblank04.png)
 
-**注释**： CONTAINS表达式区分大小写。 例如，如果“Charity Event”在描述字段中大写，则表达式中会将该短语大写。
+**注释**：CONTAINS 表达式区分大小写。例如，如果“慈善活动”在描述字段中为大写，则在表达式中大写该短语。
 
-**CONTAINS(“慈善活动”，{description})**
+**CONTAINS(&quot;Charity Event&quot;,{description})**
 
-如果要查看值是否存在，可以使用ISBLANK和CONTAINS表达式。 但是，知道该值是什么、实际查看它或具有某种类型的描述符以提供更好的见解可能更有用。
+如果您想查看某个值是否存在，那么 ISBLANK 和 CONTAINS 表达式都非常适合使用。但是，了解值是什么、实际查看它或使用某种描述符来提供更好的见解可能会更有帮助。
 
-例如，您不想只是知道项目已从请求转换，而是想知道原始请求的名称。
+例如，您不仅想知道项目是从请求转换而来，您还想知道原始请求的名称。
 
-在这种情况下，可将CONTAINS表达式与IF表达式结合使用。
+在这种情况下，请将 CONTAINS 表达式与 IF 表达式结合使用。
 
-ISBLANK和CONTAINS文本表达式经常与IF文本表达式一起使用。
+ISBLANK 和 CONTAINS 文本表达式通常会与 IF 文本表达式一起使用。
