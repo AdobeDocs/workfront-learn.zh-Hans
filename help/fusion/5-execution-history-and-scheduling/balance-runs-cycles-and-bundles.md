@@ -1,6 +1,6 @@
 ---
-title: 平衡运行、周期和捆绑包
-description: 了解平衡运行、周期和捆绑包包含哪些内容 [!DNL Adobe Workfront Fusion].
+title: 平衡运行、循环和捆绑
+description: 了解在  [!DNL Adobe Workfront Fusion] 中平衡运行、循环和捆绑指的是什么。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,16 +11,16 @@ jira: KT-9044
 exl-id: ed502932-2e42-4bc0-aa1b-d1a83637ca97
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '35'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 平衡运行、周期和捆绑包
+# 平衡运行、循环和捆绑
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* Workfront Fusion中的平衡运行、周期和捆绑包是什么
+* Workfront Fusion 中的平衡运行、循环和捆绑是什么
 
 >[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on)
