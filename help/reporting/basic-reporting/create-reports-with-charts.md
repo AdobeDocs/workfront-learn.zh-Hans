@@ -1,6 +1,6 @@
 ---
-title: 创建带有图表的报表
-description: 了解图表如何改进数据可视化，以及如何在Workfront中使用图表工具。
+title: 创建带有图表的报告
+description: 了解图表如何提升数据的可视化，以及如何使用 Workfront 中的图表工具。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -12,52 +12,52 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 创建带有图表的报表
+# 创建带有图表的报告
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 图表如何改进数据可视化
-* 如何使用Workfront的图表工具
+* 图表如何改善数据的可视化
+* 如何使用 Workfront 的图表工具
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## 活动：向报表中添加图表
+## 活动：将图表添加到报告中
 
-本季度末期即将到来，您希望了解最近完成的项目是如何遵守其预算的。 创建一个显示项目计划成本与实际成本的报告。 您只想查看在上季度完成的项目。 使用自定义颜色添加组合柱状图。
+本季度即将结束，您想看看最近完成的项目是否符合预算。创建一份报告，其中显示项目的规划成本与实际成本。您只想查看上一季度完成的项目。使用自定义颜色添加组合柱形图。
 
 ## 答案
 
-1. 选择 **[!UICONTROL Reports]** 从 **[!UICONTROL Main Menu]**.
-1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Project]**.
-1. 在 **[!UICONTROL Columns (View)]** 选项卡，单击 **[!UICONTROL Add Column]**.
-1. 选择 [!UICONTROL Project] > [!UICONTROL Planned Cost] 并按以下方式总结此列 **[!UICONTROL Sum]**.
-1. 单击 **[!UICONTROL Add Column]** 再来一次。
-1. 选择 [!UICONTROL Project] > [!UICONTROL Actual Cost] 并按以下方式总结此列 **[!UICONTROL Sum]**.
+1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
+1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Project]**。
+1. 在 **[!UICONTROL Columns (View)]** 选项卡中，单击 **[!UICONTROL Add Column]**。
+1. 选择 [!UICONTROL Project] > [!UICONTROL Planned Cost]，并按 **[!UICONTROL Sum]** 对本列进行汇总。
+1. 再次单击 **[!UICONTROL Add Column]**。
+1. 选择 [!UICONTROL Project] > [!UICONTROL Actual Cost]，并按 **[!UICONTROL Sum]** 对本列进行汇总。
 
-   ![用于向报表添加列的屏幕图像](assets/chart-report-columns.png)
+   ![在报告中添加列的屏幕图像](assets/chart-report-columns.png)
 
-1. 在 **[!UICONTROL Groupings]** 选项卡，将报表设置为分组依据 [!UICONTROL Project] > [!UICONTROL Name].
+1. 在 **[!UICONTROL Groupings]** 选项卡中，将报告设置为根据 [!UICONTROL Project] > [!UICONTROL Name] 分组。
 
-   ![向报表添加分组的屏幕图像](assets/chart-report-groupings.png)
+   ![在报告中添加分组的屏幕图像](assets/chart-report-groupings.png)
 
-1. 在 **[!UICONTROL Filters]** 选项卡，添加两个筛选规则：
+1. 在 **[!UICONTROL Filters]** 选项卡中，添加两条过滤规则：
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
    * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
-   ![用于将过滤器添加到报表的屏幕图像](assets/chart-report-filters.png)
+   ![在报告中添加过滤器的屏幕图像](assets/chart-report-filters.png)
 
-1. 在 **[!UICONTROL Chart]** 选项卡，选择 **[!UICONTROL Column]** 图表类型。
-1. 对于 [!UICONTROL Left (Y) Axis]，选择 [!UICONTROL Project] > [!UICONTROL Planned Cost].
-1. 对于 [!UICONTROL Bottom (X) Axis]，选择 [!UICONTROL Project] > [!UICONTROL Name].
-1. 单击 **[!UICONTROL Combination Chart]** 按钮并选择 [!UICONTROL Project] > [!UICONTROL Actual Cost] 在 **[!UICONTROL Value]** 字段。
-1. 单击颜色框旁边的箭头以更改 [!UICONTROL Actual Cost] 颜色。 选择显示的颜色之一，或单击右下角的框以调出调色板。
-1. 单击 **[!UICONTROL Save + Close]**. 当系统提示您输入报表名称时，请将其称为“按上一季度完成的项目列出的计划成本与实际成本”。
+1. 在 **[!UICONTROL Chart]** 选项卡中，为图表类型选择 **[!UICONTROL Column]**。
+1. 对于 [!UICONTROL Left (Y) Axis]，选择 [!UICONTROL Project] > [!UICONTROL Planned Cost]。
+1. 对于 [!UICONTROL Bottom (X) Axis]，选择 [!UICONTROL Project] > [!UICONTROL Name]。
+1. 单击 **[!UICONTROL Combination Chart]** 按钮，并选择 **[!UICONTROL Value]** 字段中的 [!UICONTROL Project] > [!UICONTROL Actual Cost]。
+1. 单击颜色框旁边的箭头可更改 [!UICONTROL Actual Cost] 颜色。选择出现的颜色之一或单击右下角的框以调出调色板。
+1. 单击&#x200B;**[!UICONTROL Save + Close]**。当系统提示输入报告名称时，将其命名为“上季度完成项目的规划成本与实际成本”。
 
-   ![向报表中添加图表的屏幕图像](assets/chart-report-chart.png)
+   ![在报告中添加图表的屏幕图像](assets/chart-report-chart.png)
