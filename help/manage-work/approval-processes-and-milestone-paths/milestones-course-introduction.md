@@ -1,6 +1,6 @@
 ---
-title: 里程碑课程简介
-description: 了解里程碑如何帮助您保持 [!DNL  Workfront] 个项目。
+title: 里程碑课程介绍
+description: 了解里程碑如何帮助您推动  [!DNL  Workfront]  项目向前发展。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -10,16 +10,16 @@ team: Technical Marketing
 jira: KT-8931
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 里程碑：课程简介
+# 里程碑：课程介绍
 
-本课程专为项目管理人员、规划人员和其他在中管理项目的人员设计 [!DNL Workfront]. 我们建议完成“规划者基础知识”计划，或者为在中创建项目奠定坚实的基础 [!DNL Workfront] ，然后再开始本课程。
+本课程专为 [!DNL Workfront] 中的项目经理、规划人员和其他管理项目的人员而设计。在开始本课程之前，我们建议完成规划师基础课程，或在 [!DNL Workfront] 中创建项目方面打下坚实的基础。
 
-在本视频中，您将了解里程碑如何帮助您保持 [!DNL  Workfront] 个项目。
+在本视频中，您将了解里程碑如何帮助您推动 [!DNL  Workfront] 项目向前发展。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on)
