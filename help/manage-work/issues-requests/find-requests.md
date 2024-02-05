@@ -1,6 +1,6 @@
 ---
 title: 查找和管理请求
-description: 了解如何使用功能板， [!UICONTROL Home]， [!UICONTROL Requests] 区域，以及 [!UICONTROL Teams] 页面查找通过请求队列发出的传入请求。
+description: 了解如何使用仪表板、[!UICONTROL Home]、[!UICONTROL Requests] 区域以及 [!UICONTROL Teams] 页面，以查找通过请求队列发出的传入请求。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,24 +12,24 @@ last-substantial-update: 2023-08-10T00:00:00Z
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
 source-git-commit: cdb9e1387636686f0de604ff6a143ea2739818c9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
 # 查找和管理请求
 
-在本视频中，您将了解如何查找已分配到的请求、已创建的请求以及您管理的请求。
+在此视频中，您将会了解如何查找分配给您的请求、您创建的请求以及您管理的请求。
 
-您将在以下位置了解如何查找这些请求：
+您将会了解到如何在以下位置找到这些请求：
 
 * Workfront [!UICONTROL Home]
-* 此 [!UICONTROL Requests] 区域
-* 此 [!UICONTROL Teams] 页面
-* 在自定义功能板中
+* [!UICONTROL Requests] 区域
+* [!UICONTROL Teams] 页面
+* 在自定义仪表板中
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on)
 
-如果您想了解如何创建自定义报告并将其放入功能板中，请参阅 [基本报告创建课程](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html).
+如果您想要了解如何创建自定义报告并将其放入仪表板中，请参阅[基础报告制作课程。](https://experienceleague.adobe.com/docs/workfront-course-map/using/learning-programs/basic-report-creation-program.html)
