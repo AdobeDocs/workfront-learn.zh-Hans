@@ -1,6 +1,6 @@
 ---
-title: 自动化工作流入门
-description: 了解自动验证工作流是什么 [!DNL  Workfront] 以及它与基本工作流的不同之处。
+title: 自动工作流入门
+description: 了解  [!DNL  Workfront]  中的自动化验证工作流是什么，以及它与基本工作流有何不同。
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin
@@ -8,19 +8,19 @@ level: Intermediate
 jira: KT-10164
 exl-id: f480db0a-0b78-41d1-bf99-634c6845f277
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '104'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 创建多阶段验证工作流
 
-校对工作流可能很简单，只需几个审阅人和一个截止日期。 或者，它们可能更复杂，因为有多个截止日期，而且人们按照特定顺序查看证明。
+验证工作流可以很简单，其中只需要几个审核人和一个截止日期。或者它们也可以更复杂，其中有多个截止日期，并且人们会按特定顺序查看该验证。
 
-[!DNL Workfront] 有两种验证工作流 — 基本和自动化，有时称为高级。
+[!DNL Workfront] 有两种类型的验证工作流——基本和自动化（有时称为高级）。
 
-自动化工作流具有多个阶段或步骤，需要按特定顺序完成。 除了其截止日期外，每个阶段均具有自己的一组收件人（审阅者和批准者）。
+自动化工作流具有多个阶段或步骤，这些步骤需要按特定顺序完成。每个阶段除了有自己的截止日期外，还有自己的一组收件人（审核人和审批人）。
 
 <!--
 Note by Chuck Middleton, 6-28-22:
