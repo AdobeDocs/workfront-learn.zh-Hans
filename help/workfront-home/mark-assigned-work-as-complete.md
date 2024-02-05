@@ -1,6 +1,6 @@
 ---
-title: 在中将已分配的工作标记为完成 [!UICONTROL Home]
-description: 了解如何更改已分配任务或问题的状态以指示它已完成 [!UICONTROL Work List]. 然后筛选列表以仅查看已完成的工作。
+title: 在 [!UICONTROL Home] 中将分配的工作标记为完成
+description: 了解如何通过 [!UICONTROL Work List] 更改已分配任务或问题的状态以指示其已完成。然后过滤该列表，以仅查看已完成的工作。
 feature: Work Management
 type: Tutorial
 role: User
@@ -12,27 +12,27 @@ jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 使用状态指示工作已完成 [!DNL Workfront] [!UICONTROL Home]
+# 使用状态来表示 [!DNL Workfront] [!UICONTROL Home] 中的工作已完成
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 如何用状态传达工作进度
-* 为什么在中状态很重要 [!DNL  Workfront]
-* 如何筛选 [!UICONTROL Work List] 查看已完成的工作
+* 如何传达工作进度和状态
+* 为什么状态在 [!DNL  Workfront] 中很重要
+* 如何通过过滤 [!UICONTROL Work List] 来查看已完成的工作
 
 >[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on)
 
 
-## 指示工作已完成的其他两种方式
+## 指示工作已完成的另外两种方式
 
-* 更改 [!UICONTROL Status] 下拉菜单完成。
-* 更新 [!UICONTROL percent complete] 100%。 这会自动将状态更改为“完成”。
+* 将 [!UICONTROL Status] 下拉菜单更改为完成。
+* 将 [!UICONTROL percent complete] 更新至 100%。这会自动将状态更改为“完成”。
 
 <!---
 learn more URLs
