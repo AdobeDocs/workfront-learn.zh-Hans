@@ -1,6 +1,6 @@
 ---
 title: 了解分组的基本文本模式
-description: 了解什么是文本模式、什么是驼峰式拼写以及可以在Workfront中的分组中使用的一些基本“即插即用”文本模式。
+description: 了解什么是文本模式、什么是驼峰式拼写以及可在 Workfront 的分组中使用的一些基本的“即插即用”文本模式。
 activity: use
 feature: Text Mode Reporting
 thumbnail: 336820.png
@@ -12,9 +12,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '283'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -24,26 +24,26 @@ ht-degree: 0%
 >
 >先决条件：
 >
->* 了解报表元素
->* 了解报表组件
+>* 了解报告要素
+>* 了解报告组件
 >* 创建基本分组
 
 >[!TIP]
 >
->* 要更深入地了解文本模式，我们建议您观看录制的网络研讨会活动 [咨询专家 — 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=en)，时长为一小时。
->* 要进一步了解文本模式，我们建议您查看 [高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=en) 教程，总时长为5.5小时。
+>* 为了更深入地了解文本模式，我们建议观看录制的网络研讨会活动[咨询专家 - 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-Hans)，时长为一小时。
+>* 要了解有关文本模式的更多信息，我们建议观看[高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-Hans)教程，总共为五个半小时。
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
 * 什么是文本模式
-* 什么是驼峰式的
-* 您可以在分组中使用的一些基本“即插即用”文本模式
+* 什么是驼峰式拼写
+* 您可以在分组中使用一些基本的“即插即用”文本模式
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 任务 — 4个父项分组
+## 任务 - 四个父级分组
 
-以下文本模式将根据最多四个父级对任务进行分组，并将不存在的父级留空。
+以下文本模式将根据最多四个级别的父级对任务进行分组，并将不存在的父级留空。
 
 ```
 textmode=true
@@ -55,18 +55,18 @@ group.0.namekeyargkey.1=name
 group.0.valueformat=string
 ```
 
-![显示按4个父级分组的项目任务的屏幕图像](assets/4-parents-grouping.png)
+![显示根据四个父级分组的项目任务的屏幕图像](assets/4-parents-grouping.png)
 
 
-## 任务 — 完成百分比分组
+## 任务 - 分组完成百分比
 
-以下文本模式将根据任务的完成百分比对任务进行分组。 对任务进行分组时，任务将属于以下类别之一：
+以下文本模式将根据任务的完成百分比对任务进行分组。分组时，任务将属于以下类别之一：
 
 * 0%
-* 1%至25%
-* 26%至50%
-* 51%至75%
-* 76%至99%
+* 1% 至 25%
+* 26% 至 50%
+* 51% 至 75%
+* 76% 至 99%
 * 100%
 
 ```
@@ -79,9 +79,9 @@ textmode=true
 
 ![显示按完成百分比分组的项目任务的屏幕图像](assets/percent-complete-grouping.png)
 
-## 任务 — statusEquatesWith，然后状态
+## 任务 - 按 statusEquatesWith 分组，然后按状态分组
 
-以下文本模式将依次按statusEquatesWith和status对任务分组。
+以下文本模式将按 statusEquatesWith 对任务进行分组，然后按状态进行分组。
 
 ```
 group.0.enumclass=com.attask.common.constants.TaskStatusEnum
@@ -101,10 +101,10 @@ group.1.valueformat=val
 textmode=true
 ```
 
-![显示按statusEquatesWith分组的项目任务的屏幕图像](assets/status-equates-with.png)
+![显示按 statusEquatesWith 分组的项目任务的屏幕图像](assets/status-equates-with.png)
 
 
-## 校对审批 — 按项目名称分组
+## 验证审批 - 按项目名称分组
 
 ```
 group.0.valueformat=HTML
@@ -115,7 +115,7 @@ group.0.displayname=Project Name
 ![显示按项目名称分组的验证审批的屏幕图像](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## 校对审批 — 按文档名称分组
+## 验证审批 - 按文档名称分组
 
 ```
 group.0.displayname=Document Name
