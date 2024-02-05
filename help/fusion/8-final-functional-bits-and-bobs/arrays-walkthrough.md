@@ -1,6 +1,6 @@
 ---
 title: 数组演练
-description: 回顾以前使用简单和复杂数组的演练 [!DNL Adobe Workfront Fusion].
+description: 回顾之前在  [!DNL Adobe Workfront Fusion] 中使用简单和复杂数组的演练练习。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,25 +11,25 @@ jira: KT-9058
 exl-id: ed56e244-e0ed-470e-8253-2549d70351c4
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '90'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 数组演练
 
-查看以前使用简单和复杂阵列的演练练习。 我们将回顾如何找到这些功能以及如何根据需要使用阵列功能来利用信息。
+回顾之前使用简单和复杂数组的演练练习。我们将会回顾我们是如何发现这些信息的，以及在必要时如何使用数组函数来利用这些信息。
 
-![融合场景的图像](assets/final-functional-bits-and-bobs-1.png)
+![Fusion 场景的图像](assets/final-functional-bits-and-bobs-1.png)
 
 ## 数组演练
 
-Workfront建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
+Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335299/?quality=12&learn=on)
 
 
-## 想要了解更多信息？ 我们建议执行以下操作：
+## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
