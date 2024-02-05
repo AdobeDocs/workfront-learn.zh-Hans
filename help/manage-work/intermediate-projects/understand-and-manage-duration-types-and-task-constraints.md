@@ -1,6 +1,6 @@
 ---
 title: 了解和管理持续时间类型和任务限制
-description: 了解持续时间类型和任务限制，并了解如何确保在项目中正确设置了它们。
+description: 了解持续时间类型和任务限制，并了解如何确保在项目中正确地设置它们。
 feature: Work Management
 thumbnail: 3420986.jpg
 type: Tutorial
@@ -11,21 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
-source-git-commit: e91207d73b7a25f05a5b2cde0606b57291e695b0
-workflow-type: tm+mt
+exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 了解和管理持续时间类型和任务限制
 
-在本视频中，您将了解有关持续时间类型和任务限制的以下内容：
+在本视频中，您将了解以下有关持续时间类型和任务限制的知识：
 
-* 它们是什么以及它们如何工作
-* 项目经理常犯的错误
-* 如何在项目中查看所有这些参数
-* 如何知道何时需要修复这些问题
+* 它们是什么以及它们如何运作
+* 项目经理使用它们时常犯的错误
+* 如何查看项目中的所有持续时间类型和任务限制
+* 如何知道它们何时需要修复
 * 如何修复它们
 * 使用它们的最佳实践
 
@@ -33,10 +34,8 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-有关如何创建持续时间类型和任务约束视图的信息，请参阅持续时间类型和任务约束视图活动，位置在 [创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=en).
+有关如何创建持续时间类型和任务限制视图的信息，请参阅[创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)中的持续时间类型和任务限制视图活动。
 
-有关持续时间类型的详细信息，请参阅 [任务持续时间和持续时间类型](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=en).
+有关持续时间类型的详细信息，请参阅[任务持续时间和持续时间类型。](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=zh-Hans)
 
-有关任务限制的详细信息，请参阅 [任务限制](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=en).
-
-
+有关任务限制的详细信息，请参阅[任务限制。](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=zh-Hans)
