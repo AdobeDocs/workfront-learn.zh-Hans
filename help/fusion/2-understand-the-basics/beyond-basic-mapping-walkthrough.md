@@ -1,6 +1,6 @@
 ---
-title: 超出基本映射演练
-description: 使用中的映射面板公式更改之前创建的方案中的某些项目字段 [!DNL Adobe Workfront Fusion].
+title: 超越基本映射演练
+description: 使用  [!DNL Adobe Workfront Fusion] 中的映射面板公式更改您之前创建的场景中的一些项目字段。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,48 +11,48 @@ jira: KT-9004
 exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '296'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 超出基本映射演练
+# 超越基本映射演练
 
-使用映射面板公式从第一次演练中创建的“初始方案设计”中更改项目名称、规划开始日期和优先级。
+使用映射面板公式更改您在第一次演练中创建的“初始场景设计”中的项目名称、规划开始日期和优先级。
 
-![融合场景的图像](assets/understand-the-basics-1.png)
+![Fusion 场景的图像](assets/understand-the-basics-1.png)
 
-## 超出基本映射演练
+## 超越基本映射演练
 
-Workfront建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
+Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335264/?quality=12&learn=on)
 
 >[!TIP]
 >
->有关完成演练的分步说明，请转到 [超出基本映射演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=en) 运动。
+>有关完成演练的分步说明，请参阅[超越基本映射演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/beyond-basic-mapping.html?lang=zh-Hans)练习。
 
-## 轮到你了
+## 到您了
 
 >[!NOTE]
 >
->练习和挑战是可选的，不是完成Fusion培训所必需的。
+>练习和挑战是可选的，并不是完成 Fusion 培训所必需的。
 
-此练习练习基于您在演练中所学到的内容，但未提供解决方案。
+本练习以您在演练中学到的内容为基础，但未提供解决方案。
 
-创建刚刚完成的“超出基本映射”演练的克隆。 您将在下一个演练中继续使用该场景，因此您不希望通过此练习对其进行修改。
+克隆您刚刚完成的“超越基本映射”演练。您将在下一个演练中继续使用该场景，因此请不要在本练习中修改它。
 
-在上一步演练中，在您创建的每个项目中创建一个任务。
+在上一次演练中创建的每个项目中创建一个任务。
 
-* 使用“Initial Planning for a (Project Color) Project”作为任务名称。
-* 将计划开始日期设置为与项目计划开始日期相同。
-* 将持续时间设置为3天，将持续时间类型设置为“计算分配”。
-* 将计划小时数设置为置信度评分的10%（以小时为单位）。
-* 尽快将任务限制设置为。
+* 使用“（项目颜色）项目的初始规划”作为任务名称。
+* 将规划开始日期设置为与项目规划开始日期相同。
+* 将持续时间设置为 3 天，并将持续时间类型设置为计算的任务量。
+* 将规划小时数设置为置信度的 10%（以小时为单位）。
+* 将“任务限制”设置为“尽快”。
 
-**挑战：** 如果项目颜色为红色，则将任务分配给Rick Kuvec。 如果项目颜色为黄色，则将任务分配给Mary Smith。 如果项目颜色为绿色，则将任务分配给Ida Blankenship。
+**挑战：**&#x200B;如果项目颜色为红色，则将任务分配给 Rick Kuvec。如果项目颜色为黄色，则将任务分配给 Mary Smith。如果项目颜色为绿色，则将任务分配给 Ida Blankenship。
 
-## 想要了解更多信息？ 我们建议执行以下操作：
+## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
