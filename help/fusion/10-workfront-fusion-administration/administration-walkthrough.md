@@ -1,6 +1,6 @@
 ---
 title: 管理演练
-description: 了解如何在不同的组织或团队之间切换并将用户添加到系统中的方法 [!DNL Adobe Workfront Fusion].
+description: 了解如何在不同组织或团队之间切换，以及如何将用户添加到  [!DNL Adobe Workfront Fusion] 内的系统中。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,21 +11,21 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 管理演练
 
-了解如何在不同的组织或团队之间切换并将用户添加到系统中。
+了解在不同组织或团队之间切换，以及如何将用户添加到系统中。
 
-![具有错误处理的场景的图像](assets/workfront-fusion-administration-1.png)
+![错误处理场景的图像](assets/workfront-fusion-administration-1.png)
 
 ## 管理演练
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
 * 如何在组织和团队之间导航
 * 如何创建团队
@@ -33,6 +33,6 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on)
 
-## 想要了解更多信息？ 我们建议执行以下操作：
+## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=en)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
