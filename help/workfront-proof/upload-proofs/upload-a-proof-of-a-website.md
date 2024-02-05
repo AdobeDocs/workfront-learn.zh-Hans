@@ -1,6 +1,6 @@
 ---
-title: 上传网站证明
-description: 了解如何在中将网站作为静态验证和交互式验证上传 [!DNL  Workfront].
+title: 上传网站验证
+description: 了解如何在  [!DNL  Workfront] 中作为静态验证和交互式验证上传网站。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,40 +12,40 @@ jira: KT-8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 上传网站证明
+# 上传网站验证
 
-在本视频中，您将了解如何：
+在本视频中，您将学习如何：
 
-* 将网站作为静态验证上传
-* 将网站作为交互式验证上传
+* 作为静态验证上传网站
+* 作为交互式验证上传网站
 
 >[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on)
 
 
 ## 交互式内容注意事项
 
-当您开始验证网站时，您可能会发现 [!DNL Workfront] 不支持每个配置或情况。 必须满足以下特定条件：
+当您开始验证网站时，您可能会发现 [!DNL Workfront] 无法支持所有配置或情况。必须满足某些标准：
 
-* 网站必须使用安全协议托管，这意味着网站地址以https开头。
-* 要验证的网站不能嵌入到iframe中。
-* 审阅人必须能够访问该网站。
-* 网站需要可公开访问，这意味着它不能位于防火墙之后。
-* 创建静态网站验证时，网站不能受密码保护。
+* 该网站必须使用安全协议托管，这意味着网站地址需要以 https 开头。
+* 待验证的网站不能嵌入到 iframe 中。
+* 该网站必须可供审核人访问。
+* 该网站需要能够公开访问，这意味着它不能在防火墙后面。
+* 创建静态网站验证时，网站无法受密码保护。
 
-## 轮到你了
+## 到您了
 
 >[!IMPORTANT]
 >
->别忘了提醒你的同事，作为Workfront培训的一部分，你向他们发送了证明。
+>请不要忘记提醒您的同事，您向他们发送的验证是您 Workfront 培训的一部分。
 
-1. 打开您在Workfront中用于实践实践的项目、任务或问题。 对贵组织的网站进行静态验证。 如果不满足静态验证标准，则可以使用adobe.com。
-1. 接下来，对贵组织的网站进行交互式验证。 如果其他网站无法正常工作，您可以使用adobe.com 。
+1. 打开您要在 Workfront 中进行实践练习的项目、任务或问题。为您组织的网站制作静态验证。如果该网站不符合静态验证标准，您可以使用 adobe.com。
+1. 接下来，为您组织的网站制作一份交互式这样。如果该网站无法运行，您可以使用 adobe.com。
 
 <!-- 
 Learn more about these considerations in the articles Generate a static proof for a website or other web content and Generate an interactive proof for a website or other web content. 
