@@ -1,6 +1,6 @@
 ---
 title: 了解 [!UICONTROL Board] 视图
-description: 了解如何使用 [!UICONTROL Board] 在项目登陆页面上查看。
+description: 了解如何使用项目登陆页面上的 [!UICONTROL Board] 视图。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,18 +10,19 @@ role: User
 level: Beginner
 last-substantial-update: 2023-08-03T00:00:00Z
 jira: KT-13743
-source-git-commit: c552c61e9e81ed8850a339f0521aecce53eb5b48
-workflow-type: tm+mt
+exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
+source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
+workflow-type: ht
 source-wordcount: '33'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 了解 [!UICONTROL Board] 视图
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 在何处查找 [!UICONTROL Board] 视图
+* 在哪里可以找到 [!UICONTROL Board] 视图
 * 如何使用 [!UICONTROL Board] 视图
 
 
