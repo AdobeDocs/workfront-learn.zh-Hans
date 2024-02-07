@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 0f2a8c6855398759890fad1282ced3c28615f7f5
+source-git-commit: 5fa3bbf2fb4763e63beeb7ac640cc93ccf54fed5
 workflow-type: tm+mt
 source-wordcount: '811'
 ht-degree: 39%
@@ -32,9 +32,7 @@ ht-degree: 39%
 >[!TIP]
 >
 >拿出你的铲子和搅拌碗，准备试试我们的菜谱 [Adobe Workfront Customer Reporting指南](/help/assets/workfront-customer-reporting-cookbook.pdf). 在里面，您可以找到有关10个报表的分步说明，以便您立即在环境中快速启动。
-><br>
 >我们收集了客户最喜欢的报告，并将它们放进一个可快餐、易于理解的指南中，供您收回并在自己的Workfront厨房中测试。
-><br>
 >这10个报表来自与您相同的客户。 我们遍布各行各业、各个部门、各个团队、各个职位，我们衷心感谢那些出色的客户，他们分享了他们最喜欢的报告之一。 有些报表非常简单（但极其有用），有些则更加复杂，无法让您的报表更上一层楼。
 
 
