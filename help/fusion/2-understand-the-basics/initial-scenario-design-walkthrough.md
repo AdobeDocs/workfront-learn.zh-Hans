@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+source-git-commit: 7cd5e383310f48660955b9e953a7baf13530b105
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -33,9 +34,7 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on)
 
->[!TIP]
->
->有关完成演练的分步说明，请参阅[初始场景设计演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=zh-Hans)练习。
+有关完成演练的分步说明，请参阅[初始场景设计演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/initial-scenario-design.html?lang=zh-Hans)练习。
 
 
 
