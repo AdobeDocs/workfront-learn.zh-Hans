@@ -1,6 +1,6 @@
 ---
-title: 了解计划的小时数和持续时间视图
-description: 在“燃尽”和“项目”树状图中，您可以按计划小时数或持续时间查看信息。
+title: 了解规划小时数和持续时间视图
+description: 在燃尽图和项目树形图中，您可以按规划小时数或持续时间查看信息。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -9,24 +9,25 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10044
+recommendations: noDisplay,noCatalog
 exl-id: caae6dd0-910c-4bdf-a9db-611c272af7ce
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 0%
+source-wordcount: '130'
+ht-degree: 100%
 
 ---
 
-# 了解计划的小时数和持续时间视图
+# 了解规划小时数和持续时间视图
 
-在燃尽和项目树状图中，您可以按计划小时数或持续时间查看信息，具体取决于您认为更符合Workfront环境的条件。
+在燃尽图和项目树形图中，您可以按规划小时数或持续时间查看信息，具体取决于您认为对 Workfront 环境更为准确的内容。
 
-![选择已计划小时数而不是持续时间的图像](assets/section-1-5.png)
+![选择规划小时数而不是持续时间的图像](assets/section-1-5.png)
 
 
 
-默认计划小时数。 如果您切换到持续时间，则当您导航离开时，此项保持不变 [!DNL Analytics] 在Workfront登录之间来回穿梭。
+规划小时数是默认值。如果您切换到持续时间，那么在您离开 [!DNL Analytics] 然后返回，以及在 Workfront 登录之间切换时，这仍然有效。
 
-## 框大小和颜色阴影表示什么？
+## 盒子尺寸和颜色深浅是什么意思？
 
-蓝色框越小，越浅表示小时数越少，蓝色框越大，越暗表示小时数越多。 有关详细信息，请参阅 [了解项目树形图可视化图表](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=en).
+相比之下，较小、较浅的蓝色框表示较少的时间，而较大的框和较深的蓝色则表示较多的时间。若要了解更多信息，请参阅[了解项目树形图可视化。](https://experienceleague.adobe.com/docs/workfront/using/reporting/enhanced-analytics/project-treemap-overview.html?lang=zh-Hans)

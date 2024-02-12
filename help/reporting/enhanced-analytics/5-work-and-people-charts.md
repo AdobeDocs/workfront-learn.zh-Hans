@@ -1,6 +1,6 @@
 ---
 title: 了解工作和人员图表
-description: 在 [!UICONTROL Enhanced Analytics]，工作图从项目和任务的角度显示活动，而人员图从主团队的角度显示活动。
+description: 在 [!UICONTROL Enhanced Analytics] 中，工作图表会从项目和任务的角度显示活动，而人员图表则会从主团队的角度显示活动。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -9,42 +9,43 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10028
+recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '186'
-ht-degree: 4%
+ht-degree: 94%
 
 ---
 
 # 了解工作和人员图表
 
-工作图从项目和任务的角度显示活动，而人员图从主团队的角度显示活动。
+工作图表会从项目和任务的角度显示活动，而人员图表则会从主团队的角度显示活动。
 
-从左侧面板菜单中选择要查看的Analytics图表类型（工作或人员）。
+从左侧面板菜单中选择您要查看的分析图表类型——工作或人员。
 
-## 工作图
+## 工作图表
 
-![查找 [!UICONTROL Analytics] 中的功能 [!DNL Workfront Classic]](assets/section-1-1.png)
+![图像：查找 [!UICONTROL Analytics] 功能，位于 [!DNL Workfront Classic]](assets/section-1-1.png)
 
 当您转到工作图时，您将默认看到：
 
-1. KPI统计数据
-1. 外部测试版计划
+1. KPI 统计数据
+1. 任务执行计划
 1. 项目活动
-1. 项目树状图（未在上方显示）
+1. 项目树形图（上面未显示）
 
-当您向下钻取数据时，会显示“燃尽”和“任务”。
+当您深入研究数据时，燃尽图和正在执行的任务图表会出现。
 
-* 单击外部测试版计划视图中的项目，该项目的“燃尽”视图将显示在其下方。
-* 单击树状图视图中的项目，其下方将显示燃尽视图和外部测试版中的任务。
+* 单击“任务执行计划”视图中的一个项目，该项目的“燃尽图”视图将会出现在其下方。
+* 单击“树形图”视图中的项目，“燃尽图”和“正在执行的任务”视图将会出现在其下方。
 
 ## 人员图表
 
-![查找 [!UICONTROL Analytics] 中的功能 [!DNL Workfront Classic]](assets/section-1-2.png)
+![图像：查找 [!UICONTROL Analytics] 功能，位于 [!DNL Workfront Classic]](assets/section-1-2.png)
 
 人员图表包括：
 
-1. 按团队筛选的活动
+1. 按团队过滤的活动
 1. 资源产能
 1. 团队活动

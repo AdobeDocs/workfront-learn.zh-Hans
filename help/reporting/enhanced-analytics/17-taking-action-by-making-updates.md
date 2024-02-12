@@ -1,5 +1,5 @@
 ---
-title: 通过进行更新来采取行动
+title: 通过更新来采取行动
 description: 了解如何从任务表内的任务进行更新，位置如下： [!UICONTROL Enhanced Analytics].
 activity: use
 feature: Reports and Dashboards
@@ -9,19 +9,20 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8736
+recommendations: noDisplay,noCatalog
 exl-id: f574a537-b635-4b17-a067-3c168eea850a
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 67%
 
 ---
 
-# 通过进行更新来采取行动
+# 通过更新来采取行动
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 如何从外部测试版图表中的任务进行更新
+* 如何在“正在执行的任务”图表中进行更新
 
 >[!VIDEO](https://video.tv.adobe.com/v/335053/?quality=12&learn=on)

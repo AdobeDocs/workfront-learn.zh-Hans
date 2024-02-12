@@ -1,6 +1,6 @@
 ---
 title: 了解基本导航
-description: 了解如何导航到 [!UICONTROL Analytics] 区域并查看Workfront中的工作图和人员图的总览。
+description: 了解如何导航至 [!UICONTROL Analytics] 区域，并查看 Workfront 中工作图表和人员图表的概述。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335057.png
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8724
+recommendations: noDisplay,noCatalog
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: 75b9d3b1163466909a4f5b3cbf0f3a66694f5038
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 87%
 
 ---
 
@@ -21,11 +22,11 @@ ht-degree: 0%
 
 导航到 [!UICONTROL Analytics] 在Workfront中，使用 [!UICONTROL Main Menu] 按钮。
 
-![查找 [!UICONTROL Analytics] Workfront中的功能 [!UICONTROL main menu]](assets/Navigate-NWE.png)
+![图像：查找 [!UICONTROL Analytics] 功能，位于 Workfront [!UICONTROL main menu]](assets/Navigate-NWE.png)
 
-在本视频中，您将看到：
+在此视频中，您会看到：
 
-* 工作图概览
+* 工作图表概述
 * 人员图表概述
 
 >[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on)

@@ -1,5 +1,5 @@
 ---
-title: 了解咨询指南
+title: 了解咨询指导
 description: 了解如何使用提出建议，帮助您的组织更高效地运营 [!UICONTROL Enhanced Analytics] 在Workfront中。
 activity: use
 feature: Reports and Dashboards
@@ -9,19 +9,20 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8723
+recommendations: noDisplay,noCatalog
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
 workflow-type: tm+mt
 source-wordcount: '39'
-ht-degree: 0%
+ht-degree: 58%
 
 ---
 
-# 了解咨询指南
+# 了解咨询指导
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
-* 如何提出建议以帮助您的组织更高效地运营
+* 如何通过提出建议来帮助您的组织更高效地运营
 
 >[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on)
