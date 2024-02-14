@@ -1,5 +1,5 @@
 ---
-title: 路由模式
+title: “布线模式”练习
 description: 强化路由和回退路由的概念，而无需实际处理任何其他 API。
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11044
 thumbnail: KT11044.png
+recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '344'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '361'
+ht-degree: 98%
 
 ---
 
-# 路由模式
+# “布线模式”练习
 
 强化路由和回退路由的概念，而无需实际处理任何其他 API。
 

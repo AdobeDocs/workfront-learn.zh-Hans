@@ -9,10 +9,11 @@ role: User
 level: Beginner
 jira: KT-9042
 exl-id: 370ea489-3b91-4b5b-b5e5-7948bbee1148
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '262'
 ht-degree: 100%
 
 ---
@@ -29,9 +30,6 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 >[!VIDEO](https://video.tv.adobe.com/v/335283/?quality=12&learn=on)
 
->[!TIP]
->
->有关完成演练的分步说明，请参阅[执行历史记录演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/execution-history.html?lang=zh-Hans)练习。
 
 ## 在历史选项卡中进行全文搜索
 

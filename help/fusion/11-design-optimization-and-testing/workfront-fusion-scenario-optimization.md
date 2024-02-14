@@ -9,17 +9,18 @@ role: User
 level: Beginner
 jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '169'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '160'
+ht-degree: 91%
 
 ---
 
 # Workfront Fusion 场景优化
 
-什么是“场景优化”，以及您可以采取哪些措施来优化您的场景？
+什么是“方案优化”？您可以怎样优化方案？
 
 场景优化是一项需要时间和精力来培养的实践技能。您第一次尝试为实现业务成果而构建场景不应该是最后一次。场景应该从第一天开始迭代，直到启动集成为止。即使在启动之后，也应该在场景的整个生命周期内对其进行审查和更新，以跟上业务和行为的变化。
 

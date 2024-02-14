@@ -1,5 +1,5 @@
 ---
-title: 数据存储
+title: 数据存储练习
 description: 了解如何在两个系统之间同步公司名称。（应为 60 至 160 个字符，但实为 178 个字符）
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11055
 thumbnail: KT11055.png
+recommendations: noDisplay,noCatalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '878'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 99%
 
 ---
 
-# 数据存储
+# 数据存储练习
 
 了解如何在两个系统之间同步公司名称。
 

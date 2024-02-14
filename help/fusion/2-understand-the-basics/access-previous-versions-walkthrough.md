@@ -1,6 +1,6 @@
 ---
 title: 访问以前的版本演练
-description: 了解如何在对场景进行更改并将其保存在  [!DNL Adobe Workfront Fusion] 中后恢复以前的版本。
+description: 了解在更改方案并将更改保存到中后如何恢复以前的版本 [!DNL Adobe Workfront Fusion].
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '295'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '263'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 在此视频中，您将：
 
-* 了解在对您的场景进行更改并多次保存后如何恢复以前的版本。
+* 了解在对方案进行更改并多次保存后，如何恢复以前的版本。
 
 ## 访问以前的版本演练
 
@@ -33,9 +34,6 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 >
 >保存场景后，如果您将来需要访问它，三点菜单下会提供新版本。之前保存的场景版本只能保留 60 天。如果出于审核目的您需要在 60 天之后访问以前的版本，Workfront 建议保存场景 Blueprint 并在商定的位置存档。
 
->[!TIP]
->
->有关完成演练的分步说明，请参阅[访问以前的版本演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/exercises/access-previous-versions.html?lang=zh-Hans)练习。
 
 ## 添加到您的术语
 

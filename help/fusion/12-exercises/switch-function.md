@@ -1,5 +1,5 @@
 ---
-title: 切换功能
+title: 切换功能练习
 description: 了解如何使用“切换”功能。
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11051
 thumbnail: KT1101.png
+recommendations: noDisplay,noCatalog
 exl-id: 3142fae2-5210-4f63-9d2c-66dec58867fa
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '234'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 97%
 
 ---
 
-# 切换功能
+# 切换功能练习
 
 了解如何使用“切换”功能。
 

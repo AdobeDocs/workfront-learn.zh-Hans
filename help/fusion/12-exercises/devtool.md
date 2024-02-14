@@ -1,5 +1,5 @@
 ---
-title: 开发工具
+title: 开发工具练习
 description: 增强您对场景进行故障排除的能力，并使用开发工具简化复杂的配置。
 activity: use
 team: Technical Marketing
@@ -9,15 +9,16 @@ role: User
 level: Beginner
 jira: KT-11057
 thumbnail: KT11057.png
+recommendations: noDisplay,noCatalog
 exl-id: 13080212-26cf-4e5f-8f0b-fc59a6f66eb1
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '616'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '624'
+ht-degree: 99%
 
 ---
 
-# 开发工具
+# 开发工具练习
 
 增强您对场景进行故障排除的能力，并使用开发工具简化复杂的配置。
 

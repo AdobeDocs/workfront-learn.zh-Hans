@@ -9,11 +9,12 @@ role: User
 level: Beginner
 jira: KT-9070
 exl-id: 2be7bc61-5c63-47b2-b140-ad9352508d5c
+recommendations: noDisplay,noCatalog
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '164'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '155'
+ht-degree: 74%
 
 ---
 
@@ -21,7 +22,7 @@ ht-degree: 100%
 
 在构建之前考虑自动化时，可以部署一些策略来最大限度地减少所需的返工或必须进行的迭代次数。
 
-通过定义由特定事件触发的清晰用例，您将会节省大量时间。如果您不尽早花时间确保自己朝着正确的方向前进，那么您最终会遇到复杂或低效的情况。
+通过定义由特定事件触发的明确用例，可节省大部分时间。 如果您没有很早的时间来确保自己朝着正确的方向前进，最终将会出现复杂或低效的情况。
 
 在本视频中，您将学习如何：
 

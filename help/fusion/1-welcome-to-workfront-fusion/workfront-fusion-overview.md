@@ -8,21 +8,22 @@ feature: Workfront Fusion
 role: User
 level: Beginner
 jira: KT-11035
+recommendations: noDisplay,noCatalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '413'
-ht-degree: 100%
+source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+workflow-type: tm+mt
+source-wordcount: '404'
+ht-degree: 74%
 
 ---
 
 # Workfront Fusion 培训概述
 
-每个 Workfront Fusion 分区都包含多个教程，每个教程都介绍了在进入下一个教程之前需要了解的概念。演练练习有助于您掌握大多数概念。
+每个Workfront Fusion部分都包含多个教程，每个教程都介绍了在进入下一个教程之前需要了解的概念。 演练练习有助于您掌握大多数概念。
 
 这些视频向您展示如何完成每个演练练习，这通常会创建一个新的 Workfront Fusion 场景。然后，您可以在自己的 Workfront Fusion 环境中完成练习，并将其添加到您自己的场景集合中。
 
-在某些教程中，您将会从头开始创建一个新场景。在其他教程中，您首先需要复制之前创建的场景。
+在一些教程中，您将从头开始创建一个新场景。 在其他教程中，您首先需要复制之前创建的场景。
 
 >[!IMPORTANT]
 >
@@ -38,7 +39,7 @@ ht-degree: 100%
 
 ### 访问 Workfront Fusion 进行练习
 
-Workfront 不提供 Workfront Fusion 测试版。要在完成这些教程时进行练习，请向贵组织的 Workfront Fusion 管理员请求访问 Workfront Fusion。
+Workfront 不提供 Workfront Fusion 测试版。要在完成教程后进行练习，请从贵组织的Workfront Fusion管理员请求访问Workfront Fusion。
 
 ### 完成演练练习的分步说明
 
@@ -48,11 +49,11 @@ Workfront 不提供 Workfront Fusion 测试版。要在完成这些教程时进�
 
 在一些演练练习之后会提供实践练习和相关挑战。
 
-解决实践练习的方法有很多种。其目的是挑战您在没有相应步骤或“正确答案”的情况下尝试实现场景目标，因为您在自己的公司构建场景时就需要这么做。
+解决实践练习的方法有很多种。其目的是挑战您尝试在不执行步骤的情况下实现场景目标，或者提供“正确答案”，因为这是您在公司构建场景时需要做的。
 
 实践练习与演练活动相关。
 
-这些挑战针对的是那些想要尝试涉及他们所学到的其他概念的人员。
+挑战在于那些想要尝试与他们所学到的其他概念有关的东西的人。
 
 ### 如何获得帮助
 
