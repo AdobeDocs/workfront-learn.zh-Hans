@@ -1,6 +1,6 @@
 ---
 title: 自定义展示板上的信息卡
-description: 了解如何自定义展示板上卡上显示的完整视图或精简视图信息。
+description: 了解如何自定义展示板中的信息卡上显示的信息（完整视图或压缩视图）。
 feature: Agile
 role: Admin, Leader, User
 level: Beginner
@@ -10,14 +10,14 @@ jira: KT-13776
 thumbnail: 3422520.jpeg
 exl-id: ff3ec41f-2a8d-4e09-aa8e-5c57d69cff36
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 自定义展示板上的信息卡
 
-了解如何自定义展示板上卡上显示的完整视图或精简视图信息。
+了解如何自定义展示板中的信息卡上显示的信息（完整视图或压缩视图）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on)
