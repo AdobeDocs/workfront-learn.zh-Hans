@@ -1,6 +1,6 @@
 ---
 title: 创建项目模板并了解 [!UICONTROL Blueprints]
-description: 了解如何从头开始并从现有项目创建项目模板，并了解如何 [!UICONTROL Blueprints] 可让您访问由Workfront专家创建的一系列有用项目模板。
+description: 学习如何从头开始以及从现有的项目创建项目模板，并了解如何通过 [!UICONTROL Blueprints] 访问由 Workfront 专家创建的各类实用项目模板。
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,43 +13,43 @@ jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '335'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 创建项目模板并了解 [!UICONTROL Blueprints]
 
-了解如何从头开始并从现有项目创建项目模板，并了解如何 [!UICONTROL Blueprints] 可让您访问由Workfront专家创建的一系列有用项目模板。
+学习如何从头开始以及从现有的项目创建项目模板，并了解如何通过 [!UICONTROL Blueprints] 访问由 Workfront 专家创建的各类实用项目模板。
 
 ## 创建项目模板
 
 在本视频中，您将学习如何：
 
-* 从头开始创建模板
+* 从头开始制定模板
 * 从现有项目创建模板
 
 >[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
-## 使用创建的模板 [!UICONTROL Blueprints]
+## 使用 [!UICONTROL Blueprints] 创建的模板
 
-Workfront用户可以使用 [!UICONTROL Blueprints] 以帮助构建项目模板。 此功能位于主菜单，允许您访问针对部门和特定成熟度级别的预建、现成的模板。 这些模板为用户可重复的项目创建开一个好头，并有助于在范围类似的项目中保持一致性。
+Workfront 用户可以使用 [!UICONTROL Blueprints] 来帮助构建项目模板。此功能位于主菜单中，您使用它可以访问针对某个部门和特定成熟度级别制作的预建、即用型模板。这些模板使用户能够在创建可重复的项目方面取得先机，并有助于保持范围相似的项目之间的一致性。
 
-![主菜单中的Blueprint](assets/pt-blueprints-01.png)
+![主菜单中的 Blueprint](assets/pt-blueprints-01.png)
 
-任何获得许可的用户都可以浏览Workfront中可用的Blueprint列表。 创建新项目（例如将任务或请求转化为项目）时，不能直接应用Blueprint。 Blueprint和项目模板之间的主要区别在于，Blueprint用于创建模板，而模板用于创建项目。 **Blueprint需要由系统管理员安装，才能创建相应的模板。**
+任何获得许可的用户都可以浏览 Workfront 中可用的 Blueprint 列表。创建新项目时（例如将任务或请求转换为项目），您无法直接应用 Blueprint。Blueprint 和项目模板之间的主要区别在于，Blueprint 用于制作模板，而模板则用于创建项目。**Blueprint 需要由系统管理员安装才能创建相应的模板。**
 
-如果找到一个看起来有趣的Blueprint，您可以单击 **[!UICONTROL Details]** 以进一步了解它。
+如果您发现看起来很有趣的 Blueprint，可以单击 **[!UICONTROL Details]**&#x200B;了解更多信息。
 
-![Blueprint列表](assets/pt-blueprints-02.png)
+![Blueprint 清单](assets/pt-blueprints-02.png)
 
-此 [!UICONTROL Details] 屏幕将详细介绍Blueprint，包括已安装Blueprint时的安装历史记录。
+[!UICONTROL Details] 屏幕解释了有关 Blueprint 的更多信息，其中包括安装历史记录（如果已安装 Blueprint）。
 
-![有关使用Blueprint的详细信息](assets/pt-blueprints-03.png)
+![关于使用 Blueprint 的详细信息](assets/pt-blueprints-03.png)
 
-如果安装了Blueprint，您可以单击 **[!UICONTROL See details]** 用于获取已创建模板的链接，以及已创建用于支持模板的任何其他对象的链接。
+如果 Blueprint 已安装，您可以单击 **[!UICONTROL See details]** 获取已创建的模板以及为支持该模板而创建的任何其他对象的链接。
 
-![有关安装Blueprint的详细信息](assets/pt-blueprints-04.png)
+![关于安装 Blueprint 的详细信息](assets/pt-blueprints-04.png)
 
-如果尚未安装Blueprint，则可以从系统管理员请求它。
+如果尚未安装 Blueprint，您可以向系统管理员请求安装。
