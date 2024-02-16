@@ -1,6 +1,6 @@
 ---
 title: 了解创建项目的四种方法
-description: 了解如何从模板创建项目、从头开始创建项目、复制现有项目或导入 [!DNL Microsoft Project] 文件。
+description: 了解如何从模板创建项目、从头开始创建项目、复制现有项目或导入  [!DNL Microsoft Project]  文件。
 activity: use
 feature: Work Management
 thumbnail: 335084.jpeg
@@ -12,9 +12,9 @@ jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 在本视频中，您将学习如何：
 
-* 从模板创建项目
+* 从模板中创建项目
 * 从头开始创建项目
 * 复制现有项目
 * 导入 [!DNL Microsoft Project] 文件
@@ -31,13 +31,13 @@ ht-degree: 0%
 
 ## 专业提示
 
-* 此 [!UICONTROL New Project from Template] 窗口使您可以轻松为项目选择正确的模板。 滚动查看左侧面板以查找模板，然后选择该模板以预览其内容。 此预览显示模板中有多少任务、所需工作角色等。
+* 通过 [!UICONTROL New Project from Template] 窗口可以轻松地为您的项目选择正确的模板。滚动左侧面板以查找模板，然后选择该模板以预览其内容。预览内容会显示模板中有多少任务、所需的工作角色等等。
 
 ![[!UICONTROL New Project from Template] 窗口](assets/planner-fund-new-project-from-template-window.png)
 
-* 如果您经常使用某个模板，请将其添加到收藏中！ 您会看到模板列在 [!UICONTROL New Project] 菜单，以及显示在菜单下的 [!UICONTROL Favorites and Recents] 图标。 只需在模板页面上单击收藏夹的星形图标（无论您在何处看到），同时选择要用于创建项目的模板等等。
+* 如果有您经常使用的模板，请收藏它！除了会在导航栏的 [!UICONTROL Favorites and Recents] 图标下显示外，[!UICONTROL New Project] 菜单中也会列出该模板。只要在模板页面上的任何地方单击收藏星形图标，同时选择一个模板来创建您的项目，等等。
 
-![[!UICONTROL Favorite templates] 列表在 [!UICONTROL New Project] 按钮](assets/planner-fund-template-favorites.png)
+![[!UICONTROL Favorite templates] 列表，位于 [!UICONTROL New Project] 按钮下](assets/planner-fund-template-favorites.png)
 
 <!---
 learn more:
