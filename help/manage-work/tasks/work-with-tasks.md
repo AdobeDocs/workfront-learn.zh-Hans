@@ -1,6 +1,6 @@
 ---
 title: 处理任务
-description: 了解如何在中编辑现有任务、添加和删除任务以及更改项目的任务顺序 [!DNL  Workfront].
+description: 了解如何在  [!DNL  Workfront] 中编辑现有任务、添加和删除任务以及更改项目的任务顺序。
 activity: use
 feature: Work Management
 thumbnail: 335088.jpeg
@@ -12,15 +12,15 @@ jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 # 处理任务
 
-在本视频中，您将了解：
+在本视频中，您将了解到：
 
 * 如何编辑项目中的现有任务
 * 添加和删除任务的方法
