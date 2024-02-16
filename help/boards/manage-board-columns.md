@@ -1,5 +1,5 @@
 ---
-title: 管理展示板列
+title: 管理展示板上的列
 description: 了解如何编辑、添加、重新排列和删除展示板上的列。
 feature: Agile
 activity: deploy
@@ -11,13 +11,13 @@ level: Beginner
 exl-id: 50a1b0f4-1857-43cf-a8ae-1ebb2344afa0
 doc-type: video
 source-git-commit: ea0bd2ad43efdaa6b84d8249f2848783fd531d93
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 管理展示板列
+# 管理展示板上的列
 
 了解如何编辑、添加、重新排列和删除展示板上的列。
 
