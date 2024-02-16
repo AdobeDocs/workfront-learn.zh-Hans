@@ -1,6 +1,6 @@
 ---
 title: 了解更新和通知
-description: 了解如何更新审批请求并在Workfront中查找通知。
+description: 了解如何更新审批请求并在 Workfront 中查找您的通知。
 activity: use
 feature: Work Management
 type: Tutorial
@@ -12,9 +12,9 @@ jira: KT-8809
 exl-id: 40296ba0-32c1-4fe7-8060-f71991872c37
 doc-type: video
 source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 0%
 
 在本视频中，您将学习如何：
 
-* 自行更新审批请求
-* 查找Workfront通知
+* 对审批请求自行更新
+* 查找 Workfront 通知
 
 >[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on)
 
