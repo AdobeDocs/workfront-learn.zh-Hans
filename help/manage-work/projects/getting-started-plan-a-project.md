@@ -2,7 +2,7 @@
 title: 开始规划项目
 description: 了解项目的五个主要组成部分、相关状态的含义、[!UICONTROL View] 如何帮助您查看相关信息，以及如何设置开始或截止日期。
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335086.jpeg
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 

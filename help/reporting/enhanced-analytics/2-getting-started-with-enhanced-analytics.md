@@ -3,7 +3,7 @@ title: 开始使用 [!UICONTROL Enhanced Analytics]
 description: 了解要在 Workfront 中更新的最重要字段，以便增强的 Analytics 在 Workfront 中向您展示您的团队和项目的进展情况。
 activity: use
 team: Technical Marketing
-feature: Reports and Dashboards
+feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: analytics-prerequisites.png
 type: Tutorial
 role: User
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 85%

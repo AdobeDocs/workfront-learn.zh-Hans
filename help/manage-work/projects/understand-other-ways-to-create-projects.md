@@ -2,7 +2,7 @@
 title: 了解创建项目的四种方法
 description: 了解如何从模板创建项目、从头开始创建项目、复制现有项目或导入  [!DNL Microsoft Project]  文件。
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: 335084.jpeg
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-8770
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
 

@@ -2,7 +2,7 @@
 title: 发出请求
 description: 了解如何找到 [!UICONTROL Requests] 区域并在  [!DNL  Workfront] 中提出请求。然后了解如何查看已提交的和草稿请求。
 activity: use
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
@@ -12,8 +12,8 @@ last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+workflow-type: tm+mt
 source-wordcount: '90'
 ht-degree: 100%
 
