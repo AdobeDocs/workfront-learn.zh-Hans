@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8984
 exl-id: 6a7350cf-c9e3-4af6-a1bf-0f159e8eaf09
 doc-type: video
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: ht
-source-wordcount: '486'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '484'
 ht-degree: 100%
 
 ---
 
-# Brand Connect：了解作为用户如何进行导航和搜索
+# 了解作为用户如何进行导航和搜索
 
 在本视频中，您将了解到：
 
@@ -43,7 +43,7 @@ ht-degree: 100%
 
 ### AND 运算符
 
-要查找包含多个搜索词的结果，请在单词之间输入AND。这些单词可以按任何顺序找到。在所有字段中搜索时，两个单词可能不会出现在同一字段中。例如，Paris AND tower 将会查找在任何字段中同时包含这两个词的资源。
+要查找包含多个搜索词的结果，请在单词之间输入 AND。这些单词可以按任何顺序找到。在所有字段中搜索时，两个单词可能不会出现在同一字段中。例如，Paris AND tower 将会查找在任何字段中同时包含这两个词的资源。
 
 ### OR 运算符 
 

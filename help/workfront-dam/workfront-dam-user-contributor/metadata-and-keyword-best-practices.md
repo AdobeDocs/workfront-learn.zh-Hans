@@ -1,5 +1,5 @@
 ---
-title: 了解作为投稿人使用元数据和关键词方面的最佳实践
+title: 了解元数据和关键词最佳实践
 description: 了解如何在 [!UICONTROL Workfront DAM] 中使用元数据和关键词来描述资源，以提高组织资源的可搜索性。
 activity: use
 team: Technical Marketing
@@ -9,22 +9,22 @@ role: User
 level: Beginner
 jira: KT-10107
 exl-id: ad5a19a7-556a-4b38-9cc4-7e29e5afe1de
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '569'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '567'
+ht-degree: 89%
 
 ---
 
-# 元数据和关键词方面的最佳实践
+# 了解元数据和关键词最佳实践
 
 ## 元数据最佳实践
 
 元数据是用于描述资源的所有数据。元数据字段具有一个名称，用户可以编辑或更改其中许多字段中的信息。某些元数据字段由提供资源的应用程序或设备填充，因此无法编辑。
 
-使用一致的元数据可以提高组织资源的可搜索性。另外，从 [!UICONTROL Workfront DAM] 下载的资源会保留其元数据，因此如果资源离开 [!UICONTROL Workfront DAM]，这可为您的资源提供另一层保护。
+使用一致的元数据可提高组织资源的可搜索性。 另外，从 [!UICONTROL Workfront DAM] 下载的资源会保留其元数据，因此如果资源离开 [!UICONTROL Workfront DAM]，这可为您的资源提供另一层保护。
 
-以下是一些有助于您组织的元数据工作的最佳实践：
+以下是有助于贵组织进行元数据工作的一些最佳实践：
 
 * 请务必将所有权或来源信息添加到您的资源中，以便在 [!UICONTROL Workfront DAM] 外部进行识别。
 * 为受版权管辖的资源添加使用条款，以防止滥用。
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 ## 元数据策略
 
-您的组织可能已经制定了元数据策略。如果您要将资源上传到 [!UICONTROL Workfront DAM]，请务必了解您的组织有关以下方面的流程：
+您的组织可能已经制定了元数据策略。如果要将资产上传到 [!UICONTROL Workfront DAM]，请务必了解贵组织以下方面的流程：
 
 * 谁负责添加元数据。
 * 需要哪些元数据。
@@ -48,7 +48,7 @@ ht-degree: 100%
 
 关键词是元数据的子集。关键词往往是关于资源内容的通用描述性术语。此信息通常在上传后手动添加到资源中。所有关键词都会进入一个字段（标记为“关键词”）。例如，一张巴黎埃菲尔铁塔的照片可能会包含“地标”、“旅游”或“灯光”等关键词。
 
-关键词是可搜索的，因此在资源上输入一致的关键词非常重要。
+关键字可搜索，因此以一致方式在资产中输入关键字很重要。
 
 您的组织可能会实施一种关键词分类法，这是一个受控的关键词列表，当您在 [!UICONTROL Workfront DAM] 中编辑资源时，可以从中进行选择。
 

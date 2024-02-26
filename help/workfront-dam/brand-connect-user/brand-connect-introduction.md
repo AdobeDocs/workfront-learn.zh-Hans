@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8983
 exl-id: 444a74f4-c99e-4a68-b484-8b0245118051
 doc-type: video
-source-git-commit: 16e31674c519ae5b11f7fd665289e697f5f816ed
-workflow-type: ht
-source-wordcount: '107'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '105'
 ht-degree: 100%
 
 ---
 
-# Brand Connect：作为用户了解 Brand Connect
+# 作为用户了解 Brand Connect
 
 [!UICONTROL Brand Connect] 是 [!UICONTROL Workfront DAM] 的一部分，这是一个数字资源管理 (DAM) 解决方案，旨在管理、控制和发布您的营销、创意、Professional Services 和其他资源。使用 [!DNL Workfront] 来创建资源请求，然后管理资源的生产和审查。使用 [!UICONTROL Workfront DAM] 管理、存储和分发已完成和已审批的资源。将资源发布到 [!UICONTROL Brand Connect]，以确保在正确的地方向正确的受众以其需要的方式提供正确的信息。
 

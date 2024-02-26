@@ -1,5 +1,5 @@
 ---
-title: 使用 [!UICONTROL Workfront DAM] 中的资源
+title: 了解作为投稿人如何使用资源
 description: 了解如何使用 [!UICONTROL Workfront DAM] 中的资源。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8995
 doc-type: video
 exl-id: ae0f3a7f-ca79-451f-851c-6792f44d218f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '44'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '48'
 ht-degree: 100%
 
 ---
 
-# 投稿人：使用资源
+# 了解作为投稿人如何使用资源
 
 在本视频中，您将学习如何：
 

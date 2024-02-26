@@ -1,5 +1,5 @@
 ---
-title: 将资源发布到[!UICONTROL Brand Connect]
+title: 了解作为投稿人如何发布资源
 description: 了解如何将资源和文件夹发布到 [!UICONTROL Workfront DAM] 中的 [!UICONTROL Brand Connect]。
 activity: use
 feature: Digital Content and Documents
@@ -10,27 +10,27 @@ team: Technical Marketing
 jira: KT-8997
 exl-id: 30f2684c-345a-4834-9e61-4e65f0c7a3e7
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '158'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '162'
+ht-degree: 59%
 
 ---
 
-# 投稿人：发布资源
+# 了解作为投稿人如何发布资源
 
 ## 准备发布资源
 
-将资源或文件夹发布到 [!UICONTROL Brand Connect] 可以让更多的受众访问获得审批的资源。您组织中的许多人可能无法访问 [!UICONTROL Workfront DAM]，但可以访问 [!UICONTROL Brand Connect]。
+将资源或文件夹发布到 [!UICONTROL Brand Connect] 可以让更多的受众访问获得审批的资源。您组织中的许多人可能没有访问权限 [!UICONTROL Workfront DAM] 但将可以访问 [!UICONTROL Brand Connect].
 
-资源在最终确定之前不应发布。例如，您不想将手册的草稿发布给 [!UICONTROL Brand Connect]，如果不是这样，它可以在最终确定之前就被分发出去。
+在资产成为最终资产之前，不应发布资产。 例如，您不希望将手册的草稿发布到 [!UICONTROL Brand Connect]，否则它可能会在最终确定之前分发。
 
 在将资源发布到之前 [!UICONTROL Brand Connect]，您可能需要执行以下操作：
 
 * 将资源放置在特定文件夹中。
-* 编辑资源的元数据和关键词。
+* 编辑资源的元数据和关键字。
 * 上传资源的新版本。
-* 将资源或文件夹的状态设置为 [!UICONTROL Active]。
+* 使资源或文件夹成为状态 [!UICONTROL Active].
 * 确保资源未过期。
 * 监测该资源，以便在对其进行更改时收到通知。
 

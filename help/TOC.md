@@ -3,10 +3,10 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
 workflow-type: tm+mt
-source-wordcount: '2351'
-ht-degree: 94%
+source-wordcount: '2348'
+ht-degree: 99%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 94%
       + [共享自定义字段](custom-data/custom-forms/share-custom-fields.md)
       + [编辑自定义表单](custom-data/custom-forms/custom-forms-edit-a-custom-form.md)
       + [将自定义表单附加到对象](custom-data/custom-forms/custom-forms-using-a-custom-form.md)
-      + [将分区界限和逻辑添加到自定义表单](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
+      + [在自定义表单中添加分区界限和逻辑](custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [将自定义表单导出为 PDF](custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
 
    + 计算表达式 {#calculated-expressions}
@@ -384,11 +384,11 @@ ht-degree: 94%
 
    + 了解基础知识 {#understand-the-basics}
       + [初始场景设计演练](fusion/2-understand-the-basics/initial-scenario-design-walkthrough.md)
-      + [初始方案设计练习](fusion/12-exercises/initial-scenario-design.md)
+      + [初始场景设计练习](fusion/12-exercises/initial-scenario-design.md)
       + [映射面板和公式编辑器](fusion/2-understand-the-basics/mapping-panel-and-formula-editor.md)
       + [有关映射面板的重要说明](fusion/2-understand-the-basics/mapping-panel-important-notes.md)
       + [超越基本映射演练](fusion/2-understand-the-basics/beyond-basic-mapping-walkthrough.md)
-      + [超出基本映射练习](fusion/12-exercises/beyond-basic-mapping.md)
+      + [超越基本映射练习](fusion/12-exercises/beyond-basic-mapping.md)
       + [使用过滤器](fusion/2-understand-the-basics/use-filters.md)
       + [过滤器演练](fusion/2-understand-the-basics/filters-walkthrough.md)
       + [过滤器练习](fusion/12-exercises/filters.md)
@@ -398,13 +398,13 @@ ht-degree: 94%
    + 通用连接器和路由 {#universal-connectors-and-routing}
       + [通用连接器练习概述](fusion/3-universal-connectors-and-routing/universal-connectors-exercise-overview.md)
       + [通用连接器演练简介](fusion/3-universal-connectors-and-routing/introduction-to-universal-connectors-walkthrough.md)
-      + [通用连接器练习简介](fusion/12-exercises/introduction-to-universal-connectors.md)
+      + [通用连接器简介练习](fusion/12-exercises/introduction-to-universal-connectors.md)
       + [了解路由器](fusion/3-universal-connectors-and-routing/understand-routers.md)
       + [路由器演练](fusion/3-universal-connectors-and-routing/routers-walkthrough.md)
       + [路由器练习](fusion/12-exercises/routers.md)
       + [常见的路由模式](fusion/3-universal-connectors-and-routing/common-routing-patterns.md)
       + [路由模式演练](fusion/3-universal-connectors-and-routing/routing-patterns-walkthrough.md)
-      + [“布线模式”练习](fusion/12-exercises/routing-patterns.md)
+      + [路由模式练习](fusion/12-exercises/routing-patterns.md)
       + [设置并获取](fusion/3-universal-connectors-and-routing/set-it-and-get-it.md)
       + [获取/设置变量演练](fusion/3-universal-connectors-and-routing/get-set-variables-walkthrough.md)
       + [设置/获取变量练习](fusion/12-exercises/set-get-variables.md)
@@ -422,11 +422,11 @@ ht-degree: 94%
    + 执行历史记录和调度 {#execution-history-and-scheduling}
       + [执行历史记录简介](fusion/5-execution-history-and-scheduling/introduction-to-execution-history.md)
       + [执行历史记录演练](fusion/5-execution-history-and-scheduling/execution-history-walkthrough.md)
-      + [执行历史记录练习](fusion/12-exercises/execution-history.md)
+      + [执行历史练习](fusion/12-exercises/execution-history.md)
       + [了解场景调度](fusion/5-execution-history-and-scheduling/understand-scenario-scheduling.md)
       + [平衡运行、循环和捆绑](fusion/5-execution-history-and-scheduling/balance-runs-cycles-and-bundles.md)
       + [运行循环和捆绑演练](fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
-      + [浏览运行、循环和捆绑包练习](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
+      + [探索运行、周期和捆绑练习](fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
    + 超越基本模块 {#beyond-basic-modules}
       + [熟悉其他应用程序和常用模块](fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
@@ -437,12 +437,12 @@ ht-degree: 94%
       + [切换模块练习](fusion/12-exercises/switch-module.md)
       + [了解 Webhook 世界](fusion/6-beyond-basic-modules/understand-the-webhook-world.md)
       + [Webhook 演练](fusion/6-beyond-basic-modules/webhooks-walkthrough.md)
-      + [Webhooks练习](fusion/12-exercises/webhooks.md)
+      + [Webhook 练习](fusion/12-exercises/webhooks.md)
 
    + 数据结构和数据存储 {#data-structures-and-data-stores}
       + [了解数据结构](fusion/7-data-structures-and-data-stores/understand-data-structures.md)
       + [数据结构演练](fusion/7-data-structures-and-data-stores/data-structures-walkthrough.md)
-      + [“数据结构”练习](fusion/12-exercises/data-structures.md)
+      + [数据结构练习](fusion/12-exercises/data-structures.md)
       + [了解数据存储](fusion/7-data-structures-and-data-stores/understand-data-stores.md)
       + [数据存储演练](fusion/7-data-structures-and-data-stores/data-stores-walkthrough.md)
       + [数据存储练习](fusion/12-exercises/data-stores.md)
@@ -453,7 +453,7 @@ ht-degree: 94%
       + [数组演练](fusion/8-final-functional-bits-and-bobs/arrays-walkthrough.md)
       + [理解场景中的 JSON](fusion/8-final-functional-bits-and-bobs/understand-json-in-scenarios.md)
       + [使用 JSON 演练](fusion/8-final-functional-bits-and-bobs/working-with-json-walkthrough.md)
-      + [使用JSON练习](fusion/12-exercises/working-with-json.md)
+      + [使用 JSON 练习](fusion/12-exercises/working-with-json.md)
 
    + 故障排除和错误处理 {#troubleshooting-and-error-handling}
       + [使用开发工具进行高级故障排除](fusion/9-troubleshooting-and-error-handling/advanced-troubleshooting-with-the-dev-tool.md)
@@ -496,7 +496,7 @@ ht-degree: 94%
 
    + 上传验证 {#upload-proofs}
       + [什么是验证版本](workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [谁上传了校对版本](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [谁负责上传验证版本](workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [将文档转换为验证](workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
       + [查看并比较验证版本](workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
       + [上传验证版本](workfront-proof/upload-proofs/upload-a-proof-version.md)
@@ -558,7 +558,7 @@ ht-degree: 94%
       + [了解作为投稿人如何管理资源](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [了解作为投稿人如何寻找资源](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [了解作为投稿人如何使用 lightbox](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [了解作为投稿人使用元数据和关键词方面的最佳实践](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [了解元数据和关键词最佳实践](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [了解作为投稿人如何使用资源](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [了解作为投稿人如何发送文件](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [了解作为投稿人如何发布资源](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -589,7 +589,7 @@ ht-degree: 94%
 + 敏捷 {#agile}
 
    + Scrum {#scrum}
-      + [创建Scrum敏捷团队](agile/create-a-scrum-agile-team.md)
+      + [创建一个 Scrum 敏捷团队](agile/create-a-scrum-agile-team.md)
       + [作为 Scrum 团队管理工作](agile/manage-work-scrum-team.md)
       + [整理积压的工作](agile/gooming-the-backlog.md)
       + [计划并创建迭代](agile/plan-and-create-an-iteration.md)
@@ -635,10 +635,10 @@ ht-degree: 94%
    + [场景计划器](best-practices/scenario-planner-bp.md)
    + [计划](best-practices/schedules-bp.md)
    + [状态](best-practices/statuses-bp.md)
-   + [系统性能和维护 ](best-practices/system-performance-maintenance-bp.md)
+   + [系统性能和维护](best-practices/system-performance-maintenance-bp.md)
    + [文本模式报告](best-practices/test-mode-reporting-bp.md)
    + [时间线规划和管理](best-practices/timeline-planning-management-bp.md)
-   + [时间线和登录时间](best-practices/timesheets-logging-time-bp.md)
+   + [时间表和日志记录时间](best-practices/timesheets-logging-time-bp.md)
    + [利用情况](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [工作负载均衡器](best-practices/workload-balancer-bp.md)

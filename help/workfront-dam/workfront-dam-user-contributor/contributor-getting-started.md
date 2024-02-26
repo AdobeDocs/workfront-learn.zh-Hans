@@ -1,5 +1,5 @@
 ---
-title: 了解 [!UICONTROL Workfront DAM] 中的用户配置文件和导航
+title: 了解作为投稿人如何使用 [!UICONTROL Workfront DAM]
 description: 了解三个 [!UICONTROL Workfront DAM] 用户配置文件之间的区别以及如何导航 [!UICONTROL Workfront DAM]。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8992
 exl-id: 383b5890-e1e3-44e1-b548-486bea04c079
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '37'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '36'
 ht-degree: 100%
 
 ---
 
-# 投稿人：快速入门
+# 了解作为投稿人如何使用 [!UICONTROL Workfront DAM]
 
 在本视频中，您将了解到：
 

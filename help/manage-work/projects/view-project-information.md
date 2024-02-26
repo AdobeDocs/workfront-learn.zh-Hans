@@ -3,15 +3,15 @@ title: 查看项目信息
 description: 了解过滤器、视图和分组如何使项目信息易于查看，以帮助您管理项目。
 activity: use
 team: Technical Marketing
-feature: Work Management
+feature: Work Management,Get Started with Workfront
 thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
 source-wordcount: '193'
 ht-degree: 100%
 

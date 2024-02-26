@@ -1,6 +1,6 @@
 ---
-title: 查找并组织 [!UICONTROL Workfront DAM] 中的资源
-description: 了解如何搜索资源、在文件夹内搜索、简化搜索结果、使用元数据和关键词作为搜索过滤器等，更多精彩功能尽在 [!UICONTROL Workfront DAM]。
+title: 了解作为投稿人如何寻找资源
+description: 了解如何在中搜索资产、在文件夹中搜索、简化搜索结果、使用元数据和关键字作为搜索过滤器 [!UICONTROL Workfront DAM].
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8993
 exl-id: 28b60118-a471-48bf-ae9b-3a2aed6a6130
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '399'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '401'
+ht-degree: 95%
 
 ---
 
-# 投稿人：查找资源
+# 了解作为投稿人如何寻找资源
 
 在本视频中，您将学习如何：
 

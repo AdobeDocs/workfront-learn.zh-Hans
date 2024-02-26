@@ -10,10 +10,10 @@ level: Experienced
 team: Technical Marketing
 jira: KT-11198
 exl-id: 3baec042-1c1c-4075-b8ff-b1537758ef37
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
-workflow-type: ht
-source-wordcount: '417'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '411'
+ht-degree: 96%
 
 ---
 
@@ -39,7 +39,13 @@ ht-degree: 100%
 * 充分了解要包含在报告中的对象。
 * 很好地理解如何使用自定义表单，尤其是计算自定义字段。
 * 具有可创建报告的权限并启用了过滤器的 [!UICONTROL Plan] 许可证类型。
-* 您应该已经参加了 [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html) 课程、[[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html) 课程和 [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html) 课程。
+* 您应该参加以下课程：
+   * [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
+   * [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
+   * [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+* 您也应该参加这些教程：
+   * [[!UICONTROL Understand basic text mode for views]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hans)
+   * [[!UICONTROL Understand basic text mode for groupings]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hans)
 
 ## 目标受众
 

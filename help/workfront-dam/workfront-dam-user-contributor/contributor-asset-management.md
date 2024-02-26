@@ -1,5 +1,5 @@
 ---
-title: 了解如何在 [!UICONTROL Workfront DAM] 中管理资源。
+title: 了解作为投稿人如何管理资源
 description: 了解如何管理 [!UICONTROL Workfront DAM] 中的资源，以改善工作流。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '426'
-ht-degree: 100%
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '429'
+ht-degree: 87%
 
 ---
 
-# 投稿人：资源管理
+# 了解作为投稿人如何管理资源
 
 在本视频中，您将学习如何：
 
@@ -38,8 +38,8 @@ ht-degree: 100%
 
 当与现有文件同名的文件上传到同一文件夹时，系统允许进行自动资源版本控制。请咨询您的系统管理员以查看此功能是否已开启。
 
-如果开启自动版本控制，则仅当资源加载到保存原始资源的文件夹中时，该资源才会进行版本控制。这两个资源必须具有相同的文件名。如果资源被加载到不同的文件夹中，则资源会作为新文件进入该文件夹。
-如果未开启版本控制，则与现有文件同名的文件将作为新文件上传，无论将它放在哪个文件夹中均是如此。这可能会导致同一文件夹中出现两个同名的资源。
+如果启用了自动版本控制，则仅当资产加载到保存原始资产的文件夹时，才会进行版本控制。 这两个资源必须具有相同的文件名。如果资源被加载到不同的文件夹中，则资源会作为新文件进入该文件夹。
+如果未打开版本控制，则与现有文件同名的文件将上载为新文件，而不管它放置在哪个文件夹中。 这可能会导致同一文件夹中出现两个同名的资源。
 
 您还可以手动上传特定资源的版本。单击资源上的编辑图标，然后选择 **[!UICONTROL Upload new version]**。
 

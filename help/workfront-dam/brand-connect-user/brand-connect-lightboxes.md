@@ -1,5 +1,5 @@
 ---
-title: 对 Brand Connect 中 Lightbox 的解释
+title: 了解作为用户如何使用 lightbox
 description: 了解如何在 [!UICONTROL Workfront DAM] 的 Brand Connect 中创建、使用、管理和共享 Lightbox 以及在其中进行协作。
 activity: use
 feature: Digital Content and Documents
@@ -10,14 +10,14 @@ team: Technical Marketing
 jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '108'
+source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+workflow-type: tm+mt
+source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
-# Brand Connect：Lightbox
+# 了解作为用户如何使用 lightbox
 
 在本视频中，您将学习如何：
 
