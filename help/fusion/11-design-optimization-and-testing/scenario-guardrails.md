@@ -12,9 +12,9 @@ exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,4 +35,4 @@ ht-degree: 94%
 
 [Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
 
-[Adobe Workfront Fusion性能护栏](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[Adobe Workfront Fusion 性能护栏](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
