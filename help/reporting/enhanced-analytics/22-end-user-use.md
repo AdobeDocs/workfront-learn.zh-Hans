@@ -1,6 +1,6 @@
 ---
 title: 了解最终用户用例
-description: 了解最终用户如何在的飞行图中使用飞行计划、燃尽和任务 [!UICONTROL Enhanced Analytics].
+description: 了解最终用户如何在 [!UICONTROL Enhanced Analytics] 中使用任务执行计划、燃尽图和正在执行的任务图表。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335055.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 2b6e88e4-d71d-434b-ba74-da2e5e8ea157
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
