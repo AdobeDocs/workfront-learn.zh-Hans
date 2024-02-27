@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '316'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 94%
 
 ![使用日程表构件选择日期范围的图像](assets/section-1-3.png)
 
-默认情况下，[!DNL Analytics] 中的图表显示过去 60 天和未来 15 天的数据。您可以在使用时选择新的日期范围并将其应用于所有图表 [!DNL Analytics].
+默认情况下，[!DNL Analytics] 中的图表显示过去 60 天和未来 15 天的数据。使用 [!DNL Analytics] 时，您可以选择一个新的日期范围并将其应用于所有图表。
 
 当您刷新页面、离开或注销/登录 Workfront 时，日期范围将会重置为默认值。
 
