@@ -1,6 +1,6 @@
 ---
 title: 访问以前的版本练习
-description: 了解如何返回到的先前版本 [!UICONTROL Fusion] 方案。
+description: 了解如何返回 [!UICONTROL Fusion] 场景的先前版本。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ thumbnail: KT1101.png
 recommendations: noDisplay,noCatalog
 exl-id: 8712a4fd-a00a-4bca-9e2a-aac2d4ce3666
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '177'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
