@@ -1,5 +1,5 @@
 ---
-title: 初始方案设计练习
+title: 初始场景设计练习
 description: 了解首次登录 Workfront Fusion 以及构建第一个场景时的一些基本导航提示。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11038.png
 recommendations: noDisplay,noCatalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '983'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# 初始方案设计练习
+# 初始场景设计练习
 
 了解首次登录 Workfront Fusion 以及构建第一个场景时的一些基本导航提示。
 
@@ -75,7 +75,7 @@ ht-degree: 99%
    **接下来，您将会解析刚刚下载的 CSV 文件，以便可以访问文件中的每一行。当您从每一行创建一个项目时，您将会用到此信息。**
 
 1. 单击 Workfront 模块的右侧来添加另一个模块。搜索 CSV 应用程序并选择“解析 CSV”模块。
-1. 设置 6 列的解析 CSV，CSV 包含标题、逗号分隔符类型，并将数据放入 CSV 字段。然后，单击“确定”。
+1. 设置 6 列的解析 CSV, CSV 包含标题、逗号分隔符类型，并将数据放入 CSV 字段。然后，单击“确定”。
 
    ![初始场景设计图像 9](../12-exercises/assets/initial-scenario-design-9.png)
 
