@@ -12,15 +12,15 @@ jira: KT-8724
 recommendations: noDisplay,noCatalog
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
 # 了解基本导航
 
-导航到 [!UICONTROL Analytics] 在Workfront中，使用 [!UICONTROL Main Menu] 按钮。
+要导航至 Workfront 中的 [!UICONTROL Analytics] ，请使用 [!UICONTROL Main Menu] 按钮。
 
 ![图像：查找 [!UICONTROL Analytics] 功能，位于 Workfront [!UICONTROL main menu]](assets/Navigate-NWE.png)
 
