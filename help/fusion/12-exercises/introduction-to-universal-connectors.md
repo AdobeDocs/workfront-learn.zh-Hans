@@ -1,5 +1,5 @@
 ---
-title: 通用连接器练习简介
+title: 通用连接器简介练习
 description: 加深您对如何使用 REST 通用连接器和处理返回的数据的理解。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11042.png
 recommendations: noDisplay,noCatalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '602'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 通用连接器练习简介
+# 通用连接器简介练习
 
 加深您对如何使用 REST 通用连接器和处理返回的数据的理解。
 
