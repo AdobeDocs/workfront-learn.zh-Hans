@@ -1,6 +1,6 @@
 ---
 title: 访问以前的版本演练
-description: 了解在更改方案并将更改保存到中后如何恢复以前的版本 [!DNL Adobe Workfront Fusion].
+description: 了解如何在对场景进行更改并将其保存在  [!DNL Adobe Workfront Fusion] 中后恢复以前的版本。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '263'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 86%
 
 在此视频中，您将：
 
-* 了解在对方案进行更改并多次保存后，如何恢复以前的版本。
+* 了解在对场景进行更改并多次保存后如何恢复以前的版本。
 
 ## 访问以前的版本演练
 
