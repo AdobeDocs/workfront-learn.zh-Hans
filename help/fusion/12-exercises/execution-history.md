@@ -1,5 +1,5 @@
 ---
-title: 执行历史记录练习
+title: 执行历史练习
 description: 查看和审核有关过去执行情况和场景配置的详细信息。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11049.png
 recommendations: noDisplay,noCatalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '292'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
-# 执行历史记录练习
+# 执行历史练习
 
 查看和审核有关过去执行情况和场景配置的详细信息。
 
