@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: d39151288d8b749940c5183063392ee471769445
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '642'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -47,9 +47,9 @@ ht-degree: 85%
 
 ![创建任务状态视图的屏幕图像](assets/view-exercise.png)
 
-1. 在任务列表报告中，转至 **[!UICONTROL View]**&#x200B;下拉菜单并选择 **[!UICONTROL New View]**。
+1. 在任务列表报告中，转至 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**。
 1. 将您的视图命名为“任务状态视图”。
-1. 删除这些列：[!UICONTROL Pln Hrs], [!UICONTROL Predecessors], [!UICONTROL Start On] 和 [!UICONTROL Due On]。
+1. 删除这些列：[!UICONTROL Pln Hrs]、[!UICONTROL Predecessors]、[!UICONTROL Start On] 和 [!UICONTROL Due On]。
 1. 单击 **[!UICONTROL Add Column]**。
 1. 在 [!UICONTROL Show in this column] 字段中，输入“状态”，然后选择 [!UICONTROL Task] 字段源下的“状态”。
 1. 再次单击 **[!UICONTROL Add Column]**。
@@ -80,7 +80,7 @@ ht-degree: 85%
 
 ![创建里程碑视图的屏幕图像](assets/view-milestone-exercise-1.png)
 
-1. 在项目任务列表中，转至 **[!UICONTROL View]**&#x200B;下拉菜单并选择 **[!UICONTROL New View]**。
+1. 在项目任务列表中，转至 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**。
 1. 将您的视图命名为“里程碑视图”。
 1. 单击 [!UICONTROL Predecessors] 列来选择它。
 1. 在 [!UICONTROL Show in this column] 字段中，单击 [!UICONTROL Task >> Predecessors] 字段中的 X 图标，然后输入“[!UICONTROL milestone name]”并单击列表中的“[!UICONTROL Name]”。
@@ -112,7 +112,7 @@ ht-degree: 85%
 
 ![显示持续时间类型和任务限制视图的屏幕图像](assets/view-activity-3.png)
 
-1. 在项目任务列表中，转至 **[!UICONTROL View]**&#x200B;下拉菜单并选择 **[!UICONTROL New View]**。
+1. 在项目任务列表中，转至 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**。
 1. 将您的视图命名为“持续时间类型和任务限制视图”。
 1. 删除 [!UICONTROL % Complete] 列。
 1. 单击 **[!UICONTROL Add Column]**。
@@ -130,11 +130,11 @@ ht-degree: 85%
 1. 在 [!UICONTROL Field Format] 下拉菜单下，选择 [!UICONTROL "10/17/60 3:00 AM"]。
 1. 单击 **[!UICONTROL Save]**。
 
-## 活动4：创建项目模板活动状态视图
+## 活动 4：创建项目模板活动状态视图
 
-任何管理项目模板的人都会喜欢在列表中看到每个模板的活动状态（True或False）。 更棒的是 — 字段可内联编辑！
+管理项目模板的任何人都会喜欢看到列表中每个模板的活动状态（True 或 False）。更理想的情况是 - 该字段是内联可编辑的！
 
-创建名为“标准+活动状态”的项目模板视图，该视图具有以下列：
+创建一个名为“标准+活动状态”的项目模板视图，其中包含以下列：
 
 * [!UICONTROL Name]
 * [!UICONTROL Owner]
@@ -148,10 +148,10 @@ ht-degree: 85%
 
 ## 活动 4 答案
 
-![用于显示项目模板活动状态视图的屏幕图像](assets/view-activity-4.png)
+![显示项目模板活动状态视图的屏幕图像](assets/view-activity-4.png)
 
-1. 在项目模板列表中，转到 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**.
-1. 将视图命名为“Standard+active status”。
+1. 在项目模板列表中，转至 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**。
+1. 将您的视图命名为“标准+活动状态。
 1. 单击 **[!UICONTROL Add Column]**。
-1. 在 [!UICONTROL Show in this column] 字段中，键入“is ”，然后选择 [!UICONTROL Template] 字段源。
+1. 在 [!UICONTROL Show in this column] 字段中，输入“是”，然后选择 [!UICONTROL Template] 字段源下的“活动状态”。
 1. 单击 **[!UICONTROL Save View]**。
