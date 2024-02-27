@@ -1,6 +1,6 @@
 ---
 title: 了解 KPI 比较用例
-description: 了解如何在中比较KPI [!UICONTROL Enhanced Analytics] 从当前日期范围到先前日期范围，以及如何将具有两个不同筛选器的KPI进行比较。
+description: 了解如何在 [!UICONTROL Enhanced Analytics] 中比较当前日期范围与之前日期范围的 KPI，以及如何使用两个不同的过滤器比较 KPI。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335054.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 28b85cb9-cb9e-4f0a-ad09-9a0d73d05ed0
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
