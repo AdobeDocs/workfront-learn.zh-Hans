@@ -1,6 +1,6 @@
 ---
-title: 自定义外观 [!UICONTROL Brand Connect]
-description: 了解如何自定义导航栏和页脚，以及自定义中的主页和登录页面 [!UICONTROL Brand Connect] 对象 [!UICONTROL Workfront DAM].
+title: 自定义 [!UICONTROL Brand Connect] 的外观
+description: 了解如何自定义导航栏和页脚，以及如何为 [!UICONTROL Workfront DAM] 自定义 [!UICONTROL Brand Connect] 中的主页和登录页。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -11,13 +11,13 @@ jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
 source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
-workflow-type: tm+mt
-source-wordcount: '344'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '339'
+ht-degree: 100%
 
 ---
 
-# 自定义的外观 [!UICONTROL Brand Connect]
+# 自定义 [!UICONTROL Brand Connect] 的外观
 
 在本视频中，您将学习如何：
 
@@ -28,36 +28,36 @@ ht-degree: 0%
 
 ## 其他 [!UICONTROL Appearance] 设置
 
-此 [!UICONTROL Font] 下的选项 [!UICONTROL Appearance] 菜单设置整个文本样式 [!UICONTROL Brand Portal] 在选定字体中。 支持800多种Google字体。
+[!UICONTROL Appearance] 菜单下的 [!UICONTROL Font] 选项以所选字体设置 [!UICONTROL Brand Portal] 中所有文本的样式。超过 800 种 Google 字体均受到支持。
 
-![此 [!UICONTROL Font] 下的选项 [!UICONTROL Appearance] 菜单样式 [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
+![[!UICONTROL Appearance] 菜单样式下的 [!UICONTROL Font] 选项，位于 [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
-## 主页小组件
+## 主页构件
 
-自定义您的外观 [!UICONTROL Brand Connect] 主页以匹配您的组织。 使用小部件，您可以添加文件夹和图像滑块等元素。 如果您的组织有多个 [!UICONTROL Brand Connects]，每个页面都有自己的主页，您可以提供不同的外观。
+定制您 [!UICONTROL Brand Connect] 主页的外观，使其与您的组织相匹配。通过使用构件，您可以添加文件夹和图像滑块等元素。如果您的组织有多个 [!UICONTROL Brand Connects]，则每个都会有自己的主页，您可以给与它们不同的外观。
 
-![您可用的小部件的屏幕截图 [!UICONTROL Brand Connect] homepage](assets/03-brand-connect-home-page-widgets.png)
+![[!UICONTROL Brand Connect] 主页可用构件的屏幕快照](assets/03-brand-connect-home-page-widgets.png)
 
-这些小组件可用：
+以下是可用的构件：
 
-**A.轮播** — 在图像滑块中显示多个资源。 您可以向每个资源添加描述。 单击添加图标以选择要显示在轮播中的图像。
+**A. 轮播**——在图像滑块中显示多个资源。您可以为每个资源添加描述。单击“添加”图标来选择要在轮播中显示的图像。
 
-**B.文件夹** — 显示包含选定资源的文件夹。 单击添加图标以打开 [!UICONTROL Asset Chooser] 以便选择文件夹。 文件夹中的资产对可见 [!UICONTROL Brand Connect] 用户，但只能由具有权限的用户下载。
+**B. 文件夹**——显示包含选定资源的文件夹。单击“添加”图标打开 [!UICONTROL Asset Chooser]，以选择一个文件夹。[!UICONTROL Brand Connect] 用户可以看到文件夹中的资源，但只有具有许可权限的人才能下载。
 
-**C.灯箱** — 显示现有 [!UICONTROL Lightbox]. 中的资产 [!UICONTROL Lightbox] 将对可见 [!UICONTROL Brand Connect] 用户，但只能由具有权限的用户下载。
+**C. Lightbox**——显示现有的 [!UICONTROL Lightbox]。[!UICONTROL Brand Connect] 用户可以看到 [!UICONTROL Lightbox] 中的资源，但只有获得许可权限的人才能下载。
 
-**D.品牌指南** — 在主页上显示“品牌指南”，而不是/不在顶部导航栏中显示。
+**D. 品牌指南**——在主页上显示品牌指南，而不是在顶部导航栏中显示。
 
-**E.说明** — 用于显示短文本。
+**E. 描述**——用于显示短文本。
 
-**F.填写的说明** — 输入要显示在灰色背景上的文本复制块。
+**F. 填充的描述**——输入要在灰色背景上显示的文本复制块。
 
-**G.HTML** — 使用HTML和CSS创建自定义内容。 例如，您可以嵌入指向视频的链接。 有些是 [HTML要避免的标记](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html).
+**G. HTML**——使用 HTML 和 CSS 创建自定义内容。例如，您可以嵌入视频链接。有一些 [HTML 标记需要避免使用。](https://www.damsuccess.com/hc/en-us/articles/206170043-Brand-Connect-Admin-Guide#html)
 
 ## 添加搜索栏
 
-如果您为贵组织的 [!UICONTROL Brand Connect]，用户必须单击 [!UICONTROL Assets] 区域以运行搜索。
+如果您为您组织的 [!UICONTROL Brand Connect] 设计了自定义主页，用户必须单击进入 [!UICONTROL Assets] 区域来运行搜索。
 
-但系统管理员可以使用HTML小部件和此HTML标记创建搜索栏：
+但系统管理员可以使用 HTML 构件和以下 HTML 标记创建搜索栏：
 
 &lt;webdambp.headersearch>&lt;/webdambp.headersearch>
