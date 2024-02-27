@@ -1,6 +1,6 @@
 ---
-title: 使用时间范围和其他图表深入了解
-description: 了解如何在外部测试版计划图中向下展开项目，以使燃尽图和外部测试版中的任务显示在中 [!UICONTROL Enhanced Analytics].
+title: 更深入地了解如何使用时间范围和其他图表
+description: 了解如何通过任务执行计划图表对项目进行深入分析，以使燃尽图和“正在执行的任务”图表在 [!UICONTROL Enhanced Analytics] 中显示。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -13,13 +13,13 @@ recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 52%
+ht-degree: 100%
 
 ---
 
-# 使用时间范围和其他图表深入了解
+# 更深入地了解如何使用时间范围和其他图表
 
 在本视频中，您将了解到：
 
