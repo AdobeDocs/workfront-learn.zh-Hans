@@ -11,9 +11,9 @@ jira: KT-11036
 recommendations: noDisplay,noCatalog
 exl-id: c36e5285-88e5-43f5-93bd-b05bf9e8f9ef
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 88%
 
 当您被邀请作为 Workfront Fusion 实例的新用户时，您会收到两封电子邮件。
 
-一封电子邮件包含 Workfront Fusion 系统管理员在创建您的配置文件并邀请您加入组织时添加的注释。电子邮件的底部是 [!UICONTROL Accept The Role] 按钮。**不要单击此按钮！**
+一封电子邮件包含 Workfront Fusion 系统管理员在创建您的配置文件并邀请您加入组织时添加的注释。电子邮件的底部是 [!UICONTROL Accept The Role] 按钮。**请暂时不要单击这个按钮！**
 
 ![您的电子邮件邀请的图像](assets/new-user-1.png)
 
