@@ -1,6 +1,6 @@
 ---
 title: 深入了解导航
-description: 了解如何快速了解工作人员在中为每个项目投入了多少时间 [!UICONTROL Enhanced Analytics].
+description: 了解如何快速查看员工在 [!UICONTROL Enhanced Analytics] 中的每个项目上投入了多少时间。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335050.png
@@ -13,9 +13,9 @@ doc-type: video
 recommendations: noDisplay,noCatalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
