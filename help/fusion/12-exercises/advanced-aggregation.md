@@ -12,9 +12,9 @@ thumbnail: KT11048.png
 recommendations: noDisplay,noCatalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '493'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 98%
 
 1. 创建一个新方案并将其命名为“高级聚合”。
 1. 将触发器模块设置为 HTTP - 发出请求模块。
-1. 使用这个 URL，`https://restcountries.com/v2/lang/es`，它会为您提供所有使用西班牙语的国家/地区的列表。
+1. 使用这个 URL, `https://restcountries.com/v2/lang/es`，它会为您提供所有使用西班牙语的国家/地区的列表。
 1. 将方法保留为“获取”。
 1. 单击“解析响应”复选框。
 1. 将此模块重命名为“获取国家/地区”。
