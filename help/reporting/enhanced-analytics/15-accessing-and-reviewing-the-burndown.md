@@ -1,6 +1,6 @@
 ---
-title: 了解访问和查看燃尽图表
-description: 了解如何访问燃尽图并了解中剩余小时数、项目完成情况和项目速度之间的关系 [!UICONTROL Enhanced Analytics].
+title: 了解如何访问和查看燃尽图
+description: 了解如何访问燃尽图并了解 [!UICONTROL Enhanced Analytics] 中剩余时间、项目完成情况和项目速度之间的关系。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '291'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
