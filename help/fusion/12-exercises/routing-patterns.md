@@ -1,5 +1,5 @@
 ---
-title: “布线模式”练习
+title: 路由模式练习
 description: 强化路由和回退路由的概念，而无需实际处理任何其他 API。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11044.png
 recommendations: noDisplay,noCatalog
 exl-id: d8218115-5180-4e64-8ec1-d2d6afc88d23
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '361'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# “布线模式”练习
+# 路由模式练习
 
 强化路由和回退路由的概念，而无需实际处理任何其他 API。
 
