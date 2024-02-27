@@ -12,9 +12,9 @@ exl-id: 1ecc04a7-b7f0-4285-ab87-160396cc13bc
 recommendations: noDisplay,noCatalog
 doc-type: video
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 67%
 
 ## 概述
 
-使用您在上次演练中构建的“迭代简介”方案，聚合项目中每个工作任务的已计划小时数，并向您自己发送一封包含该信息的电子邮件。
+使用您在上一个演练中构建的“迭代简介”场景，汇总项目中每个工作任务的规划小时数，并向自己发送包含该信息的电子邮件。
 
 ![Fusion 场景的图像](assets/iteration-and-aggregation-2.png)
 
