@@ -1,6 +1,6 @@
 ---
 title: 了解资源产能图表
-description: 了解资源容量图表在中的位置 [!UICONTROL Enhanced Analytics] 显示在过滤的时段内与主团队的总可用小时数相比分配给该主团队的已计划小时数。
+description: 了解 [!UICONTROL Enhanced Analytics] 中的资源产能图表如何显示过滤时段内分配给主团队的规划小时数与团队的总可用小时数的比较。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -12,9 +12,9 @@ jira: KT-10046
 recommendations: noDisplay,noCatalog
 exl-id: ec21049e-4f39-4bb4-91d2-c8873151811c
 source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '398'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
