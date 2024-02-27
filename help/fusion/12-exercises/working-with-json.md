@@ -1,5 +1,5 @@
 ---
-title: 使用JSON练习
+title: 使用 JSON 练习
 description: 了解如何在场景中创建和解析 JSON，以支持设计需求。
 activity: use
 team: Technical Marketing
@@ -12,13 +12,13 @@ thumbnail: KT11056.png
 recommendations: noDisplay,noCatalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
 source-git-commit: a4e61514567ac8c2b4ad5c9ecacb87bd83947731
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '496'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
-# 使用JSON练习
+# 使用 JSON 练习
 
 了解如何在场景中创建和解析 JSON，以支持设计需求。
 
