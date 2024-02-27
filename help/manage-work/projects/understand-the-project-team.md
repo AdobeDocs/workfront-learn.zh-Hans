@@ -12,9 +12,9 @@ last-substantial-update: 2024-02-07T00:00:00Z
 jira: KT-14781
 doc-type: video
 source-git-commit: b1b9159078ecc389338d6bc6bd31e38ea3149149
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '41'
-ht-degree: 14%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 14%
 
 在本视频中，您将了解到：
 
-* 项目团队可以使用的功能以及如何对其进行维护
+* 项目团队的用途以及如何对其进行维护
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on)
 
