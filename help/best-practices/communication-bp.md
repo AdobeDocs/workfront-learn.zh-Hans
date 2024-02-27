@@ -7,15 +7,15 @@ level: Beginner
 jira: KT-10905
 exl-id: 24e99491-e155-4a1e-8cc8-fa767116b18f
 source-git-commit: 78252d557403a4f14e6c8ac3b309819038d23c54
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 # 最佳实践 - 沟通
 
-## 什么是 Adobe Workfront“最佳实践”？
+## 什么是 Adobe Workfront 的“最佳实践”？
 
 最佳实践是代表有效、高效行动方针的指南；您和您公司的用户很容易采用；并且可以在您的组织中成功复制的实践。
 
@@ -23,9 +23,9 @@ ht-degree: 85%
 
 ## 浏览此页面
 
-当您滚动浏览此页面时，首先您将找到该主题的所有最佳实践的高级列表。通过该列表，您可以查看建议，而无需深入了解有关“原因”的细节。
+当您滚动浏览此页面时，首先您将找到该主题的所有最佳实践的概括列表。通过该列表，您可以查看建议，而无需深入了解有关“原因”的细节。
 
-“这些为什么是最佳实践？”高级列表后面的区域提供了一些最佳实践的更多详细信息以及为什么将它们视为应考虑使用 Workfront 实例实施的流程、工具等。
+“这些为什么是最佳实践？”概括列表后面的区域提供了一些最佳实践的更多详细信息以及为什么将它们视为应考虑使用 Workfront 实例实施的流程、工具等。
 
 </br>
 </br>
@@ -49,9 +49,9 @@ ht-degree: 85%
 
 逐步浏览您的工作流可以更容易地确定沟通点，并确保启用恰当的通知。这为您的组织现有的工作方式做好了通知准备，防止出现垃圾邮件或通信中断。
 
-有关如何设置事件通知的说明，请参阅 [设置事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html).
+有关如何设置事件通知的说明，请参阅[设置事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)。
 
-有关如何管理事件通知的说明，请参阅 [管理应用程序内通知和电子邮件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html).
+有关如何管理事件通知的说明，请参阅[管理应用内和电子邮件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)。
 
 </br>
 </br>
@@ -72,5 +72,5 @@ ht-degree: 85%
 * 所有者名称
 * 输入日期
 
-有关如何创建带有提示的注释报告的分步说明，请观看 [创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html) 教程，然后进行以下活动。
+有关如何创建带有提示的笔记报告的分步说明，请观看[创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html)教程，然后进行接下来的活动。
 
