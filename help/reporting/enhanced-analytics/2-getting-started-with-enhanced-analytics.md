@@ -12,9 +12,9 @@ jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '276'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 85%
 
 ## Analytics 先决条件
 
-要充分利用Workfront的增强型分析，您需要确保您的团队正在输入数据并尽可能准确地更新某些字段。
+为了充分利用 Workfront 增强的 Analytics，您需要确保您的团队尽可能准确地输入数据并更新某些字段。
 
-当我们在Analytics中使用“团队”一词时，我们指的是“主团队”。 Workfront 用户可以属于多个团队，但只能属于一个主团队。人员图表中使用的团队仅包括将该团队指定为主团队的用户。
+当我们在 Analytics 中使用术语“团队”时，我们指的是“主团队”。Workfront 用户可以属于多个团队，但只能属于一个主团队。人员图表中使用的团队仅包括将该团队指定为主团队的用户。
 
 确保所有项目模板都为所有任务分配了准确的规划小时数和持续时间，以便有一个好的开端。
 

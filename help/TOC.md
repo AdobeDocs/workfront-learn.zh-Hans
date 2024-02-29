@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2348'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -269,7 +269,7 @@ ht-degree: 99%
       + [资源管理成熟度](manage-resources/resource-management/resource-management-maturity.md)
       + [项目的资源管理设置](manage-resources/resource-management/settings-for-projects.md)
       + [用户的资源管理设置](manage-resources/resource-management/settings-for-users.md)
-      + [资源管理设置、工作负载均衡器和利用率报告](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
+      + [资源管理设置、工作负载平衡器和利用率报告](manage-resources/resource-management/rm-setups-workload-balancer-and-utilization-report.md)
 
    + 工作负载均衡器 {#workload-balancer}
       + [找到工作负载均衡器](manage-resources/workload-balancer/find-the-workload-balancer.md)
@@ -558,7 +558,7 @@ ht-degree: 99%
       + [了解作为投稿人如何管理资源](workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [了解作为投稿人如何寻找资源](workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
       + [了解作为投稿人如何使用 lightbox](workfront-dam/workfront-dam-user-contributor/contributor-lightboxes.md)
-      + [了解元数据和关键词最佳实践](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
+      + [了解元数据和关键词方面的最佳实践](workfront-dam/workfront-dam-user-contributor/metadata-and-keyword-best-practices.md)
       + [了解作为投稿人如何使用资源](workfront-dam/workfront-dam-user-contributor/contributor-work-with-assets.md)
       + [了解作为投稿人如何发送文件](workfront-dam/workfront-dam-user-contributor/send-a-file-from-workfront-to-workfront-dam.md)
       + [了解作为投稿人如何发布资源](workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
@@ -638,7 +638,7 @@ ht-degree: 99%
    + [系统性能和维护](best-practices/system-performance-maintenance-bp.md)
    + [文本模式报告](best-practices/test-mode-reporting-bp.md)
    + [时间线规划和管理](best-practices/timeline-planning-management-bp.md)
-   + [时间表和日志记录时间](best-practices/timesheets-logging-time-bp.md)
+   + [时间表和记录时间](best-practices/timesheets-logging-time-bp.md)
    + [利用情况](best-practices/utilization-bp.md)
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [工作负载均衡器](best-practices/workload-balancer-bp.md)

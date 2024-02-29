@@ -12,9 +12,9 @@ jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '143'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -36,4 +36,4 @@ ht-degree: 83%
 1. 前置任务
 1. 分配
 
-一切设置完毕后，将项目状态更改为“当前”以启动项目。随着项目的进展，您将需要跟踪完成的工作、出现的问题、需要回答的问题等等。 请记住——您可以在 [!DNL Workfront] 中查找和管理所有这些信息！
+一切设置完毕后，将项目状态更改为“当前”以启动项目。随着项目的进展，您需要跟踪完成的工作、出现的问题、需要回答的问题等等。请记住——您可以在 [!DNL Workfront] 中查找和管理所有这些信息！

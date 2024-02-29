@@ -12,9 +12,9 @@ jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '284'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 98%
 >
 >* 为了更深入地了解文本模式，我们建议观看录制的网络研讨会活动[咨询专家 - 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-Hans)，时长为一小时。
 >* 要了解有关文本模式的更多信息，我们建议观看[高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-Hans)教程，总共为五个半小时。
->* 单击此处访问 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+>* 单击此处以访问 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 在本视频中，您将了解到：
 

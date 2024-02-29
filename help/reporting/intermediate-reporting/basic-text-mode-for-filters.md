@@ -12,9 +12,9 @@ jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '407'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -26,13 +26,13 @@ ht-degree: 98%
 >
 >* [了解报告要素](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-elements.html?lang=zh-Hans)
 >* [了解报告组件](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/reporting-components.html?lang=zh-Hans)
->* [创建基本过滤器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=en)
+>* [创建基本过滤器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-filters.html?lang=zh-Hans)
 
 >[!TIP]
 >
 >* 为了更深入地了解文本模式，我们建议观看录制的网络研讨会活动[咨询专家 - 文本模式报告简介](https://experienceleague.adobe.com/docs/workfront-events/events/reporting-and-dashboards/introduction-to-text-mode-reporting.html?lang=zh-Hans)，时长为一小时。
 >* 要了解有关文本模式的更多信息，我们建议观看[高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-Hans)教程，总共为五个半小时。
->* 单击此处访问 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
+>* 单击此处以访问 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
 
 在本视频中，您将了解到：

@@ -11,9 +11,9 @@ jira: KT-14017
 thumbnail: 3424529.jpeg
 exl-id: c4e26745-7fdb-4ca2-a968-b1f062afb514
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -26,5 +26,5 @@ ht-degree: 65%
 
 >[!NOTE]
 >
-> 要查找有关每个构件的更多信息，请转到 [开始使用Adobe Workfront中的新主页](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=en) 文章。
+> 要查找有关每个构件的更多信息，请访问[开始使用 Adobe Workfront 中的新主页](https://experienceleague.adobe.com/docs/workfront/using/basics/home/new-home/get-started-with-new-home.html?lang=zh-Hans)文章。
 

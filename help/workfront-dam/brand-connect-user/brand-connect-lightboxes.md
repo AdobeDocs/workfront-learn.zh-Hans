@@ -1,5 +1,5 @@
 ---
-title: 了解作为用户如何使用 lightbox
+title: 了解作为用户如何使用 Lightbox
 description: 了解如何在 [!UICONTROL Workfront DAM] 的 Brand Connect 中创建、使用、管理和共享 Lightbox 以及在其中进行协作。
 activity: use
 feature: Digital Content and Documents
@@ -11,13 +11,13 @@ jira: KT-8986
 exl-id: 54447f9b-8f5e-4b5b-9298-232024064b4a
 doc-type: video
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
 ht-degree: 100%
 
 ---
 
-# 了解作为用户如何使用 lightbox
+# 了解作为用户如何使用 Lightbox
 
 在本视频中，您将学习如何：
 

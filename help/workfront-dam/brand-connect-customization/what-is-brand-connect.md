@@ -1,6 +1,6 @@
 ---
 title: 什么是 [!UICONTROL Brand Connect]？
-description: 大致了解 [!UICONTROL Brand Connect].
+description: 简要了解 [!UICONTROL Brand Connect]。
 activity: use
 feature: Digital Content and Documents,Get Started with Workfront
 type: Tutorial
@@ -11,9 +11,9 @@ jira: KT-8977
 exl-id: 5acd8581-1629-421c-867e-cefbeb214832
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '118'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 73%
 
 <!-- Need the cross-reference link to other LP, mentioned above -->
 
-自定义组织的外观 [!UICONTROL Brand Portal] 帮助用户快速找到所需内容并确保轻松提供最新资源。
+自定义组织 [!UICONTROL Brand Portal] 的外观，以帮助用户快速找到他们需要的内容，并确保最新的资源易于获得。
 
 在此视频中，您将：
 
-* 大致了解 [!UICONTROL Brand Connect]
+* 简要了解 [!UICONTROL Brand Connect]
 
 >[!VIDEO](https://video.tv.adobe.com/v/335240/?quality=12&learn=on)
 

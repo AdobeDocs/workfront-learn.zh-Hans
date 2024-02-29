@@ -11,9 +11,9 @@ jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 62%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 62%
 
 >[!NOTE]
 >
->Workfront目前提供两种主页体验。 如果您有新的主页体验，请查看 [移除、添加和重新排列主页中的小组件](/help/workfront-home/remove-add-and-rearrange-widgets.md) 教程。
+>目前 Workfront 中有两种主页体验可供使用。如果您具有新的主页体验，请查看[在主页中删除、添加和重新排列构件](/help/workfront-home/remove-add-and-rearrange-widgets.md)教程。
 
 
 在本视频中，您将学习如何：

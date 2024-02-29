@@ -1,6 +1,6 @@
 ---
-title: 了解作为投稿人如何发送文件
-description: 了解如何将  [!DNL Workfront]  中的完整文件发送到 [!UICONTROL Workfront DAM]。
+title: 作为投稿人发送文件
+description: 了解如何将 [!DNL Workfront] 中的完整文件发送到 [!UICONTROL Workfront DAM]。
 activity: use
 team: Technical Marketing
 feature: Digital Content and Documents
@@ -10,13 +10,13 @@ level: Beginner
 jira: KT-10108
 exl-id: 13e24ccc-4d29-4c3a-8340-5fcdbfe4f859
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '152'
 ht-degree: 100%
 
 ---
 
-# 了解作为投稿人如何发送文件
+# 作为投稿人发送文件
 
 当您在 [!DNL Workfront] 中有一个完整的文件时，只需单击几下即可将其发送到 [!UICONTROL Workfront DAM]。
 

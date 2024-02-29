@@ -12,9 +12,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
@@ -22,20 +22,20 @@ ht-degree: 64%
 
 在本视频中，您将了解到：
 
-* 如何通过提交请求 [!DNL  Workfront] 请求队列
+* 如何通过 [!DNL  Workfront] 请求队列提交请求
 * 请求队列的结构是如何设置的
 
 >[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
 
 ## 请求草稿会自动保存
 
-当您开始填写请求表时，[!DNL Workfront] 会在填写 [!UICONTROL Subject] 字段后自动保存草稿。这意味着如果您需要离开 [!UICONTROL Requests] 区域执行其他操作，或者如果您需要在请求过程中暂停以收集更多信息。
+当您开始填写请求表时，[!DNL Workfront] 会在填写 [!UICONTROL Subject] 字段后自动保存草稿。这意味着，如果您需要离开 [!UICONTROL Requests] 区域进行其他操作，或者为了收集更多信息需要在请求中间暂停，丢失不会数据。
 
-您将在窗口顶部看到草稿已保存的指示。 [!DNL Workfront] 将保存您的请求的草稿，即使尚未填写必填字段也是如此。
+您会在窗口顶部看到草稿已保存的指示。即使尚未填写必填字段，[!DNL Workfront] 也会保存您的请求的草稿。
 
 ![创建请求草稿的图像](assets/queue-mgt-make-a-request-draft-1.png)
 
-当您准备好提交请求时，请在 [!UICONTROL Drafts] 选项卡。 单击名称将其打开并完成表格填写。然后单击 [!UICONTROL Submit Request] 等你完事了。
+当您准备好提交请求时，请在 [!UICONTROL Drafts] 选项卡中找到它。单击名称将其打开并完成表格填写。然后当您完成时单击 [!UICONTROL Submit Request]。
 
 ![召回请求草稿的图像](assets/queue-mgt-make-a-request-draft-2.png)
 

@@ -1,5 +1,5 @@
 ---
-title: 资源管理设置、工作负载均衡器和利用率报告
+title: 资源管理设置、工作负载平衡器和利用率报告
 description: 了解如何为资源管理者设置正确的访问权限，以及如何查看工作负载平衡器和利用率报告。
 feature: Resource Management
 type: Tutorial
@@ -11,15 +11,15 @@ thumbnail: setups-utillization-report.png
 jira: KT-10179
 exl-id: 46b68876-658e-4a71-b1c6-44294253bf44
 source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '203'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
-# 资源管理设置、工作负载均衡器和利用率报告
+# 资源管理设置、工作负载平衡器和利用率报告
 
-[!DNL Workfront] 跨 [!DNL Workfront] 中的多个工具提供数据，帮助您更轻松地作出资源决策，并使您的流程更加顺畅。要查看您的资源发生了什么情况，您应确保您的经理、用户和项目都进行了正确配置。 即使您不打算使用所有 [!DNL Workfront's] 资源管理工具。
+[!DNL Workfront] 跨 [!DNL Workfront] 中的多个工具提供数据，帮助您更轻松地作出资源决策，并使您的流程更加顺畅。要了解资源的使用情况，您应该确保您的管理者、用户和项目配置正确。即使您不打算使用所有 [!DNL Workfront's] 资源管理工具，这些配置也很有用。
 
 在本节中，您将学习：
 
@@ -28,7 +28,7 @@ ht-degree: 65%
 
 ## 资源管理设置
 
-让我们从确保合适的人可以访问并管理您组织的资源开始。
+首先，我们要确保合适的人员能够访问并管理您组织的资源。
 
 &lt;!下载分步说明指南。&gt;
 
