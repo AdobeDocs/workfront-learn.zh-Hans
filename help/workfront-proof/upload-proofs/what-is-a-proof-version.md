@@ -1,6 +1,6 @@
 ---
-title: 什么是验证版本？
-description: 了解版本可怎样帮助您使用Workfront的校对功能跨文件的多个小版本管理审阅和批准流程。
+title: 校样版本是什么？
+description: 了解版本如何使用 Workfront 的校样功能帮助您在文件的多个迭代间管理审阅和批准过程。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -11,20 +11,20 @@ thumbnail: what-is-a-proof-version.png
 jira: KT-10161
 exl-id: 3a3c6315-d032-4f78-bdbc-e1070c7fb1e1
 source-git-commit: 2d916e60fe92fc68fc247586acb7b50819c5fd2e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 20%
+ht-degree: 100%
 
 ---
 
-# 什么是验证版本？
+# 校样版本是什么？
 
-Workfront的校对功能可帮助您的组织使用版本跨文件的多个小版本管理审阅和批准流程。
+Workfront 的校样功能使用版本帮助您的组织在文件的多个迭代间管理审阅和批准过程。
 
-版本的基本定义是验证的修订副本。例如，在用户会议上，您组织的展位设计已经使用Workfront的校对功能经历了初始审阅和批准流程。 已经进行了更正，更新后的文件已准备好供审查。
+版本的基本定义是校样的修订后副本。例如，您的组织对于用户大会上展位的设计已使用 Workfront 的校样功能通过初步的审阅和批准过程。已作出了更正，并且更新后的文件已准备好供审阅。
 
-新文件可以作为原始文件的版本添加到Workfront中。
+可将新文件作为原始文件的一个版本添加到 Workfront。
 
-这会将版本“栈叠”在原始文件上，保留修订的历史记录，同时确保您查看的是工作的最新小版本。 通过Workfront的校对查看器，还可以将文件的最新版本与旧版本进行比较。
+这样将该版本“堆放”在原始文件的上方，并在确保您查看作品的最新迭代的同时保留修订的历史记录。通过 Workfront 的校样查看器，还可比较文件的最新版本和早期版本。
 
-让我们开始查看和比较校样版本。
+让我们来开始审阅和比较校样版本。
