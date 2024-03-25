@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
-workflow-type: ht
-source-wordcount: '143'
-ht-degree: 100%
+source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 71%
 
 ---
 
@@ -22,13 +23,14 @@ ht-degree: 100%
 
 在本视频中，您将了解到：
 
-* 启动并运行项目的四个步骤
-* [!DNL Workfront] 中项目的定义
-* 创建项目的三种最常见的方式
+* Workfront中的项目定义
+* 启动并运行项目的基本步骤
+* 关于任务和问题
+* 开始创建项目的最佳实践
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-使用项目模板快速启动和运行您的 [!DNL  Workfront] 项目。然后，首先通过关注这五个领域来规划您的项目：
+使用项目模板快速启动并运行Workfront项目。 然后，首先通过关注这五个领域来规划您的项目：
 
 1. 任务
 1. 持续时间
