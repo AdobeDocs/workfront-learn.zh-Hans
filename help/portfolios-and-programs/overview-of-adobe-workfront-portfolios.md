@@ -1,5 +1,5 @@
 ---
-title: 项目组合概览
+title: 了解项目组合
 description: 了解 Workfront 中的项目组合是什么，以及它们如何帮助您确定项目的优先级，并将项目相互进行比较。
 activity: use
 team: Technical Marketing
@@ -7,18 +7,18 @@ feature: Strategic Planning
 thumbnail: overview-of-adobe-workfront-portfolios.png
 type: Tutorial
 role: User
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '431'
-ht-degree: 100%
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+workflow-type: tm+mt
+source-wordcount: '561'
+ht-degree: 75%
 
 ---
 
-# 项目组合概览
+# 了解项目组合
 
 管理人员经常面临一项棘手的工作，即确定哪些项目最能帮助公司实现其目标。这意味着根据这些目标的重要标准来判断当前或潜在的项目。该标准可以包括所需资源的数量、项目成本与收益的对比以及理解所涉及的风险等。有了这些信息，管理人员就可以决定应该完成哪些项目以及何时完成。
 
@@ -51,6 +51,26 @@ ht-degree: 100%
 打开项目组合并单击三点菜单，然后选择 **[!UICONTROL Sharing]**。添加应具有访问权限的个人、团队、工作角色、组或公司。然后确定每个人应该拥有什么类型的访问权限——管理或查看。
 
 ![[!DNL Workfront] 项目组合中的 [!UICONTROL Sharing] 选项的图像](assets/04-portfolio-management11.png)
+
+## 创建项目组合
+
+要创建项目组合，请单击 **[!UICONTROL Portfolios]** 在主菜单中。
+
+![主菜单的图像 ](assets/create-portfolio-1.png)
+
+在Portfolio区域中，单击 **[!UICONTROL New Portfolio]**.
+
+![Portfolio区域的图像 ](assets/create-portfolio-2.png)
+
+命名项目组合，然后单击 **[!UICONTROL New Project]** 以向项目组合中添加项目。 您可以通过多种方式创建新项目，就像您可以从以下位置创建项目一样 **[!UICONTROL Projects]** 区域。 您从此创建的任何新项目都将属于此项目组合。 您还可以单击 **[!UICONTROL Existing Project]** 以从列表中选择现有项目。
+
+![新项目菜单的图像 ](assets/create-portfolio-3.png)
+
+## 在项目组合中创建项目
+
+选择 **[!UICONTROL Programs]** 选项卡，然后单击 **[!UICONTROL New Program]** 以在此项目组合中创建新项目群，或单击 **[!UICONTROL Existing Program]** 从其他项目组合中窃取现有项目。
+
+![新程序菜单的图像 ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

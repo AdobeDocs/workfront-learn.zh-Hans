@@ -3,10 +3,10 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
-source-wordcount: '2348'
-ht-degree: 100%
+source-wordcount: '2346'
+ht-degree: 99%
 
 ---
 
@@ -153,7 +153,7 @@ ht-degree: 100%
       + [有关请求队列的常见问题解答](manage-work/request-queues/request-queue-faq.md)
 
    + 项目组合 {#portfolios}
-      + [项目组合概览](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [了解项目组合](portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [了解 [!UICONTROL Business Case]](portfolios-and-programs/introduction-to-the-business-case.md)
       + [使用 [!UICONTROL Portfolio Optimizer] 确定工作的优先顺序并对其进行管理](portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
@@ -242,7 +242,7 @@ ht-degree: 100%
    + 已优化的分析 {#enhanced-analytics}
       + [关于 [!UICONTROL Enhanced Analytics] 的产品时刻](reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [开始使用 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [将 [!UICONTROL analytics] 添加到布局模板](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+      + [如何访问 [!UICONTROL Enhanced Analytics]](reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [了解基本导航](reporting/enhanced-analytics/4-basic-navigation.md)
       + [了解工作和人员图表](reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [了解过滤器](reporting/enhanced-analytics/6-filters-overview.md)
