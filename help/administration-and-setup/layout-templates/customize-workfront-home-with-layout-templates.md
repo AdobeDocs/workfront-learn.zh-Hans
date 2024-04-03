@@ -1,6 +1,6 @@
 ---
 title: 使用布局模板自定义 [!UICONTROL Home]
-description: 了解如何使用布局模板通过添加或删除字段来自定义 [!UICONTROL Home]。
+description: 了解如何自定义您的用户 [!UICONTROL Home] 区域以快速轻松地访问、跟踪、批准和更新工作。
 feature: System Setup and Administration
 team: Technical Marketing
 role: Admin
@@ -11,14 +11,23 @@ thumbnail: 335081.jpeg
 jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '47'
-ht-degree: 100%
+source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
+workflow-type: tm+mt
+source-wordcount: '70'
+ht-degree: 47%
 
 ---
 
-# 使用布局模板自定义 [!UICONTROL Home]
+# 使用布局模板自定义 [!UICONTROL Home Workspace]
+
+了解如何自定义您的用户 [!UICONTROL Home] 区域以快速轻松地访问、跟踪、批准和更新工作。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
+
+<br>
+</br>
+
+## 自定义旧版 [!UICONTROL Home] 使用布局模板
 
 在本视频中，您将学习如何：
 
