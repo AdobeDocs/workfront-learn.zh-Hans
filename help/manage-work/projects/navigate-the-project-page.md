@@ -7,14 +7,15 @@ thumbnail: 335085.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '437'
-ht-degree: 100%
+source-git-commit: 1506ba1d0209de4834a150536d9a530609413800
+workflow-type: tm+mt
+source-wordcount: '438'
+ht-degree: 91%
 
 ---
 
@@ -45,10 +46,10 @@ ht-degree: 100%
 8. **[!UICONTROL Condition]：**[!UICONTROL Condition] 是项目进展情况的直观呈现。[!DNL Workfront] 可以根据项目中任务的进度状态自动配置 [!UICONTROL Condition]。或者 [!UICONTROL Condition] 可以通过项目详细信息手动设置。
 9. **[!UICONTROL Status]：**[!UICONTROL Status] 指示项目在流程中所处的位置：项目是否仍在规划中、项目是否正在进行或项目中的所有工作是否已完成。
 10. **[!UICONTROL New Task]：**&#x200B;单击可在项目中创建新任务。任务在列表底部生成。
-11. **[!UICONTROL Export]：**&#x200B;将项目计划导出为 PDF、电子表格或制表符分隔文件。
+11. **[!UICONTROL Export]：** 将任务列表或选定的任务导出到PDF、电子表格或制表符分隔的文件。
 12. **左侧面板菜单：**&#x200B;使用左侧面板导航至有关项目的不同信息。如果您的屏幕上需要更多空间，请单击该图标以折叠面板。拖放图标，以便相应的顺序帮助您高效工作。您看到的选项由您的 [!DNL Workfront] 系统管理员设置。
 13. **任务列表：**&#x200B;任务列表显示构成项目计划的所有任务。有关每个任务的可见信息由所选视图决定。
-14. **摘要面板：**&#x200B;单击该图标可打开或关闭摘要面板，通过该面板可快速查看所选任务的信息。
+14. **摘要面板：** 摘要面板可快速查看有关选定任务的信息。 单击图标以打开或关闭。
 
 <!---
 learn more:
