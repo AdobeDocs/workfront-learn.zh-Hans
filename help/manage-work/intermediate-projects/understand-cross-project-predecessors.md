@@ -12,25 +12,21 @@ last-substantial-update: 2024-04-02T00:00:00Z
 jira: KT-13737
 doc-type: video
 exl-id: 1789418f-095b-4621-afe7-fd222d5908e8
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 52%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 # 了解跨项目前置任务
 
->[!IMPORTANT]
->
->先决条件：
+跨项目前置任务是建立不同项目任务之间依赖关系的一种简单方法。例如，一家建筑公司可能有一个名为&#x200B;**修建通往 Summerhill 住宅开发区的道路**&#x200B;的项目，以及另一个名为&#x200B;**在 Summerhill 建造样板房**&#x200B;的项目。通过在“**建造样板房**”的第一个任务中设置跨项目前置任务，将其与“**建造通路**”中的最后一个任务相连，您可以确保在开始建造房屋之前，已经建好了通路。由于这些任务是相互关联的，如果“**建造通路**”项目出现延误，那么“**建造样板房**”的计划开始日期也会相应地自动顺延。
+
+>[!PREREQUISITES]
 >
 >* [学习如何对任务进行排序](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hans)
 >* 或者您已经熟悉如何在项目中使用前置任务
-
->[!NOTE]
->
->跨项目前置任务是一种在不同项目中的任务之间建立依赖关系的简单方法。 例如，建筑公司可能有一个名为的项目 **修建通往夏山住宅开发的通道**，以及另一个名为的项目 **在夏山建造模型主页**. 通过在中创建第一个任务 **构建模型主页** 具有中最后一个任务的跨项目前置任务 **修建进出道路**，您需要在开始构建住宅之前确保通道已到位。 因为任务已链接，如果 **修建进出道路** 项目进度单， **构建模型主页** 计划的开始日期将自动错过。
 
 
 在本视频中，您将了解到：

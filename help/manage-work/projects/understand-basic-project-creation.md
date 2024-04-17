@@ -9,13 +9,14 @@ role: User
 level: Beginner
 team: Technical Marketing
 last-substantial-update: 2024-03-25T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 27edaa8c15c1a7ed042708d2e20996a078ab871a
+source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
 workflow-type: tm+mt
-source-wordcount: '150'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 74%
 
 ---
 
@@ -30,12 +31,10 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
 
-使用项目模板快速启动和运行您的 Workfront 项目。然后，首先通过关注这五个领域来规划您的项目：
+## 有关该主题的建议教程
 
-1. 任务
-1. 持续时间
-1. 规划小时数
-1. 前置任务
-1. 分配
+* [在项目页面中导航](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
+* [了解创建项目的四种方法](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
+* [填写项目详细信息](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
 
-一切设置完毕后，将项目状态更改为“当前”以启动项目。随着项目的进展，您需要跟踪完成的工作、出现的问题、需要回答的问题等等。请记住——您可以在 [!DNL Workfront] 中查找和管理所有这些信息！
+
