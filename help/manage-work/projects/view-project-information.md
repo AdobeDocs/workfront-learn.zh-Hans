@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
 source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '189'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 97%
 
 许多 [!DNL Workfront] 客户会创建自定义视图，以显示自定义表单信息以及与正在完成的工作相关的其他字段。
 
-## 有关该主题的建议教程
+## 有关此主题的推荐教程
 
 * [创建基本过滤器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter.html?lang=zh-Hans)
 * [创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)

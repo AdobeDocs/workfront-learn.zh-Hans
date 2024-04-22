@@ -14,9 +14,9 @@ jira: KT-14781
 doc-type: video
 exl-id: a29003cb-9df0-4806-8395-80ff1fd4efd8
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
@@ -28,9 +28,9 @@ ht-degree: 65%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on)
 
-## 有关该主题的建议教程
+## 有关此主题的推荐教程
 
 * [开始管理项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
 * [查找项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
 * [共享项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
-* [了解项目通信](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)
+* [了解项目沟通](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-project-communication.md)

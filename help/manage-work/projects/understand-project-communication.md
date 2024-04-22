@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '113'
-ht-degree: 79%
+ht-degree: 100%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 79%
 >
 >要将“注释搜索”报告添加到您的项目面板，请参阅[创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=zh-Hans)教程中的活动。
 
-## 有关该主题的建议教程
+## 有关此主题的推荐教程
 
 * [开始管理项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
 * [查找项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
