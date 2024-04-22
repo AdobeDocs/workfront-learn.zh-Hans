@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-04-22T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '209'
-ht-degree: 100%
+source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+workflow-type: tm+mt
+source-wordcount: '211'
+ht-degree: 89%
 
 ---
 
@@ -41,7 +42,7 @@ ht-degree: 100%
 * 与您的利益相关者沟通。
 * 庆祝一路上的胜利。
 
-归根结底，您的主要工作是推动项目成功完成。[!DNL Workfront] 可以帮助您通过使用项目时间线、过滤器、视图、分组、更新、报告等功能来监控正在进行的工作。
+归根结底，您的主要工作是推动项目成功完成。Adobe Workfront可以帮助您通过项目时间线；过滤器、视图和分组；更新；报告……等来监控所完成的工作。
 
 <!---
 learn more urls
