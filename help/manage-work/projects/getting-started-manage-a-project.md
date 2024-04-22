@@ -1,6 +1,6 @@
 ---
 title: 开始管理项目
-description: 了解您作为项目经理的角色，以及监控项目工作时应注意的事项。
+description: 了解如何监控项目进度、深入查看任务详细信息以及如何与利益相关者通信。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: 109b55ef1c161e458e9152b32142c727778b2b5d
+source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 89%
+source-wordcount: '213'
+ht-degree: 72%
 
 ---
 
@@ -24,8 +24,9 @@ ht-degree: 89%
 
 在本视频中，您将了解到：
 
-* 监控项目工作时要注意什么
-* 作为项目经理，您的角色是什么
+* 如何监测项目进度
+* 如何深入查看任务详细信息
+* 如何与利益相关者沟通
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on)
 
