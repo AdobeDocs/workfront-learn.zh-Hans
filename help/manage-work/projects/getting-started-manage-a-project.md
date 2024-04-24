@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 711f00f77facf887b703a075f8cef97b7e1829ff
 workflow-type: tm+mt
 source-wordcount: '213'
-ht-degree: 72%
+ht-degree: 83%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 72%
 * 与您的利益相关者沟通。
 * 庆祝一路上的胜利。
 
-归根结底，您的主要工作是推动项目成功完成。Adobe Workfront可以帮助您通过项目时间线；过滤器、视图和分组；更新；报告……等来监控所完成的工作。
+归根结底，您的主要工作是推动项目成功完成。Adobe Workfront 可以帮助您通过使用项目时间线、过滤器、视图、分组、更新、报告等功能来监控正在进行的工作。
 
 <!---
 learn more urls
