@@ -11,22 +11,22 @@ team: Technical Marketing
 last-substantial-update: 2024-02-01T00:00:00Z
 jira: KT-14864
 doc-type: video
-source-git-commit: 104e03ccca2faeae5379698a6c7e5066d49db120
-workflow-type: ht
-source-wordcount: '152'
+exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '151'
 ht-degree: 100%
 
 ---
 
 # 创建系统管理员反馈请求队列
 
->[!IMPORTANT]
->
->先决条件：
+>[!PREREQUISITES]
 >
 >* [创建请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
 >* [创建请求流](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* 或者您已经熟悉如何创建使用路由规则和自定义表单的请求队列。
+
 
 在本视频中，您将了解到：
 

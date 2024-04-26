@@ -12,21 +12,21 @@ last-substantial-update: 2023-09-14T00:00:00Z
 jira: KT-13879
 doc-type: video
 exl-id: a9d9ffa6-9ff1-4a77-9288-7cd0009a7ad6
-source-git-commit: c67e4c30947c383fd6ed4de7a861f09a654c5c20
-workflow-type: ht
-source-wordcount: '128'
+source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+workflow-type: tm+mt
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
 
 # 高级前置任务
 
->[!IMPORTANT]
->
->先决条件：
+
+>[!PREREQUISITES]
 >
 >* [学习如何对任务进行排序](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks.html?lang=zh-Hans)
 >* 或者您已经熟悉如何在项目中使用前置任务
+
 
 在本视频中，您将了解到：
 
