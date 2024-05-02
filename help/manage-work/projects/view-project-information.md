@@ -8,31 +8,26 @@ thumbnail: view-project-information.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '189'
-ht-degree: 100%
+source-git-commit: 0d591bb306efde6a5cd1606d42b058309d8494b8
+workflow-type: tm+mt
+source-wordcount: '67'
+ht-degree: 64%
 
 ---
 
 # 查看项目信息
 
-无论您是查看 [!UICONTROL Projects] 主页还是查看单个项目，请微调您的列表，利用 [!UICONTROL Filters]、[!UICONTROL Views] 和 [!UICONTROL Groupings] 查看所需的信息。
+在本视频中，您将了解如何使用筛选器、视图和分组进行查看：
 
-您可以在 [!UICONTROL Projects] 页面中从总体上了解所有项目的进展情况。
+* 项目级别信息
+* 任务级别信息
+* 问题级别信息
 
-![显示过滤器的项目页面](assets/planner-fund-project-page-fvg-copy.png)
-
-使用 [!UICONTROL Filters] 根据某些标准缩小列表范围。然后选择一个 [!UICONTROL View]，以显示与您的项目相关的信息列。最后，选择一个 [!UICONTROL Grouping]，以适合您的方式组织项目。
-
-当您在项目的 [!UICONTROL Tasks] 部分时，再次利用 [!UICONTROL Filters]、[!UICONTROL Views] 和 [!UICONTROL Groupings] 来帮助您监测正在完成的工作。因为您关注的是任务而不是项目，所以您有一组完全不同的选择。
-
-![显示视图的项目任务列表](assets/planner-fund-task-list-fvg.png)
-
-许多 [!DNL Workfront] 客户会创建自定义视图，以显示自定义表单信息以及与正在完成的工作相关的其他字段。
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on)
 
 ## 有关此主题的推荐教程
 
