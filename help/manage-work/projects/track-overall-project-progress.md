@@ -1,6 +1,6 @@
 ---
 title: 跟踪项目整体进度
-description: 了解5种跟踪整体项目进度的快速方法。
+description: 了解跟踪整体项目进度的 5 种快速方法。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,27 +13,27 @@ recommendations: noDisplay,noCatalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
 source-git-commit: 99dfdc38fd2192da6a5ef46663634bd6070ee488
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 55%
+ht-degree: 100%
 
 ---
 
 # 跟踪项目整体进度
 
-在本视频中，您将了解如何使用跟踪项目进度：
+在本视频中，您将学习如何使用以下方式跟踪项目进度：
 
 * 完成百分比
 * 预计日期
-* 条件和进度状态
+* 条件及进度状态
 * 未结问题
-* “条件更新”列
+* 完成情况更新列
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
 
 ## 有关此主题的推荐教程
 
-* [开始管理项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [使用项目量度跟踪工作进度](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [了解 [!UICONTROL Gantt] 视图](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
-* [了解 [!UICONTROL Board] 视图](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [开始管理项目](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [使用项目量度跟踪工作进度](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [了解 [!UICONTROL Gantt] 视图](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-gantt-view.md)
+* [了解 [!UICONTROL Board] 视图](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
