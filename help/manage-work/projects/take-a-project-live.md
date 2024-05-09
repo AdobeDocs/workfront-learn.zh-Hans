@@ -1,6 +1,6 @@
 ---
 title: 启动项目
-description: 了解如何使用项目状态启动您的  [!DNL  Workfront]  项目。
+description: 了解如何使用项目状态让您的Adobe Workfront项目上线。
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -12,10 +12,10 @@ recommendations: noDisplay,noCatalog
 jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '53'
-ht-degree: 100%
+source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
+workflow-type: tm+mt
+source-wordcount: '55'
+ht-degree: 76%
 
 ---
 
