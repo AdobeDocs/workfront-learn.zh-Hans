@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '316'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '313'
+ht-degree: 96%
 
 ---
 
@@ -42,4 +42,4 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->您不能将此时间范围选项与项目树形图和资源产能图表一起使用。
+>不能对项目树状图使用此时间范围选项。

@@ -12,10 +12,10 @@ jira: KT-8721
 recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '265'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '262'
+ht-degree: 94%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ## “人员”图表过滤器
 
-“人员”图表以主要团队为基础。它们显示了您在过滤器中选择的任意多个团队的活动和资源产能。
+“人员”图表以主要团队为基础。它们显示的团队活动数量与您在筛选器中选择的团队数量相同。
 
 ## 其他注意事项
 

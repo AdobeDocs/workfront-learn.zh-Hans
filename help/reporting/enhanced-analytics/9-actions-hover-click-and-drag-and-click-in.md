@@ -12,9 +12,9 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '305'
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '293'
 ht-degree: 100%
 
 ---
@@ -37,7 +37,6 @@ ht-degree: 100%
 * **项目活动**—单击项目名称可展开图表并按用户查看项目活动。
 * **项目树形图**—单击项目框可打开燃尽图和“正在执行的任务”图表。
 * **团队活动**—单击团队名称可展开图表，以便您可以按用户查看活动。
-* **资源产能**—单击团队名称可查看团队产能图表。
 
 ## 在团队活动中，较深和较浅的颜色意味着什么？
 

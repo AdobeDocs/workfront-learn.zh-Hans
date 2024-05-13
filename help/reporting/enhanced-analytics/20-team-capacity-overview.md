@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
-workflow-type: ht
-source-wordcount: '384'
-ht-degree: 100%
+source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+workflow-type: tm+mt
+source-wordcount: '381'
+ht-degree: 97%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 100%
 
 1. 单击左侧面板中的 [!UICONTROL People] 选项卡。
 1. 使用 [!UICONTROL Filter] 来选择一支或多支主团队来进行检查。
-1. 您会看到团队产能图表显示在 [!UICONTROL Resource capacity] 图表下方。
+1. 您会看到团队容量图表。
 
 ## 如何使用该图表
 
