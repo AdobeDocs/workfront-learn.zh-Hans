@@ -1,6 +1,6 @@
 ---
 title: 了解父任务-子任务
-description: 了解如何在Workfront项目中使用父子关系来构建任务。
+description: 了解如何在 Workfront 项目中使用父子关系构建任务。
 activity: use
 feature: Work Management
 thumbnail: 335087.jpeg
@@ -13,9 +13,9 @@ jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
 source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '51'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 68%
 
 ## 有关此主题的推荐教程
 
-* [创建任务](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
-* [处理任务](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
-* [从项目规划中分配任务](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
+* [创建任务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/how-to-create-tasks)
+* [处理任务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/work-with-tasks)
+* [从项目规划中分配任务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
 

@@ -1,6 +1,6 @@
 ---
 title: 启动项目
-description: 了解如何使用项目状态让您的Adobe Workfront项目上线。
+description: 了解如何使用项目状态启动您的 Adobe Workfront 项目。
 activity: use
 feature: Work Management
 thumbnail: 335093.jpeg
@@ -13,9 +13,9 @@ jira: KT-8780
 exl-id: 100aed51-2ab4-4a75-af2b-1860c7463a3c
 doc-type: video
 source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '55'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -29,6 +29,6 @@ ht-degree: 76%
 
 ## 有关此主题的推荐教程
 
-* [开始管理项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [查找项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
-* [共享项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
+* [开始管理项目](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
+* [查找项目](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/projects/find-projects.md)
+* [共享项目](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/projects/share-a-project.md)
