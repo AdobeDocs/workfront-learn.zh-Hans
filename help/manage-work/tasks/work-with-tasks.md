@@ -12,9 +12,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: a9d85c93225055f4e8fcda93fb366f83ba960f0e
-workflow-type: ht
-source-wordcount: '72'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '69'
 ht-degree: 100%
 
 ---
@@ -31,6 +31,6 @@ ht-degree: 100%
 
 ## 有关此主题的推荐教程
 
-* [了解父任务-子任务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-parent-child-tasks)
-* [从项目规划中分配任务](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/assign-tasks-from-the-project-plan)
-* [了解任务持续时间](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [了解父任务-子任务](/help/manage-work/tasks/understand-parent-child-tasks.md)
+* [从项目规划中分配任务](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+* [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)

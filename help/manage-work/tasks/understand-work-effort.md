@@ -11,9 +11,9 @@ level: Beginner
 jira: KT-10153
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: ht
-source-wordcount: '174'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '172'
 ht-degree: 100%
 
 ---
@@ -34,5 +34,6 @@ Workfront 知道某些组织在创建项目时不使用规划小时数。但是�
 
 ## 有关此主题的推荐教程
 
-* [了解任务持续时间](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [了解规划小时数](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)
+* [了解规划小时数](/help/manage-work/tasks/understand-planned-hours.md)
+

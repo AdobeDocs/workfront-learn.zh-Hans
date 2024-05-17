@@ -11,9 +11,9 @@ level: Beginner
 recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '1252'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '1248'
 ht-degree: 100%
 
 ---
@@ -131,7 +131,7 @@ ht-degree: 100%
 
 ## 有关此主题的推荐教程
 
-* [了解基本项目创建](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [导航项目页面](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/navigate-the-project-page)
-* [了解创建项目的四种方法](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [开始规划项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-plan-a-project)
+* [了解基本项目创建](/help/manage-work/projects/understand-basic-project-creation.md)
+* [导航项目页面](/help/manage-work/projects/navigate-the-project-page.md)
+* [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [开始规划项目](/help/manage-work/projects/getting-started-plan-a-project.md)

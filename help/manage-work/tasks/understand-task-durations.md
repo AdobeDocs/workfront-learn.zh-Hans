@@ -12,9 +12,9 @@ jira: KT-8776
 recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: ht
-source-wordcount: '82'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 有关此主题的推荐教程
 
-* [学习如何对任务进行排序](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [了解规划小时数](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [了解工作投入](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [学习如何对任务进行排序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+* [了解规划小时数](/help/manage-work/tasks/understand-planned-hours.md)
+* [了解 [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
 

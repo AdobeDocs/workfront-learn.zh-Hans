@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: c2ba2ddfbbc642398a0136ecbf7c3613208080c4
-workflow-type: ht
-source-wordcount: '482'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '479'
 ht-degree: 100%
 
 ---
@@ -55,7 +55,7 @@ ht-degree: 100%
 
 ## 有关此主题的推荐教程
 
-* [了解基本项目创建](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-basic-project-creation)
-* [了解创建项目的四种方法](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-other-ways-to-create-projects)
-* [填写项目详细信息。](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/fill-in-the-project-details)
+* [了解基本项目创建](/help/manage-work/projects/understand-basic-project-creation.md)
+* [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [填写项目详细信息。](/help/manage-work/projects/fill-in-the-project-details.md)
 

@@ -12,9 +12,9 @@ last-substantial-update: 2023-05-11T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
-source-git-commit: c9a137de3772a70b81294930823e3db92a96d893
-workflow-type: ht
-source-wordcount: '89'
+source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
+workflow-type: tm+mt
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 有关此主题的推荐教程
 
-* [开始管理项目](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/getting-started-manage-a-project.md)
-* [跟踪项目整体进度](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-overall-project-progress.md)
-* [使用项目量度跟踪工作进度](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [了解 [!UICONTROL Board] 视图](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/projects/understand-the-board-view.md)
+* [开始管理项目](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [跟踪项目整体进度](/help/manage-work/projects/track-overall-project-progress.md)
+* [使用项目指标跟踪工作进度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
+* [了解 [!UICONTROL Board] 视图](/help/manage-work/projects/understand-the-board-view.md)
