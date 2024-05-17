@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: b63ab88a-c196-489f-92e8-ffe94be6aa2b
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 94%
 
 ## “人员”图表过滤器
 
-“人员”图表以主要团队为基础。它们显示的团队活动数量与您在筛选器中选择的团队数量相同。
+“人员”图表以主要团队为基础。它们显示了你在过滤器中选择的任意多个团队的活动。
 
 ## 其他注意事项
 

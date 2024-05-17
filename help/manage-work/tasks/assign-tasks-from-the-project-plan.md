@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ Modify multiple user assignments in a task list
 
 ## 有关此主题的推荐教程
 
-* [了解任务持续时间](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
-* [学习如何对任务进行排序](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [了解规划小时数](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [了解任务持续时间](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-task-durations)
+* [学习如何对任务进行排序](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
+* [了解规划小时数](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
 

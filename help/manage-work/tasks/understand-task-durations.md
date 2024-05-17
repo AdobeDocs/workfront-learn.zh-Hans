@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 0c1a3111-1fae-4ade-8044-86bc9bcb06ec
 doc-type: video
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 92%
 
 ## 有关此主题的推荐教程
 
-* [学习如何对任务进行排序](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
-* [了解规划小时数](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
-* [了解工作投入](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
+* [学习如何对任务进行排序](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/learn-to-sequence-tasks)
+* [了解规划小时数](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-planned-hours)
+* [了解工作投入](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/tasks/understand-work-effort)
 

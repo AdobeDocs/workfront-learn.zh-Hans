@@ -12,9 +12,9 @@ jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
 source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '313'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -42,4 +42,4 @@ ht-degree: 96%
 
 >[!NOTE]
 >
->不能对项目树状图使用此时间范围选项。
+>您不能将此时间范围选项与 Project 树形图一起使用。
