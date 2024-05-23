@@ -13,19 +13,19 @@ jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 35%
+source-wordcount: '97'
+ht-degree: 34%
 
 ---
 
 # 从项目规划中分配任务
 
-在本视频中，您将了解到：
+在此视频中，您将：
 
-* 如何使用内联编辑分配任务
-* 如何将多个任务分配给同一个人
+* 了解如何使用内联编辑分配任务
+* 了解如何将多个任务分配给同一个人
 * 了解分配任务时工作角色的价值
 * 了解项目模板在分配任务时的价值
 * 了解将任务分配给团队的价值
