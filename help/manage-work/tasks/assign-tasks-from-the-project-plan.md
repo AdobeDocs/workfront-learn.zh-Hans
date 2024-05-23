@@ -1,6 +1,6 @@
 ---
 title: 从项目规划中分配任务
-description: 了解如何在  [!DNL  Workfront]  项目中使用内联编辑为用户分配任务。
+description: 了解如何使用内联编辑、批量编辑、工作角色和团队在Adobe Workfront项目中分配任务。
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -8,22 +8,27 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2024-05-23T00:00:00Z
 jira: KT-8779
 recommendations: noDisplay,noCatalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '60'
-ht-degree: 100%
+source-git-commit: 985bb7675d4b9a6753170a97b0860aca55a98632
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 35%
 
 ---
 
 # 从项目规划中分配任务
 
-在本视频中，您将学习如何：
+在本视频中，您将了解到：
 
-* 使用内联编辑为用户分配给任务
+* 如何使用内联编辑分配任务
+* 如何将多个任务分配给同一个人
+* 了解分配任务时工作角色的价值
+* 了解项目模板在分配任务时的价值
+* 了解将任务分配给团队的价值
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
