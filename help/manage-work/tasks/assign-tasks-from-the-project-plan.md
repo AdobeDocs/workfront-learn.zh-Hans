@@ -1,6 +1,6 @@
 ---
 title: 从项目规划中分配任务
-description: 了解如何使用内联编辑、批量编辑、工作角色和团队在Adobe Workfront项目中分配任务。
+description: 了解如何使用内联编辑、批量编辑、工作角色和团队在 Adobe Workfront 项目中分配任务。
 activity: use
 feature: Work Management
 thumbnail: 335092.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 0f71dd0693a1b8c8cfe6318ce1b8fced2abf2767
 workflow-type: tm+mt
 source-wordcount: '97'
-ht-degree: 34%
+ht-degree: 80%
 
 ---
 
@@ -26,9 +26,9 @@ ht-degree: 34%
 
 * 了解如何使用内联编辑分配任务
 * 了解如何将多个任务分配给同一个人
-* 了解分配任务时工作角色的价值
-* 了解项目模板在分配任务时的价值
-* 了解将任务分配给团队的价值
+* 在分配任务时了解工作角色的价值
+* 在分配任务时了解项目模板的价值
+* 了解向团队分配任务的价值
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
 
