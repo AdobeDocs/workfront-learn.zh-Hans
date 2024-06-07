@@ -1,6 +1,6 @@
 ---
 title: 了解 [!UICONTROL Work Effort]
-description: 了解如何使用 [!UICONTROL Work Effort] 以粗略估计您项目时间线中的计划小时数。
+description: 了解如何使用 [!UICONTROL Work Effort] 粗略估算项目时间线中的规划小时数。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,9 +13,9 @@ last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
 source-git-commit: 8a0c7dd171659460233379fb5f986d7b8341c6d7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 44%
 
 在本视频中，您将了解到：
 
-* 什么是工作投入，它如何帮助您管理项目
+* 什么是工作投入以及它如何帮助你管理项目
 * 如何使用工作投入
 * 如何创建工作投入任务视图
 
