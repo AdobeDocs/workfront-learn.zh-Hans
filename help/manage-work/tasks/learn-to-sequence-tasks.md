@@ -8,14 +8,15 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
+last-substantial-update: 2023-06-10T00:00:00Z
 jira: KT-8778
 recommendations: noDisplay,noCatalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '78'
-ht-degree: 100%
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -23,10 +24,11 @@ ht-degree: 100%
 
 在本视频中，您将了解到：
 
-* [!DNL  Workfront] 中的前置任务是什么
-* 前置任务如何对项目中的任务进行排序
+* 什么是Workfront中的前置任务
 * 如何使用持续时间和前置任务来创建时间线
-* 如何更改或输入前置任务
+* 前置任务如何对项目中的任务进行排序
+* 设置任务开始日期将如何影响任务限制
+* 如何输入前置任务
 
 >[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on)
 

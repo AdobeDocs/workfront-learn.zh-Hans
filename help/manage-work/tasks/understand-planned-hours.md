@@ -1,6 +1,6 @@
 ---
 title: 了解规划小时数
-description: 了解  [!DNL  Workfront] 中的规划小时数，为什么规划小时数对您的项目很重要，以及如何将规划小时数添加到任务中。
+description: 了解什么是计划小时数、为什么计划小时数对您的项目很重要，以及如何向任务添加计划小时数。
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -12,10 +12,10 @@ jira: KT-8777
 recommendations: noDisplay,noCatalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: b18ff5966da92c762e702c7de2b020f7a6c692b6
-workflow-type: ht
-source-wordcount: '67'
-ht-degree: 100%
+source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
