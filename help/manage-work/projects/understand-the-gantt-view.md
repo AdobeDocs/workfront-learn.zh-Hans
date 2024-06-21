@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10144
 exl-id: 9f9cf889-8be5-43e2-88ab-52b1c35603ec
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '85'
+ht-degree: 100%
 
 ---
 
 # 了解 [!UICONTROL Gantt] 视图
 
-在本视频中，您将了解如何使用：
+在本视频中，您将了解到如何使用：
 
 * 项目甘特图
 * 任务甘特图

@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
 source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '109'
+ht-degree: 100%
 
 ---
 
 # 了解项目沟通
 
-在本视频中，您将了解如何使用与所有项目利益相关者通信：
+在本视频中，您将了解到如何使用以下方式与所有项目利益相关者进行沟通：
 
 * 良好的项目规划
 * 更新
