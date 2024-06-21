@@ -1,6 +1,6 @@
 ---
 title: 了解规划小时数
-description: 了解什么是计划小时数、为什么计划小时数对您的项目很重要，以及如何向任务添加计划小时数。
+description: 了解什么是规划小时数，为什么规划小时数对您的项目很重要，以及如何将规划小时数添加到任务中。
 activity: use
 feature: Work Management
 thumbnail: 335090.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 43%
+ht-degree: 70%
 
 ---
 

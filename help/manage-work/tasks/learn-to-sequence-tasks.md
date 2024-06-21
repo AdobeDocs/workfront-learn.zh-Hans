@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: acc6563ca6592f968e2a0ca8b1c6ec2886b9d30e
 workflow-type: tm+mt
 source-wordcount: '88'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 76%
 
 在本视频中，您将了解到：
 
-* 什么是Workfront中的前置任务
+* Workfront 中的前置任务是什么
 * 如何使用持续时间和前置任务来创建时间线
 * 前置任务如何对项目中的任务进行排序
 * 设置任务开始日期将如何影响任务限制
