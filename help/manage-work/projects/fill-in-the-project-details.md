@@ -1,6 +1,6 @@
 ---
 title: 填写项目详细信息。
-description: 了解创建项目时所需的最常见项目设置。
+description: 了解创建项目时所需的最常见的项目设置。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,15 +13,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
 source-git-commit: 7dc10404ef9123a9a8f89517dac5c8c31897cd73
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '69'
+ht-degree: 100%
 
 ---
 
 # 填写项目详细信息。
 
-在本视频中，您将了解创建项目时所需的最常见项目设置。
+在本视频中，您将会了解到创建项目时所需的最常见的项目设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on)
 
@@ -32,4 +32,4 @@ ht-degree: 0%
 * [导航项目页面](/help/manage-work/projects/navigate-the-project-page.md)
 * [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [开始规划项目](/help/manage-work/projects/getting-started-plan-a-project.md)
-* [编辑项目](https://experienceleague.adobe.com/en/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
+* [编辑项目](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/manage-work/projects/manage-projects/edit-projects)
