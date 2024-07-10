@@ -8,11 +8,12 @@ thumbnail: report-on-issues.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '257'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '260'
 ht-degree: 100%
 
 ---
@@ -43,7 +44,10 @@ ht-degree: 100%
 
 ![问题报告信息的图像。](assets/19-text-mode-reporting-for-issues.png)
 
->[!NOTE]
->
->有关如何创建视图的说明，请参阅[创建基本视图。](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)
+
+## 有关此主题的推荐教程
+
+* [创建基本视图](/help/reporting/basic-reporting/create-a-basic-view.md)
+* [创建简单的报告](/help/reporting/basic-reporting/create-a-simple-report.md)
+* [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
 

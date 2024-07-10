@@ -9,11 +9,12 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8808
+recommendations: noDisplay,noCatalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '95'
 ht-degree: 100%
 
 ---
@@ -34,6 +35,11 @@ ht-degree: 100%
 >
 >除了 [!DNL Workfront Home] 以外，还可以在项目和自定义报告中找到需要审批的文档、验证和工作项（项目、任务和问题）。
 
+## 有关此主题的推荐教程
+
+* [创建一次性的审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [附加和编辑现有审批流程](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
+* [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!---

@@ -9,11 +9,12 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
-source-git-commit: 060ceb14d274e8b2ad080c1f58290a2c5769e007
-workflow-type: ht
-source-wordcount: '413'
+source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
+workflow-type: tm+mt
+source-wordcount: '428'
 ht-degree: 100%
 
 ---
@@ -58,3 +59,9 @@ ht-degree: 100%
 为了提高工作效率并更轻松地在快节奏的环境中转化问题，您可以将项目、报告或仪表板中的任何问题列表中的问题转化为任务或项目。只需选择一个问题，然后单击出现的三点菜单即可。
 
 ![显示问题转化选项的项目屏幕图像](assets/convert-from-a-list.png)
+
+## 有关此主题的推荐教程
+
+* [将问题/请求转化为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [处理规划外的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+
