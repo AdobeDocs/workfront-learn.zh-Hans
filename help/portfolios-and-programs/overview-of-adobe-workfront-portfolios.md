@@ -14,7 +14,7 @@ exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
 workflow-type: tm+mt
 source-wordcount: '561'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -54,23 +54,23 @@ ht-degree: 75%
 
 ## 创建项目组合
 
-要创建项目组合，请单击 **[!UICONTROL Portfolios]** 在主菜单中。
+要创建项目组合，请单击主菜单中的 **[!UICONTROL Portfolios]**。
 
 ![主菜单的图像 ](assets/create-portfolio-1.png)
 
-在Portfolio区域中，单击 **[!UICONTROL New Portfolio]**.
+在项目组合区域，单击 **[!UICONTROL New Portfolio]**。
 
-![Portfolio区域的图像 ](assets/create-portfolio-2.png)
+![项目组合区域的图像 ](assets/create-portfolio-2.png)
 
-命名项目组合，然后单击 **[!UICONTROL New Project]** 以向项目组合中添加项目。 您可以通过多种方式创建新项目，就像您可以从以下位置创建项目一样 **[!UICONTROL Projects]** 区域。 您从此创建的任何新项目都将属于此项目组合。 您还可以单击 **[!UICONTROL Existing Project]** 以从列表中选择现有项目。
+为项目组合命名，然后单击 **[!UICONTROL New Project]** 将项目添加到项目组合中。您可以通过多种方式创建新项目，就像在 **[!UICONTROL Projects]** 区域中一样。您在此处创建的任何新项目都归属于此项目组合。您还可以单击 **[!UICONTROL Existing Project]** 从列表中选择现有项目。
 
 ![新项目菜单的图像 ](assets/create-portfolio-3.png)
 
-## 在项目组合中创建项目
+## 在项目组合中创建项目群
 
-选择 **[!UICONTROL Programs]** 选项卡，然后单击 **[!UICONTROL New Program]** 以在此项目组合中创建新项目群，或单击 **[!UICONTROL Existing Program]** 从其他项目组合中窃取现有项目。
+选择 **[!UICONTROL Programs]** 选项卡，然后单击 **[!UICONTROL New Program]** 在此项目组合中创建新项目群，或单击 **[!UICONTROL Existing Program]** 从其他项目组合中窃取现有项目群。
 
-![新程序菜单的图像 ](assets/create-portfolio-4.png)
+![新项目群菜单的图像 ](assets/create-portfolio-4.png)
 
 <!--
 Pro-tips graphic

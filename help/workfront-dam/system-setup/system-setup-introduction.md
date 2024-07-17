@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8964
 doc-type: video
 source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
-workflow-type: ht
-source-wordcount: '31'
+workflow-type: tm+mt
+source-wordcount: '32'
 ht-degree: 100%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 在此视频中，您将：
 
-* 了解 [!UICONTROL Workfront DAM] 课程
+* 简要了解 [!UICONTROL Workfront DAM] 课程
 
 >[!VIDEO](https://video.tv.adobe.com/v/335227/?quality=12&learn=on)
 

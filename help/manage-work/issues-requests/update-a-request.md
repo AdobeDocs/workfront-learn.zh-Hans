@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: e2a8ab1d8139008c145f584c8c2181a082d1923b
 workflow-type: tm+mt
 source-wordcount: '63'
-ht-degree: 73%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 73%
 * 查找您提交的请求
 * 在“摘要”面板中进行更新
 * 打开请求页面
-* 在中更新请求 [!UICONTROL Updates] 面板
+* 在 [!UICONTROL Updates] 面板中更新请求
 
 >[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on)
 
