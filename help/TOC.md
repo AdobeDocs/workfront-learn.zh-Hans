@@ -3,8 +3,8 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 6677e36f4e1b1125ce313495c34991b78b8df577
-workflow-type: ht
+source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
+workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 100%
 
@@ -145,8 +145,8 @@ ht-degree: 100%
 
    + 请求队列 {#request-queues}
       + [了解请求队列](manage-work/request-queues/understand-request-queues.md)
-      + [了解流请求的设置](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [创建请求队列](manage-work/request-queues/create-a-request-queue.md)
+      + [了解流请求的设置](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [创建请求流](manage-work/request-queues/create-a-request-flow.md)
       + [创建系统管理员反馈请求队列](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [有关请求队列的常见问题解答](manage-work/request-queues/request-queue-faq.md)
