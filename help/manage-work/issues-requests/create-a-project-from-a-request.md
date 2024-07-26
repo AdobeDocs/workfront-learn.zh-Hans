@@ -1,6 +1,6 @@
 ---
 title: 将问题/请求转化为项目
-description: 了解如何启动从请求到项目的转换，选择适当的项目模板并完成转换。
+description: 了解如何从请求转换为项目、选择合适的项目模板并完成转换。
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -13,9 +13,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 5095d6bb-2721-47f1-be52-8e43d3edb2fd
 doc-type: video
 source-git-commit: 51d394ab53e2f704ccbcd088d688123fbc46fc13
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
