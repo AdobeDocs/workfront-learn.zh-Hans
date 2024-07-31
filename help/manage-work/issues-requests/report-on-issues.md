@@ -1,6 +1,6 @@
 ---
 title: 报告问题
-description: 了解如何创建显示未结问题和转化信息的报告。
+description: 了解如何创建显示未决问题和转换信息的报告。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,18 +13,18 @@ recommendations: noDisplay,noCatalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
 source-git-commit: 36b7f0a72be280fd46603443491ab8d83e4e41c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # 报告问题
 
-在本视频中，您将了解如何创建：
+在本视频中，您将学习如何创建：
 
-* 显示解析对象的问题报告
-* 显示已转换的问题信息的项目报告
+* 显示正在解决的对象的问题报告
+* 显示转换后的问题信息的项目报告
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3432002/?quality=12&learn=on)
