@@ -1,6 +1,6 @@
 ---
 title: 了解请求队列
-description: 了解什么是请求队列，如何通过请求队列提交请求，以及如何构建请求队列。
+description: 了解什么是请求队列，如何通过请求队列提交请求，以及请求队列如何构成。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
 source-git-commit: 79365fbcd031ca3d65100574c8bef27929c8ffe6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 50%
 
 在本视频中，您将了解到：
 
-* 什么是请求队列
+* 请求队列是什么
 * 如何通过请求队列提交请求
 * 请求队列的结构是如何设置的
 
