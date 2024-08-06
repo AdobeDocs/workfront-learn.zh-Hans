@@ -1,6 +1,6 @@
 ---
 title: 创建请求队列
-description: 了解如何在  [!DNL  Workfront] 中设置请求队列和建立队列详细信息。请按照以下步骤帮助您的组织管理工作量。
+description: 了解如何设置请求队列和建立队列详细信息。 请按照以下步骤帮助您的组织管理工作量。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -8,13 +8,15 @@ role: Admin, User
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335221.jpeg
+recommendations: noDisplay,noCatalog
 jira: KT-8958
+last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 09d46b1bb90b86af49bc300bba8822c93ee9e050
+source-git-commit: e43f7f6a9c95f02b69104ef62337efa6bbc10b14
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 100%
+source-wordcount: '76'
+ht-degree: 84%
 
 ---
 
@@ -28,16 +30,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on)
 
-## 到您了
+## 有关此主题的推荐教程
 
-让我们花一点时间回顾一下刚才向您展示的信息。
-
-**问题：**&#x200B;若要启用请求队列，必须具备以下哪项？（选择所有适用项）
-
-1. 项目状态 = 当前
-1. 选择请求类型中的“问题”
-1. 选择“发布为帮助请求队列”
-1. 项目状态 = 当前或规划中
-
-**答案：** 1) 项目状态 = 当前并且 3) 选择“发布为帮助请求队列”
+* [了解请求队列](/help/manage-work/request-queues/understand-request-queues.md)
+* [了解流请求的设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
 
