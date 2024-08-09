@@ -12,45 +12,45 @@ last-substantial-update: 2024-08-05T00:00:00Z
 jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 source-git-commit: 23ffb95ff506c7b3abc2202a689026f0c2ea21b2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '273'
-ht-degree: 22%
+ht-degree: 100%
 
 ---
 
 # 完成审批
 
-任务和问题审批是许多项目的一部分。 但未解决的审批会造成您无法将项目状态设置为“完成”。
+任务和问题的审批是许多项目的一部分。但未解决的审批会造成您无法将项目状态设置为“完成”。
 
-下面是如何找到并处理这些客户的。
+以下是找到它们并处理它们的方法。
 
-在项目的[!UICONTROL Task]部分中，选择包含[!UICONTROL Status]列的[!UICONTROL View]，如[!UICONTROL Status]视图。 快速浏览该列将显示任务是否未完成审批，状态名称后面是否带有单词“[!UICONTROL - Pending Approval]”。
+在项目的[!UICONTROL Task] 部分，选择包含[!UICONTROL Status]列的[!UICONTROL View]，例如[!UICONTROL Status]视图。快速浏览该列将显示是否有任务在状态名称后带有“[!UICONTROL - Pending Approval]”字样的未完成审批。
 
 ![显示未完成审批的项目](assets/pending-approval-1.png)
 
-当发现某个任务仍在等待批准时，您有两个选项可以选择：
+当您发现仍在等待审批的任务时，您有两个选择可以采取行动：
 
 
 ## 完成审批
 
-这可能意味着提醒分派人员未完成的批准。 您可以通过打开任务并单击批准区域中的三个点菜单来查看谁被指定为批准者。
+这可能意味着提醒被分配的人注意未完成的审批。您可以通过打开任务并点击审批区域中的三点菜单来查看谁被指定为审批者。
 
 ![任务显示审批区域](assets/pending-approval-2.png)
 
-此时将出现一个框，显示分配的批准者。
+将出现一个框，显示被分配的审批者。
 
-![任务显示已分配的审批者](assets/pending-approval-3.png)
+![任务显示分配的审批者](assets/pending-approval-3.png)
 
 
 ## 移除审批
 
-如果不需要批准，您可能需要将其删除。 您可以首先撤消批准，以执行此操作。 单击审批区域中的[!UICONTROL Recall]按钮。 这会将状态更改回其以前的状态，并允许您删除审批流程。
+如果不需要审批，您可能想要移除它。您可以通过首先撤回审批来做到这一点。点击审批区域中的[!UICONTROL Recall]按钮。这将把状态更改回之前的状态，并允许您移除审批流程。
 
-![显示撤回按钮的任务](assets/pending-approval-5.png)
+![任务显示撤回按钮](assets/pending-approval-5.png)
 
-现在，单击左侧的[!UICONTROL Approvals]选项卡，然后单击右上角的[!UICONTROL Remove]按钮。
+现在点击左侧的[!UICONTROL Approvals] 标签，然后点击右上角的[!UICONTROL Remove]按钮。
 
-![显示删除审批按钮的任务](assets/pending-approval-6.png)
+![任务显示移除审批按钮](assets/pending-approval-6.png)
 
 ## 处理问题审批
 
