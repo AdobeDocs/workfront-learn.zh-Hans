@@ -3,10 +3,10 @@ user-guide-description: Workfront 教程
 role: User
 level: Beginner
 feature-set: Workfront
-source-git-commit: 7f08765083adcc636f4f0241a5856b15fb9e92cf
-workflow-type: ht
-source-wordcount: '2346'
-ht-degree: 100%
+source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
+workflow-type: tm+mt
+source-wordcount: '2349'
+ht-degree: 99%
 
 ---
 
@@ -642,7 +642,8 @@ ht-degree: 100%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [工作负载均衡器](best-practices/workload-balancer-bp.md)
 
-
++ 面向主管的Workfront {#workfront-for-executives}
+   + [适用于高级管理人员的 Workfront](workfront-for-executives/workfront-for-executives.md)
 
 
 
@@ -650,7 +651,6 @@ ht-degree: 100%
 + [什么是 Scrum 方法以及它如何运作？](agile/what-is-the-scrum-methodology.md)
 + [什么是看板方法以及它如何运作？](agile/what-is-the-kanban-methodology.md)
 + [转向敏捷](agile/transitioning-to-agile.md)
-+ [适用于高级管理人员的 Workfront](workfront-for-executives/workfront-for-executives.md)
 + [管理请求 ](manage-work/issues-requests/manage-incoming-requests.md)
 + [了解资源产能图表](reporting/enhanced-analytics/19-resource-capacity-chart.md)
 
