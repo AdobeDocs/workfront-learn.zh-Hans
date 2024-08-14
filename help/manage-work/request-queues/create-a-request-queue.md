@@ -1,6 +1,6 @@
 ---
 title: 创建请求队列
-description: 了解如何设置请求队列和建立队列详细信息。 请按照以下步骤帮助您的组织管理工作量。
+description: 了解如何设置请求队列和建立队列详细信息。请按照以下步骤帮助您的组织管理工作量。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 76%
+ht-degree: 92%
 
 ---
 
