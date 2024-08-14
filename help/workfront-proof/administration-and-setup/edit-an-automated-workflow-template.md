@@ -13,9 +13,9 @@ jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
 source-git-commit: 55edb8b797583f93f405c9c6b69422b818c90cdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '535'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -23,18 +23,18 @@ ht-degree: 60%
 
 随着验证审核和审批流程的完善或组织发生变化，应更新自动化工作流模板，以反映使用 Workfront 的团队当前的操作情况。
 
-使模板保持最新可确保审核和批准流程的一致性，并且节省上传验证的时间，因为它们不必不断调整工作流。
+保持模板处于最新状态可确保审核和批准流程的一致性，同时还可节省上传证明的时间，因为他们不必不断调整工作流。
 
 1. 从 [!DNL Workfront] 中的 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Proofing]**。
 1. 从那里选择左侧面板菜单中的 **[!UICONTROL Workflows]**。
 1. 单击模板名称最右侧的三点菜单，然后选择 **[!UICONTROL View template details]**。
 
-用于共享、复制和删除模板的选项位于每个模板的模板详细信息窗口的顶部。删除模板不会影响已应用该模板的正在进行的验证，但这意味着该模板将无法再使用。
+用于共享、复制和删除模板的选项位于每个模板的模板详细信息窗口的顶部。删除模板不会影响应用该模板的正在进行的校对，但这意味着该模板无法再使用。
 
 ![模板详细信息窗口](assets/proof-system-setup-edit-templates-details-area.png)
 
 
-单击单词“[!UICONTROL Details]”左侧的箭头可展开或折叠该部分。
+单击“[!UICONTROL Details]”一词左侧的箭头可展开或折叠该部分。
 
 ## 更改阶段和收件人
 
@@ -42,18 +42,18 @@ ht-degree: 60%
 
 自动化工作流的每个阶段都有自己的部分，以便能够独立修改截止日期、隐私、验证收件人和其他信息。
 
-此视频演示了您可以在[!UICONTROL Workflow]区域中进行的一些更改。 请参阅此视频下的项目符号列表，其中介绍了这些设置。
+本视频演示了您可以在 [!UICONTROL Workflow] 区域中进行的一些更改。请参阅此视频下的项目符号列表，其中列出了这些设置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on)
 
 作为回顾，以下是您可以在 [!UICONTROL Workflow] 部分中对验证模板进行的更改：
 
-* 单击阶段名称字段或截止日期字段以更新该信息。
-* 单击截止日期左侧的箭头可锁定阶段、确定何时激活阶段或仅需要一个决策。
+* 单击阶段名称字段或截止日期字段来更新该信息。
+* 单击截止日期左侧的箭头可以锁定该阶段、确定何时激活该阶段或仅要求做出一个决定。
 * 在收件人列表中，单击 [!UICONTROL Role] 或 [!UICONTROL Email alerts] 字段以选择另一个选项。
-* 转到收件人姓名最右侧的3个圆点菜单，以将其从列表中删除，使其成为该工作流阶段的主要决策者，或编辑验证角色和电子邮件警报信息。
-* 要向列表添加收件人，您有两个选项。
-   1. 在每个阶段部分的右上角，转到[!UICONTROL More]菜单并选择[!UICONTROL Add people to stage]。 打开[!UICONTROL Add people to stage]窗口后，单击将其添加到哪个阶段。 然后在收件人列表中输入他们的姓名或电子邮件地址，并分配验证角色和电子邮件提醒。完成后，单击[!UICONTROL Add people]按钮。
+* 转到收件人姓名最右侧的三点菜单，将其从列表中删除，将他们设为该工作流阶段的主要决策者，或编辑校样角色和电子邮件警报信息。
+* 您有两种选择可将收件人添加到列表中。
+   1. 在每个阶段部分的右上角，转到 [!UICONTROL More] 菜单并选择 [!UICONTROL Add people to stage]。打开 [!UICONTROL Add people to stage] 窗口后，单击要将其添加到的那个阶段。然后在收件人列表中输入他们的姓名或电子邮件地址，并分配验证角色和电子邮件提醒。完成后单击 [!UICONTROL Add people] 按钮。
    1. 在 [!UICONTROL Workflow] 区域的顶部，选择 [!UICONTROL Add people to stage]。
 
 ## 模板共享
