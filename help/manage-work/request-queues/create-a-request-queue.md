@@ -14,9 +14,9 @@ last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '76'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -33,6 +33,6 @@ ht-degree: 92%
 ## 有关此主题的推荐教程
 
 * [了解请求队列](/help/manage-work/request-queues/understand-request-queues.md)
-* [了解请求流的设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-* [创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
+* [了解请求流量的设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+* [创建请求流量](/help/manage-work/request-queues/create-a-request-flow.md)
 

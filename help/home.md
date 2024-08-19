@@ -3,7 +3,7 @@ title: Workfront 教程
 description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
 source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 

@@ -1,6 +1,6 @@
 ---
-title: 了解请求流的设置
-description: 了解请求流以及如何使用路由规则、主题组和队列主题创建请求流。
+title: 了解请求流量的设置
+description: 了解请求流量以及如何使用路由规则、主题组和队列主题创建请求流量。
 activity: delpoy
 feature: Work Management
 type: Tutorial
@@ -14,13 +14,13 @@ last-substantial-update: 2024-08-12T00:00:00Z
 exl-id: 7def260c-7542-4b9e-b2fb-afa5f79e164b
 doc-type: video
 source-git-commit: 0a0af5e441a09c20eb27e2cd31c7e2586403c984
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 61%
+ht-degree: 100%
 
 ---
 
-# 了解请求流的设置
+# 了解请求流量的设置
 
 在本视频中，您将了解到：
 

@@ -4,9 +4,9 @@ role: User
 level: Beginner
 feature-set: Workfront
 source-git-commit: b1d18759bf3dbe03888f02c7d9b13794064337c0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2349'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -146,7 +146,7 @@ ht-degree: 99%
    + 请求队列 {#request-queues}
       + [了解请求队列](manage-work/request-queues/understand-request-queues.md)
       + [创建请求队列](manage-work/request-queues/create-a-request-queue.md)
-      + [了解请求流的设置](manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [了解请求流量的设置](manage-work/request-queues/understand-settings-for-a-flow-request.md)
       + [创建请求流](manage-work/request-queues/create-a-request-flow.md)
       + [创建系统管理员反馈请求队列](manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [有关请求队列的常见问题解答](manage-work/request-queues/request-queue-faq.md)
@@ -642,7 +642,7 @@ ht-degree: 99%
    + [Workfront Goals](best-practices/workfront-goals-bp.md)
    + [工作负载均衡器](best-practices/workload-balancer-bp.md)
 
-+ 面向主管的Workfront {#workfront-for-executives}
++ 高级管理人员的 Workfront{#workfront-for-executives}
    + [适用于高级管理人员的 Workfront](workfront-for-executives/workfront-for-executives.md)
 
 
