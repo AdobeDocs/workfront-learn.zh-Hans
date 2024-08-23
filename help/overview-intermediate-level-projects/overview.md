@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '119'
 ht-degree: 15%
@@ -38,6 +38,6 @@ ht-degree: 15%
 
 ## 教程
 
-* [了解和管理持续时间类型和任务限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-* [了解跨项目前置任务](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-* [高级前置任务](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+* [了解和管理持续时间类型和任务限制](understand-and-manage-duration-types-and-task-constraints.md)
+* [了解跨项目前置任务](understand-cross-project-predecessors.md)
+* [高级前置任务](advanced-predecessors.md)

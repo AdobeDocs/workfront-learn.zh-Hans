@@ -5,10 +5,10 @@ breadcrumb-title: 中级项目概述
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 4de19871b69d3d1eec2793065046072dec0ae5c1
+source-git-commit: f9040b5e59bedfd18c9010acadfa755a3886d90f
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 25%
 
 ---
 
@@ -17,7 +17,8 @@ ht-degree: 0%
 # 中级项目概述 {#intermediate-level-projects}
 
 + [中级项目概述](overview.md)
-+ [了解和管理持续时间类型和任务限制](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints)
-+ [了解跨项目前置任务](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors)
-+ [高级前置任务](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/advanced-predecessors)
++ 中间级别项目{#intermediate-level-projects}
+   + [了解和管理持续时间类型和任务限制](understand-and-manage-duration-types-and-task-constraints.md)
+   + [了解跨项目前置任务](understand-cross-project-predecessors.md)
+   + [高级前置任务](advanced-predecessors.md)
 
