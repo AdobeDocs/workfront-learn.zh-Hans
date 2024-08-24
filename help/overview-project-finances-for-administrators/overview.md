@@ -12,7 +12,7 @@ jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 23%
@@ -37,8 +37,8 @@ ht-degree: 23%
 
 ## 教程
 
-* [了解绩效指标](/help/manage-work/project-finances/understand-performance-metrics.md)
-* [设置任务收入和成本默认值](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
-* [设置汇率](/help/manage-work/project-finances/set-up-exchange-rates.md)
-* [设置费用类型](/help/manage-work/project-finances/set-up-expense-types.md)
-* [了解财务访问权限](/help/manage-work/project-finances/understand-financial-access.md)
+* [了解绩效指标](understand-performance-metrics.md)
+* [设置任务收入和成本默认值](set-up-task-revenue-and-cost-defaults.md)
+* [设置汇率](set-up-exchange-rates.md)
+* [设置费用类型](set-up-expense-types.md)
+* [了解财务访问权限](understand-financial-access.md)

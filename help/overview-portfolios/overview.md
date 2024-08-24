@@ -12,7 +12,7 @@ jira: KT-14120
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: ea8872374e82030b8c0c5837685b6a1d1b392935
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 16%
@@ -36,6 +36,6 @@ ht-degree: 16%
 
 ## 教程
 
-* [了解项目组合](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-* [了解 [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-* [使用 [!UICONTROL Portfolio Optimizer] 确定工作的优先顺序并对其进行管理](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+* [了解项目组合](overview-of-adobe-workfront-portfolios.md)
+* [了解 [!UICONTROL Business Case]](introduction-to-the-business-case.md)
+* [使用 [!UICONTROL Portfolio Optimizer] 确定工作的优先顺序并对其进行管理](prioritize-and-manage-work-with-portfolios.md)

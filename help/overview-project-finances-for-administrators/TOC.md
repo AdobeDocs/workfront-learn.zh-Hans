@@ -5,10 +5,10 @@ breadcrumb-title: Portfolio概述
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 6ebba027798650f74c0abe3a7498c65c0a55dd68
+source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 0%
+source-wordcount: '61'
+ht-degree: 32%
 
 ---
 
@@ -17,10 +17,11 @@ ht-degree: 0%
 # 管理员项目财务概述 {#project-finances-for-administrators}
 
 + [管理员项目财务概述](overview.md)
-+ [了解性能指标](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-performance-metrics)
-+ [设置任务收入和成本默认值](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-task-revenue-and-cost-defaults)
-+ [设置汇率](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-exchange-rates)
-+ [设置费用类型](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/set-up-expense-types)
-+ [了解财务访问权限](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/administration-and-setup/project-finances/understand-financial-access)
++ 管理员的项目财务{#project-finances-for-administrators}
+   + [了解绩效指标](understand-performance-metrics.md)
+   + [设置任务收入和成本默认值](set-up-task-revenue-and-cost-defaults.md)
+   + [设置汇率](set-up-exchange-rates.md)
+   + [设置费用类型](set-up-expense-types.md)
+   + [了解财务访问权限](understand-financial-access.md)
 
 
