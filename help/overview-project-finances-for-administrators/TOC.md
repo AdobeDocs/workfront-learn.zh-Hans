@@ -1,14 +1,14 @@
 ---
 user-guide-title: 管理员项目财务概述
 user-guide-description: 了解如何根据当前和提议项目的成本、价值、风险以及与组织目标的协调情况，确定它们的优先级。
-breadcrumb-title: Portfolio概述
+breadcrumb-title: 管理员项目财务概述
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 32%
+source-wordcount: '64'
+ht-degree: 31%
 
 ---
 
