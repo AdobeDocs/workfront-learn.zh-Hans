@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 2fba61a64bbf18a485a4cda08102cdb9da9a5d1b
+source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
 workflow-type: tm+mt
-source-wordcount: '2349'
-ht-degree: 100%
+source-wordcount: '2354'
+ht-degree: 99%
 
 ---
 
@@ -33,6 +33,7 @@ ht-degree: 100%
       + [创建和管理问题严重性](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [自定义问题类型和术语](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [配置全局默认问题首选项](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
+      + [创建和管理业务规则](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + 布局模板 {#layout-templates}
       + [什么是布局模板？](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
