@@ -2,14 +2,14 @@
 user-guide-title: 管理工作 — 中间
 user-guide-description: 在了解创建、规划和管理项目的基础知识后，您还应了解其他一些事项才能充分利用Workfront。
 feature: Work Management
-breadcrumb-title: 以项目经理身份管理工作的进一步认识概述
+breadcrumb-title: 管理工作 — 中间
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 65%
+source-wordcount: '180'
+ht-degree: 64%
 
 ---
 
@@ -49,11 +49,6 @@ ht-degree: 65%
       + [将问题/请求转化为项目](create-a-project-from-a-request.md)
       + [将问题/请求转化为任务](convert-issues-to-other-work-items.md)
       + [报告问题](report-on-issues.md)
-
-   + 项目时间线 {#project-timelines}
-      + [了解项目时间线](understand-project-timelines.md)
-      + [了解日期类型和进度状态](understand-task-dates-and-progress-status.md)
-      + [从项目时间线跟踪进度](track-work-progress-from-the-project-timeline.md)
 
    + 正在深入挖掘{#digging-deeper}
       + [了解和管理持续时间类型和任务限制](understand-and-manage-duration-types-and-task-constraints.md)

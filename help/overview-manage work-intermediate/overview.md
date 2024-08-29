@@ -12,10 +12,10 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5362e8a60d39e61021bb9ab22e3d9afffd41f96a
+source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
 workflow-type: tm+mt
-source-wordcount: '885'
-ht-degree: 1%
+source-wordcount: '796'
+ht-degree: 0%
 
 ---
 
@@ -73,6 +73,7 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 * [应用里程碑](apply-milestones.md) — 了解如何将里程碑路径应用到项目并将关键任务关联为项目中的里程碑步骤。
 * [查看里程碑](view-milestones.md) — 了解如何在Adobe Workfront项目中查看里程碑，以及使用项目区域中的里程碑视图。
 
+
 ## 如何处理问题
 
 了解如何处理有关问题的计划外工作、将问题转换为其他工作项、管理问题分配以及报告问题。
@@ -86,13 +87,6 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 * [将问题/请求转化为任务](convert-issues-to-other-work-items.md) — 了解如何将问题转化为任务。
 * [问题报告](report-on-issues.md) — 了解如何创建显示解析对象的问题报告以及显示转换的问题信息的项目报告。
 
-## 项目时间线
-
-了解如何计划项目并跟踪其进度。
-
-* [了解项目时间表](understand-project-timelines.md) — 了解如何从开始日期或完成日期开始计划项目。 然后了解持续时间、前置任务和任务限制如何影响项目计划。
-* [了解日期类型和进度状态](understand-task-dates-and-progress-status.md) — 了解如何选择一个视图以比较Workfront的各种日期类型，以及如何使用进度状态字段。
-* [从项目时间线跟踪进度](track-work-progress-from-the-project-timeline.md) — 了解如何使用完成百分比、状态、分派和任务限制从项目时间线跟踪工作进度。
 
 ## 深入挖掘
 
