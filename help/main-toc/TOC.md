@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: dc444153581cf435917c6bc32e2272c60f3b3aea
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '2354'
+source-wordcount: '2359'
 ht-degree: 99%
 
 ---
@@ -585,6 +585,12 @@ ht-degree: 99%
 
 + 敏捷 {#agile}
 
+   + Agile工作管理简介{#intro-to-agile}
+      + [使用敏捷方法的益处](/help/agile/benefits-of-using-agile.md)
+      + [什么是 Scrum 方法以及它如何运作？](/help/agile/what-is-the-scrum-methodology.md)
+      + [什么是看板方法以及它如何运作？](/help/agile/what-is-the-kanban-methodology.md)
+      + [转向敏捷](/help/agile/transitioning-to-agile.md)
+
    + Scrum {#scrum}
       + [创建一个 Scrum 敏捷团队](/help/agile/create-a-scrum-agile-team.md)
       + [作为 Scrum 团队管理工作](/help/agile/manage-work-scrum-team.md)
@@ -645,10 +651,7 @@ ht-degree: 99%
 
 
 
-+ [使用敏捷方法的益处](/help/agile/benefits-of-using-agile.md)
-+ [什么是 Scrum 方法以及它如何运作？](/help/agile/what-is-the-scrum-methodology.md)
-+ [什么是看板方法以及它如何运作？](/help/agile/what-is-the-kanban-methodology.md)
-+ [转向敏捷](/help/agile/transitioning-to-agile.md)
+
 + [管理请求 ](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [了解资源产能图表](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 

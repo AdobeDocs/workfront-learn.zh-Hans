@@ -1,22 +1,22 @@
 ---
-user-guide-title: 管理员项目财务概述
-user-guide-description: 了解如何根据当前和提议项目的成本、价值、风险以及与组织目标的协调情况，确定它们的优先级。
-breadcrumb-title: 管理员项目财务概述
+user-guide-title: 管理员的项目财务
+user-guide-description: 了解如何建立系统范围的财务设置，以确保组织内计费和报告的一致性。
+breadcrumb-title: 管理员的项目财务
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 2351b6ff9977fd8a81289ab2fad28e21322d347e
+source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 31%
+source-wordcount: '57'
+ht-degree: 63%
 
 ---
 
 
 
-# 管理员项目财务概述 {#project-finances-for-administrators}
+# 管理员的项目财务 {#project-finances-for-administrators}
 
-+ [管理员项目财务概述](overview.md)
++ [管理员的项目财务](overview.md)
 + 管理员的项目财务{#project-finances-for-administrators}
    + [了解绩效指标](understand-performance-metrics.md)
    + [设置任务收入和成本默认值](set-up-task-revenue-and-cost-defaults.md)
