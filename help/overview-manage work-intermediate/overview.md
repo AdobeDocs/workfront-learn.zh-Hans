@@ -12,7 +12,7 @@ jira: KT-10671
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '796'
 ht-degree: 0%
@@ -52,7 +52,6 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 * [停用项目模板](deactivate-a-project-template.md) — 了解如何激活和停用项目模板。
 * [在项目模板中编辑项目团队](edit-the-project-team-in-a-project-template.md) — 了解如何避免在模板项目团队中无意地包含&#x200B;**非**&#x200B;项目团队成员，以及如何编辑模板项目团队。
 
-
 ## 如何创建和使用审批流程
 
 了解如何创建审批流程、将其附加到工作流、审查数字工作和委派审批。
@@ -64,7 +63,6 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 * [了解更新和通知](understand-updates-and-notifications.md) — 了解如何更新审批请求并查找通知。
 * [委派任务、问题和审批](delegate-approvals.md) — 了解如何将项目、任务、问题和工时记录卡的审批委派给其他Adobe Workfront用户。
 
-
 ## 如何创建和使用里程碑
 
 了解如何创建里程碑路径、将里程碑应用于任务以及查看里程碑报告。
@@ -72,7 +70,6 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 * [创建里程碑](creating-milestones.md) — 了解里程碑路径是什么、如何创建里程碑路径以及如何向项目添加里程碑步骤。
 * [应用里程碑](apply-milestones.md) — 了解如何将里程碑路径应用到项目并将关键任务关联为项目中的里程碑步骤。
 * [查看里程碑](view-milestones.md) — 了解如何在Adobe Workfront项目中查看里程碑，以及使用项目区域中的里程碑视图。
-
 
 ## 如何处理问题
 
@@ -86,7 +83,6 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 * [将问题/请求转化为项目](create-a-project-from-a-request.md) — 了解如何启动从请求到项目的转换并选择适当的项目模板。
 * [将问题/请求转化为任务](convert-issues-to-other-work-items.md) — 了解如何将问题转化为任务。
 * [问题报告](report-on-issues.md) — 了解如何创建显示解析对象的问题报告以及显示转换的问题信息的项目报告。
-
 
 ## 深入挖掘
 

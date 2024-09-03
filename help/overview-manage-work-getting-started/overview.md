@@ -12,7 +12,7 @@ jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,noCatalog
 index: y
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
 workflow-type: tm+mt
 source-wordcount: '964'
 ht-degree: 4%
@@ -42,7 +42,6 @@ ht-degree: 4%
 * [了解创建项目的四种方法](understand-other-ways-to-create-projects.md) — 了解如何从模板创建项目、从头开始创建项目、复制现有项目或导入[!DNL Microsoft Project]文件。
 * [填写项目详细信息](fill-in-the-project-details.md) — 了解Adobe Workfront建议您在创建项目时填写的项目详细信息字段。
 * [导航项目页面](navigate-the-project-page.md) — 了解如何查看项目的详细信息、任务列表中显示的信息、上传文档的位置以及如何查看更新历史记录。
-
 
 ## 计划项目
 
@@ -76,7 +75,6 @@ ht-degree: 4%
 * [从项目时间线跟踪进度](track-work-progress-from-the-project-timeline.md) — 了解如何使用完成百分比、状态、分派和任务限制从项目时间线跟踪工作进度。
 * [了解[!UICONTROL Gantt]视图](understand-the-gantt-view.md) — 了解如何使用项目[!UICONTROL Gantt]图表和任务[!UICONTROL Gantt]图表。
 * [了解[!UICONTROL Board]视图](understand-the-board-view.md) — 了解在何处查找讨论区视图以及如何使用它。
-
 
 ## 关闭项目
 
