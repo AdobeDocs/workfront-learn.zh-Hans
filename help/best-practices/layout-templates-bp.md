@@ -6,7 +6,7 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10913
 exl-id: bfcea59d-7746-40aa-989d-6e2b7e312a2b
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 1275ca2f30453df06cfcf9944798a1c89111a6de
 workflow-type: tm+mt
 source-wordcount: '741'
 ht-degree: 100%
@@ -111,3 +111,4 @@ ht-degree: 100%
 **原因如下**
 
 在制作布局模板时，请尝试以尽可能满足团队、组、分配获得相同工作角色等大多数人需求的方式制作这些模板。减少布局模板意味着系统和组管理员所需进行的维护更少。
+
