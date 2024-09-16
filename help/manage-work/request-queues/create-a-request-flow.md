@@ -1,6 +1,6 @@
 ---
 title: 创建请求流量
-description: 了解如何配置队列主题、主题组和路由规则以帮助管理请求和工作摄取。
+description: 了解如何配置队列主题、主题组和路由规则，以帮助管理请求和工作量。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -14,9 +14,9 @@ recommendations: noDisplay,noCatalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
 source-git-commit: ae55edf4d206e4eaa0874f2ba8504020cf8a85d2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 66%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 66%
 >[!PREREQUISITES]
 >
 >* [创建请求队列](/help/manage-work/request-queues/create-a-request-queue.md)
->* [了解请求流的设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+>* [了解请求流量的设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
 
 >[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
 
