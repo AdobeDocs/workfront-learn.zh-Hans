@@ -9,10 +9,10 @@ last-substantial-update: 2024-09-16T00:00:00Z
 recommendations: noDisplay,noCatalog
 jira: KT-10101
 exl-id: bfa3ae5f-9618-444c-9eb8-5d82db9a77c7
-source-git-commit: e9a4f2bcd39e2598ff540bb4f300e891e817e939
+source-git-commit: eefabcd7721663ba1ee704127b846b8fe95f7f3b
 workflow-type: tm+mt
-source-wordcount: '672'
-ht-degree: 49%
+source-wordcount: '698'
+ht-degree: 47%
 
 ---
 
@@ -49,6 +49,10 @@ ht-degree: 49%
 **我可以将信息从请求自定义表单传输到项目自定义表单吗？**
 
 可以。创建自定义表单时，请同时选择 [!UICONTROL Project] 和 [!UICONTROL Issue] 作为对象类型。您还可以编辑项目自定义表单以包括问题对象类型，反之亦然。
+
+![显示创建自定义表单时如何选择2种对象类型的图像](assets/faq-image-1.png)
+
+![显示编辑自定义表单时如何选择2种对象类型的图像](assets/faq-image-2.png)
 
 在请求中附加自定义表单。当您将请求转化为项目时，自定义表单会自动附加到新项目中，并且所有字段中包含的值都会同时显示在请求自定义表单和项目自定义表单中。
 
