@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 5c71f8a9114a1f00da0e889da04f35cce11c5bde
+source-git-commit: b0114985964736fb7bb234c581cb56930714915c
 workflow-type: tm+mt
-source-wordcount: '2359'
+source-wordcount: '2362'
 ht-degree: 99%
 
 ---
@@ -33,7 +33,7 @@ ht-degree: 99%
       + [创建和管理问题严重性](/help/administration-and-setup/configure-system-defaults/create-and-manage-issue-severities.md)
       + [自定义问题类型和术语](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [配置全局默认问题首选项](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
-      + [创建和管理业务规则](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [创建和管理业务规则。](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
 
    + 布局模板 {#layout-templates}
       + [什么是布局模板？](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -155,7 +155,7 @@ ht-degree: 99%
       + [使用 [!UICONTROL Portfolio Optimizer] 确定工作的优先顺序并对其进行管理](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 审批流程和里程碑路径 {#approval-processes-and-milestone-paths}
-      + [创建一次性的审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+      + [创建全局和一次性审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [附加和编辑现有审批流程](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [审查和审批数字作品](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
