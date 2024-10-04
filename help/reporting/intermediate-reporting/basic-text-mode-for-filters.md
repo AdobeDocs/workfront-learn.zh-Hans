@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2024-10-04T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 61b6971457198d2c39cc4dab67aebc6e8c6988f6
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 100%
+source-wordcount: '424'
+ht-degree: 95%
 
 ---
 
@@ -46,6 +47,11 @@ ht-degree: 100%
 ## 任务 - 过滤掉我标记为“已完成我负责的部分”的任务
 
 以下文本模式将会排除用户标记为“已完成我负责的部分”的任务。您所要做的就是创建一个任务过滤器，添加所需的任何过滤规则，然后切换到文本模式，并将下面的代码粘贴到您在过滤器中看到的任何文本模式之后。
+
+
+>[!WARNING]
+>
+> 这不适用于日历过滤器。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN  
@@ -85,6 +91,10 @@ predecessorsMM:projectID_Mod=ne
 ## 任务 - 显示我分配给其他人的所有任务
 
 使用所需的任何过滤器创建任务报告，然后转到“过滤器”选项卡并单击“切换到文本模式”。将此代码添加到现有代码中：
+
+>[!WARNING]
+> 
+> 这不适用于日历过滤器。
 
 ```
 EXISTS:1:$$OBJCODE=ASSGN

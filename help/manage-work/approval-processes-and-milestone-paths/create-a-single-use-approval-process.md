@@ -13,9 +13,9 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
-workflow-type: ht
-source-wordcount: '436'
+source-git-commit: bd743add8bad572a638d4cd0999aeefe1fb3bfc8
+workflow-type: tm+mt
+source-wordcount: '430'
 ht-degree: 100%
 
 ---
@@ -54,7 +54,6 @@ ht-degree: 100%
 ## 有关此主题的推荐教程
 
 * [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-* [附加和编辑现有审批流程](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
 * [了解特定于群组的审批流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
 

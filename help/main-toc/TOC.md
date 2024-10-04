@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: b0114985964736fb7bb234c581cb56930714915c
+source-git-commit: 7c2fb562c6f65eeeed7908d0c6f2f071ac176c33
 workflow-type: tm+mt
-source-wordcount: '2362'
+source-wordcount: '2356'
 ht-degree: 99%
 
 ---
@@ -156,7 +156,6 @@ ht-degree: 99%
 
    + 审批流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建全局和一次性审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-      + [附加和编辑现有审批流程](/help/manage-work/approval-processes-and-milestone-paths/attach-and-edit-existing-approval-processes.md)
       + [审查和审批数字作品](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [应用里程碑](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
