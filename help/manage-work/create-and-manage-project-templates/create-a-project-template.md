@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-08-31T00:00:00Z
+last-substantial-update: 2024-10-11T00:00:00Z
+recommendations: noDisplay,noCatalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '367'
 ht-degree: 100%
 
 ---
@@ -53,3 +54,11 @@ Workfront 用户可以使用 [!UICONTROL Blueprints] 来帮助构建项目模板
 ![关于安装 Blueprint 的详细信息](assets/pt-blueprints-04.png)
 
 如果尚未安装 Blueprint，您可以向系统管理员请求安装。
+
+## 有关此主题的推荐教程
+
+* [直接从模板创建项目](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [共享项目模板](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [在项目模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

@@ -8,11 +8,12 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '197'
 ht-degree: 100%
 
 ---
@@ -37,3 +38,11 @@ ht-degree: 100%
 
 
 ![新项目收藏夹模板](assets/direct-template-03.png)
+
+## 有关此主题的推荐教程
+
+* [创建项目模板并了解 Blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [共享项目模板](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [在项目模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
