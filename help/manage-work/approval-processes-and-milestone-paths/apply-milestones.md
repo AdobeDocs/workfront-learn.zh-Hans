@@ -1,6 +1,6 @@
 ---
 title: 应用里程碑
-description: 了解如何将里程碑路径应用到项目并将关键任务关联为项目中的里程碑步骤。
+description: 了解如何将里程碑路径应用于项目，以及将关键任务关联为项目内的里程碑步骤。
 feature: Work Management
 thumbnail: 335205.jpeg
 type: Tutorial
@@ -14,9 +14,9 @@ jira: KT-8933
 exl-id: 69674b7b-21e3-48b1-9385-7446e3124b83
 doc-type: video
 source-git-commit: 56f1f6d0a8d4014b5cc1c4bf8dbc286a27eff671
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
