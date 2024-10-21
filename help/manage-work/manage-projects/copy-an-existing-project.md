@@ -12,15 +12,15 @@ recommendations: noDisplay,noCatalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 source-git-commit: 434069d95777eef7739917d8761c03a8e64b8433
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '155'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
 # 复制现有项目
 
-有时，您只需要复制一个项目以供一次性使用，而不需要使用模板来创建项目。要执行此操作，您必须拥有对项目具有“编辑”和“创建”权限的“标准”许可证。
+有时，您只需要复制一个项目以供一次性使用，而不需要使用模板来创建项目。为此，您必须拥有标准许可，并具有编辑和创建项目的访问权限。
 
 导航到要复制的项目，然后单击项目名称旁边的三点菜单。然后选择“复制”。
 
