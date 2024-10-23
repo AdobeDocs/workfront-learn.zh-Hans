@@ -1,6 +1,6 @@
 ---
 title: 了解操作：悬停、单击并拖动以及单击
-description: 了解如何通过将鼠标悬停在图表上来获取更多信息、在图表上创建时间范围以及如何显示其他图表，所有这些都可在 [!UICONTROL Enhanced Analytics] 中实现。
+description: 了解如何通过将鼠标悬停在图表上来获取更多信息、在图表上创建时间范围以及如何显示其他图表，所有这些都可在 [!UICONTROL Enhanced analytics] 中实现。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335044.png
@@ -12,7 +12,7 @@ jira: KT-8722
 recommendations: noDisplay,noCatalog
 exl-id: 8e0f24d7-a099-4a08-af08-8d150104fdb9
 doc-type: video
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '293'
 ht-degree: 100%

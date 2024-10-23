@@ -1,6 +1,6 @@
 ---
 title: 了解日期范围和时间范围
-description: 在 [!UICONTROL Enhanced Analytics] 中，日期范围是使用日程表构件指定的。时间范围是在图表中创建的。
+description: 在 [!UICONTROL Enhanced analytics] 中，日期范围是使用日程表构件指定的。时间范围是在图表中创建的。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,noCatalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '313'
 ht-degree: 100%

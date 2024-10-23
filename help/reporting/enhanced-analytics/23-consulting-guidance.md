@@ -1,6 +1,6 @@
 ---
 title: 了解咨询指导
-description: 了解如何提出建议，以帮助您的组织通过使用 Workfront 中的 [!UICONTROL Enhanced Analytics] 来提高运营效率。
+description: 了解如何提出建议，以帮助您的组织通过使用 Workfront 中的 [!UICONTROL Enhanced analytics] 来提高运营效率。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335056.png
@@ -12,7 +12,7 @@ jira: KT-8723
 recommendations: noDisplay,noCatalog
 exl-id: 304fad15-1ffd-4282-b90f-0be31b2a08c6
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '39'
 ht-degree: 100%

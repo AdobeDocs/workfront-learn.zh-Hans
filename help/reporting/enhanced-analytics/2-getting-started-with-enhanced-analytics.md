@@ -1,5 +1,5 @@
 ---
-title: 开始使用 [!UICONTROL Enhanced Analytics]
+title: 开始使用 [!UICONTROL Enhanced analytics]
 description: 了解要在 Workfront 中更新的最重要字段，以便增强的 Analytics 在 Workfront 中向您展示您的团队和项目的进展情况。
 activity: use
 team: Technical Marketing
@@ -11,14 +11,14 @@ level: Beginner
 jira: KT-10027
 recommendations: noDisplay,noCatalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '276'
 ht-degree: 100%
 
 ---
 
-# 开始使用 [!UICONTROL Enhanced Analytics]
+# 开始使用 [!UICONTROL Enhanced analytics]
 
 增强的 Analytics 可以在 Workfront 中向您展示您的团队和项目的进展情况，以及此前项目中发生的情况，您可以从中学习，从而帮助规划未来的项目。
 

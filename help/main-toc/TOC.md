@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '2350'
+ht-degree: 99%
 
 ---
 
@@ -236,10 +236,10 @@ ht-degree: 0%
       + [了解其他日程表报告选项](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [轮到您创建日程表报告了](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 已优化的分析 {#enhanced-analytics}
-      + [关于 [!UICONTROL Enhanced Analytics] 的产品时刻](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
-      + [开始使用 [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
-      + [如何访问 [!UICONTROL Enhanced Analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
+   + 增强的分析{#enhanced-analytics}
+      + [关于 [!UICONTROL Enhanced analytics] 的产品时刻](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
+      + [开始使用 [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
+      + [如何访问 [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
       + [了解基本导航](/help/reporting/enhanced-analytics/4-basic-navigation.md)
       + [了解工作和人员图表](/help/reporting/enhanced-analytics/5-work-and-people-charts.md)
       + [了解过滤器](/help/reporting/enhanced-analytics/6-filters-overview.md)

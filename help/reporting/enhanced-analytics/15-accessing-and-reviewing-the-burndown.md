@@ -1,6 +1,6 @@
 ---
 title: 了解如何访问和查看燃尽图
-description: 了解如何访问燃尽图并了解 [!UICONTROL Enhanced Analytics] 中剩余时间、项目完成情况和项目速度之间的关系。
+description: 了解如何访问燃尽图并了解 [!UICONTROL Enhanced analytics] 中剩余时间、项目完成情况和项目速度之间的关系。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335051.png
@@ -12,7 +12,7 @@ jira: KT-8734
 recommendations: noDisplay,noCatalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 100%

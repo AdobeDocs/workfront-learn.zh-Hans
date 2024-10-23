@@ -1,6 +1,6 @@
 ---
 title: 了解导航和审查项目
-description: 了解如何阅读 [!UICONTROL Enhanced Analytics] 中的任务执行计划图表。
+description: 了解如何阅读 [!UICONTROL Enhanced analytics] 中的任务执行计划图表。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335047.png
@@ -12,7 +12,7 @@ jira: KT-8729
 recommendations: noDisplay,noCatalog
 exl-id: 1409a1af-3bdb-40f7-af01-f9de2357b602
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '457'
 ht-degree: 100%

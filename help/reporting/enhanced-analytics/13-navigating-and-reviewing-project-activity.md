@@ -1,6 +1,6 @@
 ---
 title: 了解导航和审查项目活动
-description: 了解如何根据 [!UICONTROL Enhanced Analytics] 中登录的用户、任务状态更改和完成的任务来比较项目。
+description: 了解如何根据 [!UICONTROL Enhanced analytics] 中登录的用户、任务状态更改和完成的任务来比较项目。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335049.png
@@ -12,7 +12,7 @@ jira: KT-8731
 recommendations: noDisplay,noCatalog
 exl-id: 26ac507d-b3c6-400f-9ac6-42ef493f9380
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%

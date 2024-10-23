@@ -1,6 +1,6 @@
 ---
 title: 了解团队产能
-description: 了解 [!UICONTROL Enhanced Analytics] 中的团队产能图表如何显示主团队超额分配或分配不足的情况。
+description: 了解 [!UICONTROL Enhanced analytics] 中的团队产能图表如何显示主团队超额分配或分配不足的情况。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10047
 recommendations: noDisplay,noCatalog
 exl-id: 59f86c60-19a5-4be6-920c-8e2fc18e52a7
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '381'
 ht-degree: 100%

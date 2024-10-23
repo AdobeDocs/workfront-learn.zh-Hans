@@ -1,6 +1,6 @@
 ---
 title: 更深入地了解如何使用时间范围和其他图表
-description: 了解如何通过任务执行计划图表对项目进行深入分析，以使燃尽图和“正在执行的任务”图表在 [!UICONTROL Enhanced Analytics] 中显示。
+description: 了解如何通过任务执行计划图表对项目进行深入分析，以使燃尽图和“正在执行的任务”图表在 [!UICONTROL Enhanced analytics] 中显示。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335048.png
@@ -12,7 +12,7 @@ jira: KT-8730
 recommendations: noDisplay,noCatalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%

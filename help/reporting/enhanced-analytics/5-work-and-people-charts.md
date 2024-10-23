@@ -1,6 +1,6 @@
 ---
 title: 了解工作和人员图表
-description: 在 [!UICONTROL Enhanced Analytics] 中，工作图表会从项目和任务的角度显示活动，而人员图表则会从主团队的角度显示活动。
+description: 在 [!UICONTROL Enhanced analytics] 中，工作图表会从项目和任务的角度显示活动，而人员图表则会从主团队的角度显示活动。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,noCatalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: b41fbb673e46687e7f2b49ee77bc026d22774540
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '184'
 ht-degree: 100%

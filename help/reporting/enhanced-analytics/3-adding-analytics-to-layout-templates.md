@@ -1,6 +1,6 @@
 ---
-title: 如何访问 [!UICONTROL Enhanced Analytics]
-description: 了解系统和组管理员如何通过布局模板授予 [!UICONTROL Enhanced Analytics] 访问权限。
+title: 如何访问 [!UICONTROL Enhanced analytics]
+description: 了解系统和组管理员如何通过布局模板授予 [!UICONTROL Enhanced analytics] 访问权限。
 activity: use
 feature: Reports and Dashboards,Get Started with Workfront
 thumbnail: 335045.png
@@ -13,17 +13,17 @@ last-substantial-update: 2024-04-02T00:00:00Z
 recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: ab24a55009efd8960cb6f8fe1f4da553c9f8dbce
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '145'
-ht-degree: 100%
+ht-degree: 96%
 
 ---
 
 
-# 如何访问已优化的分析
+# 如何访问增强型分析
 
-与 Workfront 中的大多数其他功能一样，您可以从主菜单访问 [!UICONTROL Enhanced Analytics]。但默认情况下，[!UICONTROL Analytics] 不在主菜单上。
+与 Workfront 中的大多数其他功能一样，您可以从主菜单访问 [!UICONTROL Enhanced analytics]。但默认情况下，[!UICONTROL Analytics] 不在主菜单上。
 
 ![主菜单的图像 ](assets/analytics-on-main-menu.png)
 

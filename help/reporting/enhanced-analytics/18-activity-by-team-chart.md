@@ -1,6 +1,6 @@
 ---
 title: 通过团队图表了解活动
-description: 通过 [!UICONTROL Enhanced Analytics] 中的“按团队划分的活动”图表，您可以了解到组织中的主团队在 Workfront 中是如何分配其时间的。
+description: 通过 [!UICONTROL Enhanced analytics] 中的“按团队划分的活动”图表，您可以了解到组织中的主团队在 Workfront 中是如何分配其时间的。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,7 +11,7 @@ level: Beginner
 jira: KT-10045
 recommendations: noDisplay,noCatalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: d29054f0551a9add8460e4c9fd265cee2dfb72ca
+source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
 workflow-type: tm+mt
 source-wordcount: '310'
 ht-degree: 100%
