@@ -14,14 +14,14 @@ recommendations: noDisplay,noCatalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
 source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
 
-# 如何访问增强型分析
+# 如何访问已优化的分析
 
 与 Workfront 中的大多数其他功能一样，您可以从主菜单访问 [!UICONTROL Enhanced analytics]。但默认情况下，[!UICONTROL Analytics] 不在主菜单上。
 
