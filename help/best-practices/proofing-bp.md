@@ -6,10 +6,10 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10920
 exl-id: 394485ee-bb8f-4248-86a9-4c86174dd37f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
 workflow-type: tm+mt
-source-wordcount: '1179'
-ht-degree: 100%
+source-wordcount: '1182'
+ht-degree: 91%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 * 请花些时间创建验证工作流模板。
 
-* 在 Workfront 设置中禁用“对验证发表评论时从 Workfront 发送电子邮件”设置。
+* 在Workfront设置中，禁用“对验证进行评论时从Workfront发送电子邮件”设置。
 
 * 对于 Workfront 中的“打开文档验证的非收件人的角色”设置，仅使用“只读”或“审核人”。
 
@@ -72,7 +72,7 @@ ht-degree: 100%
 
 **最佳实践**
 
-在 Workfront 设置中禁用“对验证发表评论时从 Workfront 发送电子邮件”设置。
+在Workfront设置中，禁用“对验证进行评论时从Workfront发送电子邮件”设置。
 
 
 
@@ -112,11 +112,7 @@ ht-degree: 100%
 
 **原因如下**
 
-对于想要以 AM/PM 格式查看验证截止日期/时间的用户，请在验证设置中选择 F j, Y, gi:a 选项。对于使用 12 小时制的地区，这有助于明确截止日期。
-
-
-
-**注释**：此设置可通过前往 Workfront 主菜单 > 验证 > 帐户设置 > 用户 > 并编辑每个用户的日期格式字段找到。
+默认的时钟格式为24小时，这可能会让那些不熟悉它的人感到困惑。 要更改格式，请转到Workfront主菜单>验证>帐户设置>用户。 双击用户以将其选定，然后编辑个人设置部分中的日期格式字段。 您需要逐个选择用户进行更改。
 
 </br>
 </br>
