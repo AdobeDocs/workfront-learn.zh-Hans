@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 92dd1cf0db8c6ea785cba2f524133273240a6d10
+source-git-commit: d9ccf45b157a4c66184cca0afadba35ef4c8615e
 workflow-type: tm+mt
-source-wordcount: '2350'
+source-wordcount: '2349'
 ht-degree: 99%
 
 ---
@@ -629,7 +629,7 @@ ht-degree: 99%
    + [预览沙盒](/help/best-practices/preview-sandbox-bp.md)
    + [项目、任务和问题首选项](/help/best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](/help/best-practices/project-templates-bp.md)
-   + [Workfront 验证](/help/best-practices/proofing-bp.md)
+   + [校对](/help/best-practices/proofing-bp.md)
    + [请求队列 ](/help/best-practices/request-queues-bp.md)
    + [资源规划程序](/help/best-practices/resource-planner-bp.md)
    + [资源池](/help/best-practices/resource-pools-bp.md)
