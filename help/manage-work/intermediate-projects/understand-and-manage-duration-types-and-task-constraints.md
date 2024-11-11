@@ -13,9 +13,9 @@ jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
 source-git-commit: af71439e222061cf468b78dfe1807f0b4893c52a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 80%
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on)
 
 
-有关如何创建持续时间类型和任务约束视图的信息，请参阅[创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)中的&#x200B;**持续时间类型和任务约束视图**&#x200B;活动。
+有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)的持续时间类型和任务限制视图**&#x200B;活动。
 
 有关持续时间类型的详细信息，请参阅[任务持续时间和持续时间类型。](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=zh-Hans)
 
