@@ -8,12 +8,13 @@ thumbnail: change-the-project-status.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-05-12T00:00:00Z
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10127
 exl-id: e32f89f0-9b02-42e8-85b4-57fe461b1c36
-source-git-commit: 642a6107dd3afc8f010445aa5e71c8dfdb9636eb
+source-git-commit: 4c0eee191bba54235f6213961c6f78c8eac9efb3
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '74'
 ht-degree: 100%
 
 ---
@@ -27,3 +28,10 @@ ht-degree: 100%
 * 如果无法将项目状态更改为 [!UICONTROL Complete] 怎么办
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
+
+## 有关此主题的推荐教程
+
+* [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
+* [上传资源](/help/manage-work/close-a-project/upload-assets.md)
+* [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
