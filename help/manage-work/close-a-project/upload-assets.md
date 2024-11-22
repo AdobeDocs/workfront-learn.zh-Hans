@@ -1,6 +1,6 @@
 ---
 title: 上传资源
-description: 在关闭项目之前将文档、验证和其他资源上传到该项目，以确保所有相关数据都与该项目相关联。
+description: 在关闭项目之前将文档和验证上传到项目，以确保所有相关数据都与该项目关联。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,31 +8,26 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,noCatalog
+last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
 workflow-type: tm+mt
-source-wordcount: '133'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 41%
 
 ---
 
 # 上传资源
 
-在您关闭 [!DNL Workfront] 项目之前，确保所有相关文件都附加在 [!UICONTROL Documents] 部分。根据组织的指导原则，将这些文件作为文档或验证上传。
+在本视频中，您将了解如何检查文档和校样的批准。
 
-您可能需要将文档或验证作为现有文件的一个版本上传。
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
 
-如果您的组织使用验证审批功能，请快速浏览一下进度图标，确保所有这些流程都已完成。
+## 有关此主题的推荐教程
 
-![显示验证进度图标的文档页面](assets/planner-fund-proof-progress-icons.png)
-
-如果您的组织使用文档审批功能，请选择列表中的每个项目，并检查文档详细信息，以查看是否已完成审批。
-
-![文档页面上显示文档审批信息的侧面摘要](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->
+* [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
+* [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
+* [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
