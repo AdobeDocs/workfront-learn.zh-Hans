@@ -14,15 +14,15 @@ jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
 source-git-commit: 7bfb6ee5c710159f57fd5e338cd11d6d79f803ff
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # 从项目时间线跟踪进度
 
-确保任务按应在项目截止日期前完成的方式进行。
+确保任务按应有的方式进展，以达到项目最后期限。
 
 在本视频中，您将了解到：
 
