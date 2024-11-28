@@ -1,6 +1,6 @@
 ---
 title: 上传资源
-description: 在关闭项目之前将文档和验证上传到项目，以确保所有相关数据都与该项目关联。
+description: 在关闭项目之前将文档和验证上传到该项目，以确保所有相关数据都与该项目相关联。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,15 +13,15 @@ last-substantial-update: 2024-11-22T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 source-git-commit: 50ac05e44459c89d615bc6aaa0c109a2d21e0734
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 41%
+ht-degree: 100%
 
 ---
 
 # 上传资源
 
-在本视频中，您将了解如何检查文档和校样的批准。
+在本视频中，您将了解如何检查文档和验证的审批。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on)
 

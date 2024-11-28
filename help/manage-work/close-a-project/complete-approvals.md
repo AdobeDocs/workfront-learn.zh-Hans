@@ -1,6 +1,6 @@
 ---
 title: 完成审批
-description: 了解如何识别未完成的批准并解决它们，以便您能够关闭项目。
+description: 了解如何识别未完成的审批，并解决这些事项，以便关闭您的项目。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ jira: KT-10134
 exl-id: fda55592-e4d3-4cb6-941f-09bf1bc76bf6
 doc-type: video
 source-git-commit: 0b067f9dddd57a7f29ba4241d2d9bf59a9748e3e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '65'
-ht-degree: 46%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 46%
 
 在本视频中，您将了解到：
 
-* 如何查找未处理的任务批准并处理它们
-* 如何查找未解决的问题批准并处理它们
+* 如何查找未解决的任务审批并处理它们
+* 如何查找未解决的问题审批并处理它们
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on)
 
