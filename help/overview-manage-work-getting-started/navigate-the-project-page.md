@@ -9,11 +9,12 @@ role: User
 level: Beginner
 last-substantial-update: 2024-04-05T00:00:00Z
 team: Technical Marketing
-recommendations: noDisplay,noCatalog
+recommendations: noDisplay,catalog
 jira: KT-8771
 hide: true
 doc-type: video
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
+source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 100%
@@ -58,4 +59,3 @@ ht-degree: 100%
 * [了解基本项目创建](/help/manage-work/projects/understand-basic-project-creation.md)
 * [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
 * [填写项目详细信息。](/help/manage-work/projects/fill-in-the-project-details.md)
-
