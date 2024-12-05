@@ -11,16 +11,16 @@ level: Beginner
 jira: KT-10028
 recommendations: noDisplay,catalog
 exl-id: 630235a5-0e11-4d94-9210-49ea6e80b48d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
 workflow-type: tm+mt
-source-wordcount: '184'
-ht-degree: 100%
+source-wordcount: '176'
+ht-degree: 84%
 
 ---
 
 # 了解工作和人员图表
 
-工作图表会从项目和任务的角度显示活动，而人员图表则会从主团队的角度显示活动。
+工作图从项目和任务的角度显示活动，而人员图从主团队的角度显示活动。
 
 从左侧面板菜单中选择您要查看的分析图表类型——工作或人员。
 
@@ -44,7 +44,4 @@ ht-degree: 100%
 
 ![图像：查找 [!UICONTROL Analytics] 功能，位于 [!DNL Workfront Classic]](assets/section-1-2.png)
 
-人员图表包括：
 
-1. 按团队过滤的活动
-1. 团队活动
