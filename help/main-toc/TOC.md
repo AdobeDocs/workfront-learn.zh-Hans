@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 4874a0f021a7c308140b9fab10a1d7cfddb606fc
+source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
 workflow-type: tm+mt
-source-wordcount: '2346'
+source-wordcount: '2338'
 ht-degree: 99%
 
 ---
@@ -176,12 +176,10 @@ ht-degree: 99%
 
    + 关闭项目 {#close-a-project}
       + [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
-      + [关闭任务和问题](/help/manage-work/close-a-project/close-tasks-and-issues.md)
       + [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
       + [上传资源](/help/manage-work/close-a-project/upload-assets.md)
       + [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
-      + [关闭项目活动](/help/manage-work/close-a-project/close-a-project-activity.md)
 
    + 用户的项目财务 {#project-finances-users}
       + [更新和审查财务状况](/help/manage-work/project-finances/update-and-review-finances.md)
