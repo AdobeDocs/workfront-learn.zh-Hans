@@ -1,6 +1,6 @@
 ---
 title: 记录和审查时间
-description: 在结束  [!DNL  Workfront] 中的项目之前，记录未完成的小时数并审查记录的小时数。
+description: 在关闭项目之前，记录未完成的小时数并查看记录的小时数。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
-source-git-commit: ec82cd0aafb89df7b3c46eb716faf3a25cd438a2
+doc-type: video
+source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '56'
+ht-degree: 60%
 
 ---
 
 # 记录和审查时间
 
-如果记录实际小时数是您组织工作流的一部分，您可以在项目的 [!UICONTROL Hours] 部分（从左侧面板菜单中选择它）查看这些小时数。这显示了在单个任务和项目本身上记录的所有小时数。您也可以从此页面记录小时数。
+在本视频中，您将了解到如何：
 
-![显示小时数条目的小时数页面](assets/planner-fund-log-and-review-hours.png)
+* 审核项目记录的工时
+* 批准项目小时（如果需要）
 
->[!NOTE]
->
->您的组织可能会要求您使用 [!DNL Workfront] 时间表审批小时数。与您的内部 [!DNL Workfront] 团队核实，看看您应该使用什么流程。
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## 有关此主题的推荐教程
+
+* [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
+* [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
+* [上传资源](/help/manage-work/close-a-project/upload-assets.md)
+* [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
