@@ -6,10 +6,10 @@ breadcrumb-title: 管理工作 — 中间
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 64%
+source-wordcount: '173'
+ht-degree: 63%
 
 ---
 
@@ -27,11 +27,9 @@ ht-degree: 64%
       + [在项目模板中编辑项目团队](edit-the-project-team-in-a-project-template.md)
 
    + 如何创建和使用审批流程{#how-to-create-and-use-approval-processes}
-      + [创建一次性的审批流程](create-a-single-use-approval-process.md)
-      + [了解特定于组的审批流程](group-specific-approval-processes.md)
-      + [附加和编辑现有审批流程](attach-and-edit-existing-approval-processes.md)
+      + [创建全局和一次性审批流程](create-a-single-use-approval-process.md)
+      + [了解特定于群组的审批流程](group-specific-approval-processes.md)
       + [审查和审批数字作品](review-and-approve-digital-work.md)
-      + [了解更新和通知](understand-updates-and-notifications.md)
       + [委派任务、问题和审批](delegate-approvals.md)
 
    + 如何创建和使用里程碑{#how-to-create-and-use-milestones}

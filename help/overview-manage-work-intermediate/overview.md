@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 4903b21b-d673-402b-8fd8-3e6b50d44c4d
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '796'
+source-wordcount: '766'
 ht-degree: 0%
 
 ---
@@ -56,11 +56,9 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 
 了解如何创建审批流程、将其附加到工作流、审查数字工作和委派审批。
 
-* [创建一次性审批流程](create-a-single-use-approval-process.md) — 了解如何为项目、任务或问题创建一次性审批流程。
+* [创建全局和一次性审批流程](create-a-single-use-approval-process.md) — 了解如何创建项目、任务或问题的全局和一次性审批流程。
 * [了解特定于组的审批流程](group-specific-approval-processes.md) — 了解组管理员如何为其管理的组创建或编辑审批流程。
-* [附加和编辑现有审批流程](attach-and-edit-existing-approval-processes.md) — 了解如何使用和编辑项目、任务或问题的现有审批流程。
 * [审核和批准数字工作](review-and-approve-digital-work.md) — 了解如何查找、审核和批准项目、任务、问题、文档和验证。
-* [了解更新和通知](understand-updates-and-notifications.md) — 了解如何更新审批请求并查找通知。
 * [委派任务、问题和审批](delegate-approvals.md) — 了解如何将项目、任务、问题和工时记录卡的审批委派给其他Adobe Workfront用户。
 
 ## 如何创建和使用里程碑

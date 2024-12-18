@@ -11,9 +11,11 @@ team: Technical Marketing
 jira: KT-8951
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+recommendations: noDisplay,catalog
+exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '73'
 ht-degree: 100%
 
 ---
@@ -26,3 +28,11 @@ ht-degree: 100%
 * 共享使用模板创建的项目
 
 >[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on)
+
+## 有关此主题的推荐教程
+
+* [创建项目模板并了解 Blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [直接从模板创建项目](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
+* [复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [在项目模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)

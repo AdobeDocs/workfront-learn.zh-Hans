@@ -1,6 +1,6 @@
 ---
 title: 直接从模板创建项目
-description: 了解如何从已构建的模板创建项目。
+description: 了解如何从已构建的模板开始创建项目。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,11 +9,13 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10156
+recommendations: noDisplay,catalog
 hide: true
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '164'
-ht-degree: 100%
+source-wordcount: '197'
+ht-degree: 93%
 
 ---
 
@@ -37,3 +39,12 @@ ht-degree: 100%
 
 
 ![新项目收藏夹模板](assets/direct-template-03.png)
+
+## 有关此主题的推荐教程
+
+* [创建项目模板并了解 Blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+* [共享项目模板](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+* [复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
+* [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
+* [在项目模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

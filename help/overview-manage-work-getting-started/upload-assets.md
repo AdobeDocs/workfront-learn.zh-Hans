@@ -10,29 +10,32 @@ role: User
 level: Beginner
 jira: KT-10138
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+recommendations: noDisplay,catalog
+doc-type: video
+exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '133'
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
 
 # 上传资源
 
-在您关闭 [!DNL Workfront] 项目之前，确保所有相关文件都附加在 [!UICONTROL Documents] 部分。根据组织的指导原则，将这些文件作为文档或验证上传。
+在本视频中，您将了解到如何：
 
-您可能需要将文档或验证作为现有文件的一个版本上传。
+* 检查校样的审批情况
+* 检查文件的审批情况
+* 上传文档
+* 查找有关上传校样的培训
 
-如果您的组织使用验证审批功能，请快速浏览一下进度图标，确保所有这些流程都已完成。
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
 
-![显示验证进度图标的文档页面](assets/planner-fund-proof-progress-icons.png)
+## 有关此主题的推荐教程
 
-如果您的组织使用文档审批功能，请选择列表中的每个项目，并检查文档详细信息，以查看是否已完成审批。
+* [使用基本工作流上传校样](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+* [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
+* [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
+* [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
 
-![文档页面上显示文档审批信息的侧面摘要](assets/planner-fund-document-approval.png)
-
-<!---
-learn more urls
-Create proofs
-Add new documents to Workfront
---->

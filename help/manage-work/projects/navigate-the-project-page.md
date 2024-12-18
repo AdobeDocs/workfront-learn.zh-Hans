@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 上传文档的位置
 * 如何查看更新历史记录
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops)
 
 ## 项目页面中的关键部分
 

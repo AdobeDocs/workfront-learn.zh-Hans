@@ -6,10 +6,10 @@ breadcrumb-title: 管理工作 — 快速入门
 solution: Workfront
 sub-product: Work Management
 index: y
-source-git-commit: 609df4be7b1115b7b624d9e8e758845cd2a51bdb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 69%
+source-wordcount: '192'
+ht-degree: 67%
 
 ---
 
@@ -54,11 +54,9 @@ ht-degree: 69%
 
    + 关闭项目 {#close-a-project}
       + [将项目状态更改为完成](change-the-project-status.md)
-      + [关闭任务和问题](close-tasks-and-issues.md)
       + [完成审批](complete-approvals.md)
       + [上传资源](upload-assets.md)
       + [记录经验教训](lessons-learned-from-closing-a-project.md)
       + [记录和审查时间](log-and-review-hours.md)
       + [更新和审查财务状况](update-and-review-finances.md)
-      + [关闭项目活动](close-a-project-activity.md)
 

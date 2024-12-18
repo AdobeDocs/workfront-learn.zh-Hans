@@ -12,9 +12,11 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8933
 hide: true
 doc-type: video
-source-git-commit: c675114a7f82521a59072f80a64d314be4cd335d
+exl-id: ae199222-6f1e-4d01-9ef9-16892edfdde7
+recommendations: noDisplay,catalog
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -31,5 +33,10 @@ ht-degree: 100%
 
 >[!TIP]
 >
->有关如何创建里程碑视图的信息，请参阅[创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)中的里程碑视图活动。
+>有关如何创建里程碑视图的信息，请参阅[创建基本视图](/help/reporting/basic-reporting/create-a-basic-view.md)中的里程碑视图活动。
 
+## 有关此主题的推荐教程
+
+* [查看里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+* [创建里程碑](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+* [创建基本视图中的里程碑视图活动](/help/reporting/basic-reporting/create-a-basic-view.md)

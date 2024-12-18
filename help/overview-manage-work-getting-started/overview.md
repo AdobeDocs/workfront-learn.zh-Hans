@@ -13,9 +13,9 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: y
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '930'
 ht-degree: 4%
 
 ---
@@ -81,10 +81,8 @@ ht-degree: 4%
 了解如何关闭任务和问题、完成批准、记录经验教训并关闭项目。
 
 * [将项目状态更改为“完成”](change-the-project-status.md) — 了解如何将项目状态更改为“完成”，为什么要更改它，以及如果无法将项目状态更改为“完成”，该怎么做。
-* [关闭任务和问题](close-tasks-and-issues.md) — 了解如何在关闭项目之前确保关闭任务和问题。
 * [完成审批](complete-approvals.md) — 了解如何识别未完成的审批并解决它们，以便您可以关闭项目。
 * [上传资源](upload-assets.md) — 在关闭项目之前将文档、验证和其他资源上传到项目，以确保所有相关数据都与该项目关联。
 * [记录学到的经验教训](lessons-learned-from-closing-a-project.md) — 了解如何加入“学到的经验教训”任务，以确定哪些方面进展顺利，以及下次可以改进哪些方面。
 * [记录并审查小时数](log-and-review-hours.md) — 在关闭项目之前记录未完成小时数并审查已记录的小时数。
 * [更新和审核财务](update-and-review-finances.md) — 如果贵组织使用Workfront来跟踪与项目相关的财务信息，则审核费用和创建开票记录可能是您关闭项目的过程的一部分。
-* [关闭项目活动](close-a-project-activity.md) — 练习如何关闭项目。

@@ -1,6 +1,6 @@
 ---
 title: 创建全局和一次性审批流程
-description: 了解如何在 Workfront 中针对项目、任务或问题创建一次性审批流程。
+description: 了解如何针对项目、任务或问题创建全局和一次性审批流程。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -13,10 +13,10 @@ last-substantial-update: 2024-09-24T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '430'
-ht-degree: 100%
+source-wordcount: '431'
+ht-degree: 96%
 
 ---
 

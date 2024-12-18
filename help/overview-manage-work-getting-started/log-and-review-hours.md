@@ -9,25 +9,29 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-10136
+recommendations: noDisplay,catalog
+doc-type: video
 hide: true
-source-git-commit: 5947224c840e9bd2c80e5e027e0d5aabb91ff6fd
+exl-id: 5104c034-82cf-4993-9016-53802d562d14
+source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 100%
+source-wordcount: '57'
+ht-degree: 80%
 
 ---
 
 # 记录和审查时间
 
-如果记录实际小时数是您组织工作流的一部分，您可以在项目的 [!UICONTROL Hours] 部分（从左侧面板菜单中选择它）查看这些小时数。这显示了在单个任务和项目本身上记录的所有小时数。您也可以从此页面记录小时数。
+在本视频中，您将了解到如何：
 
-![显示小时数条目的小时数页面](assets/planner-fund-log-and-review-hours.png)
+* 审核项目记录的工时
+* 批准项目小时（如果需要）
 
->[!NOTE]
->
->您的组织可能会要求您使用 [!DNL Workfront] 时间表审批小时数。与您的内部 [!DNL Workfront] 团队核实，看看您应该使用什么流程。
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 
-<!---
-learn more url
-Log time
---->
+## 有关此主题的推荐教程
+
+* [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
+* [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
+* [上传资源](/help/manage-work/close-a-project/upload-assets.md)
+* [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
