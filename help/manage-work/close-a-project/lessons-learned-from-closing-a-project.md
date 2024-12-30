@@ -1,6 +1,6 @@
 ---
 title: 记录经验教训
-description: 了解如何在关闭项目时从“经验教训”中获益。
+description: 了解如何在结束项目时从“经验教训”中受益。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,18 +14,18 @@ jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 36%
+ht-degree: 100%
 
 ---
 
 # 记录经验教训
 
-在本视频中，您将看到以下好处：
+在本视频中，您将了解到以下好处：
 
 * 创建“经验教训”任务
-* 将“经验教训”自定义表单附加到项目
+* 将“经验教训”自定义表单附加到您的项目中
 * 创建“经验教训”自定义报告
 * 创建“经验教训”项目
 

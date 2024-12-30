@@ -1,6 +1,6 @@
 ---
 title: 记录和审查时间
-description: 在关闭项目之前，记录未完成的小时数并查看记录的小时数。
+description: 在结束项目之前，记录未完成的小时数并审查记录的小时数。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -14,9 +14,9 @@ last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
 source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -24,8 +24,8 @@ ht-degree: 60%
 
 在本视频中，您将了解到如何：
 
-* 审核项目记录的工时
-* 批准项目小时（如果需要）
+* 审查项目的时间记录
+* 如果需要，批准项目时间
 
 >[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on)
 

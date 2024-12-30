@@ -1,6 +1,6 @@
 ---
 title: 直接从模板创建项目
-description: 了解如何从已构建的模板开始创建项目。
+description: 了解如何从已构建的模板创建项目。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,9 +12,9 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '197'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 

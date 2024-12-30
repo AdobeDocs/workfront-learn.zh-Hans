@@ -1,6 +1,6 @@
 ---
 title: 创建全局和一次性审批流程
-description: 了解如何针对项目、任务或问题创建全局和一次性审批流程。
+description: 了解如何为项目、任务或问题创建全局和单次使用的审批流程。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -14,9 +14,9 @@ recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
 source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '431'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
