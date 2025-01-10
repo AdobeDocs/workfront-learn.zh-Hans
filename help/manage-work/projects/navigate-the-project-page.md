@@ -14,9 +14,9 @@ jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
 source-git-commit: 0e5d5b5aea9d6242134c3640805231773c8b5159
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '488'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 98%
 
 ## 项目页面中的关键部分
 
-[单击此处](/help/assets/key-parts-of-the-project-page.pdf)下载此页面的PDF。
+[单击此处](/help/assets/key-parts-of-the-project-page.pdf)下载此页面的 PDF。
 
 项目页面中有许多功能，可以帮助您管理工作。如果您需要一种选项，但在您的 [!DNL Workfront] 实例中没有看到该选项，请与您的系统管理员联系。以下是一些需要注意的主要项目页面功能。
 
