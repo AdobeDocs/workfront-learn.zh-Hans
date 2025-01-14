@@ -1,6 +1,7 @@
 ---
 title: 场景护栏
 description: 了解场景护栏、模块护栏、文件护栏和 Webhook 护栏，一切尽在  [!DNL Adobe Workfront Fusion]。
+short-description: 由于长时间运行的场景可能会减慢工作的速度，因此Workfront Fusion设计有保持性能的护栏，以限制执行时间、数据大小和其他场景参数
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,10 +12,10 @@ jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 79%
 
 ---
 
