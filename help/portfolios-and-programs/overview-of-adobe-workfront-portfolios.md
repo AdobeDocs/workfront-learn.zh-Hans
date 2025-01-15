@@ -1,6 +1,6 @@
 ---
 title: 了解项目组合
-description: 了解项目组合是什么以及它们如何帮助您比较和优先处理项目。
+description: 了解什么是项目组合以及它如何帮助您比较和确定项目的优先顺序。
 activity: use
 team: Technical Marketing
 feature: Strategic Planning
@@ -13,9 +13,9 @@ jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
 source-git-commit: 14e43ba0c7f04e26db0b3b6d306d48e170c6bbeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '57'
-ht-degree: 42%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 42%
 在本视频中，您将了解到：
 
 * 什么是项目组合。
-* 他们如何帮助您比较项目并确定其优先级。
+* 它们如何帮助您比较和确定项目的优先顺序。
 * 如何创建项目组合。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops)
