@@ -1,7 +1,7 @@
 ---
 title: Workfront Fusion 培训概述
 description: 了解 Adobe Workfront Fusion 活动手册，以及如何获取 Workfront 测试版帐户。
-short-description: 每个Workfront Fusion部分都包含多个教程，每个教程都介绍了在进入下一个教程之前需要了解的概念。
+short-description: 每个 Workfront Fusion 分区都包含多个教程，每个教程都介绍了在进入下一个教程之前需要了解的概念。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,9 +12,9 @@ jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '426'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 

@@ -13,9 +13,9 @@ exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -38,4 +38,4 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 ## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-hans)

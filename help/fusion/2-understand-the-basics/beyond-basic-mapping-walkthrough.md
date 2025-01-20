@@ -1,7 +1,7 @@
 ---
 title: 超越基本映射演练
 description: 使用  [!DNL Adobe Workfront Fusion] 中的映射面板公式更改您之前创建的场景中的一些项目字段。
-short-description: 在此视频演练中，您可以使用映射面板公式从在第一次演练中创建的“初始方案设计”中更改项目名称、计划开始日期和优先级。
+short-description: 在本视频演练中，使用映射面板公式更改您在第一次演练中创建的“初始场景设计”中的项目名称、规划开始日期和优先级。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -13,9 +13,9 @@ exl-id: 3161f088-2d94-4a05-9151-d4ddc638afb0
 recommendations: noDisplay,catalog
 doc-type: video
 source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '295'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -54,4 +54,4 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 ## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-hans)
