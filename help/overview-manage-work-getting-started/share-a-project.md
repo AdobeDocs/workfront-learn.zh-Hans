@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
 exl-id: ce6c65d1-d017-4b0e-b4b5-1a0fa40cfec5
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 如何通过将项目放入项目组合中来共享项目
 * 共享项目的最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

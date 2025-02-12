@@ -13,8 +13,8 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 如何共享项目模板并授予激活和停用该模板的权限。
 * 如何激活和停用项目模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
 
 ## 了解如何创建自定义视图，以查看和编辑项目模板的活动状态
 

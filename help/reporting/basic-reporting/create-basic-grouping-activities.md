@@ -1,6 +1,6 @@
 ---
-title: 创建基本分组
-description: 了解什么是分组、如何创建分组以及如何与 Workfront 中的其他用户共享分组。
+title: 创建基本分组活动
+description: 使用分步说明练习创建基本分组。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,26 +9,15 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
-exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
-doc-type: video
 source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 76%
+source-wordcount: '158'
+ht-degree: 61%
 
 ---
 
-# 创建基本分组
 
-在本视频中，您将了解到：
-
-* Workfront 中的分组是什么
-* 如何创建分组
-* 以及如何与其他 Workfront 用户共享分组
-
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
-
-## 活动：创建一个基本分组
+# 活动：创建一个基本分组
 
 创建将在报告中使用的问题分组，以跟踪通过请求队列发出的请求。通过这种分组，可以轻松查看按优先级分组的类似类型的问题/请求。将分组命名为“请求队列、队列主题、优先级”。
 

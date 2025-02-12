@@ -12,8 +12,8 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 在本视频中，您将会了解到创建项目时所需的最常见的项目设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops)
 
 
 ## 关于此主题的推荐教程和文章

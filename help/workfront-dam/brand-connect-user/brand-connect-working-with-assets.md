@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8985
 exl-id: 67bc9228-f16e-4cba-bae2-d223e9d79d39
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '53'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 * 查看 Brand Connect 中的资源
 * 查看有关资源的数据，包括元数据和关键词
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops)

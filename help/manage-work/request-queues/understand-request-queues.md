@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '71'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 请求队列的结构是如何设置的
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

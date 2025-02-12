@@ -1,6 +1,6 @@
 ---
 title: 设置元数据
-description: 了解如何在 [!UICONTROL Workfront DAM] 中创建元数据模式、了解不同类型的元数据、使用现有的元数据字段等。
+description: 了解如何在 [!UICONTROL Workfront DAM] 中创建元数据架构、了解不同类型的元数据、使用现有的元数据字段等。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '279'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 使用现有元数据字段
 * 创建自定义元数据字段
 
->[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops)
 
 ## 元数据最佳实践
 

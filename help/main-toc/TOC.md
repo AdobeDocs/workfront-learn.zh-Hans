@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 569708042b8a9e122e820a1e65d6ea536f15b0e1
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '2338'
+source-wordcount: '2347'
 ht-degree: 99%
 
 ---
@@ -200,6 +200,7 @@ ht-degree: 99%
       + [创建基本视图](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [向视图中添加基本条件格式](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [创建基本过滤器](/help/reporting/basic-reporting/create-a-basic-filter.md)
+      + [了解新的过滤器体验](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [创建基本过滤器活动](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [创建简单的报告](/help/reporting/basic-reporting/create-a-simple-report.md)
       + [单击任务报告](/help/reporting/basic-reporting/create-a-task-report.md)
@@ -649,5 +650,5 @@ ht-degree: 99%
 
 + [管理请求 ](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [了解资源产能图表](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
-
++ [创建基本分组活动](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
 

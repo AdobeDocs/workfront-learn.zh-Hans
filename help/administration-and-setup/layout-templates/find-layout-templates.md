@@ -11,7 +11,7 @@ thumbnail: 335072.jpeg
 jira: KT-8759
 exl-id: eee9988f-2e60-4e1f-b1bf-c6e82a9ba19c
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '35'
 ht-degree: 100%
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 在 [!UICONTROL Setup] 区域查找布局模板
 * 开始在 Workfront 中创建布局模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops)

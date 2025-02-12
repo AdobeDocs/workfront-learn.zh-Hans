@@ -12,8 +12,8 @@ jira: KT-8730
 recommendations: noDisplay,catalog
 exl-id: a6b4b6d2-f45a-452f-990b-bf8fc7d263ff
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -26,4 +26,4 @@ ht-degree: 100%
 * 如何通过任务执行计划图表对项目进行深入分析，以显示燃尽图和“正在执行的任务”图表
 * 如何创建时间范围过滤器，以在某个日期范围内放大其中的信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops)

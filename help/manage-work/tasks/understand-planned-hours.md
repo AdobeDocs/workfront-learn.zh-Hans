@@ -13,8 +13,8 @@ last-substantial-update: 2024-06-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 76bde9ac-74de-41fc-ab75-5b987b42515c
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 如何估算规划小时数
 * 如何将规划小时数添加到任务中
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
 
 
 ## 关于此主题的推荐教程和文章

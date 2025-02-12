@@ -11,8 +11,8 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '316'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ Workfront Fusion 测试应重点检查互联的软件平台之间的输入和输
 * 创建详细且可共享的文档
 * 测试深度、广度、复杂性和负载
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops)
 
 ## 测试注意事项清单
 

@@ -11,8 +11,8 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '261'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 什么是未完成的执行
 * 如何处理导致执行未完成的错误
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
 
 ## 导致执行未完成的错误
 

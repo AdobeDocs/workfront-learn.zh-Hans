@@ -13,7 +13,7 @@ last-substantial-update: 2023-05-12T00:00:00Z
 jira: KT-10127
 hide: true
 exl-id: 22920ca3-8185-4347-abaa-561cc41e7406
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '74'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 为什么要将项目状态更改为 [!UICONTROL Complete]
 * 如果无法将项目状态更改为 [!UICONTROL Complete] 怎么办
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

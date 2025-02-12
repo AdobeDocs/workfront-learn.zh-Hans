@@ -12,8 +12,8 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: 8ba1b014f981b2a438e7c8754ad8c681f710d4e9
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 为什么要填写业务案例
 * 怎样填写业务案例
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

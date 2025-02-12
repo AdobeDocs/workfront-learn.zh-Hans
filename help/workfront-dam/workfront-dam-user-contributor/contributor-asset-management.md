@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 将元数据模板应用到文件夹
 * 建立文件夹权限
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops)
 
 ## 资源版本如何工作
 

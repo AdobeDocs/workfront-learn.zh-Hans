@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8994
 exl-id: 15f5f6d8-c808-4989-9cfb-c7226f0211b3
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 与 Lightbox 协作
 * 共享 Lightbox 的内容
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops)
 
 ## 文件夹与 Lightbox
 

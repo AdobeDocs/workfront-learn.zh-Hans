@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 关于任务和问题的小知识
 * 开始创建项目的最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

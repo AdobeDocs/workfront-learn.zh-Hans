@@ -1,6 +1,6 @@
 ---
 title: 了解品牌门户
-description: 了解如何访问 [!UICONTROL Workfront DAM] 中的 Brand Portal、创建文件夹、设置单个资源的到期日期以及编辑资源设置。
+description: 了解如何访问 [!UICONTROL Workfront DAM] 中的 Brand Portal、创建文件夹、设置单个资源的过期日期以及编辑资源设置。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8966
 exl-id: e882bcce-0e17-4040-9cbd-a3506f6ee099
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '223'
 ht-degree: 100%
@@ -23,10 +23,10 @@ ht-degree: 100%
 
 * 访问 Brand Portal
 * 创建文件夹并建立文件夹设置
-* 设置单个资源的到期日期
+* 设置单个资源的过期日期
 * 编辑资源设置
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops)
 
 ## 资源文件夹
 

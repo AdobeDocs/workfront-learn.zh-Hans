@@ -12,8 +12,8 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 未结问题
 * 完成情况更新列
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

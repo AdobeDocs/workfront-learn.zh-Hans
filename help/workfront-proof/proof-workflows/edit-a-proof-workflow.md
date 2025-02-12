@@ -11,7 +11,7 @@ thumbnail: 335138.png
 jira: KT-8838
 exl-id: ebbc33c4-17a4-452b-99f6-1bfda3b4e66e
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 将用户添加到现有工作流
 * 将现有工作流切换为自动化工作流
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops)
 
 ## 到您了
 

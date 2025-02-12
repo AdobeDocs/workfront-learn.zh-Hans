@@ -12,8 +12,8 @@ jira: KT-8735
 recommendations: noDisplay,catalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何访问“正在执行的任务”图表
 * 如何快速查看项目中哪些任务尚未完成
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops)
 
 ## 任务级数据
 

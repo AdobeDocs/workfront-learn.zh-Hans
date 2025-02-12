@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8980
 exl-id: cf286347-46f0-4a7a-9f06-921975f28765
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 自定义导航栏和页脚
 * 自定义主页和登录页面
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops)
 
 ## 其他 [!UICONTROL Appearance] 设置
 
@@ -32,13 +32,13 @@ ht-degree: 100%
 
 ![[!UICONTROL Appearance] 菜单样式下的 [!UICONTROL Font] 选项，位于 [!UICONTROL Brand Portal]](assets/02-brand-connect-appearance-font.png)
 
-## 主页构件
+## 主页小组件
 
-定制您 [!UICONTROL Brand Connect] 主页的外观，使其与您的组织相匹配。通过使用构件，您可以添加文件夹和图像滑块等元素。如果您的组织有多个 [!UICONTROL Brand Connects]，则每个都会有自己的主页，您可以给与它们不同的外观。
+定制您 [!UICONTROL Brand Connect] 主页的外观，使其与您的组织相匹配。通过使用小组件，您可以添加文件夹和图像滑块等元素。如果您的组织有多个 [!UICONTROL Brand Connects]，则每个都会有自己的主页，您可以给与它们不同的外观。
 
-![[!UICONTROL Brand Connect] 主页可用构件的屏幕快照](assets/03-brand-connect-home-page-widgets.png)
+![[!UICONTROL Brand Connect] 主页可用小组件的屏幕快照](assets/03-brand-connect-home-page-widgets.png)
 
-以下是可用的构件：
+以下是可用的小组件：
 
 **A. 轮播**——在图像滑块中显示多个资源。您可以为每个资源添加描述。单击“添加”图标来选择要在轮播中显示的图像。
 
@@ -58,6 +58,6 @@ ht-degree: 100%
 
 如果您为您组织的 [!UICONTROL Brand Connect] 设计了自定义主页，用户必须单击进入 [!UICONTROL Assets] 区域来运行搜索。
 
-但系统管理员可以使用 HTML 构件和以下 HTML 标记创建搜索栏：
+但系统管理员可以使用 HTML 小组件和以下 HTML 标记创建搜索栏：
 
 &lt;webdambp.headersearch>&lt;/webdambp.headersearch>

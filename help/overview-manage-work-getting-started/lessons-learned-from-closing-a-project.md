@@ -13,23 +13,23 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '79'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
 # 记录经验教训
 
-在本视频中，您将看到以下好处：
+在本视频中，您将了解到以下好处：
 
 * 创建“经验教训”任务
-* 将“经验教训”自定义表单附加到项目
+* 将“经验教训”自定义表单附加到您的项目中
 * 创建“经验教训”自定义报告
 * 创建“经验教训”项目
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

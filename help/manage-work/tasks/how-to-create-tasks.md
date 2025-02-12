@@ -10,8 +10,8 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 在 Workfront 项目中创建任务的漫长过程
 * 创建任务的一些方便的快捷方式
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

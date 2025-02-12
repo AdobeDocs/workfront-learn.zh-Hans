@@ -12,8 +12,8 @@ hide: true
 jira: KT-13892
 exl-id: f669d044-9498-4a07-90b3-1917504f7bf4
 doc-type: video
-source-git-commit: ff232ada05f97dc570ddc60f329a68280256d6b7
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '509'
 ht-degree: 100%
 
@@ -79,7 +79,7 @@ Workfront 仪表板中的报告示例
 * 发出请求
 * 查看您提交的请求
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
 
 ## 等待您审批的项目
 

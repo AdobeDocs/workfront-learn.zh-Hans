@@ -11,7 +11,7 @@ thumbnail: 335081.jpeg
 jira: KT-8767
 exl-id: cab57062-5aab-4ab4-9d3b-cd9dd9df3b47
 doc-type: video
-source-git-commit: f383784d7859926ab6c4f40f713577eba2154b39
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 学习自定义您的用户 [!UICONTROL Home] 区域，以便快速轻松地访问、跟踪、审批和更新工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops)
 
 <br>
 </br>
@@ -37,4 +37,4 @@ ht-degree: 100%
 * 从 [!UICONTROL Home] 中删除项目 
 * 添加项目到 [!UICONTROL Home]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops)

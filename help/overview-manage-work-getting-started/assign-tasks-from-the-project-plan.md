@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: ed10cc29-d0dd-4b15-abd8-da1758399f8b
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '97'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 在分配任务时了解项目模板的价值
 * 了解向团队分配任务的价值
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops)
 
 <!---
 learn more urls:

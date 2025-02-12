@@ -1,6 +1,6 @@
 ---
 title: 创建全局和一次性审批流程
-description: 了解如何针对项目、任务或问题创建全局和一次性审批流程。
+description: 了解如何为项目、任务或问题创建全局和单次使用的审批流程。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -12,10 +12,10 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '431'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 在本视频中，您将会了解到如何针对项目、任务或问题创建全局审批流程和一次性审批流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
 
 >[!TIP]
 >

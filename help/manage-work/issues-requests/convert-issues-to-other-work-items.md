@@ -11,8 +11,8 @@ last-substantial-update: 2024-02-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10069
 exl-id: 1fd4d862-e44b-4c50-9663-70e727f6e9b7
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 在本视频中，您将了解如何将问题或请求转化为任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >

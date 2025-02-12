@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8987
 exl-id: 5c1ab624-9f20-4ec4-b335-ceeaf9cbc86d
 doc-type: video
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%
@@ -24,4 +24,4 @@ ht-degree: 100%
 * 与 Brand Connect 用户或外部利益相关者共享 Lightbox
 * 下载单个或多个资源
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on&enablevpops)

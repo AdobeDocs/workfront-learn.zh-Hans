@@ -14,7 +14,7 @@ jira: KT-15115
 hide: true
 doc-type: video
 exl-id: 2cacf2b4-dc43-4a3b-bf39-90bfd46b10ad
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 在这段视频中，您将学习某些快速而简便的查找项目的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops)
 
 ## 有关此主题的推荐教程
 

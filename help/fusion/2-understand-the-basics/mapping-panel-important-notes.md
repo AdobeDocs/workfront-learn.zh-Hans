@@ -11,8 +11,8 @@ jira: KT-9003
 exl-id: 2f5a2088-b32c-457f-baa1-913501d74b73
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '38'
 ht-degree: 100%
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 使用映射面板中提供的运算符的重要性
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on&enablevpops)

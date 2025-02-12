@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 100%
+source-wordcount: '277'
+ht-degree: 96%
 
 ---
 
@@ -25,15 +25,17 @@ ht-degree: 100%
 * Workfront 报告背后的关键组成部分
 * 如何在报告元素中使用这些组件
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops)
 
 ## 报告组件
+
+[单击此处](/help/assets/reporting-components.pdf)下载此页面的 PDF。
 
 ![创建过滤器的屏幕图像](assets/reporting-components-1.png)
 
 **A - 字段源**
 
-字段源选项取决于所选的对象类型。通常情况下，字段源是 Workfront 中特定信息（也称为字段名称）所属的项目。有时，字段源与对象类型相同。
+字段源选项取决于所选对象类型。 通常情况下，字段源是 Workfront 中特定信息（也称为字段名称）所属的项目。有时，字段源与对象类型相同。
 字段源决定了哪些字段名称可用。
 
 示例：[!UICONTROL Project]、[!UICONTROL Task]、[!UICONTROL Issue]、[!UICONTROL Assigned To]

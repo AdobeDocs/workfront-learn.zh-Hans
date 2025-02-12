@@ -10,10 +10,10 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: 6c31f8d2e98ad8cd1880cd03ec0b0e6c0fd9ec09
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '376'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -28,13 +28,13 @@ ht-degree: 100%
 * 创建和编辑组
 * 添加和编辑用户
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops)
 
 ## 组和用户审查
 
 在配置 [!UICONTROL Workfront DAM] 系统时，需要考虑用户和组在全局中扮演的角色，这一点很重要。
 
-组控制对 [!UICONTROL Workfront DAM] 中的资源文件夹的访问权限。组设置还可以控制用户可以对资源执行哪些操作（查看、下载、编辑等）他们具有访问权限。
+组控制对 [!UICONTROL Workfront DAM] 中的资源文件夹的访问权限。群组设置还可控制用户可以对他们有权访问的资产（查看、下载、编辑等）执行哪些操作。
 
 创建组时，必须记住该组的成员需要访问 [!UICONTROL Workfront DAM] 中的哪些资源文件夹。
 

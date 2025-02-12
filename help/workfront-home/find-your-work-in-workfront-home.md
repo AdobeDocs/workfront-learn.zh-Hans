@@ -10,7 +10,7 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: cacc76a0dec27e7554eb0ac494d65a9255367226
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
 workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->目前 Workfront 中有两种主页体验可供使用。如果您具有新的主页体验，请查看[在主页中删除、添加和重新排列构件](/help/workfront-home/remove-add-and-rearrange-widgets.md)教程。
+>目前 Workfront 中有两种主页体验可供使用。如果您具有新的主页体验，请查看[在主页中删除、添加和重新排列小组件](/help/workfront-home/remove-add-and-rearrange-widgets.md)教程。
 
 
 在本视频中，您将学习如何：
@@ -31,4 +31,4 @@ ht-degree: 100%
 * 查找收到的和现有的工作任务
 * 查看任务信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)

@@ -12,8 +12,8 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
+source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+workflow-type: tm+mt
 source-wordcount: '291'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何访问燃尽图
 * 如何理解剩余时间、项目完成情况和项目速度之间的关系
 
->[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335051/?quality=12&learn=on&enablevpops)
 
 ## 跟踪项目速度
 
