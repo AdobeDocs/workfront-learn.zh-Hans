@@ -1,6 +1,6 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
 workflow-type: tm+mt
 source-wordcount: '2347'
 ht-degree: 99%
@@ -647,7 +647,9 @@ ht-degree: 99%
 
 
 
-
+<!---
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+--->
 + [管理请求 ](/help/manage-work/issues-requests/manage-incoming-requests.md)
 + [了解资源产能图表](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
 + [创建基本分组活动](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
