@@ -1,6 +1,6 @@
 ---
-title: 创建简单的报告
-description: 了解如何使用 Workfront 中的现有过滤器、视图和分组来创建简单的报告。
+title: 创建简单报表活动
+description: 按照分步说明，练习创建简单报表。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,22 +9,17 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8858
 thumbnail: 335153.png
-exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 78%
+source-wordcount: '198'
+ht-degree: 63%
 
 ---
 
-# 创建简单的报告
+# 创建简单报表活动
 
-在本视频中，您将学习如何：
-
-* 使用现有的过滤器、视图和分组创建简单的报告
-
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+按照分步说明，练习创建简单报表。
 
 ## 活动1：创建简单的任务报告
 

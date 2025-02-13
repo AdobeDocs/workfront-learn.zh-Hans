@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 99%
+source-wordcount: '2377'
+ht-degree: 97%
 
 ---
 
@@ -648,9 +648,16 @@ ht-degree: 99%
 
 
 <!---
-The following tutorials are hidden from the TOC but need to be here so their links can be referenced.
+The following tutorials are hidden from the TOC but need to be here so their links can be referenced by vPops in playlists.
 --->
-+ [管理请求 ](/help/manage-work/issues-requests/manage-incoming-requests.md)
-+ [了解资源产能图表](/help/reporting/enhanced-analytics/19-resource-capacity-chart.md)
+
 + [创建基本分组活动](/help/reporting/basic-reporting/create-basic-grouping-activities.md)
++ [创建基本视图活动](/help/reporting/basic-reporting/create-basic-view-activities.md)
++ [向视图活动添加基本条件格式](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view-activities.md)
++ [创建简单报表活动](/help/reporting/basic-reporting/create-simple-report-activities.md)
++ [创建任务报告活动](/help/reporting/basic-reporting/create-task-report-activities.md)
++ [创建包含图表活动的报表](/help/reporting/basic-reporting/create-reports-with-charts-activities.md)
++ [创建矩阵报表活动](/help/reporting/basic-reporting/create-matrix-report-activities.md)
++ [创建功能板活动](/help/reporting/basic-reporting/create-dashboard-activities.md)
++ [发送和共享报表活动](/help/reporting/basic-reporting/send-and-share-reports-activities.md)
 

@@ -1,6 +1,6 @@
 ---
-title: 创建矩阵报告
-description: 了解矩阵报告何时有用，以及如何在 Workfront 中创建矩阵报告。
+title: 创建矩阵报表活动
+description: 按照分步说明，练习创建矩阵报告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
-exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 76%
+source-wordcount: '201'
+ht-degree: 61%
 
 ---
 
-# 创建矩阵报告
+# 创建矩阵报表活动
 
-在本视频中，您将了解到：
-
-* 矩阵报告何时有用
-* 以及如何创建矩阵报告
-
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+按照分步说明，练习创建矩阵报告。
 
 ## 活动1：创建矩阵报表
 

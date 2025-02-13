@@ -11,14 +11,18 @@ team: Technical Marketing
 jira: KT-8853
 hidefromtoc: true
 exl-id: 36f196ac-ad14-4075-9835-30f777572fdf
-source-git-commit: 8a033140307527fbd7c4f9298353ba88cab66c86
+source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 61%
+source-wordcount: '174'
+ht-degree: 52%
 
 ---
 
-# 活动：创建一个基本分组
+# 创建基本分组活动
+
+使用分步说明练习创建基本分组。
+
+## 活动1：创建请求队列分组
 
 创建将在报告中使用的问题分组，以跟踪通过请求队列发出的请求。通过这种分组，可以轻松查看按优先级分组的类似类型的问题/请求。将分组命名为“请求队列、队列主题、优先级”。
 
@@ -28,7 +32,7 @@ ht-degree: 61%
 1. 队列主题
 1. 请求的优先级
 
-## 答案
+## 答案1
 
 ![创建新分组的屏幕图像](assets/grouping-exercise.png)
 

@@ -1,6 +1,6 @@
 ---
-title: 向视图中添加基本条件格式
-description: 了解如何根据您设置的条件，使用列规则更改报告或视图中的文本颜色、格式和背景颜色。
+title: 向视图活动添加基本条件格式
+description: 练习使用分步说明将基本条件格式添加到视图。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335149.jpeg
@@ -9,25 +9,17 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8855
-exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 97%
+source-wordcount: '363'
+ht-degree: 86%
 
 ---
 
-# 向视图中添加基本条件格式
+# 向视图活动添加基本条件格式
 
-条件格式是通过创建列规则来完成的。列规则允许您根据您所设定的标准以特定的方式对一个列进行格式化。
-
-在本视频中，您将了解到：
-
-* 视图中有哪些条件格式
-* 如何创建和修改条件格式
-
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
+练习使用分步说明将基本条件格式添加到视图。
 
 ## 摘要
 

@@ -1,6 +1,6 @@
 ---
-title: 创建基本视图
-description: 了解什么是视图、如何创建视图以及如何与 Workfront 中的其他用户共享视图。
+title: 创建基本视图活动
+description: 使用分步说明练习创建基本视图。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335148.jpeg
@@ -10,24 +10,17 @@ level: Beginner
 team: Technical Marketing
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
-exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '638'
-ht-degree: 98%
+source-wordcount: '611'
+ht-degree: 95%
 
 ---
 
-# 创建基本视图
+# 创建基本视图活动
 
-在本视频中，您将了解到：
-
-* Workfront 中的视图是什么
-* 如何创建和修改视图
-* 如何与其他 Workfront 用户共享视图
-
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+使用分步说明练习创建基本视图。
 
 ## 活动 1：创建任务状态视图
 
@@ -43,7 +36,7 @@ ht-degree: 98%
 * [!UICONTROL Progress Status]
 * [!UICONTROL Status Icons]
 
-## 答案1
+## 活动 1 答案
 
 ![创建任务状态视图的屏幕图像](assets/view-exercise.png)
 
@@ -76,7 +69,7 @@ ht-degree: 98%
 * [!UICONTROL Percent Complete]
 
 
-## 答案2
+## 活动 2 答案
 
 ![创建里程碑视图的屏幕图像](assets/view-milestone-exercise-1.png)
 
@@ -108,7 +101,7 @@ ht-degree: 98%
 
 更改 [!UICONTROL Start On] 和 [!UICONTROL Due On] 列上的 [!UICONTROL Field Format] 以显示日期和时间。
 
-## 答案3
+## 活动 3 答案
 
 ![显示持续时间类型和任务限制视图的屏幕图像](assets/view-activity-3.png)
 
@@ -146,7 +139,7 @@ ht-degree: 98%
 * [!UICONTROL Is Active]
 
 
-## 答案4
+## 活动 4 答案
 
 ![显示项目模板活动状态视图的屏幕图像](assets/view-activity-4.png)
 

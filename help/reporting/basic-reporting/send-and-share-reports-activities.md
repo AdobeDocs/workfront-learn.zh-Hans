@@ -1,6 +1,6 @@
 ---
-title: 发送和共享报告
-description: 了解如何向用户、团队或任何电子邮件地址发送报告，以及如何与 Workfront 中的任何人共享报告。
+title: 发送和共享报表活动
+description: 按照分步说明，练习发送和共享报告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,24 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 96%
+source-wordcount: '162'
+ht-degree: 77%
 
 ---
 
-# 发送和共享报告
+# 发送和共享报表活动
 
-在本视频中，您将了解到：
-
-* 如何向用户、团队或任何电子邮件地址发送报告
-* 如何与任何人共享报告
-* 收件人可以在 Workfront 报告中看到什么，以及执行哪些操作
-
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+按照分步说明，练习发送和共享报告。
 
 ## 活动1：发送报表
 

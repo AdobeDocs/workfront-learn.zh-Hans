@@ -1,6 +1,6 @@
 ---
-title: 创建仪表板
-description: 了解如何将各种列表报告、图表、日程表和外部网页组合成 Workfront 中的仪表板。
+title: 创建功能板活动
+description: 按照分步说明，练习创建功能板。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,26 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
-exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '418'
-ht-degree: 56%
+source-wordcount: '379'
+ht-degree: 46%
 
 ---
 
-# 创建仪表板
+# 创建功能板活动
 
-在本视频中，您将了解到：
-
-* Workfront 中的仪表板是什么
-* 如何创建仪表板
-* 如何查找和使用仪表板
-* 如何与其他 Workfront 用户共享仪表板
-* 如何打印仪表板
-
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+按照分步说明，练习创建功能板。
 
 ## 活动1：创建功能板
 

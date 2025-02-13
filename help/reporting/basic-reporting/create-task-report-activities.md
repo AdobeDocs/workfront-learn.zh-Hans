@@ -1,6 +1,6 @@
 ---
-title: 单击任务报告
-description: 了解如何创建具有复杂过滤器的任务报告以及查找您在 Workfront 中创建的报告。活动 - 创建带有提示的注释报告。
+title: 创建任务报告活动
+description: 按照分步说明，练习创建任务报告。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,25 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
 jira: KT-8859
-exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '809'
-ht-degree: 99%
+source-wordcount: '778'
+ht-degree: 96%
 
 ---
 
-# 单击任务报告
+# 创建任务报告活动
 
-在本视频中，您将了解到：
-
-* 如何使用复杂的过滤器创建任务报告
-* 如何查找您创建的报告
-
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
-
-
+按照分步说明，练习创建任务报告。
 
 >[!TIP]
 >

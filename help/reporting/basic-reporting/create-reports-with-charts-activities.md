@@ -1,6 +1,6 @@
 ---
-title: 创建带有图表的报告
-description: 了解图表如何提升数据的可视化，以及如何使用 Workfront 中的图表工具。
+title: 创建包含图表活动的报表
+description: 练习使用图表创建报告，并逐步提供说明。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -9,23 +9,17 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335153.png
 jira: KT-8860
-exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
-doc-type: video
+hidefromtoc: true
 source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 90%
+source-wordcount: '256'
+ht-degree: 77%
 
 ---
 
-# 创建带有图表的报告
+# 创建包含图表活动的报表
 
-在本视频中，您将了解到：
-
-* 图表如何改善数据的可视化
-* 如何使用 Workfront 的图表工具
-
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+练习使用图表创建报告，并逐步提供说明。
 
 ## 活动1：向报表中添加图表
 
