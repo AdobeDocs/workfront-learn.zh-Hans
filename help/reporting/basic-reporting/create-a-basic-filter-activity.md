@@ -11,14 +11,16 @@ team: Technical Marketing
 jira: KT-8856
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '339'
+source-wordcount: '348'
 ht-degree: 100%
 
 ---
 
 # 创建基本过滤器活动
+
+[单击此处](/help/assets/create-basic-filter-activities.pdf)下载此页面的 PDF。
 
 ## 活动 1 - 营销项目组合中的所有项目
 
@@ -26,7 +28,7 @@ ht-degree: 100%
 
 下面包含分步说明。
 
-### 活动 1 答案
+## 活动 1 答案
 
 ![用于创建新过滤器的屏幕图像](assets/basic-filter-activity-1.png)
 
@@ -49,7 +51,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
 
-### 活动 2 答案
+## 活动 2 答案
 
 ![用于创建新过滤器的屏幕图像](assets/basic-filter-activity-updated-6-15-21.png)
 

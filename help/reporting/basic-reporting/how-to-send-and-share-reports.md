@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 96%
+source-wordcount: '208'
+ht-degree: 94%
 
 ---
 
@@ -28,11 +28,15 @@ ht-degree: 96%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## 活动1：发送报表
+## 发送和共享报表活动
+
+[单击此处](/help/assets/send-and-share-reports-activities.pdf)下载此页面的 PDF。
+
+### 活动1：发送报表
 
 每周一早上 5 点以 Excel 电子表格形式向自己发送一份报告。这是自动收集每周报告的好方法，您可以稍后使用该报告来查看相关的趋势。
 
-## 答案1
+### 答案1
 
 ![设置重复报告传递的屏幕图像](assets/send-a-report.png)
 

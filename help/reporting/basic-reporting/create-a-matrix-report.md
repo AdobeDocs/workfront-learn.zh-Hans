@@ -11,10 +11,10 @@ thumbnail: 335156.png
 jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '220'
-ht-degree: 76%
+source-wordcount: '233'
+ht-degree: 75%
 
 ---
 
@@ -27,13 +27,17 @@ ht-degree: 76%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## 活动1：创建矩阵报表
+## 创建矩阵报表活动
+
+[单击此处](/help/assets/create-matrix-report-activities.pdf)下载此页面的 PDF。
+
+### 活动1：创建矩阵报表
 
 创建一个矩阵报告，其中显示每个状态中有多少请求，并按请求队列排序。这可以让您快速了解投入的工作量以及您跟进工作的情况。
 
 建议在行分组上显示请求队列。状态显示为列分组。将报表命名为“按状态请求和请求队列”。
 
-## 答案1
+### 答案1
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 选项，并选择 **[!UICONTROL Issue]**。

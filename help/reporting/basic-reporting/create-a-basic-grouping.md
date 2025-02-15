@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8853
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 76%
+source-wordcount: '216'
+ht-degree: 94%
 
 ---
 
@@ -28,7 +28,11 @@ ht-degree: 76%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
-## 活动：创建一个基本分组
+## 创建基本分组活动
+
+[单击此处](/help/assets/create-basic-grouping-activities.pdf)下载此页面的 PDF。
+
+### 活动1：创建基本分组
 
 创建将在报告中使用的问题分组，以跟踪通过请求队列发出的请求。通过这种分组，可以轻松查看按优先级分组的类似类型的问题/请求。将分组命名为“请求队列、队列主题、优先级”。
 
@@ -38,16 +42,16 @@ ht-degree: 76%
 1. 队列主题
 1. 请求的优先级
 
-## 答案
+### 答案1
 
 ![创建新分组的屏幕图像](assets/grouping-exercise.png)
 
 1. 在问题列表报告中，转至 **[!UICONTROL Grouping]** 菜单并选择 **[!UICONTROL New Grouping]**。
 1. 将您的分组命名为“请求队列、队列主题、优先级”。
 1. 单击 **[!UICONTROL Add Grouping]**。
-1. 在 [!UICONTROL First By] 字段。键入“项目名称”，然后选择“项目”字段源下的&#x200B;**[!UICONTROL Name]**。
+1. 在 [!UICONTROL First By] 字段。输入“项目名称”，然后在项目字段源下选择 **[!UICONTROL Name]**。
 1. 单击 **[!UICONTROL Add another Grouping]**。
-1. 在[!UICONTROL And then by]字段中，键入“queue”，然后选择[!UICONTROL Queue Topic]字段源下的&#x200B;**[!UICONTROL Name]**。
+1. 在 [!UICONTROL And then by] 字段中，输入“队列”，然后选择 [!UICONTROL Queue Topic] 字段源下的 **[!UICONTROL Name]**。
 1. 单击 **[!UICONTROL Add another Grouping]**。
-1. 在[!UICONTROL And then by]字段中，键入“priority”，然后选择[!UICONTROL Issue]字段源下的&#x200B;**[!UICONTROL Priority]**。
+1. 在 [!UICONTROL And then by] 字段中，输入“优先级”，然后选择 [!UICONTROL Issue] 字段源下的 **[!UICONTROL Priority]**。
 1. 单击 **[!UICONTROL Save Grouping]**

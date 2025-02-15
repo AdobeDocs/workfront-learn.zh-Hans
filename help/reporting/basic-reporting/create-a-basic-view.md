@@ -12,9 +12,9 @@ last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '638'
+source-wordcount: '651'
 ht-degree: 98%
 
 ---
@@ -29,7 +29,11 @@ ht-degree: 98%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
-## 活动 1：创建任务状态视图
+## 创建基本视图活动
+
+[单击此处](/help/assets/create-basic-view-activities.pdf)下载此页面的 PDF。
+
+### 活动 1：创建任务状态视图
 
 作为项目经理、团队领导或资源管理者，您希望跟踪任务工作的进展情况。通过此视图，您可以在列表或报告的一行中获得任务的多个状态指标。
 
@@ -43,7 +47,7 @@ ht-degree: 98%
 * [!UICONTROL Progress Status]
 * [!UICONTROL Status Icons]
 
-## 答案1
+### 答案1
 
 ![创建任务状态视图的屏幕图像](assets/view-exercise.png)
 
@@ -60,7 +64,7 @@ ht-degree: 98%
 
 将鼠标悬停在 [!UICONTROL Status Icons] 列中的每个图标上，查看它们所代表的内容。如果它们呈灰色，则意味着该任务没有注释、文档、审批流程等。如果图标以彩色显示，则至少有一个项目与该任务关联。您可以单击注释或文档图标以转到该项目。
 
-## 活动 2：创建里程碑视图
+### 活动 2：创建里程碑视图
 
 如果您使用里程碑，此视图是按名称查看里程碑并使用内联编辑添加或编辑它们的最简单方法。
 
@@ -76,7 +80,7 @@ ht-degree: 98%
 * [!UICONTROL Percent Complete]
 
 
-## 答案2
+### 答案2
 
 ![创建里程碑视图的屏幕图像](assets/view-milestone-exercise-1.png)
 
@@ -88,7 +92,7 @@ ht-degree: 98%
 
 ![使用里程碑视图的任务列表的图像](assets/view-milestone-exercise-2.png)
 
-## 活动 3：创建持续时间类型和任务限制视图
+### 活动 3：创建持续时间类型和任务限制视图
 
 此视图将允许您检查和编辑项目中的所有持续时间类型和任务限制。
 
@@ -108,7 +112,7 @@ ht-degree: 98%
 
 更改 [!UICONTROL Start On] 和 [!UICONTROL Due On] 列上的 [!UICONTROL Field Format] 以显示日期和时间。
 
-## 答案3
+### 答案3
 
 ![显示持续时间类型和任务限制视图的屏幕图像](assets/view-activity-3.png)
 
@@ -130,7 +134,7 @@ ht-degree: 98%
 1. 在 [!UICONTROL Field Format] 下拉菜单下，选择 [!UICONTROL "10/17/60 3:00 AM"]。
 1. 单击 **[!UICONTROL Save]**。
 
-## 活动 4：创建项目模板活动状态视图
+### 活动 4：创建项目模板活动状态视图
 
 管理项目模板的任何人都会喜欢看到列表中每个模板的活动状态（True 或 False）。更理想的情况是 - 该字段是内联可编辑的！
 
@@ -146,7 +150,7 @@ ht-degree: 98%
 * [!UICONTROL Is Active]
 
 
-## 答案4
+### 答案4
 
 ![显示项目模板活动状态视图的屏幕图像](assets/view-activity-4.png)
 

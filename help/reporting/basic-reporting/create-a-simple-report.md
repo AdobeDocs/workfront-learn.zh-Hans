@@ -11,10 +11,10 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '215'
-ht-degree: 78%
+source-wordcount: '228'
+ht-degree: 77%
 
 ---
 
@@ -26,7 +26,11 @@ ht-degree: 78%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 活动1：创建简单的任务报告
+## 创建简单报表活动
+
+[单击此处](/help/assets/create-simple-report-activities.pdf)下载此页面的 PDF。
+
+### 活动1：创建简单的任务报告
 
 建议您在单个报告中跟踪所有活动任务。使用以下方式创建名为“我的当前任务”的任务报告：
 
@@ -35,7 +39,7 @@ ht-degree: 78%
 * 过滤器 = 我的当前任务
 * 描述 = 我是任务所有者的当前项目中未完成的任务，按项目分组。
 
-## 答案1
+### 答案1
 
 1. 前往 **[!UICONTROL Main Menu]** 并选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 下拉菜单并选择 **[!UICONTROL Task Report]**。

@@ -11,10 +11,10 @@ thumbnail: 335153.png
 jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 915b28bbbf138fa84dce6d1915387fbe22c63362
+source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 90%
+source-wordcount: '285'
+ht-degree: 88%
 
 ---
 
@@ -27,11 +27,15 @@ ht-degree: 90%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## 活动1：向报表中添加图表
+## 创建包含图表活动的报表
+
+[单击此处](/help/assets/create-reports-with-charts-activities.pdf)下载此页面的 PDF。
+
+### 活动1：向报表中添加图表
 
 本季度即将结束，您想看看最近完成的项目是否符合预算。创建一份报告，其中显示项目的规划成本与实际成本。您只想查看上一季度完成的项目。使用自定义颜色添加组合柱形图。
 
-## 答案1
+### 答案1
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Project]**。
