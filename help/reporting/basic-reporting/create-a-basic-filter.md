@@ -1,6 +1,6 @@
 ---
 title: 创建基本过滤器
-description: 了解什么是过滤器，如何创建过滤器，以及如何在Workfront中与其他用户共享过滤器。
+description: 了解什么是过滤器、如何创建过滤器以及如何与 Workfront 中的其他用户共享过滤器。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335151.jpeg
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: e0ae6eaacc03980ad53c0471681211f76dfaff26
 workflow-type: tm+mt
 source-wordcount: '66'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
