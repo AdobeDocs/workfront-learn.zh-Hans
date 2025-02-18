@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '194'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '207'
+ht-degree: 98%
 
 ---
 
@@ -26,7 +26,11 @@ ht-degree: 100%
 * 如何使用文本模式创建自定义提示
 * 您可以在报告中使用的一些示例
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on)
+
+## 创建自定义提示活动
+
+[单击此处](/help/assets/create-custom-prompts-activities.pdf)下载此页面的 PDF。
 
 ## 活动：创建自定义提示
 

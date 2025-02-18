@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '283'
-ht-degree: 100%
+source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
+workflow-type: tm+mt
+source-wordcount: '299'
+ht-degree: 97%
 
 ---
 
@@ -39,7 +39,11 @@ ht-degree: 100%
 * 什么是驼峰式拼写
 * 您可以在分组中使用一些基本的“即插即用”文本模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+
+## 了解分组活动的基本文本模式
+
+[单击此处](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)下载此页面的 PDF。
 
 ## 任务 - 四个父级分组
 
