@@ -11,10 +11,10 @@ level: Beginner
 jira: KT-11035
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
-source-git-commit: 7345a54e1148bc5ab8472987e68738a48cecd826
+source-git-commit: b57236354534f5f2cede5aec308a3210ed1aa2e1
 workflow-type: tm+mt
-source-wordcount: '426'
-ht-degree: 100%
+source-wordcount: '420'
+ht-degree: 85%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 100%
 
 要完成 Workfront Fusion 学习路径中的练习，您将需要 Workfront 测试版。如果您已经有一个测试版，我们建议使用新的测试版进行此次培训。
 
-填写[该表格](https://forms.office.com/r/f1J8HRGrNY)，请求获得练习环境。如果您无法访问该表格，请将您的姓名、电子邮件地址和公司名称发送至 wfttstdr@adobe.com。
+通过填写[此表单](https://forms.office.com/r/f1J8HRGrNY)请求测试驱动器。 如果您无法访问该表格，请将您的姓名、电子邮件地址和公司名称发送至 wfttstdr@adobe.com。
 
 ### 访问 Workfront Fusion 进行练习
 
@@ -44,13 +44,13 @@ Workfront 不提供 Workfront Fusion 测试版。要在完成这些教程时进�
 
 ### 完成演练练习的分步说明
 
-我们提供有关完成演练练习的分步说明。您可以从左侧导航栏的“Fusion”>“练习”下访问这些内容，也可以使用演练教程底部提供的链接。
+提供了有关完成大多数演练练习的分步说明。 在演练教程后面的左侧导航栏中可立即找到这些内容。
 
-### 可选实践练习
+### 可选练习练习
 
-在一些演练练习之后会提供实践练习和相关挑战。
+一些演练练习之后会提供练习和挑战。
 
-解决实践练习的方法有很多种。其目的是挑战您在没有相应步骤或“正确答案”的情况下尝试实现场景目标，因为您在自己的公司构建场景时就需要这么做。
+可通过多种不同的方法解决实践练习。 其目的是挑战您在没有相应步骤或“正确答案”的情况下尝试实现场景目标，因为您在自己的公司构建场景时就需要这么做。
 
 实践练习与演练活动相关。
 
@@ -59,5 +59,7 @@ Workfront 不提供 Workfront Fusion 测试版。要在完成这些教程时进�
 ### 如何获得帮助
 
 我们提供的分步说明可以帮助您完成演练练习。
+
+[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-hans)
 
 您还可以在 [Workfront Fusion 2.0 社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)中发布问题。
