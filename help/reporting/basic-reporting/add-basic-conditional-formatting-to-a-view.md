@@ -12,9 +12,9 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '423'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 95%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## 向视图活动添加基本条件格式
+## 向视图活动中添加基本条件格式
 
 [单击此处](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf)下载此页面的 PDF。
 
@@ -46,7 +46,7 @@ ht-degree: 95%
    * 替换文本
    * 显示图标
 
-### 活动1：向视图添加条件格式
+### 活动 1：向视图添加条件格式
 
 使用现有的标准视图并在 [!UICONTROL Name] 列上添加此条件格式，创建一个名为“标准+进度”的任务视图。
 
@@ -55,7 +55,7 @@ ht-degree: 95%
 
 这有助于您发现有问题的任务，而无需将进度状态列包含在视图中。
 
-### 答案1
+### 答案 1
 
 ![创建新列规则的屏幕图像](assets/conditional-formatting-exercise.png)
 

@@ -12,9 +12,9 @@ jira: KT-8860
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '285'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -27,15 +27,15 @@ ht-degree: 88%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
 
-## 创建包含图表活动的报表
+## 创建带有图表活动的报告
 
 [单击此处](/help/assets/create-reports-with-charts-activities.pdf)下载此页面的 PDF。
 
-### 活动1：向报表中添加图表
+### 活动 1：将图表添加到报告中
 
 本季度即将结束，您想看看最近完成的项目是否符合预算。创建一份报告，其中显示项目的规划成本与实际成本。您只想查看上一季度完成的项目。使用自定义颜色添加组合柱形图。
 
-### 答案1
+### 答案 1
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Project]**。
@@ -62,6 +62,6 @@ ht-degree: 88%
 1. 对于 [!UICONTROL Bottom (X) Axis]，选择 [!UICONTROL Project] > [!UICONTROL Name]。
 1. 单击 **[!UICONTROL Combination Chart]** 按钮，并选择 **[!UICONTROL Value]** 字段中的 [!UICONTROL Project] > [!UICONTROL Actual Cost]。
 1. 单击颜色框旁边的箭头可更改 [!UICONTROL Actual Cost] 颜色。选择出现的颜色之一或单击右下角的框以调出调色板。
-1. 单击&#x200B;**[!UICONTROL Save + Close]**。当系统提示您输入报表名称时，请将其称为“按上一季度完成的项目列出的计划成本与实际成本”。
+1. 单击&#x200B;**[!UICONTROL Save + Close]**。当系统提示输入报告名称时，将其命名为“上季度完成项目的规划成本与实际成本”。
 
    ![在报告中添加图表的屏幕图像](assets/chart-report-chart.png)

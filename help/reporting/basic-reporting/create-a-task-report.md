@@ -12,9 +12,9 @@ jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '822'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 99%
 * 项目名称
 * 审核类型
 
-## 答案1
+## 答案 1
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Note]**。
@@ -162,7 +162,7 @@ ht-degree: 99%
 
 
 
-## 答案2
+## 答案 2
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Issue]**。

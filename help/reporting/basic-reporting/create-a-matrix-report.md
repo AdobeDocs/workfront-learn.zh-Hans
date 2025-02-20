@@ -12,9 +12,9 @@ jira: KT-8861
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
@@ -27,17 +27,17 @@ ht-degree: 75%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
-## 创建矩阵报表活动
+## 创建矩阵报告活动
 
 [单击此处](/help/assets/create-matrix-report-activities.pdf)下载此页面的 PDF。
 
-### 活动1：创建矩阵报表
+### 活动 1：创建矩阵报告
 
-创建一个矩阵报告，其中显示每个状态中有多少请求，并按请求队列排序。这可以让您快速了解投入的工作量以及您跟进工作的情况。
+创建一个矩阵报告，其中显示每个状态中有多少请求，并按请求队列排序。这可以让您快速了解即将到来的工作量以及您的工作进度。
 
-建议在行分组上显示请求队列。状态显示为列分组。将报表命名为“按状态请求和请求队列”。
+建议在行分组上显示请求队列。状态显示为列分组。将您的报告命名为“按状态和请求队列列出的请求”。
 
-### 答案1
+### 答案 1
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 选项，并选择 **[!UICONTROL Issue]**。
@@ -53,6 +53,6 @@ ht-degree: 75%
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Equal] > [!UICONTROL Current]
    * [!UICONTROL Queue Definition] > [!UICONTROL Is Public] > [!UICONTROL Not Equal] > [!UICONTROL None]（这就是我们通过将“队列定义”分配给一个公共选项来知道某个项目实际上是一个请求队列的方式。）
 
-1. 单击 **[!UICONTROL Save + Close]**。在系统提示输入报表名称时，键入“按状态请求和请求队列”。
+1. 单击 **[!UICONTROL Save + Close]**。当系统提示输入报告名称时，键入“按状态和请求队列列出的请求”。
 
    ![创建新的问题报告过滤器的屏幕图像](assets/matrix-report-filters.png)

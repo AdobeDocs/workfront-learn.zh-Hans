@@ -13,9 +13,9 @@ jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '651'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 98%
 * [!UICONTROL Progress Status]
 * [!UICONTROL Status Icons]
 
-### 答案1
+### 答案 1
 
 ![创建任务状态视图的屏幕图像](assets/view-exercise.png)
 
@@ -80,7 +80,7 @@ ht-degree: 98%
 * [!UICONTROL Percent Complete]
 
 
-### 答案2
+### 答案 2
 
 ![创建里程碑视图的屏幕图像](assets/view-milestone-exercise-1.png)
 
@@ -112,7 +112,7 @@ ht-degree: 98%
 
 更改 [!UICONTROL Start On] 和 [!UICONTROL Due On] 列上的 [!UICONTROL Field Format] 以显示日期和时间。
 
-### 答案3
+### 答案 3
 
 ![显示持续时间类型和任务限制视图的屏幕图像](assets/view-activity-3.png)
 
@@ -150,7 +150,7 @@ ht-degree: 98%
 * [!UICONTROL Is Active]
 
 
-### 答案4
+### 答案 4
 
 ![显示项目模板活动状态视图的屏幕图像](assets/view-activity-4.png)
 

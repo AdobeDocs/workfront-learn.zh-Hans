@@ -12,9 +12,9 @@ thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
 source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '228'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
@@ -26,20 +26,20 @@ ht-degree: 77%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 创建简单报表活动
+## 创建简单的报告活动
 
 [单击此处](/help/assets/create-simple-report-activities.pdf)下载此页面的 PDF。
 
-### 活动1：创建简单的任务报告
+### 活动 1：创建简单的任务报告
 
-建议您在单个报告中跟踪所有活动任务。使用以下方式创建名为“我的当前任务”的任务报告：
+建议您在单个报告中跟踪所有活动任务。使用以下内容创建名为“我的当前任务”的任务报告：
 
 * 列（视图）= 标准
 * 分组 = 项目
 * 过滤器 = 我的当前任务
 * 描述 = 我是任务所有者的当前项目中未完成的任务，按项目分组。
 
-### 答案1
+### 答案 1
 
 1. 前往 **[!UICONTROL Main Menu]** 并选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 下拉菜单并选择 **[!UICONTROL Task Report]**。
@@ -55,10 +55,8 @@ ht-degree: 77%
 
    ![在任务报告中创建过滤器的屏幕图像](assets/simple-task-report-filters.png)
 
-1. 打开&#x200B;**[!UICONTROL Report Settings]**&#x200B;并将报表命名为“我的当前任务”。
-1. 在说明字段中，输入“未完成”
-我担任任务的当前项目上的任务
-所有者，按项目分组。”
+1. 打开 **[!UICONTROL Report Settings]**，并将报告命名为“我当前的任务”。
+1. 在描述字段，输入“我是任务所有者的当前项目中未完成的任务，按项目分组”。
 
    ![任务报告中的报告设置屏幕的图像](assets/simple-task-report-report-settings.png)
 
