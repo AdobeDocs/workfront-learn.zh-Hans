@@ -11,10 +11,10 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '738'
-ht-degree: 100%
+source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
+workflow-type: tm+mt
+source-wordcount: '701'
+ht-degree: 92%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 100%
 
 ### 从 [!UICONTROL Home] 中打开验证
 
-如果您在使用 [!DNL Workfront]，并被要求审批验证，您会在 [!DNL Workfront] [!UICONTROL Home] 的 [!UICONTROL Work List] 中找到一项任务。建议您只从 [!UICONTROL Filter] 中选择 [!UICONTROL Approvals]，这样您就可以专注于这类工作。
+如果您在[!DNL Workfront]中工作，并且被要求审批验证，您将在[!DNL Workfront] [!UICONTROL Home]的[!UICONTROL My Approvals]构件中找到分配。
 
-![[!DNL Workfront] [!UICONTROL Home] 的图像，其中激活了 [!UICONTROL Approvals] 过滤器，并从列表中选择了验证。](assets/open-proof-from-home.png)
+![[!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)中的[!UICONTROL My Approvals]小部件的图像
 
-值得注意的是，只有当分配您审批验证时，它才会显示在 [!DNL Workfront][!UICONTROL Home] 中。如果您刚刚被要求只审查该验证，则当您从过滤器列表中选择 [!UICONTROL Approvals] 时，它不会显示在 [!DNL Workfront] [!UICONTROL Home] 中。
+值得注意的是，只有当分配您审批验证时，它才会显示在 [!DNL Workfront][!UICONTROL Home] 中。如果您刚刚被要求仅查看校样，它不会在[!DNL Workfront] [!UICONTROL Home]中显示。
 
-在 [!UICONTROL Work List] 中选择验证审批，然后单击 [!UICONTROL Go to Proof] 链接以在验证查看器中打开它。
+单击[!UICONTROL Go to Proof]链接以将其打开到验证查看器中。
 
 根据您组织的验证和项目工作流，您可能会在 [!DNL Workfront] [!UICONTROL Home] 中看到任务分配，而不是验证审批请求。在这种情况下，您会从任务本身的 [!UICONTROL Documents] 部分打开验证（请参阅下面的说明）。
 
