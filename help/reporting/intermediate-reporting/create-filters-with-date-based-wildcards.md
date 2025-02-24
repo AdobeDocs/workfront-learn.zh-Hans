@@ -12,9 +12,9 @@ jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
 source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '240'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 70%
 在本视频中，您将学习如何：
 
 * 知道何时使用基于日期的通配符
-* 了解Workfront使用的两个基于日期的通配符之间的差异
+* 了解 Workfront 的两个基于日期的通配符之间的区别
 * 将基于日期的通配符添加到过滤器
 * 使用通配符、属性、运算符和修饰符创建自定义日期
 * 使用通配符创建自定义日期范围
@@ -47,4 +47,4 @@ ht-degree: 70%
 
 1. 过滤规划完成日期在 [!UICONTROL $$TODAY-1d] 和 [!UICONTROL $$TODAY] 之间的问题。
 1. 过滤规划完成日期在 [!UICONTROL $$TODAYb-1w] 和 [!UICONTROL $$TODAYe-1w] 之间的项目。
-1. 此报表查找分配给您的尚未完成（换句话说，完成百分比小于100）以及今天过期或到期的任务。 任务的计划完成日期的筛选规则表示，查看到期日期等于或早于今天日期的任务。
+1. 此报告会查找分配给您的尚未完成的任务（即完成百分比低于 100 的任务）以及今天过期或到期的任务。任务规划完成日期的过滤规则表示查看截止日期等于或早于今天日期的任务。
