@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '354'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '345'
+ht-degree: 98%
 
 ---
 
@@ -40,9 +40,7 @@ ht-degree: 100%
 >使用基于用户的通配符时，您必须使用“等于”过滤限定符。
 
 
-## 使用基于用户的通配符活动创建过滤器
-
-[单击此处](/help/assets/create-filters-with-user-based-wildcards-activities.pdf)下载此页面的 PDF。
+## “使用基于用户的通配符创建过滤器”活动
 
 ### 活动 1
 

@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '663'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '654'
+ht-degree: 98%
 
 ---
 
@@ -42,15 +42,13 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
-## 了解视图活动的基本文本模式
+## “了解视图的基本文本模式”活动
 
-[单击此处](/help/assets/understand-basic-text-mode-for-views-activities.pdf)下载此页面的 PDF。
-
-## 任务 - 4 个父级视图
+### 任务 - 4 个父级视图
 
 首先为“任务名称”和“父级名称”创建一列，然后使用以下文本模式创建其他三列。
 
-### 任务 - 父级名称的父级
+#### 任务 - 父级名称的父级
 
 ```
 displayname=Parent of Parent Name
@@ -64,7 +62,7 @@ valuefield=parent:parent:name
 valueformat=HTML
 ```
 
-### 任务 - 父级名称的父级的父级
+#### 任务 - 父级名称的父级的父级
 
 ```
 displayname=Parent of Parent of Parent Name
@@ -78,7 +76,7 @@ valuefield=parent:parent:parent:name
 valueformat=HTML
 ```
 
-### 任务 - 父级名称的父级的父级的父级
+#### 任务 - 父级名称的父级的父级的父级
 
 ```
 displayname=Parent of Parent of Parent of Parent Name
@@ -94,9 +92,9 @@ valueformat=HTML
 
 ![显示 4 个父级视图的屏幕图像](assets/4-parents-view.png)
 
-## 用户 - 在用户视图中显示列表的迭代
+### 用户 - 在用户视图中显示列表的迭代
 
-### 用户 - 所有工作角色
+#### 用户 - 所有工作角色
 
 ```
 displayname=All job roles
@@ -108,7 +106,7 @@ valuefield=role:name
 valueformat=HTML
 ```
 
-### 用户 - 显示为“主要”的所有的工作角色
+#### 用户 - 显示为“主要”的所有的工作角色
 
 ```
 displayname=All Job Roles showing primary
@@ -120,7 +118,7 @@ valueexpression=IF({user}.{roleID}={role}.{ID},CONCAT("** ",{role}.{name}," **")
 valueformat=HTML
 ```
 
-### 用户 - 所有团队
+#### 用户 - 所有团队
 
 ```
 displayname=All teams
@@ -137,7 +135,7 @@ valueformat=HTML
 >有一个可通过 UI 访问的“团队”字段，该字段显示所有团队，以逗号分隔，但使用上面的文本模式将在单独的行上显示每个团队。
 
 
-### 用户 - 所有组
+#### 用户 - 所有组
 
 ```
 displayname=All groups
@@ -149,7 +147,7 @@ valuefield=group:name
 valueformat=HTML
 ```
 
-### 用户 - 显示主组的所有组
+#### 用户 - 显示主组的所有组
 
 ```
 displayname=All groups showing home group
@@ -162,7 +160,7 @@ valueformat=HTML
 ```
 
 
-### 用户 - 直接报告
+#### 用户 - 直接报告
 
 ```
 displayname=Direct reports
@@ -174,7 +172,7 @@ valueexpression={name}
 valueformat=HTML
 ```
 
-### 用户 - 未来 PTO
+#### 用户 - 未来 PTO
 
 ```
 displayname=Future PTO
@@ -190,7 +188,7 @@ width=150
 
 ![显示用户列表视图的屏幕图像](assets/user-lists-view-large.png)
 
-## 任务 - 如何显示任务分配和处理状态
+### 任务 - 如何显示任务分配和处理状态
 
 ```
 displayname=Assignments and Status
@@ -207,9 +205,9 @@ width=150
 ![显示“分配”和“状态”视图的屏幕图像](assets/assignments-and-status-view.png)
 
 
-## 任务 - 如何显示多个任务分配的角色和分配情况
+### 任务 - 如何显示多个任务分配的角色和分配情况
 
-### 任务 - 角色 + 小时数
+#### 任务 - 角色 + 小时数
 
 ```
 displayname=Role+hours
@@ -221,7 +219,7 @@ valueexpression=CONCAT({role}.{name}," (",round({workRequired}/60,2),")")
 valueformat=HTML
 ```
 
-### 任务 - 分配 + 分配百分比
+#### 任务 - 分配 + 分配百分比
 
 ```
 displayname=Assignment+percent
@@ -235,9 +233,9 @@ type=iterate
 
 ![显示“分配”和“角色”视图的屏幕图像](assets/assignments-roles-and-percent-view.png)
 
-## 任务 - 跨项目的前置任务及后置任务
+### 任务 - 跨项目的前置任务及后置任务
 
-### 任务过滤器（可选）
+#### 任务过滤器（可选）
 
 **显示当前项目中至少有一个跨项目前置任务或至少有一个跨项目后置任务的所有任务**
 
@@ -254,7 +252,7 @@ OR:1:successorsMM:projectID=FIELD:projectID
 OR:1:successorsMM:projectID_Mod=ne
 ```
 
-### 任务 - 显示前置任务名称以及项目前置任务的位置
+#### 任务 - 显示前置任务名称以及项目前置任务的位置
 
 ```
 displayname=Predecessor names
@@ -268,7 +266,7 @@ valueformat=HTML
 width=150
 ```
 
-### 任务 - 显示后置任务名称以及项目后置任务的位置
+#### 任务 - 显示后置任务名称以及项目后置任务的位置
 
 ```
 displayname=Successor names
@@ -282,7 +280,7 @@ valueformat=HTML
 width=150
 ```
 
-### 任务 - 显示前置任务的预计完成日期
+#### 任务 - 显示前置任务的预计完成日期
 
 ```
 displayname=Predecessor projected completion dates
@@ -297,7 +295,7 @@ listmethod=nested(predecessors).lists
 shortview=false
 ```
 
-### 任务 - 显示前置任务的进度状态
+#### 任务 - 显示前置任务的进度状态
 
 ```
 displayname=Predecessor progress status
@@ -312,7 +310,7 @@ valueformat=HTML
 width=90
 ```
 
-### 任务 - 显示跨项目前置任务项目的完成百分比
+#### 任务 - 显示跨项目前置任务项目的完成百分比
 
 ```
 displayname=Predecessor project percent complete
@@ -329,7 +327,7 @@ width=150
 ![显示跨项目前置任务和后置任务视图的屏幕图像](assets/cross-project-predecessors-and-successors.png)
 
 
-## 任务 - 显示分配的所有人员以及每个由谁分配
+### 任务 - 显示分配的所有人员以及每个由谁分配
 
 ```
 displayname=All assignees and requesters
@@ -343,7 +341,7 @@ valueformat=HTML
 
 ![显示分配的所有人员以及每个由谁分配的屏幕图像](assets/all-assignees-and-requesters.png)
 
-## 任务/项目 - 显示项目或任务中所有自定义表单的迭代
+### 任务/项目 - 显示项目或任务中所有自定义表单的迭代
 
 ```
 displayname=All Forms Assigned
@@ -358,7 +356,7 @@ valueformat=HTML
 ![显示项目中所有自定义表单的屏幕图像](assets/all-custom-forms-on-a-project.png)
 
 
-## 项目 - 在项目视图中显示可解析项的所有主要联系人的迭代
+### 项目 - 在项目视图中显示可解析项的所有主要联系人的迭代
 
 ```
 displayname=Requestor
@@ -374,7 +372,7 @@ width=150
 
 ![显示可解析项的主要联系人的屏幕图像](assets/primary-contacts-for-resolvables.png)
 
-## 项目 - 显示所有项目团队成员的迭代
+### 项目 - 显示所有项目团队成员的迭代
 
 ```
 displayname=Project Team Members
@@ -389,7 +387,7 @@ valueformat=HTML
 
 ![显示所有项目团队成员的屏幕图像](assets/all-project-team-members.png)
 
-## 项目 - 显示项目所有可解析项的 entryDate 的迭代
+### 项目 - 显示项目所有可解析项的 entryDate 的迭代
 
 ```
 displayname=Resolvables entry date
@@ -407,7 +405,7 @@ valueformat=HTML
 
 ![显示项目的所有可解析项的 entryDate 的屏幕图像](assets/resolvables-entry-date.png)
 
-## 项目 - 显示原始项目请求者的主组
+### 项目 - 显示原始项目请求者的主组
 
 ```
 displayname=Requestor home group
@@ -421,7 +419,7 @@ valueformat=HTML
 
 ![显示项目请求者主组的屏幕图像](assets/requestor-home-group.png)
 
-## 项目 - 显示项目是否是请求队列
+### 项目 - 显示项目是否是请求队列
 
 ```
 querysort=queueDef:isPublic
@@ -439,7 +437,7 @@ displayname=Public Selection
 
 ![显示项目是否为请求队列的屏幕图像](assets/project-is-a-request-queue.png)
 
-## 问题 - 显示所有解决项目团队成员的迭代
+### 问题 - 显示所有解决项目团队成员的迭代
 
 ```
 displayname=Resolve Project: Team Members
@@ -455,7 +453,7 @@ width=150
 
 ![显示所有解决项目团队成员的屏幕图像](assets/all-resolve-project-team-members.png)
 
-## 问题 - 显示问题主要联系人的所有团队的迭代
+### 问题 - 显示问题主要联系人的所有团队的迭代
 
 ```
 displayname=Requestor Teams
@@ -471,7 +469,7 @@ width=150
 
 ![显示所有主要联系人团队的屏幕图像](assets/all-primary-contact-teams.png)
 
-## 文档 - 显示文档报告中文件夹的迭代
+### 文档 - 显示文档报告中文件夹的迭代
 
 ```
 displayname=Folder
@@ -485,7 +483,7 @@ valueformat=HTML
 
 ![显示文档报告中的文件夹的屏幕图像](assets/folder-in-a-document-report.png)
 
-## 文档 - 显示文档报告中父文件夹的迭代
+### 文档 - 显示文档报告中父文件夹的迭代
 
 ```
 displayname=Parent Folder
@@ -499,7 +497,7 @@ valueformat=HTML
 
 ![显示文档报告中的父文件夹的屏幕图像](assets/parent-folder-in-a-document-report.png)
 
-## 文件 - 文件审批日期
+### 文件 - 文件审批日期
 
 ```
 displayname=Document approval dates
@@ -517,9 +515,9 @@ section=0
 
 ![显示文档审批日期视图的屏幕图像](assets/document-approval-dates.png)
 
-## 验证审批
+### 验证审批
 
-### 验证审批 - 显示项目名称
+#### 验证审批 - 显示项目名称
 
 ```
 displayname=Project Name
@@ -528,7 +526,7 @@ valuefield=documentVersion:document:project:name
 valueformat=HTML
 ```
 
-### 验证审批 - 显示任务名称
+#### 验证审批 - 显示任务名称
 
 ```
 displayname=Task Name

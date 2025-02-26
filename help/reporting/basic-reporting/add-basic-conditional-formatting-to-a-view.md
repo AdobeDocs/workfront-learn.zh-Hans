@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '423'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '416'
+ht-degree: 97%
 
 ---
 
@@ -29,11 +29,8 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on)
 
-## 向视图活动中添加基本条件格式
 
-[单击此处](/help/assets/add-basic-conditional-formatting-to-a-view-activities.pdf)下载此页面的 PDF。
-
-### 摘要
+## 条件格式摘要
 
 要创建条件格式：
 
@@ -45,6 +42,8 @@ ht-degree: 100%
    * 文本颜色
    * 替换文本
    * 显示图标
+
+## “向视图添加基本条件格式”活动
 
 ### 活动 1：向视图添加条件格式
 

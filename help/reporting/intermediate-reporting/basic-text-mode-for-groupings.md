@@ -11,10 +11,10 @@ team: Technical Marketing
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: 88c2161e897f23587ccc1d0e867b6f8961927a0f
-workflow-type: ht
-source-wordcount: '299'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '290'
+ht-degree: 97%
 
 ---
 
@@ -41,11 +41,9 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
 
-## 了解分组活动的基本文本模式
+## “了解分组的基本文本模式”活动
 
-[单击此处](/help/assets/understand-basic-text-mode-for-groupings-activities.pdf)下载此页面的 PDF。
-
-## 任务 - 四个父级分组
+### 任务 - 四个父级分组
 
 以下文本模式将根据最多四个级别的父级对任务进行分组，并将不存在的父级留空。
 
@@ -62,7 +60,7 @@ group.0.valueformat=string
 ![显示根据四个父级分组的项目任务的屏幕图像](assets/4-parents-grouping.png)
 
 
-## 任务 - 分组完成百分比
+### 任务 - 分组完成百分比
 
 以下文本模式将根据任务的完成百分比对任务进行分组。分组时，任务将属于以下类别之一：
 
@@ -83,7 +81,7 @@ textmode=true
 
 ![显示按完成百分比分组的项目任务的屏幕图像](assets/percent-complete-grouping.png)
 
-## 任务 - 按 statusEquatesWith 分组，然后按状态分组
+### 任务 - 按 statusEquatesWith 分组，然后按状态分组
 
 以下文本模式将按 statusEquatesWith 对任务进行分组，然后按状态进行分组。
 
@@ -108,7 +106,7 @@ textmode=true
 ![显示按 statusEquatesWith 分组的项目任务的屏幕图像](assets/status-equates-with.png)
 
 
-## 验证审批 - 按项目名称分组
+### 验证审批 - 按项目名称分组
 
 ```
 group.0.valueformat=HTML
@@ -119,7 +117,7 @@ group.0.displayname=Project Name
 ![显示按项目名称分组的验证审批的屏幕图像](assets/proof-approvals-grouped-by-project-name.png)
 
 
-## 验证审批 - 按文档名称分组
+### 验证审批 - 按文档名称分组
 
 ```
 group.0.displayname=Document Name

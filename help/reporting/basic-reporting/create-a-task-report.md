@@ -11,10 +11,10 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '822'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '814'
+ht-degree: 99%
 
 ---
 
@@ -27,9 +27,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
-## 创建任务报告活动
-
-[单击此处](/help/assets/create-task-report-activities.pdf)下载此页面的 PDF。
 
 >[!TIP]
 >
@@ -37,9 +34,10 @@ ht-degree: 100%
 >我们收集了客户最喜欢的报告，并将它们整理成一本易于消化和理解的“食谱”，供您带回并在您自己的 Workfront “厨房”中进行测试。
 >这 10 份报告来自与您类似的客户。我们十分感谢分布在不同的行业、部门、团队、职位和公司的优秀客户分享了他们最喜爱的报告之一。有些报告很简单（但非常有用），有些则比较复杂，可以帮助您的报告提升到一个新的水平。
 
+## “创建任务报告”活动
 
 
-## 活动 1：创建带有提示的注释报告
+### 活动 1：创建带有提示的注释报告
 
 创建一份“注释”报告，该报告可用于根据注释内容、作者、输入日期、项目名称或审核类型搜索用户注释（即评论或更新）或系统注释。将该报告命名为“注释搜索”。
 
@@ -68,7 +66,7 @@ ht-degree: 100%
 * 项目名称
 * 审核类型
 
-## 答案 1
+### 答案 1
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Note]**。
@@ -111,7 +109,7 @@ ht-degree: 100%
 1. 选中 **[!UICONTROL Show Prompts in Dashboards]** 框。
 1. 保存并关闭您的报告。
 
-## 活动 2：创建管理团队反馈报告
+### 活动 2：创建管理团队反馈报告
 
 这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)教程中了解如何创建此请求队列。
 
@@ -162,7 +160,7 @@ ht-degree: 100%
 
 
 
-## 答案 2
+### 答案 2
 
 1. 从 **[!UICONTROL Main Menu]** 中选择 **[!UICONTROL Reports]**。
 1. 单击 **[!UICONTROL New Report]** 菜单并选择 **[!UICONTROL Issue]**。

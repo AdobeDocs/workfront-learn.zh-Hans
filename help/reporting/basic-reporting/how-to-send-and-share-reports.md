@@ -11,10 +11,10 @@ thumbnail: 335158.png
 jira: KT-8863
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '208'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '199'
+ht-degree: 97%
 
 ---
 
@@ -28,9 +28,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
 
-## 发送和共享报告活动
-
-[单击此处](/help/assets/send-and-share-reports-activities.pdf)下载此页面的 PDF。
+## “发送和共享报表”活动
 
 ### 活动 1：发送一份报告
 

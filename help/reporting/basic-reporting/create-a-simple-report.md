@@ -11,10 +11,10 @@ jira: KT-8858
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
-workflow-type: ht
-source-wordcount: '228'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '220'
+ht-degree: 97%
 
 ---
 
@@ -26,9 +26,7 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
 
-## 创建简单的报告活动
-
-[单击此处](/help/assets/create-simple-report-activities.pdf)下载此页面的 PDF。
+## “创建简单报表”活动
 
 ### 活动 1：创建简单的任务报告
 

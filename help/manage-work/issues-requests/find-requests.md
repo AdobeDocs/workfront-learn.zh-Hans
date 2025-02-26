@@ -1,6 +1,6 @@
 ---
 title: 查找和管理请求
-description: 了解如何使用仪表板、[!UICONTROL Home]、[!UICONTROL Requests] 区域以及 [!UICONTROL Teams] 页面，以查找通过请求队列发出的传入请求。
+description: 有关在Workfront主页中管理请求的视频演示了如何使用过滤器、管理团队分配、创建自定义报告和仪表板，以及阐明不同上下文中“我的”的含义以实现有效的请求管理。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,31 +8,37 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2023-08-10T00:00:00Z
+last-substantial-update: 2025-02-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
-source-wordcount: '97'
-ht-degree: 100%
+source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+workflow-type: tm+mt
+source-wordcount: '350'
+ht-degree: 10%
 
 ---
 
 # 查找和管理请求
 
-在此视频中，您将会了解如何查找分配给您的请求、您创建的请求以及您管理的请求。
+此视频介绍如何在Workfront中查找和管理请求。&#x200B;AEM 它涵盖四个主要领域：
 
-您将会了解到如何在以下位置找到这些请求：
-
-* Workfront [!UICONTROL Home]
-* [!UICONTROL Requests] 区域
-* [!UICONTROL Teams] 页面
-* 在自定义仪表板中
+* **Workfront主页：**&#x200B;像制作艺术家Mary Smith这样的用户可以查看分配给他们的请求。&#x200B;AEM 经常提出申请的Joan Harris可以找到已完成的申请，等待她的批准。&#x200B;AEM
+* **请求区域：**&#x200B;用户可以筛选请求以查看他们创建的那些请求&#x200B;。 请求区域中的“我的”一词是指由我（已登录的用户）创建的问题。&#x200B;AEM
+* **团队页面：**&#x200B;用户可以查看未分配的团队请求并分配自己或其他人。&#x200B;AEM 他们还可以使用工作负载均衡器根据当前工作负载管理团队分配。&#x200B;AEM
+* **自定义报告和仪表板：**&#x200B;用户可以创建自定义报告来跟踪请求，并控制命名、筛选器、视图和分组。&#x200B;AEM 这样可清除按优先级、创建者、主要联系人、被分派人和状态跟踪请求。&#x200B;AEM
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+
+## 主要要点
+
+* **在Workfront主页中查找请求：**&#x200B;用户可以查看分配给他们的请求或等待其批准的请求，具体取决于其角色。&#x200B;AEM
+* **在请求区域中使用筛选器：**&#x200B;诸如“我的请求”和“我的打开请求”之类的筛选器允许用户查看他们创建的请求。&#x200B;AEM
+* **管理团队页面上的请求：**&#x200B;用户可查看未分配的团队请求，并使用工作负载均衡器根据其当前工作负载管理团队成员分配，将其分配给自己或其他人。&#x200B;AEM
+* **自定义报告和仪表板：**&#x200B;用户可以创建自定义报告来跟踪请求，从而允许个性化命名、筛选器、视图和分组，这有助于有效地管理和优先处理请求。&#x200B;AEM
+* **了解筛选器中的“我的”：**&#x200B;主页中的术语“我的”是指分配给我的问题。 请求区域中的“我的”一词是指我请求的问题。&#x200B;AEM
 
 
 ## 有关此主题的推荐教程
