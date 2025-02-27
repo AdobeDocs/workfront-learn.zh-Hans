@@ -11,7 +11,7 @@ thumbnail: 335154.png
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
 workflow-type: tm+mt
 source-wordcount: '814'
 ht-degree: 99%
@@ -27,14 +27,13 @@ ht-degree: 99%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
 
+## “创建任务报告”活动
 
 >[!TIP]
 >
 >请拿出您的“厨具”，准备好尝试我们 [Adobe Workfront 客户报告食谱](/help/assets/workfront-customer-reporting-cookbook.pdf)中的“食谱”。在其中，您会看到 10 份报告的分步说明，可供您立即在自己的环境中快速编写。
 >我们收集了客户最喜欢的报告，并将它们整理成一本易于消化和理解的“食谱”，供您带回并在您自己的 Workfront “厨房”中进行测试。
 >这 10 份报告来自与您类似的客户。我们十分感谢分布在不同的行业、部门、团队、职位和公司的优秀客户分享了他们最喜爱的报告之一。有些报告很简单（但非常有用），有些则比较复杂，可以帮助您的报告提升到一个新的水平。
-
-## “创建任务报告”活动
 
 
 ### 活动 1：创建带有提示的注释报告

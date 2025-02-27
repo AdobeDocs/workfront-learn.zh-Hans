@@ -1,6 +1,6 @@
 ---
 title: 创建项目模板并了解 [!UICONTROL Blueprints]
-description: 学习如何从头开始以及从现有的项目创建项目模板，并了解如何通过 [!UICONTROL Blueprints] 访问由 Workfront 专家创建的各类实用项目模板。
+description: 有关在Workfront中创建模板的视频演示了如何创建新项目模板、将它们用于新项目、将现有项目另存为模板、利用预建Blueprint以及将任务分配给工作角色，以实现高效的资源管理。
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,25 +13,34 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '367'
-ht-degree: 100%
+source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+workflow-type: tm+mt
+source-wordcount: '631'
+ht-degree: 50%
 
 ---
 
 # 创建项目模板并了解 [!UICONTROL Blueprints]
 
+
 学习如何从头开始以及从现有的项目创建项目模板，并了解如何通过 [!UICONTROL Blueprints] 访问由 Workfront 专家创建的各类实用项目模板。
 
 ## 创建项目模板
 
-在本视频中，您将学习如何：
+* 此视频提供了有关创建和使用用于营销视频制作的模板的分步指南。 首先，它解释了如何从头开始创建新模板、命名并保存它。&#x200B;AEM 该过程包括三个主要步骤：创建任务、使用持续时间和前置任务设置时间线，以及向工作角色而非单个用户分配任务。&#x200B;AEM 该视频强调使用父子关系来组织任务，以便更好地总结和效率。&#x200B;AEM
+* 创建模板后，便可用于生成新项目。 此视频演示了如何从模板创建新项目、进行必要的调整，以及根据需要添加任务或修改持续时间。&#x200B;AEM 它还显示了如何使用资源计划和计划功能将工作角色分配给任务。&#x200B;AEM
+* 此视频介绍如何将现有项目另存为新模板，以便在工作流中进行更新和改进。&#x200B;AEM 它强调了管理模板以避免混乱并确保简化项目执行的重要性。&#x200B;AEM
 
-* 从头开始制定模板
-* 从现有项目创建模板
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops)
+## 主要要点
+
+**创建模板：**了解如何通过命名新模板、设置任务、时间线以及分配工作角色从头开始创建新模板。&#x200B;AEM
+**任务组织：**使用父子任务关系高效地组织任务，为项目提供清晰的摘要和结构。&#x200B;AEM
+**时间线设置：**使用持续时间和前置任务设置任务时间线，以准确估计时间范围和任务序列。&#x200B;AEM
+**基于角色的分配：**将任务分配给工作角色而不是单个用户，以有效利用资源计划和规划功能。&#x200B;AEM
+**模板管理：**&#x200B;将现有项目另存为新模板，以合并改进和管理模板，从而避免混淆并确保高效的项目执行。&#x200B;AEM
+
 
 ## 使用 [!UICONTROL Blueprints] 创建的模板
 
