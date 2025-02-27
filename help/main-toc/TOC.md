@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 6afb57b983b094f9bc0c082a160453ecb394ca8e
+source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
 workflow-type: tm+mt
-source-wordcount: '2336'
-ht-degree: 99%
+source-wordcount: '2357'
+ht-degree: 98%
 
 ---
 
@@ -330,6 +330,11 @@ ht-degree: 99%
       + [计算目标进度](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [传达目标状态](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
++ Workfront计划{#workfront-planning}
+   + [将Planning添加到实例](/help/workfront-planning/add-planning-to-your-instance.md)
+   + [创建 Workspace](/help/workfront-planning/create-a-workspace.md)
+   + [创建和管理记录类型](/help/workfront-planning/create-and-manage-a-record-type.md)
+   + [创建和管理表视图](/help/workfront-planning/create-and-manage-table-views.md)
 
 + 集成 {#integrations}
    + Adobe Creative Cloud {#adobe-creative-cloud}
