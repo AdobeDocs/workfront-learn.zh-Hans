@@ -12,9 +12,9 @@ jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
 source-git-commit: 697957807d4ca95bb4e5ab79f24f5e31252585c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '701'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -47,13 +47,13 @@ ht-degree: 92%
 
 ### 从 [!UICONTROL Home] 中打开验证
 
-如果您在[!DNL Workfront]中工作，并且被要求审批验证，您将在[!DNL Workfront] [!UICONTROL Home]的[!UICONTROL My Approvals]构件中找到分配。
+如果您使用 [!DNL Workfront]，并被要求审批验证，您会在 [!DNL Workfront] [!UICONTROL Home] 的 [!UICONTROL My Approvals] 中找到一项任务。
 
-![[!DNL Workfront] [!UICONTROL Home].](assets/open-proof-from-home.png)中的[!UICONTROL My Approvals]小部件的图像
+![[!UICONTROL My Approvals] 小组件的图像，位于 [!DNL Workfront] [!UICONTROL Home]。](assets/open-proof-from-home.png)
 
-值得注意的是，只有当分配您审批验证时，它才会显示在 [!DNL Workfront][!UICONTROL Home] 中。如果您刚刚被要求仅查看校样，它不会在[!DNL Workfront] [!UICONTROL Home]中显示。
+值得注意的是，只有当分配您审批验证时，它才会显示在 [!DNL Workfront][!UICONTROL Home] 中。如果您只是被要求审批验证，它不会显示在 [!DNL Workfront] [!UICONTROL Home]。
 
-单击[!UICONTROL Go to Proof]链接以将其打开到验证查看器中。
+单击 [!UICONTROL Go to Proof] 链接，将其在验证查看器中打开。
 
 根据您组织的验证和项目工作流，您可能会在 [!DNL Workfront] [!UICONTROL Home] 中看到任务分配，而不是验证审批请求。在这种情况下，您会从任务本身的 [!UICONTROL Documents] 部分打开验证（请参阅下面的说明）。
 
