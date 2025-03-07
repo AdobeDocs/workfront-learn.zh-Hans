@@ -1,6 +1,6 @@
 ---
-title: 创建项目模板并了解 [!UICONTROL Blueprints]
-description: 有关在Workfront中创建模板的视频演示了如何创建新项目模板、将它们用于新项目、将现有项目另存为模板、利用预建Blueprint以及将任务分配给工作角色，以实现高效的资源管理。
+title: 创建项目模板并了解[!UICONTROL Blueprints]
+description: 学习如何从头开始以及从现有的项目创建项目模板，并了解如何通过 [!UICONTROL Blueprints] 访问由 Workfront 专家创建的各类实用项目模板。
 activity: use
 feature: Work Management
 thumbnail: 335210.jpeg
@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
+source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
 workflow-type: tm+mt
-source-wordcount: '631'
-ht-degree: 50%
+source-wordcount: '625'
+ht-degree: 54%
 
 ---
 
