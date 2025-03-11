@@ -12,9 +12,9 @@ jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
 source-git-commit: 29500fabca483078e33d39bffee2f48d6fabb91e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '416'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 97%
    * 替换文本
    * 显示图标
 
-## “向视图添加基本条件格式”活动
+## “在视图中添加基本条件格式”活动
 
 ### 活动 1：向视图添加条件格式
 
