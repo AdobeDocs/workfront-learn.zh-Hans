@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: c2680030e24dd48264be96695d468cd5e751c42b
+source-git-commit: 4c1e144efe22c611be7ac5613045dc4fab2aceb2
 workflow-type: tm+mt
-source-wordcount: '2357'
+source-wordcount: '2352'
 ht-degree: 98%
 
 ---
@@ -152,7 +152,7 @@ ht-degree: 98%
    + 项目组合 {#portfolios}
       + [了解项目组合](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
       + [了解 [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [使用 [!UICONTROL Portfolio Optimizer] 确定工作的优先顺序并对其进行管理](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [了解 [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 审批流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建全局和一次性审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
