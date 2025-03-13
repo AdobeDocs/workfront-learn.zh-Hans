@@ -1,6 +1,6 @@
 ---
 title: 开始管理项目
-description: 了解如何监控项目进度、深入了解任务详情以及如何与利益相关者沟通。
+description: 使用报告有效地跟踪项目进度，通过甘特图视图管理依赖项，监控任务和批准，增强团队沟通，并通过频繁更新确保顺畅的工作流。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -13,22 +13,27 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+workflow-type: tm+mt
+source-wordcount: '180'
+ht-degree: 18%
 
 ---
 
 # 开始管理项目
 
-在本视频中，您将了解到：
-
-* 如何监控项目进度
-* 如何深入了解任务详细信息
-* 如何与利益相关者沟通
+该视频概述了当项目的状态更改为“当前”后如何管理项目&#x200B;。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops)
+
+## 要点
+
+* **进度监控：**&#x200B;状态为“当前”的项目会显示在报表中，以允许经理跟踪进度（按计划、落后或过期）。&#x200B;AEM
+* **跨项目依赖项：**&#x200B;可以在“项目甘特图”视图中管理和查看依赖项，并可以选择深入查看详细分析。&#x200B;AEM
+* **任务和审批管理：**&#x200B;使用“状态”和“审批”选项卡跟踪任务完成、未决审批以及通过注释进行通信。&#x200B;AEM
+* **团队通信：**&#x200B;使用“全部更新”功能轻松向所有团队成员发送更新，并保留项目中的讨论记录。&#x200B;AEM
+* **频繁更新：**&#x200B;工作人员应每天更新任务状态，以确保顺利的项目管理和准确的跟踪。&#x200B;AEM
+
 
 ## 有关此主题的推荐教程
 
