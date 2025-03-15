@@ -1,6 +1,6 @@
 ---
 title: 查找和管理请求
-description: 了解如何使用过滤器、管理团队分配、创建自定义报告和仪表板，以及阐明_my_在不同上下文中的含义以实现有效的请求管理。
+description: 了解如何使用过滤器、管理团队分配、创建自定义报告和仪表板，以及厘清“我的”在不同上下文中的含义，以实现有效的请求管理。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: b5daeb5775dff69b7f6fe92813ad3ec603b9f8ee
+source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
 workflow-type: tm+mt
 source-wordcount: '342'
 ht-degree: 91%
