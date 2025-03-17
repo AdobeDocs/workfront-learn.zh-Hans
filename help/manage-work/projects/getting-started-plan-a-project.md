@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: 89691410598cf9a8246db71b6108a4442901722d
+source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 12%
+source-wordcount: '271'
+ht-degree: 14%
 
 ---
 
 # 开始规划项目
 
-* 此视频提供了有关如何在Workfront中有效规划项目的指导。&#x200B;AEM 它强调奠定坚实的基础的重要性，以确保项目按时完成并取得成功。&#x200B;AEM 关键步骤包括了解五个关键字段：任务、工作、持续时间、已计划小时数和前置任务。&#x200B;AEM 利用这些字段，可以快速准确地调整项目计划。&#x200B;AEM
-* 在进行更改之前，请确保将项目状态设置为“计划”，以防止向团队发送不必要的通知。&#x200B;AEM 使用标准视图或自定义视图将重点放在基本信息上。&#x200B;AEM 准确地设置项目开始日期，确保它切合实际并与团队可用性保持一致。
-* 该视频强调了切合实际的时间表、团队可用性和准确规划的重要性，从而为项目成功奠定坚实的基础。&#x200B;AEM
+此视频提供了有关如何在Workfront中有效规划项目的指导。&#x200B;AEM 它强调奠定坚实的基础的重要性，以确保项目按时完成并取得成功。&#x200B;AEM 关键步骤包括了解五个关键字段：任务、工作、持续时间、已计划小时数和前置任务。&#x200B;AEM 利用这些字段，可以快速准确地调整项目计划。&#x200B;AEM
+
+该视频强调了切合实际的时间表、团队可用性和准确规划的重要性，从而为项目成功奠定坚实的基础。&#x200B;AEM
 
 >[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops)
 
