@@ -1,6 +1,6 @@
 ---
 title: 发出请求
-description: 了解如何找到 [!UICONTROL Requests] 区域并提出请求。然后了解如何查看已提交的和草稿请求。
+description: 通过简化的请求创建、可自定义的工作流程、草稿自动保存、跟踪和筛选工具以及复制和重用请求的能力，提高Workfront中的效率。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -13,27 +13,26 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+workflow-type: tm+mt
+source-wordcount: '254'
+ht-degree: 14%
 
 ---
 
 # 发出请求
 
-在许多组织中，启动新项目、开发新产品或创建可交付成果的第一步是在 Workfront 中提出请求。您可以跟踪请求的进度并在需要时提供其他信息。
-
-在本视频中，您将学习如何：
-
-* 导航至请求区域
-* 发出请求
-* 查看提交的请求
-* 复制请求
-* 查找请求的草稿
-* 查看最后三个请求路径
+该视频提供了有关如何在Workfront中发出和管理请求的详细指南。 它说明了创建请求的过程，从主菜单中选择“请求”并单击“新建请求”按钮开始。&#x200B;AEM 用户可以从根据其组织的工作流定制的自定义设计队列中选择请求类型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops)
+
+## 要点
+
+* **简化的请求创建：**&#x200B;用户可以通过从主菜单中选择“请求”、选择请求类型、填写必填字段并附加相关文档来轻松创建请求。&#x200B;AEM
+* **可自定义的工作流：**&#x200B;请求队列和表单为组织工作流量身定制，允许用户指定详细信息（例如，店内、户外、社交媒体）和优先级。
+* **草稿自动保存功能：**&#x200B;草稿在用户填写主题字段时自动保存，确保用户暂停或导航离开时不会丢失任何数据。&#x200B;AEM 草稿稍后可访问以完成，或者如有需要，可将其丢弃。&#x200B;AEM
+* **跟踪和筛选请求：**&#x200B;可以在“已提交”页面上跟踪已提交的请求，筛选器可用于根据用户权限查看未结、未解决或所有请求。&#x200B;AEM
+* **复制和重用请求：**&#x200B;用户可以复制现有请求以创建新请求，这样可以更轻松地提交类似的请求，而无需从头开始。
 
 ## 有关此主题的推荐教程
 

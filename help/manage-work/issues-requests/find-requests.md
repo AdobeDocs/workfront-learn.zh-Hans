@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
 workflow-type: tm+mt
-source-wordcount: '342'
-ht-degree: 91%
+source-wordcount: '227'
+ht-degree: 83%
 
 ---
 
@@ -24,10 +24,10 @@ ht-degree: 91%
 
 该视频介绍了如何在 Workfront 中查找和管理请求。它涵盖四个主要区域：
 
-* **Workfront Home：**&#x200B;像制作艺术师 Mary Smith 这样的用户可以看到分配给他们的请求。&#x200B;经常提出请求的 Joan Harris 可以找到等待其审批的已完成请求。
-* **请求区域：**&#x200B;用户可以通过筛选请求来查看自己创建的请求。&#x200B;请求区域中的“我的”一词指的是我（登录用户）创建的问题。
-* **团队页面：**&#x200B;用户可以查看未分配的团队请求并分配自己或他人。&#x200B;他们还可以使用工作负载平衡器根据当前的工作负载来管理团队任务。
-* **自定义报告和仪表板：**&#x200B;用户可以通过创建自定义报告来跟踪请求，并控制命名、过滤器、视图和分组。这样可以按优先级、创建者、主要联系人、被分派人和状态清楚地跟踪请求。
+* Workfront 主页
+* 请求区域
+* 团队页面&#x200B;。
+* 自定义报告和仪表板
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
