@@ -13,8 +13,8 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 * 如何创建系统管理员反馈请求队列
 * 管理团队反馈报告如何帮助您改进流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on)
 
 要了解如何创建视频中使用的&#x200B;**管理团队反馈报告**，请参阅[创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hans)教程，并在观看视频后查找&#x200B;**创建管理团队反馈报告**&#x200B;的活动。
 

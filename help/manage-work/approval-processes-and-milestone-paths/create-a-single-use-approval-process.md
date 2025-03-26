@@ -1,6 +1,6 @@
 ---
 title: 创建全局和一次性审批流程
-description: 了解如何为项目、任务或问题创建全局和单次使用的审批流程。
+description: 利用任务、项目或问题的全局和一次性审批流程，实施多级别分阶段审批，并通过项目模板中的可重用性提高效率，从而增强审批工作流。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,26 +9,33 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
-last-substantial-update: 2024-09-24T00:00:00Z
+last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '431'
-ht-degree: 100%
+source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 25%
 
 ---
 
 # 创建全局和一次性审批流程
 
-项目、任务和问题的审批流程有助于项目经理能够在继续推动工作之前获得专业人员的确认，确定工作已经按照恰当的方式完成。项目经理可以为每种情况创建一个审批流程（这称为一次性审批流程），或者从先前为满足常见需求而创建的可能具有多个审批流程的列表中进行选择（这些称为全局或现有审批流程）。
-
-在任一情况下，当对象状态更改为审批流程中指定的状态时，审批人都会收到各种方式的通知，以便审查该项工作并审批或拒绝它。鉴于整个项目在等待审批时可能会暂停，审批人应提前意识到他们可能会被要求进行审批。如果审批人因任何原因不在办公室，他们可以将审批工作委托给符合资格的替代者。请参阅[委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)，以了解详情。
-
-在本视频中，您将会了解到如何针对项目、任务或问题创建全局审批流程和一次性审批流程。
+此视频介绍如何创建和管理项目、任务或问题的批准流程，区分全局批准流程与一次性批准流程。
+此视频演示了如何创建审批流程、设置审批者、配置状态以及使用阶段进行多级审批。
+&#x200B;AEM它强调了全局和一次性流程在有效管理任务批准方面的灵活性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+
+## 要点
+
+* **审批流程类型：**&#x200B;有两种类型 — 全局审批流程（在任务、项目或问题之间共享）和一次性审批流程（特定于单个任务、项目或问题）。
+* **全局审批流程：**&#x200B;这些流程在“设置”>“流程”>“审批”部分创建，并可由特定状态触发。&#x200B;AEM 它们可能涉及多个批准者或分阶段批准。
+* **一次性审批流程：**&#x200B;这些是对象特定的，不能共享。&#x200B;AEM 它们可以从头开始创建，也可以通过编辑全局批准流程并转换它来创建。
+* **多级审批：**&#x200B;审批流程可以同时或分阶段包括多个审批者，确保在通知下一个审批者之前先获得连续审批。
+* **可重用性：**&#x200B;一次性审批流程可以与任务、项目或问题一起复制或包含在项目模板中，从而允许跨项目轻松复制。
+
 
 >[!TIP]
 >
@@ -38,17 +45,6 @@ ht-degree: 100%
 >
 >您可以按照视频中对任务所述的相同方式，对项目和问题设置一次性审批。
 
-## 如何在请求队列中应用自动审批问题功能
-
-如果要在请求队列中设置自动审批问题功能，则只能使用全局问题审批流程并在 [!UICONTROL Queue topic] 中应用该流程。
-
-创建或编辑 [!UICONTROL Queue topic] 时，在 **[!UICONTROL Default Approval]** 字段中选择全局审批流程。
-
-![该图显示了如何在队列主题中选择默认审批流程](assets/automatic-issue-approval-1.png)
-
-您可能需要编辑问题审批流程，从而确保 **[!UICONTROL Previous status]** 不是审批被拒绝时设置的问题。这是因为之前的状态是 **[!UICONTROL New]**，并且这也是触发审批流程的状态，所以它是审批通过后将会被设置为的状态。为了避免问题审批被拒绝时产生混淆，最好将该状态设置为 **[!UICONTROL Won't Resolve]** 之类的状态，或者为此目的创建的自定义状态。
-
-![该图显示了在问题被拒绝时更改使用状态](assets/automatic-issue-approval-2.png)
 
 
 ## 有关此主题的推荐教程
@@ -56,4 +52,5 @@ ht-degree: 100%
 * [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [了解特定于群组的审批流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
+* [在请求队列中应用问题批准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 
