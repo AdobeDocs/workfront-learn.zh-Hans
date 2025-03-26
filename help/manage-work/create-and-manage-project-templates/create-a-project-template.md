@@ -1,5 +1,5 @@
 ---
-title: 创建项目模板并了解[!UICONTROL Blueprints]
+title: 创建项目模板并了解 [!UICONTROL Blueprints]
 description: 学习如何从头开始以及从现有的项目创建项目模板，并了解如何通过 [!UICONTROL Blueprints] 访问由 Workfront 专家创建的各类实用项目模板。
 activity: use
 feature: Work Management
@@ -14,9 +14,9 @@ jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
 source-git-commit: 9e8dfebabd121c4c252298d3e28170f4b7931e19
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '625'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Workfront 用户可以使用 [!UICONTROL Blueprints] 来帮助构建项目模板
 
 任何获得许可的用户都可以浏览 Workfront 中可用的 Blueprint 列表。创建新项目时（例如将任务或请求转换为项目），您无法直接应用 Blueprint。Blueprint 和项目模板之间的主要区别在于，Blueprint 用于制作模板，而模板则用于创建项目。**Blueprint 需要由系统管理员安装才能创建相应的模板。**
 
-如果您发现看起来很有趣的 Blueprint，可以单击 **[!UICONTROL Details]**&#x200B;了解更多信息。
+如果您发现看起来很有趣的 Blueprint，可以单击 **[!UICONTROL Details]** 了解更多信息。
 
 ![Blueprint 清单](assets/pt-blueprints-02.png)
 
