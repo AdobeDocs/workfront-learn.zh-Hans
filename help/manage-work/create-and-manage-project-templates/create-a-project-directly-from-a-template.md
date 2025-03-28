@@ -1,6 +1,6 @@
 ---
 title: 直接从模板创建项目
-description: 了解如何从已构建的模板创建项目。
+description: 通过确保访问权限、使用三个点菜单选择“创建项目”、根据需要编辑项目详细信息以及最终确定高效的设置替代方案来直接从模板创建项目。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,36 +8,32 @@ thumbnail: create-a-project-directly-from-a-template.jpeg
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-03-28T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
-workflow-type: ht
-source-wordcount: '197'
-ht-degree: 100%
+doc-type: video
+source-git-commit: e135a10a3598af4208b196d8f72e608d6d3171a8
+workflow-type: tm+mt
+source-wordcount: '228'
+ht-degree: 21%
 
 ---
 
 # 直接从模板创建项目
 
-如果您碰巧正在使用一个模板，并需要使用该模板创建一个项目，请单击模板名称旁边的三点菜单。然后选择“创建项目”。
+此视频介绍如何从模板创建项目。&#x200B;AEM 如果您有权打开模板，则可以将其用作创建项目的快捷方式。&#x200B;AEM 为此，请打开模板，访问三个圆点菜单，然后选择“创建项目”&#x200B;。 这会将您引导至可编辑项目详细信息的屏幕。&#x200B;AEM 准备就绪后，单击“创建项目”以完成。&#x200B;AEM
 
-![菜单中的“创建项目”选项](assets/direct-template-01.png)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops)
 
-详细信息窗口允许您对新项目的设置进行更改。
+## 要点
 
-![项目创建页面](assets/direct-template-02.png)
+**模板访问：**您需要权限才能打开模板以从中创建项目。&#x200B;AEM
+**快捷方式选项：**与从头开始项目相比，使用模板是一种方便的快捷方式。&#x200B;AEM
+**三点菜单：**打开模板，然后从三点菜单中选择“创建项目”。&#x200B;AEM
+**编辑项目详细信息：**选择“创建项目”后，您可以在最终确定之前编辑项目详细信息。&#x200B;AEM
+**完成创建：**&#x200B;当您准备好完成该过程时，请单击“创建项目”。&#x200B;AEM
 
->[!NOTE]
->
->若要使用此方法创建项目，您需要具有对 Workfront “模板”区域的访问权限。如果您无法访问模板，您仍然可以从“项目”区域或者在转换问题/任务时，使用模板创建项目。
-
->[!TIP]
->
->如果有您经常使用的模板，请收藏它！除了显示在导航栏的“收藏夹”菜单下之外，您还会看到“新建项目”菜单中也会列出该模板。
-
-
-![新项目收藏夹模板](assets/direct-template-03.png)
 
 ## 有关此主题的推荐教程
 
