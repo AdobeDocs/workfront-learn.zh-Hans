@@ -1,6 +1,6 @@
 ---
 title: 了解基本项目创建
-description: 了解如何高效地创建、管理和完成项目，处理意外问题，并探索适合新手的提示以掌握基本的项目管理功能。​AEM
+description: 了解如何有效地创建、管理和完成项目，处理意外问题，并浏览适合初学者的技巧以掌握基本的项目管理功能。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335082.jpeg
@@ -16,7 +16,7 @@ doc-type: video
 source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
 workflow-type: tm+mt
 source-wordcount: '243'
-ht-degree: 12%
+ht-degree: 22%
 
 ---
 

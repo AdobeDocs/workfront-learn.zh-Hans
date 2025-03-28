@@ -1,6 +1,6 @@
 ---
 title: 创建仪表板
-description: 使用Workfront功能板整理和显示项目数据，可以对其进行自定义、轻松访问、共享和打印，以实现无缝的项目管理和协作。
+description: 使用 Workfront 仪表板组织和显示项目数据，可以自定义、轻松访问、共享和打印，实现无缝项目管理和协作。
 activity: use
 feature: Reports and Dashboards
 type: Tutorial
@@ -14,7 +14,7 @@ doc-type: video
 source-git-commit: c32909809386d30767f113530ccb1e7358de0473
 workflow-type: tm+mt
 source-wordcount: '589'
-ht-degree: 60%
+ht-degree: 64%
 
 ---
 
