@@ -10,10 +10,10 @@ level: Beginner
 thumbnail: combine-multiple-files-single-proof.png
 jira: KT-10163
 exl-id: 2a3e97f7-51b3-4e14-bb15-6d255cd18034
-source-git-commit: 466857e92481a28b8030fb1c33016d39d61faa64
+source-git-commit: 2102a538a93169650df317176aa922eaa4e436bf
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 100%
+source-wordcount: '443'
+ht-degree: 92%
 
 ---
 
@@ -30,12 +30,13 @@ ht-degree: 100%
 若要合并验证：
 
 1. 打开附加该验证的项目、任务或问题的 [!UICONTROL Documents] 部分。
-2. 将文件拖放到上传区域，或浏览到这些文件。[!DNL Workfront] 最多支持合并 50 个文件。
-3. 打开 [!UICONTROL Combine all compatible files into a single proof] 的选项。
-4. 为合并的验证输入一个名称。这是必填项。
-5. 如果需要，您可以通过在上传列表中拖放来更改文件的合并顺序。
-6. 添加验证收件人、设置截止日期等。
-7. 单击 [!UICONTROL Create Proof] 以完成上传。
+1. 单击&#x200B;**新增>验证**。
+1. 将文件拖放到上传区域，或浏览到这些文件。[!DNL Workfront] 最多支持合并 50 个文件。
+1. 在&#x200B;**单个校对**&#x200B;下，切换将所有兼容的文件合并到一个校对的选项。
+1. 为合并的验证输入一个名称。这是必填项。
+1. 如果需要，您可以通过在上传列表中拖放来更改文件的合并顺序。
+1. 添加验证收件人、设置截止日期等。
+1. 单击 [!UICONTROL Create Proof] 以完成上传。
 
 ![[!UICONTROL New proof] 窗口的图像，其中突出显示上传的文件列表和 [!UICONTROL Single proof] 部分。](assets/combine-proofs.png)
 
@@ -59,7 +60,7 @@ ht-degree: 100%
 >请不要忘记提醒您的同事，您向他们发送的验证是您 Workfront 培训的一部分。
 
 
-在您的电脑上查找三个或四个文件（PDF、文本文件等）。
+在您的计算机上查找三个或四个文件(PDF、文本文件等)。
 
 1. 打开您要在 Workfront 中进行实践练习的项目、任务或问题。
 1. 上传这些文件，将它们组合成一个验证。
