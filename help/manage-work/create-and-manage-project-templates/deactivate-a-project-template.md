@@ -13,10 +13,10 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: 2fbd533ba3acca135e0bba76b2df1bd9a54f2ae7
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+workflow-type: tm+mt
+source-wordcount: '164'
+ht-degree: 76%
 
 ---
 
@@ -28,6 +28,12 @@ ht-degree: 100%
 * 如何激活和停用项目模板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+
+>[!NOTE]
+>
+>如果决定删除某个模板，您使用该模板创建的任何项目将不受影响。 删除的模板将移至回收站30天，只有系统管理员才能恢复。
+
+
 
 ## 了解如何创建自定义视图，以查看和编辑项目模板的活动状态
 
