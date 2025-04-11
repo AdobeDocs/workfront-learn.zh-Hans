@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
 workflow-type: tm+mt
-source-wordcount: '2369'
+source-wordcount: '2374'
 ht-degree: 98%
 
 ---
@@ -336,6 +336,7 @@ ht-degree: 98%
    + [创建 Workspace](/help/workfront-planning/create-a-workspace.md)
    + [创建和管理记录类型](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [创建和管理表视图](/help/workfront-planning/create-and-manage-table-views.md)
+   + [创建和管理时间线视图](/help/workfront-planning/create-and-manage-timeline-views.md)
    + [面向UX设计团队的Workfront规划的优势](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 集成 {#integrations}
