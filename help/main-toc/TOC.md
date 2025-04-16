@@ -1,9 +1,9 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: 0399915a57cba155c809ea20c0998f13045e29e9
+source-git-commit: f78f24cb75ac561e4635b4d0f2a30935e1a94af4
 workflow-type: tm+mt
-source-wordcount: '2374'
-ht-degree: 98%
+source-wordcount: '2372'
+ht-degree: 94%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 98%
       + [使用布局模板自定义报告列表](/help/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.md)
 
 
-   + 电子邮件和应用程序内通知 {#email-and-in-app-notifications}
+   + 电子邮件和应用内通知 {#email-and-in-app-notifications}
       + [管理应用程序内通知和电子邮件通知](/help/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.md)
       + [设置事件通知](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
       + [发送 [!UICONTROL Announcement Center] 消息](/help/administration-and-setup/email-and-in-app-notifications/admin-use-the-announcement-center.md)
@@ -64,7 +64,7 @@ ht-degree: 98%
       + [何时以及如何停用或删除用户](/help/administration-and-setup/create-and-manage-users/deactivate-or-delete-users.md)
       + [了解系统审核日志](/help/administration-and-setup/create-and-manage-users/system-audit-log.md)
 
-   + 审批流程和里程碑路径 {#approval-processes-and-milestone-paths}
+   + 批准流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [了解特定于组的审批流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
       + [创建里程碑](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
@@ -154,7 +154,7 @@ ht-degree: 98%
       + [了解 [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
       + [了解 [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
-   + 审批流程和里程碑路径 {#approval-processes-and-milestone-paths}
+   + 批准流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建全局和一次性审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [在请求队列中应用问题批准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [审查和审批数字作品](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
@@ -183,8 +183,8 @@ ht-degree: 98%
       + [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 用户的项目财务 {#project-finances-users}
-      + [更新和审查财务状况](/help/manage-work/project-finances/update-and-review-finances.md)
       + [查找财务信息](/help/manage-work/project-finances/find-financial-information.md)
+      + [更新财务](/help/manage-work/project-finances/update-and-review-finances.md)
       + [了解多种计费费率](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + 中间项目 {#intermediate-projects}
@@ -230,13 +230,13 @@ ht-degree: 98%
       + [高级报告第 2 部分](/help/reporting/advanced-reporting/advanced-reporting-part-2.md)
       + [高级报告第 3 部分](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
-   + 日程表报告 {#calendar-reports}
+   + 日历报表 {#calendar-reports}
       + [了解日程表报告界面](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [创建自定义日程表报告](/help/reporting/basic-reporting/creating-custom-calendars.md)
       + [了解其他日程表报告选项](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [轮到您创建日程表报告了](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
-   + 增强的分析{#enhanced-analytics}
+   + 已优化的分析 {#enhanced-analytics}
       + [关于 [!UICONTROL Enhanced analytics] 的产品时刻](/help/reporting/enhanced-analytics/1-intro-to-workfront-analytics.md)
       + [开始使用 [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/2-getting-started-with-enhanced-analytics.md)
       + [如何访问 [!UICONTROL Enhanced analytics]](/help/reporting/enhanced-analytics/3-adding-analytics-to-layout-templates.md)
@@ -307,7 +307,7 @@ ht-degree: 98%
       + [围绕企业和组织目标进行协作](/help/workfront-goals/establish-a-vision-for-your-org/collaborate-around-enterprise-and-organizational-goals.md)
       + [让小组和团队遵循策略](/help/workfront-goals/establish-a-vision-for-your-org/align-groups-and-teams-to-the-strategy.md)
 
-   + 创建您的目标 {#create-goals}
+   + 制定您的目标 {#create-goals}
       + [[!UICONTROL Workfront Goals] 概述](/help/workfront-goals/create-your-goals/understand-how-to-use-workfront-goals.md)
       + [为您的组织设置 [!UICONTROL Workfront Goals]](/help/workfront-goals/create-your-goals/set-up-workfront-goals-for-your-company.md)
       + [向选定的用户授予目标访问权限](/help/workfront-goals/create-your-goals/grant-goals-access-to-selected-users.md)
@@ -331,7 +331,7 @@ ht-degree: 98%
       + [计算目标进度](/help/workfront-goals/monitor-your-goals/calculate-goal-progress.md)
       + [传达目标状态](/help/workfront-goals/monitor-your-goals/communicate-goal-status.md)
 
-+ Workfront计划{#workfront-planning}
++ Workfront Planning {#workfront-planning}
    + [将Planning添加到实例](/help/workfront-planning/add-planning-to-your-instance.md)
    + [创建 Workspace](/help/workfront-planning/create-a-workspace.md)
    + [创建和管理记录类型](/help/workfront-planning/create-and-manage-a-record-type.md)
@@ -375,8 +375,8 @@ ht-degree: 98%
       + [通过 [!UICONTROL Slack] 进行审批](/help/integrations/slack/make-approvals-through-slack.md)
       + [通过 [!UICONTROL Slack] 搜索 Workfront](/help/integrations/slack/search-workfront-through-slack.md)
 
-+ Fusion {#fusion}
-   + 欢迎访问 Workfront Fusion {#welcome-to-workfront-fusion}
++ 融合 {#fusion}
+   + 欢迎使用 Workfront Fusion {#welcome-to-workfront-fusion}
       + [简介及技术策略](/help/fusion/1-welcome-to-workfront-fusion/introduction-and-tech-strategy.md)
       + [以新用户身份登录](/help/fusion/1-welcome-to-workfront-fusion/log-in-as-a-new-user.md)
       + [Workfront Fusion 培训概述](/help/fusion/1-welcome-to-workfront-fusion/workfront-fusion-overview.md)
@@ -429,7 +429,7 @@ ht-degree: 98%
       + [运行循环和捆绑演练](/help/fusion/5-execution-history-and-scheduling/runs-cycles-and-bundles-walkthrough.md)
       + [探索运行、周期和捆绑练习](/help/fusion/12-exercises/exploring-runs-cycles-and-bundles.md)
 
-   + 超越基本模块 {#beyond-basic-modules}
+   + 超出基本模块 {#beyond-basic-modules}
       + [熟悉其他应用程序和常用模块](/help/fusion/6-beyond-basic-modules/become-familiar-with-additional-apps-and-common-modules.md)
       + [进行切换](/help/fusion/6-beyond-basic-modules/switch-it-up.md)
       + [切换功能演练](/help/fusion/6-beyond-basic-modules/switch-function-walkthrough.md)
@@ -495,7 +495,7 @@ ht-degree: 98%
       + [设置验证帐户默认设置](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
       + [验证用户的设置](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
-   + 上传验证 {#upload-proofs}
+   + 上传校样 {#upload-proofs}
       + [什么是验证版本](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
       + [谁负责上传验证版本](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
       + [将文档转换为验证](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
@@ -509,14 +509,14 @@ ht-degree: 98%
       + [通过拖放上传](/help/workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
       + [将多个文件合并为一份验证](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
-   + 验证工作流 {#proof-workflows}
+   + 校对工作流 {#proof-workflows}
       + [了解作为项目时间线的一部分的验证工作流](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
       + [编辑验证工作流](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [创建模板组来组织自动化工作流模板](/help/workfront-proof/administration-and-setup/create-template-groups.md)
       + [创建自动化工作流模板](/help/workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [编辑自动化工作流模板](/help/workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
 
-   + 审查并审批工作 {#review-and-approve-work-for-proof}
+   + 审阅和批准工作 {#review-and-approve-work-for-proof}
       + [浏览验证查看器](/help/workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
       + [审查并审批验证](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
       + [审查并回复验证评论](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
@@ -546,7 +546,7 @@ ht-degree: 98%
       + [设置元数据关键词](/help/workfront-dam/metadata-and-keywords/keyword-setup.md)
       + [设置元数据](/help/workfront-dam/metadata-and-keywords/metadata-setup.md)
 
-   + Brand Connect 定制{#brand-connect-customization}
+   + Brand Connect 定制 {#brand-connect-customization}
       + [什么是 [!UICONTROL Brand Connect]？](/help/workfront-dam/brand-connect-customization/what-is-brand-connect.md)
       + [在 [!UICONTROL Brand Connect] 中建立系统设置](/help/workfront-dam/brand-connect-customization/establish-system-settings.md)
       + [在 [!UICONTROL Brand Connect] 中添加自定义页面](/help/workfront-dam/brand-connect-customization/add-custom-pages-in-brand-connect.md)
@@ -554,7 +554,7 @@ ht-degree: 98%
       + [自定义 [!UICONTROL Brand Connect] 的外观](/help/workfront-dam/brand-connect-customization/customize-the-appearance-of-brand-connect.md)
       + [自定义 [!UICONTROL Brand Connect] 的外观](/help/workfront-dam/brand-connect-customization/customize-the-look-of-brand-connect.md)
 
-   + Workfront DAM 用户：投稿人{#workfront-dam-contributor}
+   + Workfront DAM 用户：投稿人 {#workfront-dam-contributor}
       + [了解作为投稿人如何使用 [!UICONTROL Workfront DAM]](/help/workfront-dam/workfront-dam-user-contributor/contributor-getting-started.md)
       + [了解作为投稿人如何管理资源](/help/workfront-dam/workfront-dam-user-contributor/contributor-asset-management.md)
       + [了解作为投稿人如何寻找资源](/help/workfront-dam/workfront-dam-user-contributor/contributor-find-assets.md)
@@ -565,7 +565,7 @@ ht-degree: 98%
       + [了解作为投稿人如何发布资源](/help/workfront-dam/workfront-dam-user-contributor/contributor-publish-assets.md)
       + [添加一个 [!UICONTROL Workfront DAM] 链接](/help/workfront-dam/workfront-dam-user-contributor/add-a-workfront-dam-link-in-workfront.md)
 
-   + Brand Connect 用户{#brand-connect}
+   + Brand Connect 用户 {#brand-connect}
       + [了解作为用户如何使用 [!UICONTROL Brand Connect]](/help/workfront-dam/brand-connect-user/brand-connect-introduction.md)
       + [了解作为用户如何进行导航和搜索](/help/workfront-dam/brand-connect-user/brand-connect-getting-started.md)
       + [了解 [!UICONTROL Brand Connect] 通知](/help/workfront-dam/brand-connect-user/brand-connect-notifications.md)
@@ -589,7 +589,7 @@ ht-degree: 98%
 
 + 敏捷 {#agile}
 
-   + Agile工作管理简介{#intro-to-agile}
+   + 敏捷工作管理简介 {#intro-to-agile}
       + [使用敏捷方法的益处](/help/agile/benefits-of-using-agile.md)
       + [什么是 Scrum 方法以及它如何运作？](/help/agile/what-is-the-scrum-methodology.md)
       + [什么是看板方法以及它如何运作？](/help/agile/what-is-the-kanban-methodology.md)
@@ -602,7 +602,7 @@ ht-degree: 98%
       + [计划并创建迭代](/help/agile/plan-and-create-an-iteration.md)
       + [使用迭代页面](/help/agile/using-the-iteration-page.md)
 
-   + 看板 {#kanban}
+   + Kanban {#kanban}
       + [创建看板团队](/help/agile/create-a-kanban-team.md)
       + [作为看板团队管理工作](/help/agile/manage-work-kanban-team.md)
 
@@ -650,7 +650,7 @@ ht-degree: 98%
    + [Workfront Goals](/help/best-practices/workfront-goals-bp.md)
    + [工作负载均衡器](/help/best-practices/workload-balancer-bp.md)
 
-+ 高级管理人员的 Workfront{#workfront-for-executives}
++ 适用于高级管理人员的 Workfront {#workfront-for-executives}
    + [适用于高级管理人员的 Workfront](/help/workfront-for-executives/workfront-for-executives.md)
 
 
