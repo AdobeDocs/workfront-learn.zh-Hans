@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '299'
 ht-degree: 100%
@@ -48,10 +48,10 @@ ht-degree: 100%
 >
 >您无法创建更多问题类型或删除问题类型。
 
-<!---
+<!--
 learn more URLs
 Customize default issue types
---->
+-->
 
 ## 更改 Workfront 中的术语“问题”
 
@@ -60,13 +60,13 @@ Workfront 管理员可以使用布局模板功能重命名问题项目，以匹�
 
 ![[!UICONTROL Terminology] 窗口，其中突出显示 [!UICONTROL Issue]](assets/admin-fund-issue-custom-terminology.png)
 
-<!---
+<!--
 paragraph below needs a hyperlink
---->
+-->
 
 通过学习路径《全新 [!DNL Workfront] 体验中的管理员基础知识：第三部分 控制与界面体验》，了解系统和组管理员如何创建布局模板。
 
-<!---
+<!--
 learn more URLs
 Create and manage layout templates
---->
+-->

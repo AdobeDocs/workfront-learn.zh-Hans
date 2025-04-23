@@ -10,7 +10,7 @@ level: Beginner, Intermediate
 thumbnail: 10040.jpeg
 jira: KT-10040
 exl-id: 9de6fd40-10fb-47a6-b186-3a38c411f1ac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '249'
 ht-degree: 100%
@@ -46,8 +46,8 @@ ht-degree: 100%
 
 ![[!UICONTROL Export] 按钮，在 [!UICONTROL Audit Logs] 页面上](assets/admin-fund-audit-log-3.png)
 
-<!---
+<!--
 learn more URLs
 Audit logs
 Managing audit logs
---->
+-->

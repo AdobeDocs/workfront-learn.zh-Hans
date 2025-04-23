@@ -1,6 +1,6 @@
 ---
 title: 了解财务访问权限
-description: 了解财务访问权限如何允许管理员控制谁可以查看和编辑 Workfront 中跟踪的财务信息。
+description: 系统管理员通过可自定义的权限控制财务数据访问，确保安全管理、项目级监督和针对财务可见性的定制共享选项。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,73 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10067
 exl-id: 1c3d724a-8ff0-466f-9416-cff3da59c8ea
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '391'
-ht-degree: 100%
+source-wordcount: '233'
+ht-degree: 12%
 
 ---
 
 # 了解财务访问权限
 
-如果您的组织使用 [!DNL Workfront] 捕获所有财务数据，作为系统管理员，您有责任保护和管理有权查看和编辑该信息的人员。
+此视频介绍系统管理员在管理对Workfront中财务信息的访问权限方面的作用。&#x200B;AEM 管理员通过访问级别控制访问&#x200B;。
+该视频强调，用户只能将其财务访问权限用于他们创建的项目或具有财务访问权限的人与他们共享的项目。
 
-用户查看或编辑财务信息需要满足两个条件：
+>[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops)
 
-1. 必须在 [!UICONTROL Access Level] 中启用访问权限。
-2. 必须逐个对象授予使用这些访问权限的权限。
+## 要点
 
-例如，用户可能具有在其访问级别上查看财务数据的权限，但只有在与其共享任务，并且在共享该任务时启用了财务查看功能的情况下，用户才能查看该任务的财务信息。
+* **系统管理员的角色：**&#x200B;系统管理员通过设置和访问级别管理对财务信息的访问，确保控制谁可以查看或编辑财务数据。&#x200B;AEM
+* **创建访问级别：**&#x200B;可以创建访问级别以授予用户编辑和查看计费、成本汇率、汇率和支出的权限。
+* **项目级财务访问权限：**&#x200B;具有财务访问权限的用户可以编辑他们创建的项目中的财务信息，但其他人需要明确访问权限才能查看或编辑财务信息。
+* **可自定义的访问共享：**&#x200B;财务访问可与特定用户共享，并具有定制的权限（例如，仅查看权限），即使他们具有编辑财务数据的常规权限也是如此。
+* **访问限制：**&#x200B;用户只能对其创建的项目或具有财务访问权限的用户与其共享项目的财务访问权限使用。
 
-因此，拥有查看财务信息 [!UICONTROL Access Level] 权限的用户可以查看某些对象的财务信息，而不能查看其他对象的财务信息，具体取决于这些对象的单独共享选项。但是，任何用户都不能查看任何对象的财务信息，除非他们在其 [!UICONTROL Access Level] 中获得了相应的权限。
 
-## [!UICONTROL Access Level] 设置
+## 有关此主题的推荐教程
 
-对财务数据的全面访问权限首先由 [!DNL Workfront] 许可证类型授予。
-
-**[!UICONTROL Plan]许可证可以：**
-
-* 管理账单记录
-* 管理和查看角色计费和成本费率
-* 管理和查看用户计费和成本费率
-* 管理费用
-* 查看和编辑财务信息
-
-**[!UICONTROL Work]许可证可以：**
-
-* 管理费用
-* 查看财务信息
-
-**[!UICONTROL Review]许可证可以：**
-
-* 查看财务信息
-
-**权限可以通过 [!UICONTROL Access Level] 进行修改。财务数据访问权限的三个选项是：**
-
-* [!UICONTROL No Access]—用户无法看到财务信息。
-* [!UICONTROL View]—用户可以查看和共享信息。
-* [!UICONTROL Edit]—用户可以创建、编辑、删除和共享信息。（仅适用于“计划”许可证。）
-
-![显示访问级别中的一般财务数据选项的图像](assets/setting-up-finances-8.png)
-
-需要注意的是，[!UICONTROL View] 和 [!UICONTROL Edit] 选项具有针对 [!UICONTROL Plan] 许可证的附加设置。单击 [!UICONTROL View] 按钮上的齿轮以获得这些选项：
-
-**[!UICONTROL View]**
-
-* 查看角色计费 &amp; 成本费率
-* 查看用户计费 &amp; 成本费率
-
-![显示访问级别中的财务数据视图选项的图像](assets/setting-up-finances-9.png)
-
-**[!UICONTROL Edit]**
-
-这两个选项以及以下内容在 [!UICONTROL Edit] 选项下可用：
-
-* 编辑角色计费 &amp; 成本费率
-* 编辑用户计费 &amp; 成本费率
-
-![显示访问级别中的财务数据编辑选项的图像](assets/setting-up-finances-10.png)
-
->[!NOTE]
->
->有权添加费用的用户还可以查看他们添加的费用，以及由其直接下属添加的费用。
+* [了解绩效指标](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [设置任务收入和成本默认值](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [设置汇率](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [设置费用类型](/help/manage-work/project-finances/set-up-expense-types.md)

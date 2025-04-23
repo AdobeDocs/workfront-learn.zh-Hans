@@ -1,6 +1,6 @@
 ---
 title: 了解绩效指标
-description: 了解如何使用绩效指标 - [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) 和 [!UICONTROL Estimate at Completion] ([!UICONTROL EAC])。
+description: 通过灵活的计算方法、全局默认值和项目级覆盖发现可调整的财务绩效指标，从而让管理员和项目经理能够有效地根据项目需求定制财务指标。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,56 +10,47 @@ role: User
 level: Intermediate
 jira: KT-10065
 exl-id: 190c66f5-b412-48bd-8695-3bd7da088ccb
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 100%
+source-wordcount: '421'
+ht-degree: 7%
 
 ---
 
 # 了解绩效指标
 
-项目经理使用的两个绩效指标包括 [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) 和 [!UICONTROL Estimate at Completion] ([!UICONTROL EAC])。系统范围的默认值可以在 [!DNL Workfront] 中设置，并会应用于新创建的项目。然后，可以在各个项目上对 [!UICONTROL PIM] 进行修改。
+此视频讨论了项目管理的财务性能量度和设置。&#x200B;AEM 要点包括：
 
-**[!UICONTROL PIM]**
+**绩效指标概览：**&#x200B;诸如成本绩效指数、计划绩效指数、成本计划绩效指数和预计完成等指标可在“项目详细信息”选项卡和“财务”部分下找到。&#x200B;AEM 可以通过信息气泡链接访问计算文档。
 
-[!UICONTROL PIM] 的设置会控制 [!DNL Workfront] 如何计算其他项目绩效指标，如 [!UICONTROL Cost Performance Index] ([!UICONTROL CPI])、[!UICONTROL Cost Schedule Performance Index] ([!UICONTROL CSI])、[!UICONTROL Schedule Performance Index] ([!UICONTROL SPI]) 和 [!UICONTROL Estimate at Completion] ([!UICONTROL EAC])。
+**绩效指数方法(PIM)：**&#x200B;项目经理可以选择用于计算成本绩效指数(CPI)和完工估算(EAC)的方法，基于小时（以小时为单位的完工估算）或基于成本（以货币为单位的完工估算）。&#x200B;AEM 系统管理员可以全局设置默认方法，但项目经理可以针对单个项目调整该方法。&#x200B;AEM
 
-[!UICONTROL PIM] 的选项基于小时和成本。
+**完工估算(EAC)计算：**&#x200B;系统管理员可以使用两个选项全局设置默认计算方法：
+* **任务/子任务汇总：**&#x200B;添加子任务的估计完成值，但不包括直接添加到父任务或项目级别的小时数。&#x200B;AEM
+* **在项目级别计算：**&#x200B;包括子任务的估计完成时间值以及直接添加到父任务或项目级别的小时数。 这是推荐的默认值。&#x200B;AEM
 
-* **基于小时**—Workfront 使用规划小时数来计算项目的 CPI 和 EAC。项目的 EAC 显示为数字（以小时为单位）。
-* **基于成本**—Workfront 使用规划劳动力成本来计算项目的 CPI 和 EAC。EAC 显示为货币值。使用此选项时，请确保任务受让人（用户和/或工作角色）与成本费率相关联。
+此视频强调系统管理员和项目经理在管理性能量度和计算时都可以使用的灵活性和控制力。&#x200B;AEM
 
-**[!UICONTROL EAC]**
+>[!VIDEO](https://video.tv.adobe.com/v/3457682/?quality=12&learn=on&enablevpops)
 
-[!UICONTROL EAC] 表示任务或项目完成后的预计总成本。选项在项目级别计算，并会从任务/子任务汇总。
+## 要点
 
-* **在项目级别计算**—父任务和项目的 [!UICONTROL EAC] 是使用 [!UICONTROL EAC] 公式中的实际小时数/实际劳动力成本确定的。计算包括直接添加到父任务或项目的实际小时数/成本和费用。
-* **从任务/子任务中汇总**—父任务和项目的 [!UICONTROL EAC] 是通过将每个子任务的 [!UICONTROL EAC] 相加来确定的。此计算不包括直接添加到父任务或项目的实际小时数/成本。
 
-[!UICONTROL EAC] 计算情况列在[完工估算 (EAC) ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=zh-Hans)中。
+* **绩效指标访问：**&#x200B;成本绩效指数(CPI)、计划绩效指数(SPI)和完工估算(EAC)等关键指标可在“财务”部分的“项目详细信息”选项卡下找到，文档可通过信息气泡链接获取。&#x200B;AEM
+* **绩效指数方法：**&#x200B;项目经理可以选择基于小时或基于成本的方法来计算指标，而系统管理员可以设置全局默认值。
+* **完工估算计算选项：**&#x200B;有两种方法可用：
+   * 从任务/子任务汇总（不包括直接添加到父任务或项目级别的小时数）。&#x200B;AEM
+   * 在项目级别计算（包括直接添加到父任务或项目级别的小时数）。 建议使用后者。&#x200B;AEM
+* **全局与项目级别的设置：**&#x200B;系统管理员可以设置绩效指数方法的全局默认值，并在完成计算时进行估计，但项目经理可以覆盖单个项目的绩效指数方法设置。&#x200B;AEM
+* **量度管理的灵活性：**&#x200B;系统为管理员和项目经理提供了工具，使他们能够有效地自定义和管理绩效量度，确保适应项目特定的需求。
 
-**绩效指标：设置**
+## 有关此主题的推荐教程
 
-若要设置 [!UICONTROL PIM] 和 [!UICONTROL EAC] 系统默认值：
-
-1. 从主菜单中选择 **[!UICONTROL Setup]**。
-1. 单击左侧面板菜单中的 **[!UICONTROL Project Preferences]**，然后单击 **[!UICONTROL Projects]**
-1. 在 [!UICONTROL Project Status] 部分，找到 [!UICONTROL Performance Index Method]。选择基于时间或基于成本。
-1. 对于 [!UICONTROL Estimate at Completion]，选择在项目级别计算或从任务/子任务中汇总。
-1. 单击窗口底部的 **[!UICONTROL Save]**。
-
-![[!UICONTROL Project Preferences] 屏幕的图像](assets/setting-up-finances-1.png)
-
-**在单个项目**&#x200B;上设置 [!UICONTROL PIM]
-
-1. 转到项目的登陆页面。
-1. 单击左侧面板中的 **[!UICONTROL Project Details]**。
-1. 打开 **[!UICONTROL Finance]** 部分。
-1. 双击 **[!UICONTROL Performance Index Method]** 下面的文字来编辑它。
-1. 选择基于时间或基于成本。
-1. 单击“**[!UICONTROL Save]**&#x200B;更改”以完成。
-
-![[!UICONTROL Project Details] 屏幕的图像](assets/setting-up-finances-2.png)
-
-[!UICONTROL PIM] 可以在项目模板上设置（在模板详细信息的 [!UICONTROL Finance] 部分）。
+<!--* * [Understand performance metrics](/help/manage-work/project-finances/understand-performance-metrics.md)-->
+* [设置任务收入和成本默认值](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [设置汇率](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [设置费用类型](/help/manage-work/project-finances/set-up-expense-types.md)
+* [了解财务访问权限](/help/manage-work/project-finances/understand-financial-access.md)

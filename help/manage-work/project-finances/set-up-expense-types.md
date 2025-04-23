@@ -10,46 +10,33 @@ role: User
 level: Intermediate
 jira: KT-10064
 exl-id: a8576504-d3f5-4ea0-8ace-bff0c00f8461
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 100%
+source-wordcount: '168'
+ht-degree: 28%
 
 ---
 
 # 设置费用类型
 
-[!DNL Workfront] 中的费用代表与项目和其他工作相关的非劳动力成本。例如，费用可以是拜访客户时产生的差旅费用或购买完成照片拍摄所需的用品。这些费用应记录在项目中，以便计算并报告任何项目的规划成本和实际成本。
+此视频介绍如何在Workfront中管理费用类型，重点介绍创建、使用和删除这些费用类型。
 
-[!DNL Workfront] 具有可在输入费用时使用的预建费用类型。默认值无法删除或修改，但可以添加新的默认值。
 
-* 广告
-* 咨询
-* 招待
-* 常规
-* 材料
-* 打印
-* 运送
-* 差旅
+>[!VIDEO](https://video.tv.adobe.com/v/3457702/?quality=12&learn=on&enablevpops)
 
-系统管理员可以添加其组织所需的费用类型。可以修改、隐藏或删除这些额外费用类型，以支持组织所需的财务报告。
+## 要点
 
-项目经理、高管和其他人可以在 [!DNL Workfront] 中为任务、项目、计划或项目组合生成费用报告（如果需要的话，可以按类型对个人费用进行分组）。通过使用费用类型，项目财务会变得更加易于管理。
+* **预建费用类型：** Workfront包括无法删除、隐藏或修改的预建费用类型，以确保整个系统的一致性。
+* **自定义费用类型：**&#x200B;系统管理员可以创建自己的费用类型，这些类型可编辑、可删除且在系统范围内。 这些指标可以包括计算的单位，如里程费率。
+* **费用创建：**&#x200B;创建费用时，用户选择费用类型、输入详细信息（例如里程数），系统根据设置的费率自动计算计划金额。
+* **删除费用类型：**&#x200B;自定义费用类型只有在在所有使用它们的实例中替换它们之后才能删除。 可以生成报告来标识这些实例。
 
-## 创建费用类型
+## 有关此主题的推荐教程
 
-**从主菜单中选择 [!UICONTROL Setup]。**
-
-1. 单击左侧面板菜单中的 **[!UICONTROL Expense Types]**。
-1. 单击 **[!UICONTROL New Expense Type]** 按钮。
-1. 命名费用类型。
-1. 如有需要，添加描述。
-1. 单击 **[!UICONTROL Save]** 按钮。
-
-![图像：创建新 [!UICONTROL Expense Type]](assets/setting-up-finances-6.png)
-
-## 使用费用类型
-
-当用户在 [!DNL Workfront] 中为项目或任务创建费用时，费用选项会在 **[!UICONTROL Expense Type]** 下拉列表中显示。
-
-![添加新费用的图像](assets/setting-up-finances-7.png)
+* [了解绩效指标](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [设置任务收入和成本默认值](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
+* [设置汇率](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [了解财务访问权限](/help/manage-work/project-finances/understand-financial-access.md)

@@ -11,8 +11,8 @@ thumbnail: 335102.png
 jira: KT-8801
 exl-id: a63af21e-7646-41b2-97f7-7cbfc7a031b0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '239'
 ht-degree: 100%
 
@@ -34,14 +34,14 @@ ht-degree: 100%
 * 通过 @name 来“标记”其他 [!UICONTROL Workfront] 用户，以确保他们收到更新通知。这是确保特定人员看到最新信息的最佳方式。您可以在更新中“标记”个人用户或某个团队。
 * 请记住，当您标记一个团队或组并继续在会话中回复时，就相当于在电子邮件中“全部回复”。请注意这一点，以免引起他人的烦恼。只要是在对象的上下文中，无论是在上方还是下方，您都可以直接标记。
 
-<!---
+<!--
 paragraph below needs a hyperlink to an article
---->
+-->
 
 * 如果您未被分配任务，但希望接收通知，请订阅该任务。在有关“在全新 [!UICONTROL Workfront] 体验的 [!UICONTROL Workfront] 中订阅项目”的文章中了解更多信息。
 * 在一周中的特定一天发布更新，以便每个人都知道何时查找最新信息。
 * 使用富文本工具设置更新的格式。使用粗体突出信息，或使用要点创建易于阅读的摘要。
 
-<!---
+<!--
 learn more URLs
---->
+-->

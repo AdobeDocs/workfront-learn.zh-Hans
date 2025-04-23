@@ -11,8 +11,8 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
 
@@ -34,6 +34,6 @@ ht-degree: 100%
 * 您也许能够，也可能无法记录未来几天的时间。
 * 您可能需要从下拉菜单中选择一个小时类型，以便您可以更具体地了解您如何度过时间。此小时类型还可能会表明您的时间是可计费的还是不可计费的。在单击 [!UICONTROL Log Time] 按钮输入时间之前，请务必选择小时类型。
 
-<!---
+<!--
 learn more URLs
---->
+-->

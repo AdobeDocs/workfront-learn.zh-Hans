@@ -9,10 +9,10 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '738'
-ht-degree: 100%
+ht-degree: 74%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 100%
 
 最佳实践是保留全局默认值不变，并允许项目经理在项目级别或项目模板中进行所需的调整。
 
-可以对全局问题首选项进行调整，但建议您和您的 [!DNL Workfront] 顾问讨论您组织的工作流、流程和报告需要哪些设置。您的顾问还可以帮助您了解如果更改某些设置会发生什么。
+全局问题偏好设置可以调整，但建议您和您的[!DNL Workfront]顾问讨论组织的工作流、流程和报告需求所需的设置。 您的顾问还可以帮助您了解如果更改某些设置会发生什么。
 
-问题首选项允许系统管理员控制将问题转换为任务或项目时的选项、实际日期的计算方式以及分配问题时谁可以访问项目。让我们来看看这些设置在 [!DNL Workfront] 中的位置。
+问题首选项允许系统管理员控制将问题转换为任务或项目时的选项、实际日期的计算方式以及分配问题时谁可以访问项目。我们来看看这些设置在[!DNL Workfront]中的位置。
 
 ## 转换后的问题首选项
 
-这些设置可以控制问题在 [!DNL Workfront] 中转换为任务或项目时发生的情况。
+这些设置控制问题在[!DNL Workfront]中转换为任务或项目时发生的情况。
 
 ![[!UICONTROL Tasks & Issues] 首选项窗口，其中突出显示 [!UICONTROL Issues] 部分](assets/admin-fund-issue-prefs-converting.png)
 
@@ -39,7 +39,7 @@ ht-degree: 100%
 1. 单击所需的选项。
 1. 完成后保存。
 
-让我们来看一看该部分中的选项，以便为您的组织选择适当的选项。
+让我们看一下此部分中的选项，以使您可为您的组织选择适当的选项。
 
 * **[!UICONTROL Automatically update Resolvable Issue status when the status of the Resolving Object Changes]**
 
@@ -49,7 +49,7 @@ ht-degree: 100%
 
   禁用后，解决对象状态会自动设置为默认状态，而不是自定义状态。
 
-  为了使此设置生效，必须选择 “[!UICONTROL Keep the original issue and tie its resolution to the task]”选项。
+  要使此设置生效，必须选择“[!UICONTROL Keep the original issue and tie its resolution to the task]”选项。
 
 * **[!UICONTROL Keep the original issue and tie is resolution to the task/project]**
 
@@ -65,22 +65,22 @@ ht-degree: 100%
 
 * **[!UICONTROL Allow these settings to be changed during conversion]**
 
-  选中后，此选项意味着转换问题的用户可以更改 “[!UICONTROL Keep original issue]”和 “[!UICONTROL Allow Primary Contact]”的默认设置。如果您希望默认值保持不变，请取消选择此选项。
+  选中此选项后，表示转化问题的用户可更改“[!UICONTROL Keep original issue]”和“[!UICONTROL Allow Primary Contact]”的默认设置。 如果您希望默认值保持不变，请取消选择此选项。
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Issue statuses
 Create and customize system-wide statuses
---->
+-->
 
 ## 实际日期首选项
 
-[!DNL Workfront] 中使用多种类型的日期。实际日期是发生某些状态更改时 [!DNL Workfront] 生成的“时间戳”。
+[!DNL Workfront] 中使用多种类型的日期。实际日期是[!DNL Workfront]在某些状态发生更改时生成的“时间戳”。
 
 当问题状态从“新建”变为另一状态时，会创建 [!UICONTROL Actual Start Date] 时间戳。[!UICONTROL Actual Completion Date] 时间戳是指问题状态何时更改为表示其已关闭的状态。
 
-请务必注意，此首选项会控制任务和问题的实际日期设置。
+请注意，此首选项控制任务和问题的实际日期设置，这一点很重要。
 
 ![[!UICONTROL Tasks & Issues] 首选项窗口，其中突出显示 [!UICONTROL Actual Dates] 部分](assets/admin-fund-issue-prefs-actual-dates.png)
 
@@ -93,15 +93,15 @@ Create and customize system-wide statuses
 1. 完成后保存。
 
 
-<!---
+<!--
 learn more URLs
 Definitions for the project, task, and issue dates within Workfront
 Configure system-wide task and issue preferences
---->
+-->
 
 ## 问题访问权限
 
-问题的 [!UICONTROL Access] 设置会控制用户在 Workfront 中被分配问题时被授予的访问权限。这些设置除了控制对与问题关联的项目的访问权限外，还控制对问题本身的访问权限。
+当在Workfront中为问题分配任务时，问题的[!UICONTROL Access]设置控制授予用户的访问权限。 这些设置除了控制对与问题关联的项目的访问权限外，还控制对问题本身的访问权限。
 
 在更改这些设置之前，请与您的 [!DNL Workfront] 顾问和内部治理团队讨论任何工作流或流程需求。
 
@@ -110,16 +110,16 @@ Configure system-wide task and issue preferences
 1. 单击 **[!UICONTROL Main Menu]** 中的 **[!UICONTROL Setup]**。
 1. 展开左侧菜单面板中的 **[!UICONTROL Project Preferences]** 部分。
 1. 选择 **[!UICONTROL Tasks & Issues]**。
-1. 滚动到 **[!UICONTROL Access]** 部分并找到“[!UICONTROL When someone is assigned to an ISSUE]”选项。
+1. 滚动到&#x200B;**[!UICONTROL Access]**&#x200B;部分并找到“[!UICONTROL When someone is assigned to an ISSUE]”选项。
 1. 设置问题本身的共享访问权限——[!UICONTROL View]、[!UICONTROL Contribute] 或 [!UICONTROL Manage]。[!DNL Workfront] 建议保留高级选项不变。
 1. 如果问题受让人也应该有权访问该项目，请选中此框
-1. 然后选择项目的共享访问权限—— [!UICONTROL View]、[!UICONTROL Contribute] 或 [!UICONTROL Manage]。当您设置 [!UICONTROL Advanced Options] 时，请考虑您组织的工作流和访问需求。
+1. 然后选择项目的共享访问权限—— [!UICONTROL View]、[!UICONTROL Contribute] 或 [!UICONTROL Manage]。在设置[!UICONTROL Advanced Options]时，请牢记组织的工作流和访问需求。
 1. 完成后保存。
 
 ![[!UICONTROL Access] 窗口，其中显示 [!UICONTROL Contribute] 选项](assets/admin-fund-issue-prefs-access-2.png)
 
-<!---
+<!--
 learn more URLs
 Configure system-wide task and issue preferences
 Grant access to issues
---->
+-->

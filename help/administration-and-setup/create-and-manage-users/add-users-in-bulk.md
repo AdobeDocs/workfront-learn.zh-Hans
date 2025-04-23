@@ -10,7 +10,7 @@ level: Beginner
 thumbnail: 10034.jpeg
 jira: KT-10034
 exl-id: 3579de79-973b-4db9-a299-9fa1836d0467
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '204'
 ht-degree: 100%
@@ -41,9 +41,9 @@ ht-degree: 100%
 
 [!DNL Workfront] 提供启动模板，用于将数据导入系统。它还可以用于导入用户。在使用启动模板前，[!DNL Workfront] 建议您咨询您的 [!DNL Workfront] 顾问，因为您应该注意一些注意事项。
 
-<!---
+<!--
 paragraph below needs URL to article
---->
+-->
 
 有关详细信息，请参阅“通过启动模版将数据导入 Workfront”。
 

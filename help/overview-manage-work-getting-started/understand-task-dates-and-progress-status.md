@@ -12,7 +12,7 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -33,8 +33,8 @@ ht-degree: 100%
 >正如该视频中所述，当人们开始执行任务时，将状态从 **[!UICONTROL New]** 更改为 **[!UICONTROL In Progress]** 非常重要，这样 [!UICONTROL Actual Start Date] 才会正确。但是，如果他们在开始任务时忘记执行此操作，他们也可以随时返回编辑 [!UICONTROL Actual Start Date]。
 
 
-<!---
+<!--
 Task progress status overview
 Definitions for the project, task, and issue dates within Workfront
 Project timelines
---->
+-->

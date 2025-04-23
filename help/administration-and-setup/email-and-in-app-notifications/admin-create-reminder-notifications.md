@@ -10,16 +10,16 @@ level: Beginner
 thumbnail: setupremindnote.png
 jira: KT-10091
 exl-id: f1ba58d7-3226-4c62-8aa4-40f88495b833
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '289'
 ht-degree: 100%
 
 ---
 
-<!---
+<!--
 this has the same content as the system administrator notification setup and mangement section of the email and inapp notificiations learning path
---->
+-->
 
 # 设置提醒通知
 
@@ -54,12 +54,12 @@ this has the same content as the system administrator notification setup and man
 
 提醒通知使用默认电子邮件格式和消息。如果您想自定义电子邮件，可以创建一个模板。
 
-<!---
+<!--
 paragraph above needs a hyperlink to an article
---->
+-->
 
 ![新电子邮件模板窗口](assets/admin-fund-email-customization.png)
 
-<!---
+<!--
 learn more URLs
---->
+-->

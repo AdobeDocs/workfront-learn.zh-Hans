@@ -10,7 +10,7 @@ team: Technical Marketing
 thumbnail: editcustomform.png
 jira: KT-10057
 exl-id: 7ce0c3c6-9a17-49fe-87a8-8ff1e628ea62
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '145'
 ht-degree: 100%
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 # 编辑自定义表单
 
-<!---
+<!--
 21.4 updates have been made here
---->
+-->
 
 在将自定义表单附加到一个对象后，您可以编辑该表单上的信息。
 

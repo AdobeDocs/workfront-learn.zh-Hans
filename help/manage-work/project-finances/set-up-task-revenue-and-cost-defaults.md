@@ -1,6 +1,6 @@
 ---
 title: 设置任务收入和成本默认值
-description: 了解如何使用收入类型和成本类型来计算某项任务的规划和实际财务信息。
+description: 了解在何处使用收入类型和成本类型以及如何设置系统默认值。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,43 +10,35 @@ role: User
 level: Intermediate
 jira: KT-10066
 exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+last-substantial-update: 2025-04-23T00:00:00Z
+recommendations: noDisplay,catalog
+doc-type: video
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
-source-wordcount: '190'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 16%
 
 ---
 
+
 # 设置任务收入和成本默认值
 
-使用收入类型和成本类型来计算任务的规划和实际财务信息。其中每个任务的默认信息都可以在系统范围内进行设置，因此它会应用于所创建的每个新任务。可以在单个项目上更改该信息或在项目模板上进行设置。
+了解在何处使用收入类型和成本类型以及如何设置系统默认值。
 
-**有五种默认收入类型可用：**
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
 
-* 不可计费
-* 用户每小时
-* 角色每小时
-* 固定每小时
-* 固定收入
+## 要点
 
-**有四种默认成本类型可用：**
+* **查看成本和收入数据：**&#x200B;可以通过打开任务、选择任务详细信息并滚动到财务部分来访问任务的成本和收入详细信息。&#x200B;AEM
+* **设置任务的默认值：**&#x200B;系统管理员可以通过导航到“设置>项目偏好设置>任务和问题”为项目经理设置默认成本和收入类型&#x200B;。
+* **常见收入类型默认值：**“每小时角色”是收入类型的典型默认值，如果用户的工作角色具有收入率，则允许将记录的时间记录为可能可记帐。&#x200B;AEM
+* **收入设置的影响：**&#x200B;如果收入类型设置为“不可记帐”，则不会为任务记录任何收入。&#x200B;AEM
+* **常见成本类型默认值：**“用户小时”通常用作默认成本类型，直接从用户的配置文件中提取成本数据以便有效跟踪。&#x200B;AEM
 
-* 无成本
-* 固定每小时
-* 用户每小时
-* 角色每小时
 
->[!NOTE]
->
->当收入或成本类型设置为“不可计费”或“无成本”时，不会为任务生成收入和成本估算信息。因此，该任务的工作不会增加项目级别的收入或成本。
+## 有关此主题的推荐教程
 
-## 设置收入和成本默认值
-
-从主菜单中选择 **[!UICONTROL Setup]**。
-
-1. 单击左侧面板菜单中的 **[!UICONTROL Project Preferences]**。
-1. 然后单击 **[!UICONTROL Tasks & Issues]**。
-1. 在 [!UICONTROL New Task Default] 部分，选择所需的 [!UICONTROL Revenue Type] 和 [!UICONTROL Cost Type]。
-1. 完成后单击“保存”。
-
-![设置收入和成本默认值的图像](assets/setting-up-finances-3.png)
+* [了解绩效指标](/help/manage-work/project-finances/understand-performance-metrics.md)
+* [设置汇率](/help/manage-work/project-finances/set-up-exchange-rates.md)
+* [设置费用类型](/help/manage-work/project-finances/set-up-expense-types.md)
+* [了解财务访问权限](/help/manage-work/project-finances/understand-financial-access.md)

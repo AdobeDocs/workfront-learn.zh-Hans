@@ -9,7 +9,7 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10031
 exl-id: ccdbba55-c409-44ac-b3d5-908f1637e19f
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '178'
 ht-degree: 100%
@@ -20,9 +20,9 @@ ht-degree: 100%
 
 由于每种问题类型都会跟踪不同类型的信息，因此每种类型可能需要独特的工作流才能得到解决。自定义每个问题类型的状态，以匹配该问题类型的工作流。
 
-<!---
+<!--
 add URL in paragraph below
---->
+-->
 
 ## 默认状态
 
@@ -42,9 +42,9 @@ add URL in paragraph below
 * 确认完成
 * 无法解决
 
-<!---
+<!--
 need URL in paragraph below
---->
+-->
 
 
 问题的状态可以在 [!UICONTROL Issue Details] 中查看和更改。您还可以在最右侧的问题页面标题中更改问题的状态。
@@ -55,9 +55,9 @@ need URL in paragraph below
 
 ![[!UICONTROL Status] 列，位于 [!UICONTROL View]](assets/admin-fund-issue-status-view.png)
 
-<!---
+<!--
 link the bullets below to the articles
---->
+-->
 
 让我们来了解一下有关问题状态的基础知识：
 

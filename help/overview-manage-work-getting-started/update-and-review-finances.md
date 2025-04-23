@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10137
 hide: true
-source-git-commit: 6be2fc928ec02513ff27189d590dd1f09298bb27
+exl-id: 9e1ccfca-cf7b-4366-8e70-efd4d2ab5cf9
+source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 91%
@@ -46,9 +47,9 @@ ht-degree: 91%
 
 [!UICONTROL Project Details] 中的大多数财务信息都是在项目创建期间设置的，您在此处看到的数字都是基于这些信息。因此，当您关闭项目时，您实际上不需要更新或添加任何财务详细信息。
 
-<!---
+<!--
 learn more urls
 Create billing records
 Manage project expenses
 Project finances
---->
+-->
