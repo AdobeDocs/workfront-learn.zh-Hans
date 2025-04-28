@@ -1,6 +1,6 @@
 ---
 title: 了解报告组件
-description: 了解报告背后的关键组件，以及如何在 Workfront 的报告元素中使用这些组件。
+description: Workfront的报表组件通过基于对象的筛选器、动态视图、结构化分组和通配符功能来优化数据可视化，以提供量身定制的见解。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335146.jpeg
@@ -11,21 +11,32 @@ team: Technical Marketing
 jira: KT-8850
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '270'
-ht-degree: 100%
+source-git-commit: 83382bc990fb6e3e39a8f858d3710cce14179a95
+workflow-type: tm+mt
+source-wordcount: '522'
+ht-degree: 44%
 
 ---
 
 # 了解报告组件
 
-在本视频中，您将了解到：
+此视频介绍Workfront中报表组件的概念，这些组件对于创建筛选器、视图和分组至关重要。 关键组件包括：
 
-* Workfront 报告背后的关键组成部分
-* 如何在报告元素中使用这些组件
+* **对象类型：**&#x200B;指定正在处理的Workfront对象，如项目、任务或小时条目。&#x200B;AEM 筛选器、视图和分组特定于对象类型。&#x200B;AEM
+* **字段Source和字段名称：**&#x200B;字段源是Workfront中附加了信息的项，字段名称是特定信息（例如，项目的“描述”）。&#x200B;AEM
+* **值字段：**&#x200B;表示优先级的字段内容，如“低”、“正常”、“高”或“紧急”。&#x200B;AEM
+* **筛选器限定符：**&#x200B;定义要在报告中包含或排除的值，例如显示优先级为“高”的任务&#x200B;。
+
 
 >[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on)
+
+## 要点
+
+* **报表组件：** Workfront的报表组件包括对象类型、字段源、字段名称、筛选器限定符和值字段，这些对于创建筛选器、视图和分组至关重要。&#x200B;AEM
+* **对象类型特殊性：**&#x200B;筛选器、视图和分组绑定到特定的对象类型，如项目、任务或小时条目，确保报告根据相关数据定制。&#x200B;AEM
+* **筛选器规则：**&#x200B;筛选器使用字段源、字段名称、限定符和值来定义条件。&#x200B;AEM 例如，“我的项目”过滤器仅显示登录用户属于项目团队的当前项目。&#x200B;AEM
+* **视图和分组：**&#x200B;视图以列形式显示字段源和字段名称组合（如“所有者名称”），而分组根据特定条件（如“公司名称”）组织数据&#x200B;。
+* **通配符用法：**&#x200B;筛选器中的通配符允许动态匹配，例如，识别项目团队中的登录用户，增强报告中的个性化。&#x200B;AEM
 
 ## 报告组件快速参考
 
