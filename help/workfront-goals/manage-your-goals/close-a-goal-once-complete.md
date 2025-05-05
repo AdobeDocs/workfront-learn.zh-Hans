@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 通过关闭目标来表示该目标已完成，或者您不会再为了实现该目标而付出努力，并且在不久的将来也不打算这样做
 
->[!VIDEO](https://video.tv.adobe.com/v/335198/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415939/?quality=12&learn=on&enablevpops&captions=chi_hans)

@@ -24,4 +24,4 @@ ht-degree: 100%
 * 获取 [!DNL Scenario Planner] 的导航概览
 * 了解 [!DNL Scenario Planner] 如何帮助您根据业务结果调整决策。
 
->[!VIDEO](https://video.tv.adobe.com/v/335316/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414399/?quality=12&learn=on&enablevpops&captions=chi_hans)

@@ -26,7 +26,7 @@ ht-degree: 100%
 * 了解一些有用的任务报告元素
 * 了解如何创建您自己的任务过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412670/?quality=12&learn=on&captions=chi_hans)
 
 ## “了解内置任务过滤器”活动
 

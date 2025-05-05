@@ -31,7 +31,7 @@ ht-degree: 9%
 然后，该视频演示了如何创建队列主题，这些主题链接到路由规则、主题组、自定义表单、审批流程和默认持续时间。
 最后，该视频演示了如何通过提交请求来测试设置，以确保正确路由该请求。&#x200B;AEM 如果出现任何问题，可以对队列进行调整。&#x200B;AEM 该视频强调验证请求流的结构和功能的重要性，以确保正确的路由和组织。
 
->[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3433832/?quality=12&learn=on&captions=chi_hans)
 
 ## 要点
 

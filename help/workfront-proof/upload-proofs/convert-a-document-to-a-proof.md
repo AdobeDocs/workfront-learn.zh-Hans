@@ -26,7 +26,7 @@ ht-degree: 100%
 * 生成验证时添加工作流
 * 创建验证后添加或编辑工作流
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443480/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 ## 谁可以上传文件？

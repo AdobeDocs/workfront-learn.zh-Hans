@@ -21,5 +21,5 @@ ht-degree: 100%
 
 了解如何通过复制现有用户、批量导入新用户以及从头开始创建新用户来将用户添加到 Workfront。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447053/?quality=12&learn=on&enablevpops&captions=chi_hans)
 

@@ -30,7 +30,7 @@ ht-degree: 100%
 * 设置全局项目首选项
 * 创建和使用计划
 
->[!VIDEO](https://video.tv.adobe.com/v/335065/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423345/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 全局和组项目、任务和问题设置
 

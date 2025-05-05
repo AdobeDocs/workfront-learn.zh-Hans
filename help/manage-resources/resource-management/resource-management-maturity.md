@@ -32,7 +32,7 @@ ht-degree: 100%
 
 ## 资源管理成熟度的四个阶段
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420159/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 ## 下一步

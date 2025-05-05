@@ -24,7 +24,7 @@ ht-degree: 100%
 * 审查并激活拟议的目标
 * 层叠并调整季度目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335188/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416464/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 Pro-tips graphic

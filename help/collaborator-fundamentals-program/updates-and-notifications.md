@@ -20,7 +20,7 @@ ht-degree: 100%
 * 对审批请求自行更新
 * 查找通知
 
->[!VIDEO](https://video.tv.adobe.com/v/335109/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440157/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 learn more URLS

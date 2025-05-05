@@ -29,7 +29,7 @@ ht-degree: 100%
 * 根据您的组织的需要更改 [!DNL Goals] 术语
 * 将 [!DNL Goals] 添加到 [!DNL Workfront] [!UICONTROL Main Menu]
 
->[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416488/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 Learn more graphic

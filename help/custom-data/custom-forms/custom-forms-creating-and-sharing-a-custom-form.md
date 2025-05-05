@@ -26,5 +26,5 @@ ht-degree: 100%
 * 添加各种格式的独特字段
 * 与其他用户共享表单
 
->[!VIDEO](https://video.tv.adobe.com/v/335172/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3420147/?quality=12&learn=on&enablevpops&captions=chi_hans)
 

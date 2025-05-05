@@ -30,7 +30,7 @@ ht-degree: 100%
 
 在本视频中，您将学习如何：创建敏捷团队积压工作项目并创建新的故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412168/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 敏捷团队将会一起梳理积压工作。这基本上意味着将会发生三件事。
 

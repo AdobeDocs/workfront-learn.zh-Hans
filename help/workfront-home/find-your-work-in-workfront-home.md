@@ -31,4 +31,4 @@ ht-degree: 100%
 * 查找收到的和现有的工作任务
 * 查看任务信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432299/?quality=12&learn=on&enablevpops&captions=chi_hans)

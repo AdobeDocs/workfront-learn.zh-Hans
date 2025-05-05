@@ -25,7 +25,7 @@ ht-degree: 100%
 * 审批或拒绝工作
 * 审查验证
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447917/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 learn more URLs

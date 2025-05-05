@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 向选定的用户授予目标访问权限
 
->[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416476/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 系统管理员可以跟踪 Workfront 的 **[!UICONTROL Setup]** 区域使用了多少 [!DNL Workfront Goals] 许可证。
 

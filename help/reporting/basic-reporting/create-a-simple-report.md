@@ -24,7 +24,7 @@ ht-degree: 100%
 
 * 使用现有的过滤器、视图和分组创建简单的报告
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413118/?quality=12&learn=on&captions=chi_hans)
 
 ## “创建简单的报告”活动
 

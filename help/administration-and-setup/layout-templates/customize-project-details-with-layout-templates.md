@@ -25,4 +25,4 @@ ht-degree: 100%
 * 导航至项目详细信息区域
 * 使用布局模板自定义项目详细信息字段
 
->[!VIDEO](https://video.tv.adobe.com/v/335076/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432902/?quality=12&learn=on&enablevpops&captions=chi_hans)

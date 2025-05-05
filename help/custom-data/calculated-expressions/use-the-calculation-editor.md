@@ -26,4 +26,4 @@ ht-degree: 100%
 * 计算编辑器的功能
 * 如何使用计算编辑器在计算字段中创建 ADDWEEKDAYS 日期表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/339959/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412694/?quality=12&learn=on&enablevpops&captions=chi_hans)

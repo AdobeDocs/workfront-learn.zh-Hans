@@ -25,4 +25,4 @@ ht-degree: 100%
 * 在不同路径之间共享数据
 * 使用“设置”和“获取”变量
 
->[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417265/?quality=12&learn=on&enablevpops&captions=chi_hans)

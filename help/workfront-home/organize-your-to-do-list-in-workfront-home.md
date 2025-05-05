@@ -31,7 +31,7 @@ ht-degree: 100%
 * 确定准备好开始进行的工作
 * 接受工作分配
 
->[!VIDEO](https://video.tv.adobe.com/v/335099/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445088/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 >[!NOTE]
 >

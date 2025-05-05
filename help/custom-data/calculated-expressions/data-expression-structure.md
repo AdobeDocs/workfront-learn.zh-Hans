@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 在 [!DNL Workfront] 中构建表达式时使用的标准元素。
 
->[!VIDEO](https://video.tv.adobe.com/v/335174/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416223/?quality=12&learn=on&enablevpops&captions=chi_hans)

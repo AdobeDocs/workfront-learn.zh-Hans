@@ -25,4 +25,4 @@ ht-degree: 100%
 * 了解数据结构的使用和功能
 * 在场景中创建和使用数据结构
 
->[!VIDEO](https://video.tv.adobe.com/v/335293/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417949/?quality=12&learn=on&enablevpops&captions=chi_hans)

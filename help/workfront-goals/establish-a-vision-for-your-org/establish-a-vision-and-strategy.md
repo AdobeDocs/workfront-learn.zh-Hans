@@ -25,7 +25,7 @@ ht-degree: 100%
 * 目标示例
 * 影响范围
 
->[!VIDEO](https://video.tv.adobe.com/v/335185/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415995/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 规划定期检查和维护的节奏
 

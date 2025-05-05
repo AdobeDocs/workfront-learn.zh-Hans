@@ -26,4 +26,4 @@ ht-degree: 65%
 * 创建和编辑过滤器
 * 堆叠过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3419558/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422813/?quality=12&learn=on&enablevpops&captions=chi_hans)

@@ -25,4 +25,4 @@ ht-degree: 100%
 * 在 [!UICONTROL Setup] 区域查找布局模板
 * 开始在 Workfront 中创建布局模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/335072/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413106/?quality=12&learn=on&enablevpops&captions=chi_hans)

@@ -25,4 +25,4 @@ ht-degree: 100%
 * LEFT / RIGHT 表达式的作用
 * 如何在计算字段中使用 LEFT / RIGHT 文本表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/335179/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417119/?quality=12&learn=on&enablevpops&captions=chi_hans)

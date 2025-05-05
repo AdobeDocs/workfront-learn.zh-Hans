@@ -26,4 +26,4 @@ ht-degree: 100%
 * 响应式和被动式 Webhook 之间的区别
 * 如何使用 Webhook 为传入数据创建队列
 
->[!VIDEO](https://video.tv.adobe.com/v/335291/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417937/?quality=12&learn=on&enablevpops&captions=chi_hans)

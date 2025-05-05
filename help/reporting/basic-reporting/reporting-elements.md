@@ -24,7 +24,7 @@ ht-degree: 3%
 
 此视频还演示了如何自定义报表元素并将其与其他人共享。&#x200B;AEM 这些工具使用户能够根据自己的需求定制列表报告，以便更好地查看和管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/335145/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447798/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

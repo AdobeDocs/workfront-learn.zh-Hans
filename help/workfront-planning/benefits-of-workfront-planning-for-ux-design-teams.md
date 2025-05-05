@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解Workfront Planning如何通过集中项目跟踪并将设计工作与业务目标相协调来提高UX团队效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452190/?learn=on&enablevpops&captions=chi_hans)

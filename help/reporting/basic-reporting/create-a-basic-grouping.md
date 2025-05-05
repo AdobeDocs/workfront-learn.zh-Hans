@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何创建分组
 * 以及如何与其他 Workfront 用户共享分组
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449825/?quality=12&learn=on&captions=chi_hans)
 
 ## “创建基本分组”活动
 

@@ -25,7 +25,7 @@ ht-degree: 100%
 * 如何使用复杂的过滤器创建任务报告
 * 如何查找您创建的报告
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448352/?quality=12&learn=on&captions=chi_hans)
 
 ## “创建任务报告”活动
 

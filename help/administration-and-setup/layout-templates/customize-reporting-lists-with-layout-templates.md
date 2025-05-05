@@ -26,7 +26,7 @@ ht-degree: 100%
 * 删除过滤器、视图和分组
 * 添加过滤器、视图和分组
 
->[!VIDEO](https://video.tv.adobe.com/v/335079/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432916/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 设置列表默认值
 

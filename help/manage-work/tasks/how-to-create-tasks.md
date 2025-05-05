@@ -22,7 +22,7 @@ ht-degree: 11%
 该视频提供了有关在Workfront项目中创建任务的教程，其中涵盖了长方法和方便使用的快捷键。 它强调任务创建的灵活性，并提供高效任务管理的提示。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423154/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

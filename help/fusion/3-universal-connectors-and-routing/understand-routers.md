@@ -26,4 +26,4 @@ ht-degree: 100%
 * 数据捆绑包如何沿着路由器路径传递
 * 如何添加和使用路由器
 
->[!VIDEO](https://video.tv.adobe.com/v/335271/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416563/?quality=12&learn=on&enablevpops&captions=chi_hans)

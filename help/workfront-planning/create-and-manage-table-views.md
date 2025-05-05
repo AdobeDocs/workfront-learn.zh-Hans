@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解如何在Adobe Workfront Planning中创建、管理和自定义记录类型表视图，以增强项目组织和协作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448000/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448160/?learn=on&enablevpops&captions=chi_hans)

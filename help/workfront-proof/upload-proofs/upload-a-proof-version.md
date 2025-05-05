@@ -25,7 +25,7 @@ ht-degree: 100%
 * 上传新版本的验证
 * 将验证工作流应用于版本
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441862/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 从验证查看器上传版本
 

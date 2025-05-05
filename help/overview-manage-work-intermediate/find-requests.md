@@ -33,7 +33,7 @@ ht-degree: 100%
 * 在自定义仪表板中
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441664/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 ## 有关此主题的推荐教程

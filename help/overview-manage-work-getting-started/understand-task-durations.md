@@ -30,7 +30,7 @@ ht-degree: 100%
 * 持续时间如何影响项目时间线
 * 使用任务持续时间的最佳实践建议
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449353/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

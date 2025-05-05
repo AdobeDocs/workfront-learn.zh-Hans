@@ -40,7 +40,7 @@ Workfront 的敏捷团队从迭代页面[1]完成工作。页面顶部的燃尽�
 - 选择 Scrum 方法
 - 确定 Scrum 团队的设置
 
->[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412162/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 您已经想要将 Workfront 中的一个团队转化为敏捷团队？没问题！转到“团队”设置，并选中“这是一个敏捷团队”框。
 

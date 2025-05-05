@@ -24,7 +24,7 @@ ht-degree: 100%
 * 典型工作生命周期中的 6 个步骤
 * 工作生命周期“战略阶段”的核心构建模块
 
->[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415989/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 Your turn graphic

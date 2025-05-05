@@ -27,7 +27,7 @@ ht-degree: 100%
 * 项目甘特图
 * 任务甘特图
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448016/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 您可以通过文章[甘特图入门](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=zh-Hans)，在线了解更多信息。
 

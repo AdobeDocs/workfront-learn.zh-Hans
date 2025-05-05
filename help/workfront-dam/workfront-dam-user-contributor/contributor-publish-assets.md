@@ -41,4 +41,4 @@ ht-degree: 100%
 * 将资源发布到[!UICONTROL Brand Connect]
 * 将文件夹发布到 [!UICONTROL Brand Connect]
 
->[!VIDEO](https://video.tv.adobe.com/v/335257/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414411/?quality=12&learn=on&enablevpops&captions=chi_hans)

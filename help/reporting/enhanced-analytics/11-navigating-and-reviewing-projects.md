@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 如何阅读任务执行计划图表
 
->[!VIDEO](https://video.tv.adobe.com/v/335047/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439025/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 任务执行计划图表
 

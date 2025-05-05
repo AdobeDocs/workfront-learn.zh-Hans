@@ -27,4 +27,4 @@ ht-degree: 100%
 * 将项目添加到 [!UICONTROL Main Menu]
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335073/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432305/?quality=12&learn=on&enablevpops&captions=chi_hans)

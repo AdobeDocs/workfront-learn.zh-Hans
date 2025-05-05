@@ -20,4 +20,4 @@ ht-degree: 100%
 
 在本视频中，您将会了解到什么是自定义表单，以及如何使用它们来捕获特定于组织的信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/335171/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432755/?quality=12&learn=on&enablevpops&captions=chi_hans)

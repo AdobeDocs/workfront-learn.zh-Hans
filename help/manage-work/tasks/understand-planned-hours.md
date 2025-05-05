@@ -27,7 +27,7 @@ ht-degree: 13%
 它们还有助于跟踪任务花费的时间、改进未来的估计以及澄清对员工的期望。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445343/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 ## 要点

@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何使用验证模板应用工作流
 * 如何从头开始建立自动化工作流
 
->[!VIDEO](https://video.tv.adobe.com/v/335133/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453021/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 

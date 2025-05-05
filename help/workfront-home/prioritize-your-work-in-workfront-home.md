@@ -25,4 +25,4 @@ ht-degree: 100%
 * 将工作标记为具有优先级的任务
 * 过滤 [!UICONTROL Work List]，以仅查看具有优先级的工作
 
->[!VIDEO](https://video.tv.adobe.com/v/335100/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438542/?quality=12&learn=on&enablevpops&captions=chi_hans)

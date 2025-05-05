@@ -29,7 +29,7 @@ ht-degree: 100%
 * 上传文档
 * 查找有关上传校样的培训
 
->[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440380/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

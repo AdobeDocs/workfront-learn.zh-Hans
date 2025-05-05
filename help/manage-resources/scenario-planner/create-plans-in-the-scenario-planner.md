@@ -22,7 +22,7 @@ ht-degree: 100%
 
 在本视频中，您将学习如何在 [!DNL Scenario Planner] 中创建计划。
 
->[!VIDEO](https://video.tv.adobe.com/v/335318/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412628/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 估计计划的工作角色信息
 

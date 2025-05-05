@@ -32,7 +32,7 @@ ht-degree: 100%
 * 使用它们的最佳实践
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422822/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 有关如何创建持续时间类型和任务限制视图的信息，请参阅[创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)中的持续时间类型和任务限制视图活动。

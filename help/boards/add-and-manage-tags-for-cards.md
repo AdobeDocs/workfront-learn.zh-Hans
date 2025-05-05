@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解标记是什么、它为什么很有用以及如何创建、删除、添加和移除标记。
 
->[!VIDEO](https://video.tv.adobe.com/v/346807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3423027/?quality=12&learn=on&enablevpops&captions=chi_hans)

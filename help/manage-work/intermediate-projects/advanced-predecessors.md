@@ -36,7 +36,7 @@ ht-degree: 100%
 * 相关性循环错误
 * 快捷方式和最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454540/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 有关使用前置任务的更多信息，请参阅[使用前置任务](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=zh-Hans)。
 

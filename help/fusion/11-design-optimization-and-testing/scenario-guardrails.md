@@ -30,7 +30,7 @@ ht-degree: 100%
 * 文件护栏
 * Webhook 护栏
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418723/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 想要了解详情？我们建议查看以下内容：
 

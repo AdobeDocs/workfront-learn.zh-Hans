@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何与任何人共享报告
 * 收件人可以在 Workfront 报告中看到什么，以及执行哪些操作
 
->[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447822/?quality=12&learn=on&captions=chi_hans)
 
 ## “发送和共享报告”活动
 

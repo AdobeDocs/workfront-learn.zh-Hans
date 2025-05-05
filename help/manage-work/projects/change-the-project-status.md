@@ -28,7 +28,7 @@ ht-degree: 100%
 * 为什么要将项目状态更改为 [!UICONTROL Complete]
 * 如果无法将项目状态更改为 [!UICONTROL Complete] 怎么办
 
->[!VIDEO](https://video.tv.adobe.com/v/3419336/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439368/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

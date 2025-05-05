@@ -27,7 +27,7 @@ ht-degree: 100%
 * 观看和管理 Lightbox
 * 在 Lightbox 上进行协作
 
->[!VIDEO](https://video.tv.adobe.com/v/335248/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454360/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## Lightbox 与文件夹
 

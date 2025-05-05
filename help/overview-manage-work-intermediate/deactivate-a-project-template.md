@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何共享项目模板并授予激活和停用该模板的权限。
 * 如何激活和停用项目模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445000/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 了解如何创建自定义视图，以查看和编辑项目模板的活动状态
 

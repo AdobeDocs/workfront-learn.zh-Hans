@@ -19,4 +19,4 @@ ht-degree: 100%
 
 在本视频中，您将学习如何创建新的迭代以及如何选中/取消选中迭代的故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/346284/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412189/?quality=12&learn=on&enablevpops&captions=chi_hans)

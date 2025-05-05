@@ -20,4 +20,4 @@ ht-degree: 100%
 
 在本视频中，您将了解到审批流程如何简化和自动化工作审核流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/335224/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436448/?quality=12&learn=on&enablevpops&captions=chi_hans)

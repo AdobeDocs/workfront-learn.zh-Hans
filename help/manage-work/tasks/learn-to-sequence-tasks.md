@@ -27,7 +27,7 @@ ht-degree: 10%
 &#x200B;AEM它强调与前置任务一起实践的重要性，以了解它们对项目时间线的影响，并建议使用持续时间和前置任务以实现高效的项目规划。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447330/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

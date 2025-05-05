@@ -29,4 +29,4 @@ ht-degree: 100%
 * 不同的公式类型
 * 对公式编辑器良好的和不良的使用方法
 
->[!VIDEO](https://video.tv.adobe.com/v/335262/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415983/?quality=12&learn=on&enablevpops&captions=chi_hans)

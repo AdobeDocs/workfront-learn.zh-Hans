@@ -25,4 +25,4 @@ ht-degree: 100%
 * IF 表达式的作用
 * 如何在计算字段中使用 IF 文本表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/335180/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417101/?quality=12&learn=on&enablevpops&captions=chi_hans)

@@ -40,7 +40,7 @@ ht-degree: 12%
 
 该视频强调了甘特图的灵活性，允许用户自定义视图并同时显示多个元素以实现更好的项目管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/3419304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448016/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 您可以通过文章[甘特图入门](https://experienceleague.adobe.com/docs/workfront/using/manage-work/the-gantt-chart/gantt-chart-overview/get-started-with-gantt.html?lang=zh-Hans)，在线了解更多信息。
 

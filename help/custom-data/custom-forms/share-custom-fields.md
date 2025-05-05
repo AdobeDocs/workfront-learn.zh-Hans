@@ -23,5 +23,5 @@ ht-degree: 100%
 
 在这个视频中，您将了解如何确定谁可以查看和/或编辑自定义字段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432949/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446552/?quality=12&learn=on&enablevpops&captions=chi_hans)
 

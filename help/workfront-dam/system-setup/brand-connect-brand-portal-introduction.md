@@ -26,7 +26,7 @@ ht-degree: 100%
 * 设置单个资源的过期日期
 * 编辑资源设置
 
->[!VIDEO](https://video.tv.adobe.com/v/335229/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419541/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 资源文件夹
 

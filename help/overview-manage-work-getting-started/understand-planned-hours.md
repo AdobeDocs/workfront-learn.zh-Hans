@@ -30,7 +30,7 @@ ht-degree: 100%
 * 如何估算规划小时数
 * 如何将规划小时数添加到任务中
 
->[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445343/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 ## 关于此主题的推荐教程和文章

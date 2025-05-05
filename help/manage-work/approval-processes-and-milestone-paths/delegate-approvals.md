@@ -27,7 +27,7 @@ ht-degree: 7%
 委托的审批将在系统中进行标记，显示委托人的身份以及收件人。&#x200B;AEM 与审批相关的更新将显示在“更新”选项卡中，并且可以在“系统活动”选项卡中查看系统活动。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446386/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

@@ -26,7 +26,7 @@ ht-degree: 100%
 * 下载验证的所有版本
 * 删除验证版本
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438652/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 ## Learn more

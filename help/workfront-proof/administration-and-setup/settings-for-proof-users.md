@@ -29,7 +29,7 @@ ht-degree: 100%
 * 调整 [!DNL  Workfront] 中的验证用户设置
 * 在验证后端设置中调整验证用户设置
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432927/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 Lean More URLs

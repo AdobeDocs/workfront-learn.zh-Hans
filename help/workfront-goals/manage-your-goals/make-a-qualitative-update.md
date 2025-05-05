@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 进行定性或书面更新
 
->[!VIDEO](https://video.tv.adobe.com/v/335197/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415946/?quality=12&learn=on&enablevpops&captions=chi_hans)

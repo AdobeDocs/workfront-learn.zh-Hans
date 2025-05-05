@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 如何快速查看员工在每个项目上投入了多少时间
 
->[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437809/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 审查项目所花费的时间
 

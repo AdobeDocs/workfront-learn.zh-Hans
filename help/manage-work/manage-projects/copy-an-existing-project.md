@@ -27,7 +27,7 @@ ht-degree: 9%
 在此过程中不能直接复制问题，因为它们不被视为计划工作。&#x200B;AEM 要复制问题，请转到问题选项卡，选择所需的问题，并使用“复制到”选项将它们转移到新项目。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3456048/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

@@ -25,7 +25,7 @@ ht-degree: 100%
 * 设置关键词列表
 * 创建并导入关键词列表
 
->[!VIDEO](https://video.tv.adobe.com/v/335236/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3419506/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 关键词最佳实践
 

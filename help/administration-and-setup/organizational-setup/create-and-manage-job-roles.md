@@ -26,4 +26,4 @@ ht-degree: 100%
 * 如何创建工作角色。
 * 如何将工作角色应用于用户，以便为他们分配恰当的工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416966/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452436/?quality=12&learn=on&enablevpops&captions=chi_hans)

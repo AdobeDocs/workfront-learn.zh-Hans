@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何创建和管理 Workfront 对象和工作流的系统和组状态。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422183/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451859/?learn=on&captions=chi_hans)

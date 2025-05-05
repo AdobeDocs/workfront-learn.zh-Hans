@@ -26,7 +26,7 @@ ht-degree: 100%
 * 对静态网站验证进行评论
 * 对交互式网站验证进行评论
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445972/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 ## Learn more

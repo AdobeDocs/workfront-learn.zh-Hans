@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何访问“正在执行的任务”图表
 * 如何快速查看项目中哪些任务尚未完成
 
->[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437010/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 任务级数据
 

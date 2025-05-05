@@ -48,7 +48,7 @@ ht-degree: 100%
 
 下面包含分步说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443389/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 活动 2 答案
 

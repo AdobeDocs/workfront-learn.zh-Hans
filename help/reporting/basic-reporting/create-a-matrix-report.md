@@ -25,7 +25,7 @@ ht-degree: 100%
 * 矩阵报告何时有用
 * 以及如何创建矩阵报告
 
->[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448193/?quality=12&learn=on&captions=chi_hans)
 
 ## “创建矩阵式报告”活动
 

@@ -26,7 +26,7 @@ ht-degree: 100%
 * 将用户添加到现有工作流
 * 将现有工作流切换为自动化工作流
 
->[!VIDEO](https://video.tv.adobe.com/v/335138/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445462/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 到您了
 

@@ -39,7 +39,7 @@ ht-degree: 100%
 * 什么是驼峰式拼写
 * 您可以在分组中使用一些基本的“即插即用”文本模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422894/?quality=12&learn=on&captions=chi_hans)
 
 ## “了解分组的基本文本模式”活动
 

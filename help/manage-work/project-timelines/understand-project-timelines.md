@@ -28,7 +28,7 @@ ht-degree: 100%
 * Workfront 中的不同视图，例如用于规划的标准视图和用于监测进度的状态视图，其中包括进度、评论、文档、问题、审批、关键路径和里程碑的标志。可以跟踪最近的活动，以查看更新和注释。
 * 可以从开始日期或完成日期进行计划，而 Workfront 则会根据任务持续时间和前置任务计算相应的日期。该视频建议从开始日期开始安排关键的完成日期，以留出一些余地。其中还介绍了任务限制，例如“尽快”和“尽可能晚”，说明了它们会如何影响任务计划。可以通过创建自定义视图来显示任务限制。
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435845/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 >[!IMPORTANT]
 >

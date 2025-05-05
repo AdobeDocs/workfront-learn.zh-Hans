@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解如何在Adobe Workfront Planning中创建、导入和管理自定义记录类型，以便有效地组织和跟踪工作相关项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448094/?learn=on&enablevpops&captions=chi_hans)

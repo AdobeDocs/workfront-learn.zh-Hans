@@ -23,7 +23,7 @@ ht-degree: 64%
 此视频提供了全面指南，让您了解并使用Workfront中的功能板。
 &#x200B;AEM它解释说，功能板是报表的集合，允许用户在一个位置组织和显示相关数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449132/?quality=12&learn=on&captions=chi_hans)
 
 ## 要点
 

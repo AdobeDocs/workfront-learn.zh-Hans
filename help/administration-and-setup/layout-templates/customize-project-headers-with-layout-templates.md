@@ -22,4 +22,4 @@ ht-degree: 100%
 
 了解如何通过布局模板在项目标题中添加和删除字段。
 
->[!VIDEO](https://video.tv.adobe.com/v/3409081)
+>[!VIDEO](https://video.tv.adobe.com/v/3422841?captions=chi_hans)

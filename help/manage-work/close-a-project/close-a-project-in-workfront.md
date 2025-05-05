@@ -26,7 +26,7 @@ ht-degree: 100%
 * 为什么获取更新数据很重要
 * 您可以提出的有助于改进未来项目的问题
 
->[!VIDEO](https://video.tv.adobe.com/v/335096/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445473/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 <!--
 This video is confusing. We have heard multiple complaints that it doesn't show how to actually change the project to Complete. "Change the project status to complete" covers the same material in more depth and clarity, so we've removed this tutorial from the TOC and redirected it's URL to point to "Change the project status to complete".

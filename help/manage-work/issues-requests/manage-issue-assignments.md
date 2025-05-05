@@ -30,7 +30,7 @@ ht-degree: 25%
 * 更新问题的进展
 * 更新问题状态
 
->[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446965/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

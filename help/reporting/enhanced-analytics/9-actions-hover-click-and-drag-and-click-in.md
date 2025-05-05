@@ -27,7 +27,7 @@ ht-degree: 100%
 * 在图表上创建时间范围
 * 如何显示其他图表
 
->[!VIDEO](https://video.tv.adobe.com/v/335044/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438575/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 单击图表以了解更多信息
 

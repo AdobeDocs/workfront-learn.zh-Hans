@@ -29,7 +29,7 @@ ht-degree: 100%
 * 审批文件
 * 审批验证
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3444956/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 >[!NOTE]

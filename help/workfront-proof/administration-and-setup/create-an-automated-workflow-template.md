@@ -28,7 +28,7 @@ ht-degree: 100%
 * 设定审查和审批流程的截止日期
 * 与其他人共享自动化工作流模板
 
->[!VIDEO](https://video.tv.adobe.com/v/335130/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3454261/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 附加阶段激活选项
 

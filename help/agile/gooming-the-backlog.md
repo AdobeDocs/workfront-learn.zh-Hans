@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何将故事分解为更小的故事，重新排定积压工作中故事的优先级，并标记故事已准备好放入迭代中。
 
->[!VIDEO](https://video.tv.adobe.com/v/346283/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3412183/?quality=12&learn=on&enablevpops&captions=chi_hans)

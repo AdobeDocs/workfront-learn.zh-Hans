@@ -25,4 +25,4 @@ ht-degree: 100%
 * CONCAT 表达式的作用
 * 如何在计算字段中创建 CONCAT 文本表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/335178/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3417107/?quality=12&learn=on&enablevpops&captions=chi_hans)

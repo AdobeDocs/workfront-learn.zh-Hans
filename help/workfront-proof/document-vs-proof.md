@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * [!DNL Workfront] 中文档和验证之间的区别
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439869/?quality=12&learn=on&enablevpops&captions=chi_hans)

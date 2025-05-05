@@ -26,7 +26,7 @@ ht-degree: 25%
 此视频演示了如何创建审批流程、设置审批者、配置状态以及使用阶段进行多级审批。
 &#x200B;AEM它强调了全局和一次性流程在有效管理任务批准方面的灵活性。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3434697/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

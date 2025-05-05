@@ -26,4 +26,4 @@ ht-degree: 100%
 * 将工作从一个用户重新分配给另一用户
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335165/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3413842/?quality=12&learn=on&enablevpops&captions=chi_hans)

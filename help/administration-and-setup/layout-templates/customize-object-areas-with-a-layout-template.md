@@ -26,4 +26,4 @@ ht-degree: 100%
 * 将项目添加到左侧面板菜单
 * 重新排列面板菜单中的项目
 
->[!VIDEO](https://video.tv.adobe.com/v/335075/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432896/?quality=12&learn=on&enablevpops&captions=chi_hans)

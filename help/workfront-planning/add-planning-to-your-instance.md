@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解添加Workfront规划工具并使其对实例中的用户可见所需的要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447976/?learn=on&enablevpops&captions=chi_hans)

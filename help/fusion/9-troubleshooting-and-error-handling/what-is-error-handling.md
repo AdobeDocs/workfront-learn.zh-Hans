@@ -25,4 +25,4 @@ ht-degree: 100%
 * 一些常见的错误类型是什么，以及系统在默认情况下如何处理它们
 * 如何使用错误处理模块应用自定义错误处理功能
 
->[!VIDEO](https://video.tv.adobe.com/v/335304/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418128/?quality=12&learn=on&enablevpops&captions=chi_hans)

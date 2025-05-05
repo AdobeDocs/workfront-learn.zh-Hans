@@ -25,4 +25,4 @@ ht-degree: 100%
 * 修改您的通知设置
 * 创建地址簿
 
->[!VIDEO](https://video.tv.adobe.com/v/335250/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3414447/?quality=12&learn=on&enablevpops&captions=chi_hans)

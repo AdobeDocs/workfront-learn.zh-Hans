@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何使用工作投入
 * 如何创建工作投入任务视图
 
->[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447409/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 如要了解有关 [!UICONTROL Work Effort] 的更多信息，请参见[工作投入概述](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-information/work-effort.html?lang=zh-Hans)文章。
 

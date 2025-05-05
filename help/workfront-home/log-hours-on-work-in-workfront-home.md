@@ -25,7 +25,7 @@ ht-degree: 100%
 * 记录时间的值
 * 如何记录在工作分配上花费的时间
 
->[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438608/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 在 [!DNL Home] 中记录工作时间的技巧
 

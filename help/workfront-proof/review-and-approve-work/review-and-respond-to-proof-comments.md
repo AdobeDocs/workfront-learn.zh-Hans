@@ -26,4 +26,4 @@ ht-degree: 100%
 * 在 [!UICONTROL Updates] 部分查看验证评论
 * 从 [!UICONTROL Updates] 部分回复验证评论
 
->[!VIDEO](https://video.tv.adobe.com/v/335139/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3438663/?quality=12&learn=on&enablevpops&captions=chi_hans)

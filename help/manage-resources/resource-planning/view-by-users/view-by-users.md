@@ -26,4 +26,4 @@ ht-degree: 100%
 * 了解资源信息如何在此视图中显示
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335168/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443816/?quality=12&learn=on&enablevpops&captions=chi_hans)

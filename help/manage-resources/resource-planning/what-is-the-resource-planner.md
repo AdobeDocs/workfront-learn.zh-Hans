@@ -25,4 +25,4 @@ ht-degree: 100%
 但是，使用 Workfront 的资源规划程序可以使这项任务变得更容易一些。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335167/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3437264/?quality=12&learn=on&enablevpops&captions=chi_hans)

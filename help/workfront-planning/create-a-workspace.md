@@ -21,4 +21,4 @@ ht-degree: 25%
 
 了解如何在Adobe Workfront规划中创建工作区。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447966/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448271/?learn=on&enablevpops&captions=chi_hans)

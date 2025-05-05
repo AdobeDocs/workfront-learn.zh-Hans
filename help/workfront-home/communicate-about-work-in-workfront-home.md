@@ -26,7 +26,7 @@ ht-degree: 100%
 * 在 [!DNL Workfront] 更新上标记用户
 * 回复现有更新
 
->[!VIDEO](https://video.tv.adobe.com/v/335102/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445287/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 在 [!UICONTROL Home] 中更新工作的提示
 

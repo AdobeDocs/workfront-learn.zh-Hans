@@ -27,7 +27,7 @@ ht-degree: 100%
 * 关联一个组
 * 创建并关联子组
 
->[!VIDEO](https://video.tv.adobe.com/v/335070/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3432867/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 组管理员
 

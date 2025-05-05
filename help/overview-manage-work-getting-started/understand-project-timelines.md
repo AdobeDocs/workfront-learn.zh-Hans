@@ -27,7 +27,7 @@ ht-degree: 100%
 * 从开始或完成日期计划项目
 * 任务限制
 
->[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3435845/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 >[!IMPORTANT]
 >

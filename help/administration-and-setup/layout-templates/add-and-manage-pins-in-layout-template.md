@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解什么是固定页面，以及如何通过布局模板为一组用户固定重要或相关的页面。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418382/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3422805/?quality=12&learn=on&enablevpops&captions=chi_hans)

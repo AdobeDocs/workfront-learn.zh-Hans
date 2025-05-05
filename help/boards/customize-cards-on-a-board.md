@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何自定义展示板中的信息卡上显示的信息（完整视图或压缩视图）。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422520/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3446541/?quality=12&learn=on&enablevpops&captions=chi_hans)

@@ -27,7 +27,7 @@ ht-degree: 100%
 * 计划、预计时间和实际日期，以及
 * 如何使用它们来计算进度状态
 
->[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436617/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 >[!NOTE]
 >

@@ -25,7 +25,7 @@ ht-degree: 100%
 * 如何创建里程碑路径
 * 如何将里程碑步骤添加到里程碑路径
 
->[!VIDEO](https://video.tv.adobe.com/v/335204/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3415911/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 >[!NOTE]
 >

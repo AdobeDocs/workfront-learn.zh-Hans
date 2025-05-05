@@ -25,7 +25,7 @@ ht-degree: 13%
 
 该视频强调团队成员定期更新和主动问题管理的重要性，以确保准确跟踪和及时完成项目。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447420/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 ## 要点
 

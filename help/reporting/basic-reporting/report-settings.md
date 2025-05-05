@@ -25,4 +25,4 @@ ht-degree: 100%
 * 如何访问报告设置
 * 一些常见报告设置的用途
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3445873/?quality=12&learn=on&enablevpops&captions=chi_hans)
