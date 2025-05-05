@@ -110,9 +110,9 @@ ht-degree: 100%
 
 ### 活动 2：创建管理团队反馈报告
 
-这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)教程中了解如何创建此请求队列。
+这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hans)教程中了解如何创建此请求队列。
 
-该报告还使用了自定义表格。要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)教程。
+该报告还使用了自定义表格。要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hans)教程。
 
 此自定义表单应按如下方式创建：
 

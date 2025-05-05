@@ -23,8 +23,8 @@ ht-degree: 6%
 
 >[!PREREQUISITES]
 >
->* [创建请求流](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
->* [创建全局和一次性审批流程](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+>* [创建请求流](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow)
+>* [创建全局和一次性审批流程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
 此视频介绍创建请求队列时应用默认审批流程的过程。&#x200B;AEM 创建请求后，其最初的状态为“新建 — 未决批准”，并且会向指定的批准者发送批准通知。&#x200B;AEM 如果获得批准，状态将更改为“新建”，允许已分配人员开始工作。&#x200B;AEM 如果被拒绝，由于审批流程设置中的常见错误，状态可能会错误地恢复为“新”。&#x200B;AEM
@@ -46,4 +46,4 @@ ht-degree: 6%
 * [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [了解特定于群组的审批流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
-* [创建全局和一次性审批流程](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
+* [创建全局和一次性审批流程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)

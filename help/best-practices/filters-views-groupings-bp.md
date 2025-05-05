@@ -53,9 +53,9 @@ ht-degree: 100%
 
 为您想要查看的每个数据段创建一次性使用的报告非常耗时，并且会使 Workfront 系统变得拥挤不堪。
 
-有关如何创建带提示的报告的说明，请参阅[了解报告设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html)视频中标有“如何设置和使用报告提示”的章节。
+有关如何创建带提示的报告的说明，请参阅[了解报告设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=zh-Hans)视频中标有“如何设置和使用报告提示”的章节。
 
-有关如何创建带有自定义提示的报告的说明，请参阅[创建自定义提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html)。
+有关如何创建带有自定义提示的报告的说明，请参阅[创建自定义提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=zh-Hans)。
 
 </br>
 </br>
@@ -68,7 +68,7 @@ ht-degree: 100%
 
 少即是多。隐藏与用户日常工作流无关的过滤器、视图和分组列表选项可以缩小列表范围，从而使用户更容易更快地找到他们需要的内容。
 
-有关如何使用布局模板隐藏过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)。
+有关如何使用布局模板隐藏过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hans)。
 
 </br>
 </br>
@@ -83,7 +83,7 @@ ht-degree: 100%
 
 通过布局模板自定义您希望用户可以看见的信息也可以节省系统和管理员的时间，因为他们不必单独共享每个过滤器、视图或分组选项。
 
-有关如何使用布局模板分享过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)。
+有关如何使用布局模板分享过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hans)。
 
 </br>
 </br>

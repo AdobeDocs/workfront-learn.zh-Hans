@@ -55,4 +55,4 @@ ht-degree: 100%
 
 创建一个包含 [!UICONTROL Task Constraint] 列的自定义视图，以便在任务列表中查看此信息。如果您从开始日期开始规划项目，则建议为您的任务设置 [!UICONTROL As Soon As Possible] ([!UICONTROL ASAP]) 限制。
 
-有关任务限制的更多详细信息，请参阅[了解和管理持续时间类型和任务限制。](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)
+有关任务限制的更多详细信息，请参阅[了解和管理持续时间类型和任务限制。](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hans)

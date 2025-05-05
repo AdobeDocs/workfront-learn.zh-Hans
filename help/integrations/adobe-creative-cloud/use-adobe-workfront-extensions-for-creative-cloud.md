@@ -33,9 +33,9 @@ ht-degree: 100%
 
 您必须为您正在使用的 Adobe Creative Cloud 应用程序安装正确的插件：
 
-* 对于 Photoshop，请参阅[安装并打开 Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
-* 对于 XD，请参阅[安装并打开 Adobe Workfront for XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?)
-* 对于 InDesign、Illustrator、Premiere Pro 和 After Effects，请参阅[安装并打开 Adobe Workfront 以进行设计和视频制作](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
+* 对于 Photoshop，请参阅[安装并打开 Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=zh-Hans&)
+* 对于 XD，请参阅[安装并打开 Adobe Workfront for XD](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-adobe-xd-install.html?lang=zh-Hans&)
+* 对于 InDesign、Illustrator、Premiere Pro 和 After Effects，请参阅[安装并打开 Adobe Workfront 以进行设计和视频制作](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=zh-Hans&)
 
 >[!NOTE]
 >

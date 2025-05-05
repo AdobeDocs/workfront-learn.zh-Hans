@@ -49,9 +49,9 @@ ht-degree: 100%
 
 逐步浏览您的工作流可以更容易地确定沟通点，并确保启用恰当的通知。这为您的组织现有的工作方式做好了通知准备，防止出现垃圾邮件或通信中断。
 
-有关如何设置事件通知的说明，请参阅[设置事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html)。
+有关如何设置事件通知的说明，请参阅[设置事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.html?lang=zh-Hans)。
 
-有关如何管理事件通知的说明，请参阅[管理应用内和电子邮件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html)。
+有关如何管理事件通知的说明，请参阅[管理应用内和电子邮件事件通知](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/email-and-in-app-notifications/manage-inapp-and-email-notifications.html?lang=zh-Hans)。
 
 </br>
 </br>
@@ -72,5 +72,5 @@ ht-degree: 100%
 * 所有者名称
 * 输入日期
 
-有关如何创建带有提示的笔记报告的分步说明，请观看[创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html)教程，然后进行接下来的活动。
+有关如何创建带有提示的笔记报告的分步说明，请观看[创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hans)教程，然后进行接下来的活动。
 

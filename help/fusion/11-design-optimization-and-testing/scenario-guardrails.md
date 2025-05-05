@@ -36,4 +36,4 @@ ht-degree: 100%
 
 [Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-hans)
 
-[Adobe Workfront Fusion 性能护栏](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html)
+[Adobe Workfront Fusion 性能护栏](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/get-started-with-workfront-fusion/fusion-performance-guardrails.html?lang=zh-Hans)

@@ -22,5 +22,5 @@ ht-degree: 100%
 
 >[!NOTE]
 >
->**管理请求**&#x200B;现在包含在&#x200B;**[查找和管理请求](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html)**&#x200B;中。
+>**管理请求**&#x200B;现在包含在&#x200B;**[查找和管理请求](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/issues-requests/find-requests.html?lang=zh-Hans)**&#x200B;中。
 

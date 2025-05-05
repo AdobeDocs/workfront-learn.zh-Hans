@@ -51,7 +51,7 @@ ht-degree: 100%
 
 它还让您有机会向利益相关者展示您的项目如何为部门、区域和/或公司目标做出贡献。
 
-有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)。
+有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hans)。
 
 </br>
 </br>
@@ -64,7 +64,7 @@ ht-degree: 100%
 
 确保此信息与“真实”项目所需的信息尽可能接近，使您能够准确地使用项目组合优化器中的评分功能来确定列出的项目的优先级。项目组合优化器是一个很好的工具，可以确保您的项目有效地确定优先级，并与您公司的战略和价值保持一致。
 
-有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)。
+有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hans)。
 
-有关如何使用项目组合优化器的说明，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)。
+有关如何使用项目组合优化器的说明，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=zh-Hans)。
 

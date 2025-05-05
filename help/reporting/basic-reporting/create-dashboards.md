@@ -49,7 +49,7 @@ ht-degree: 64%
 
 ### 答案 1
 
-1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
+1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
 1. 单击 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Copy]**。[!DNL Workfront] 会创建一个名为“注释搜索（副本）”的新报告。
 1. 前往 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Edit]**。单击 **[!UICONTROL Report Settings]** 并将名称更改为“搜索该项目中的注释。”
 1. 单击 [!UICONTROL Report Prompts] 并从列表中删除 [!UICONTROL Project] > [!UICONTROL Name] 提示。

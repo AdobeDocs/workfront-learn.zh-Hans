@@ -27,7 +27,7 @@ ht-degree: 100%
 
 >[!IMPORTANT]
 >
->如果您找不到视频中所述的 Workfront 插件，您的 IT 部门可能需要先进行一些设置工作。详细说明可在[设置 Adobe Workfront for Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html)中找到。
+>如果您找不到视频中所述的 Workfront 插件，您的 IT 部门可能需要先进行一些设置工作。详细说明可在[设置 Adobe Workfront for Outlook](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-outlook/set-up-workfront-for-outlook.html?lang=zh-Hans)中找到。
 
 ## 将 Microsoft Outlook 日程表与 [!DNL Workfront] 主日程表集成
 

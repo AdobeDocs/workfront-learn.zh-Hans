@@ -26,7 +26,7 @@ ht-degree: 4%
 
 在本教程中，您将了解如何创建项目、计划项目、管理项目以及关闭项目。
 
-完成本教程后，我们建议[管理工作 — 中级](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)以进一步提升项目管理技能。
+完成本教程后，我们建议[管理工作 — 中级](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=zh-Hans)以进一步提升项目管理技能。
 
 >[!PREREQUISITES]
 >

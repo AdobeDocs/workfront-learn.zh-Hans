@@ -108,7 +108,7 @@ ht-degree: 100%
 
 对特定项目的访问权限是通过项目本身授予的。如果同一组人员始终需要访问使用特定模板创建的项目，请将他们添加到模板上的“项目共享”选项下。您不仅可以在项目创建后立即控制对项目的访问，而且如果将来需要更改权限，这还可以简化可扩展性工作。
 
-有关如何共享使用模板创建的项目的说明，请参阅[共享项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html)中标记为“如何共享使用模板创建的项目”的章节。
+有关如何共享使用模板创建的项目的说明，请参阅[共享项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html?lang=zh-Hans)中标记为“如何共享使用模板创建的项目”的章节。
 
 **注释**：模板共享可授予对模板本身的访问权限。用户必须至少具有查看权限才能使用模板创建项目。
 
@@ -177,7 +177,7 @@ ht-degree: 100%
 
 当使用模板将请求转化为项目时，附加与请求自定义表单匹配的项目自定义表单，以提取提交的信息。
 
-有关如何将自定义表单附加到项目模板等对象的说明，请参阅[将自定义表单附加到对象](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html)。
+有关如何将自定义表单附加到项目模板等对象的说明，请参阅[将自定义表单附加到对象](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html?lang=zh-Hans)。
 
 </br>
 </br>
@@ -190,7 +190,7 @@ ht-degree: 100%
 
 随着流程和团队的变化，应该对项目模板进行更新。建立定期的节奏（例如每季度一次）来检查并查看哪些模板没有得到积极使用。您可以停用这些模板，这样它们会在 Workfront 中保留，但不会出现在模板选择列表中。
 
-有关如何停用项目模板的说明，请参阅[停用项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html)。
+有关如何停用项目模板的说明，请参阅[停用项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=zh-Hans)。
 
 </br>
 </br>
@@ -232,7 +232,7 @@ ht-degree: 100%
 
 在项目中混合不同的任务限制可能会导致意外且混乱的规划日期计算。例如，当为“计划模式”选项选择“开始日期”时，默认情况下，会为该项目中创建的任何任务分配“尽快”的任务限制。如果您稍后将“计划模式”选项切换为“完成日期”，则默认情况下所创建的任何任务都具有“尽可能晚”的任务限制。无意中将带有这些限制的任务混合在一起可能会导致人们混淆项目时间线中的规划日期。
 
-要更好地了解任务限制以及如何使用它们，请参阅[了解和管理持续时间类型和任务限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)。
+要更好地了解任务限制以及如何使用它们，请参阅[了解和管理持续时间类型和任务限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hans)。
 
 </br>
 </br>
@@ -247,4 +247,4 @@ ht-degree: 100%
 
 所有这些用户都会在项目的“人员”和“计划”部分中列为项目团队的一部分。因此，他们会被传递至从该模板创建的所有项目。这可能会导致用户感到困惑，因为作为项目团队的一部分，他们会收到有关项目活动的通知，在“我所在的项目”列表中看到该项目，并获得对该项目及其任务、问题和文档的访问权限。
 
-有关如何在项目模板中编辑项目团队的说明，请参阅[在项目模板中编辑项目团队](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html)。
+有关如何在项目模板中编辑项目团队的说明，请参阅[在项目模板中编辑项目团队](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=zh-Hans)。

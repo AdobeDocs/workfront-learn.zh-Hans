@@ -49,8 +49,8 @@ ht-degree: 100%
 
 此外，您还可以使用其他工具，如“利用率”报告，它可以帮助您了解用户的工作方式和工作内容，或者使用“项目组合优化器”，它可以更容易地对项目进行优先级排序，并使其与公司的总体目标和战略保持一致。
 
-要了解如何按特定的项目组合筛选项目列表，请参阅[创建基本筛选活动](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html)中的“活动 1 - 营销项目组合中的所有项目”。
+要了解如何按特定的项目组合筛选项目列表，请参阅[创建基本筛选活动](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-filter-activity.html?lang=zh-Hans)中的“活动 1 - 营销项目组合中的所有项目”。
 
 要了解利用率报告，请参阅文章[使用利用率报告跟踪进度、成本和收入](https://experienceleague.adobe.com/docs/workfront/using/manage-resources/resource-utilization/view-utilization-information.html?lang=zh-Hans#track-progress-cost-and-revenue-with-the-utilization-report)。
 
-要了解有关项目组合优化器的信息，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)。
+要了解有关项目组合优化器的信息，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=zh-Hans)。

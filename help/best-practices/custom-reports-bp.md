@@ -86,7 +86,7 @@ ht-degree: 100%
 </br>
 </br>
 
-有关如何在报告中使用基于用户的通配符的说明，请参阅[使用基于用户的通配符创建过滤器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html)。
+有关如何在报告中使用基于用户的通配符的说明，请参阅[使用基于用户的通配符创建过滤器](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.html?lang=zh-Hans)。
 
 **最佳实践**
 
