@@ -1,6 +1,6 @@
 ---
 title: 将多个文件合并为一份验证
-description: 了解如何在  [!DNL  Workfront] 中通过将多个文件合并为一个验证来简化验证过程。
+description: 了解如何在  [!DNL &#x200B; Workfront] 中通过将多个文件合并为一个验证来简化验证过程。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

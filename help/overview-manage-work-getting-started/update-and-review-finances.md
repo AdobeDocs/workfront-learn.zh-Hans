@@ -1,6 +1,6 @@
 ---
 title: 更新和审查财务状况
-description: 了解如何在  [!DNL  Workfront] 中查看与项目相关的财务信息。
+description: 了解如何在  [!DNL &#x200B; Workfront] 中查看与项目相关的财务信息。
 activity: use
 team: Technical Marketing
 feature: Work Management
