@@ -32,7 +32,7 @@ ht-degree: 73%
 
 * 安装 Microsoft Outlook 插件
 
->[!VIDEO](https://video.tv.adobe.com/v/335115/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3421305/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 >[!IMPORTANT]
 >
