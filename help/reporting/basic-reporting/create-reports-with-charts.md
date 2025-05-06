@@ -73,7 +73,7 @@ ht-degree: 36%
 1. 在 **[!UICONTROL Filters]** 选项卡中，添加两条过滤规则：
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
 
    ![在报告中添加过滤器的屏幕图像](assets/chart-report-filters.png)
 
