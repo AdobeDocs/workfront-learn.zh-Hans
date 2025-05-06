@@ -1,6 +1,6 @@
 ---
 title: 在  [!DNL My Updates]  或  [!DNL Home] 中审核工作
-description: “[!DNL  Workfront] 提供两个位置来访问分配给您进行审核和审批的工作 - [!DNL My Updates]  和  [!DNL Home] ”
+description: '[!DNL  Workfront]提供两个位置来访问分配给您进行审阅和批准的工作 —  [!DNL My Updates] 和 [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
@@ -10,10 +10,12 @@ team: Technical Marketing
 thumbnail: myupdates.png
 jira: KT-10081
 exl-id: fed89b2d-5092-426d-8af4-4268d89bc29d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+hide: true
+hidefromtoc: true
+source-git-commit: 76bccb731d1257fee3e3c0c20dde8efa2270a9c3
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 100%
+ht-degree: 92%
 
 ---
 
