@@ -1,6 +1,6 @@
 ---
 title: 在  [!DNL My Updates]  或  [!DNL Home] 中审核工作
-description: '[!DNL  Workfront]提供两个位置来访问分配给您进行审阅和批准的工作 —  [!DNL My Updates] 和 [!DNL Home] '
+description: '[!DNL &#x200B; Workfront]提供两个位置来访问分配给您进行审阅和批准的工作 —  [!DNL My Updates] 和 [!DNL Home] '
 feature: Work Management
 type: Tutorial
 role: User
