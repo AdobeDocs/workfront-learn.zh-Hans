@@ -12,10 +12,10 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: c9eb5f9077f1e9ba90d5ebccc9d3b19575667717
+source-git-commit: 7bb04a8512f6001c8560cb54087d840dba73285a
 workflow-type: tm+mt
-source-wordcount: '555'
-ht-degree: 43%
+source-wordcount: '538'
+ht-degree: 36%
 
 ---
 
@@ -73,15 +73,16 @@ ht-degree: 43%
 1. 在 **[!UICONTROL Filters]** 选项卡中，添加两条过滤规则：
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
    ![在报告中添加过滤器的屏幕图像](assets/chart-report-filters.png)
 
 1. 在 **[!UICONTROL Chart]** 选项卡中，为图表类型选择 **[!UICONTROL Column]**。
-1. 对于 [!UICONTROL Left (Y) Axis]，选择 [!UICONTROL Project] > [!UICONTROL Planned Cost]。
-1. 对于 [!UICONTROL Bottom (X) Axis]，选择 [!UICONTROL Project] > [!UICONTROL Name]。
-1. 单击 **[!UICONTROL Combination Chart]** 按钮，并选择 **[!UICONTROL Value]** 字段中的 [!UICONTROL Project] > [!UICONTROL Actual Cost]。
-1. 单击颜色框旁边的箭头可更改 [!UICONTROL Actual Cost] 颜色。选择出现的颜色之一或单击右下角的框以调出调色板。
-1. 单击&#x200B;**[!UICONTROL Save + Close]**。当系统提示输入报告名称时，将其命名为“上季度完成项目的规划成本与实际成本”。
+1. 对于[!UICONTROL Left (Y) Axis]，请选择[!UICONTROL Planned Cost]。
+1. 对于[!UICONTROL Bottom (X) Axis]，请选择[!UICONTROL Name]。
+1. 单击&#x200B;**[!UICONTROL Combination Chart]**&#x200B;按钮并在&#x200B;**[!UICONTROL Value]**&#x200B;字段中选择[!UICONTROL Actual Cost]。
+1. 在&#x200B;**[!UICONTROL Chart Type]**&#x200B;字段中，选择“行”。
+1. 单击颜色框以更改[!UICONTROL Actual Cost]颜色。 选择颜色。
+1. 单击 **[!UICONTROL Save + Close]**。当系统提示输入报告名称时，将其命名为“上季度完成项目的规划成本与实际成本”。
 
    ![在报告中添加图表的屏幕图像](assets/chart-report-chart.png)
