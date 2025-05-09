@@ -1,6 +1,6 @@
 ---
 title: 创建基本分组
-description: 了解什么是分组、如何创建分组以及如何与 Workfront 中的其他用户共享分组。
+description: Workfront分组通过允许用户根据项目组合、项目群或完成日期等项对列表进行分类（带有可自定义的共享和管理选项以实现高效协作），从而改善项目组织情况。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 335147.jpeg
@@ -9,24 +9,30 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8853
+last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '208'
-ht-degree: 100%
+source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
+workflow-type: tm+mt
+source-wordcount: '398'
+ht-degree: 34%
 
 ---
 
 # 创建基本分组
 
-在本视频中，您将了解到：
+此视频介绍如何在Workfront中创建和管理分组，以有效组织项目列表。&#x200B;AEM 分组与过滤器和视图一起是三个主要报表元素之一，它们有助于根据共享信息整理结果。&#x200B;AEM
+本教程提供了组织项目列表以简化日常工作和协作的实际步骤。&#x200B;AEM
 
-* Workfront 中的分组是什么
-* 如何创建分组
-* 以及如何与其他 Workfront 用户共享分组
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3449825/?quality=12&learn=on&captions=chi_hans)
+## 要点
+
+* **分组的用途：**&#x200B;分组是Workfront中的一个关键报表元素，用于根据共享信息（如完成日期、项目组合或项目群）组织项目列表。&#x200B;AEM
+* **创建分组：**&#x200B;您最多可以使用三个级别的条件创建自定义分组。&#x200B;AEM 例如，可以先按项目组合分组，然后按项目群分组，以改善组织效果。&#x200B;AEM
+* **无法覆盖编辑和保存分组：**&#x200B;内置分组，但您可以将编辑内容另存为新分组。&#x200B;AEM 自定义分组应该具有清晰的描述性名称，以便轻松识别。&#x200B;AEM
+* **共享分组：**&#x200B;分组可以与其他用户共享，具有默认的“查看”权限，允许他们使用和共享分组，但不能编辑它。 “&#x200B;管理”权限允许编辑和删除。&#x200B;AEM
+* **删除分组：**&#x200B;删除您创建的分组也会从与其共享该分组的用户列表中将其删除。&#x200B;AEM 共享的分组显示在其他用户的“与我共享”部分下。&#x200B;AEM
 
 ## “创建基本分组”活动
 
@@ -48,9 +54,7 @@ ht-degree: 100%
 1. 在问题列表报告中，转至 **[!UICONTROL Grouping]** 菜单并选择 **[!UICONTROL New Grouping]**。
 1. 将您的分组命名为“请求队列、队列主题、优先级”。
 1. 单击 **[!UICONTROL Add Grouping]**。
-1. 在 [!UICONTROL First By] 字段。输入“项目名称”，然后在项目字段源下选择 **[!UICONTROL Name]**。
-1. 单击 **[!UICONTROL Add another Grouping]**。
-1. 在 [!UICONTROL And then by] 字段中，输入“队列”，然后选择 [!UICONTROL Queue Topic] 字段源下的 **[!UICONTROL Name]**。
-1. 单击 **[!UICONTROL Add another Grouping]**。
-1. 在 [!UICONTROL And then by] 字段中，输入“优先级”，然后选择 [!UICONTROL Issue] 字段源下的 **[!UICONTROL Priority]**。
+1. 在 [!UICONTROL Group by] 字段。输入“项目名称”，然后在项目字段源下选择 **[!UICONTROL Name]**。
+1. 单击&#x200B;**[!UICONTROL Add another Grouping]**，然后键入“queue”并选择[!UICONTROL Queue Topic]字段源下的&#x200B;**[!UICONTROL Name]**。
+1. 单击&#x200B;**[!UICONTROL Add another Grouping]**，然后键入“priority”并选择[!UICONTROL Issue]字段源下的&#x200B;**[!UICONTROL Priority]**。
 1. 单击 **[!UICONTROL Save Grouping]**
