@@ -24,7 +24,7 @@ ht-degree: 34%
 此视频介绍如何在Workfront中创建和管理分组，以有效组织项目列表。&#x200B;AEM 分组与过滤器和视图一起是三个主要报表元素之一，它们有助于根据共享信息整理结果。&#x200B;AEM
 本教程提供了组织项目列表以简化日常工作和协作的实际步骤。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449825/?quality=12&learn=on&captions=chi_hans)
 
 ## 要点
 
