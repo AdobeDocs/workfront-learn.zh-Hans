@@ -8,23 +8,35 @@ role: User
 level: Beginner
 team: Technical Marketing
 jira: KT-8858
+last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '220'
-ht-degree: 100%
+source-git-commit: 96128e92d7a84dadb8b2c8547a6e612ddb0776d3
+workflow-type: tm+mt
+source-wordcount: '440'
+ht-degree: 46%
 
 ---
 
 # 创建简单的报告
 
-在本视频中，您将学习如何：
+此视频介绍如何创建和自定义项目报表以有效分析数据。&#x200B;AEM 报告首先强调报告在跟踪项目进度、任务完成、预算遵守情况和确定问题方面的重要性。 此视频演示了如何从项目列表报表开始，调整筛选器、视图和分组，以及创建自定义报表以方便查看。&#x200B;&#x200B;AEM
 
-* 使用现有的过滤器、视图和分组创建简单的报告
+视频强调，自定义报表将保留其默认设置，但可以在查看报表时进行临时更改。&#x200B;AEM 报告存储在“我的报告”部分中，而共享的报告显示在“与我共享”中&#x200B;。 可以固定常用报表或将其标记为收藏夹以便轻松访问。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3413118/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+
+## 要点
+
+
+* **报告目的：**&#x200B;报告有助于跟踪项目进度、任务完成、预算遵守情况并识别问题，使其对于有效的项目管理至关重要。
+* **自定义报告创建：**&#x200B;自定义报告允许您保存特定的筛选器、视图和分组，以便轻松访问，而无需重复调整设置。&#x200B;AEM
+* **构建报表的步骤：**&#x200B;选择适当的对象类型、命名报表、应用筛选器、视图和分组、自定义列并保存报表。&#x200B;AEM
+* **临时设置与&#x200B;默认设置：**&#x200B;虽然查看者可以临时更改筛选器、视图和分组，但报表在重新打开后将始终恢复为默认设置。&#x200B;AEM
+* **组织报告：**&#x200B;自定义报告存储在“我的报告”中，共享报告存储在“与我共享”中，经常使用的报告可以固定或标记为收藏夹以便快速访问。&#x200B;AEM
+
+
 
 ## “创建简单的报告”活动
 
