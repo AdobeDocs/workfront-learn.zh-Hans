@@ -38,7 +38,7 @@ ht-degree: 36%
 
 此视频重点介绍饼图和栈叠柱状图等图表如何提供任务分布和项目性能的见解，帮助用户比较项目并以可视方式了解任务进度。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450024/?quality=12&learn=on&captions=chi_hans)
 
 ## 要点
 
