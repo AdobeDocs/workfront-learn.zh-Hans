@@ -40,7 +40,7 @@ ht-degree: 100%
 * 什么是驼峰式拼写
 * 您可以在视图中使用一些基本的“即插即用”文本模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422885/?quality=12&learn=on&captions=chi_hans)
 
 ## “了解视图的基本文本模式”活动
 
