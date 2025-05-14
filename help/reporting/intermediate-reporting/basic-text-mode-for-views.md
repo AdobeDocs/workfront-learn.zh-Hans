@@ -2,7 +2,7 @@
 title: 了解视图的基本文本模式
 description: 了解什么是文本模式、什么是驼峰式拼写以及可在 Workfront 的视图中使用的一些基本的“即插即用”文本模式。
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 336820.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '654'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ ht-degree: 100%
 * 什么是驼峰式拼写
 * 您可以在视图中使用一些基本的“即插即用”文本模式
 
->[!VIDEO](https://video.tv.adobe.com/v/3422885/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
 
 ## “了解视图的基本文本模式”活动
 

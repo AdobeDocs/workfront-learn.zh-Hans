@@ -2,7 +2,7 @@
 title: 高级报告第 2 部分
 description: 深入研究文本模式视图、有关文本模式结构的其他详细信息、计算自定义数据和计算列。
 activity: use
-feature: Text Mode Reporting
+feature: Reports and Dashboards
 thumbnail: 3409632.png
 type: Tutorial
 role: User
@@ -11,8 +11,8 @@ team: Technical Marketing
 jira: KT-11201
 exl-id: c5f98bfd-5cdd-4471-9795-9bdc9bd1f5e3
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: f03518b568cc24ad39b32f6dbfd763400529cf0f
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
