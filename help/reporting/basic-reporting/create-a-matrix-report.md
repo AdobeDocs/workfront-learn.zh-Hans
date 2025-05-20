@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335156.png
 jira: KT-8861
+last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '225'
-ht-degree: 100%
+source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+workflow-type: tm+mt
+source-wordcount: '383'
+ht-degree: 59%
 
 ---
 
@@ -25,7 +26,15 @@ ht-degree: 100%
 * 矩阵报告何时有用
 * 以及如何创建矩阵报告
 
->[!VIDEO](https://video.tv.adobe.com/v/3448193/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
+
+## 要点
+
+* **Matrix报表结构：** Matrix报表按行和列组织数据，并自动汇总行和列。&#x200B;AEM 它们非常适用于跟踪工作时间、成本和收入等指标。&#x200B;AEM
+* **筛选器设置：**&#x200B;使用筛选器关注特定数据，例如特定主团队的用户在上一季度工作的小时数。&#x200B;AEM “所有者字段源”可帮助识别相关团队成员。&#x200B;AEM
+* **分组选项：**&#x200B;在我们的示例中，行按“所有者名称”（工作小时的人员）分组，而列按“小时输入日期”（按月和周）分组。&#x200B;AEM
+* **汇总数据：**&#x200B;默认情况下汇总小时数、实际成本和收入等列，确保在矩阵中显示总计。 如果需要，可以关闭这些默认值。&#x200B;AEM
+* **图表集成：**&#x200B;矩阵报表可以使用用于替代数据可视化的图表来补充，并使用相同的分组信息。 可以将矩阵选项卡或图表选项卡设置为默认视图。&#x200B;AEM
 
 ## “创建矩阵式报告”活动
 
