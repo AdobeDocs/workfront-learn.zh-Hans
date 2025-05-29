@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335157.png
 jira: KT-8862
+last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: eb6e0375169c5a171eee01053f9577394460fa11
 workflow-type: tm+mt
-source-wordcount: '589'
-ht-degree: 64%
+source-wordcount: '601'
+ht-degree: 52%
 
 ---
 
@@ -23,7 +24,7 @@ ht-degree: 64%
 此视频提供了全面指南，让您了解并使用Workfront中的功能板。
 &#x200B;AEM它解释说，功能板是报表的集合，允许用户在一个位置组织和显示相关数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449132/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on)
 
 ## 要点
 
@@ -40,7 +41,7 @@ ht-degree: 64%
 
 创建一个只有一个报告的 [!UICONTROL dashboard]——“搜索该项目中的注释。”这对于快速查找项目上的任何更新非常有用，即使有数千条更新内容需要搜索也是如此。这将会搜索更新跟帖内容，以快速提取能够满足您在提示中指定的条件的任何更新。
 
-通过复制您在“创建注释报告”活动中创建的“搜索注释”报告来创建此报告（如果您没有进行该活动，请使用其他报告）。
+通过复制您在“创建注释报告”活动中创建的“搜索注释”报告来创建此报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
 
 * 从副本中删除“项目名称”提示，并将报告重命名为“搜索该报告中的注释”。
 * 将 [!UICONTROL Dashboard] 命名为“搜索注释。”
@@ -49,7 +50,7 @@ ht-degree: 64%
 
 ### 答案 1
 
-1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
+1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
 1. 单击 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Copy]**。[!DNL Workfront] 会创建一个名为“注释搜索（副本）”的新报告。
 1. 前往 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Edit]**。单击 **[!UICONTROL Report Settings]** 并将名称更改为“搜索该项目中的注释。”
 1. 单击 [!UICONTROL Report Prompts] 并从列表中删除 [!UICONTROL Project] > [!UICONTROL Name] 提示。
@@ -61,7 +62,7 @@ ht-degree: 64%
 
    接下来，您要使用快捷方式创建一个新仪表板，并向其中添加该报告。
 
-1. 单击 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Add to Dashboard]** > **[!UICONTROL New Dashboard]**。
+1. 单击 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Add to Classic Dashboard]** > **[!UICONTROL New Dashboard]**。
 1. 将报告“在该项目中搜索”拖至 **[!UICONTROL Layout]** 面板。
 1. 请注意，报告的名称将会成为仪表板的名称。将名称编辑为“搜索注释”。
 
@@ -73,8 +74,8 @@ ht-degree: 64%
 
    ![创建新仪表板的屏幕图像](assets/add-custom-section.png)
 
-1. 转到任何项目。从左侧面板菜单中，单击 **[!UICONTROL Add custom section]** 图标。
-1. 在 **[!UICONTROL Add a Dashboard]** 字段中，输入“搜索注释”，并从列表中选择 [!UICONTROL dashboard]。
-1. 在 **[!UICONTROL Custom section title]** 字段中，输入“搜索注释”。
-1. 单击 **[!UICONTROL Add new section]**。
-1. 从左侧面板菜单中，找到“搜索注释”。单击该部分名称左侧的点，并将其拖至“更新”下方。
+1. 转到任何项目。从左侧面板菜单中，单击&#x200B;**[!UICONTROL Add a Dashboard]**&#x200B;按钮。
+1. 在 **[!UICONTROL Choose a dashboard]** 字段中，输入“搜索注释”，并从列表中选择 [!UICONTROL dashboard]。
+1. 在 **[!UICONTROL Quick link name]** 字段中，输入“搜索注释”。
+1. 单击 **[!UICONTROL Add]**。
+1. 从左侧面板菜单中，找到底部附近的搜索注释。 单击名称左侧的圆点，并将其向上拖动到“更新”的正下方。
