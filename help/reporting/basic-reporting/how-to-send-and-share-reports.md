@@ -9,12 +9,13 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
+last-substantial-update: 2025-05-29T00:00:00Z
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '199'
-ht-degree: 100%
+source-git-commit: f4cdb04795c8dc95339d2eb61594335759df6fbc
+workflow-type: tm+mt
+source-wordcount: '337'
+ht-degree: 59%
 
 ---
 
@@ -26,7 +27,16 @@ ht-degree: 100%
 * 如何与任何人共享报告
 * 收件人可以在 Workfront 报告中看到什么，以及执行哪些操作
 
->[!VIDEO](https://video.tv.adobe.com/v/3447822/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on)
+
+## 要点
+
+* **向外部用户发送报告：**&#x200B;您可以通过输入非Workfront用户的电子邮件地址来向这些用户发送报告，从而便于在组织外部共享数据。&#x200B;AEM
+* **访问权限控制可见性：**&#x200B;收件人的报表视图取决于您设置的访问权限，以确保数据安全和适当的可见性。&#x200B;AEM
+* **重复传送快照：**&#x200B;计划传送在特定时间提供数据的冻结快照，用于跟踪趋势和维护项目数据的历史记录。&#x200B;AEM
+* **与团队共享报告：**&#x200B;可与个人、团队或工作角色共享报告，从而授予查看或管理权限。&#x200B;AEM 共享报表显示在用户“与我共享”部分。&#x200B;AEM
+* **公共共享和全系统共享：**&#x200B;可以通过公共链接为外部用户共享报告，或在全系统为所有Workfront用户显示报告，从而为数据共享提供灵活性。
+
 
 ## “发送和共享报告”活动
 
