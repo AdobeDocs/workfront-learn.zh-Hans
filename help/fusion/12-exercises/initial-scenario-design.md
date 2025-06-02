@@ -9,12 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
+last-substantial-update: 2025-06-02T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '983'
-ht-degree: 100%
+source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+workflow-type: tm+mt
+source-wordcount: '985'
+ht-degree: 97%
 
 ---
 
@@ -55,7 +56,7 @@ ht-degree: 100%
 
    ![初始场景设计图像 4](../12-exercises/assets/initial-scenario-design-4.png)
 
-1. 输入&#x200B;**您的 Workfront 实例**&#x200B;的 URL，然后单击“下一步”。
+1. 输入&#x200B;**您的Workfront试用帐户**&#x200B;的URL，然后单击“下一步”。
 
    ![初始场景设计图像 5](../12-exercises/assets/initial-scenario-design-5.png)
 
