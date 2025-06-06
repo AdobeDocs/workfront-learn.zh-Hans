@@ -8,26 +8,31 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '643'
-ht-degree: 100%
+source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+workflow-type: tm+mt
+source-wordcount: '790'
+ht-degree: 72%
 
 ---
 
 # 创建基本视图
 
-在本视频中，您将了解到：
+此视频介绍如何在Workfront中创建和自定义视图，以显示有关列表中项的特定信息，如项目、任务、问题和文档。&#x200B;AEM 视图允许用户查看详细信息，如名称、描述、状态以及与项目相关的其他字段。&#x200B;AEM
 
-* Workfront 中的视图是什么
-* 如何创建和修改视图
-* 如何与其他 Workfront 用户共享视图
+此视频强调了Workfront中视图的灵活性，并提供了创建、自定义和管理视图的分步说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450248/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+
+## 要点
+
+* **自定义视图**：用户可以通过添加、删除或重新排列列以显示特定信息（如项目状态或预算）来编辑现有视图或创建新视图。
+* **内联编辑**：列表视图中的某些字段可以直接更新，而无需打开单个项目，从而加快更改速度。&#x200B;AEM
+* **从头开始创建视图**：用户可以通过添加预算、实际成本和进度状态等相关列来设计视图，以满足特定需求，例如跟踪项目运行状况。&#x200B;AEM
+* **共享和管理视图**：可与团队成员共享自定义视图以进行协作，或者在不再需要自定义视图时将其删除。
 
 ## “创建基本视图”活动
 
@@ -65,7 +70,7 @@ ht-degree: 100%
 
 ### 活动 2：创建里程碑视图
 
-如果您使用里程碑，此视图是按名称查看里程碑并使用内联编辑添加或编辑它们的最简单方法。
+如果您使用里程碑，此视图是在任务列表中按名称查看里程碑，并使用内联编辑在任务中添加或删除里程碑的最简单方法。
 
 创建一个名为“里程碑视图”的任务视图，其中包含以下各列：
 
@@ -86,7 +91,7 @@ ht-degree: 100%
 1. 在项目任务列表中，转至 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**。
 1. 将您的视图命名为“里程碑视图”。
 1. 单击 [!UICONTROL Predecessors] 列来选择它。
-1. 在 [!UICONTROL Show in this column] 字段中，单击 [!UICONTROL Task >> Predecessors] 字段中的 X 图标，然后输入“[!UICONTROL milestone name]”并单击列表中的“[!UICONTROL Name]”。
+1. 在[!UICONTROL Show in this column]字段中，单击[!UICONTROL Task >> Predecessors]字段中的“减号”图标，然后键入“[!UICONTROL milestone name]”并单击列表中的“[!UICONTROL Name]”。
 1. 单击 **[!UICONTROL Save]**。
 
 ![使用里程碑视图的任务列表的图像](assets/view-milestone-exercise-2.png)
