@@ -25,7 +25,7 @@ ht-degree: 72%
 
 此视频强调了Workfront中视图的灵活性，并提供了创建、自定义和管理视图的分步说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450248/?quality=12&learn=on&captions=chi_hans)
 
 ## 要点
 
