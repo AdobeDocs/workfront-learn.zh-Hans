@@ -1,8 +1,8 @@
 ---
 user-guide-description: Workfront 教程
-source-git-commit: b453097c89c2ba1a2bad5b71c195846425e5214a
+source-git-commit: 64c683bc598a811c398561b7e1895edd316c5af3
 workflow-type: tm+mt
-source-wordcount: '2228'
+source-wordcount: '2231'
 ht-degree: 94%
 
 ---
@@ -157,7 +157,7 @@ ht-degree: 94%
    + 批准流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建全局和一次性审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [在请求队列中应用问题批准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
-      + [审查和审批数字作品](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
+      + [审阅和审批数字作品](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
       + [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
       + [应用里程碑](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
       + [查看里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
@@ -180,7 +180,7 @@ ht-degree: 94%
       + [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
       + [上传资源](/help/manage-work/close-a-project/upload-assets.md)
       + [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [记录和审阅时间](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 用户的项目财务 {#project-finances-users}
       + [查找财务信息](/help/manage-work/project-finances/find-financial-information.md)
@@ -315,6 +315,7 @@ ht-degree: 94%
    + [创建和管理记录类型](/help/workfront-planning/create-and-manage-a-record-type.md)
    + [创建和管理表视图](/help/workfront-planning/create-and-manage-table-views.md)
    + [创建和管理时间线视图](/help/workfront-planning/create-and-manage-timeline-views.md)
+   + [连接记录类型](/help/workfront-planning/connect-record-types.md)
    + [面向UX设计团队的Workfront规划的优势](/help/workfront-planning/benefits-of-workfront-planning-for-ux-design-teams.md)
 
 + 集成 {#integrations}
@@ -322,10 +323,10 @@ ht-degree: 94%
       + [使用 Adobe Workfront 插件与 Creative Cloud 集成](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hans)
-      + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hans)
-      + [发送文档并链接资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hans)
-      + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hans)
+      + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [发送文档并链接资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [通过与 G Suite 集成增强您的工作流](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -337,13 +338,13 @@ ht-degree: 94%
       + [安装 Microsoft Outlook 插件](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hans)
-      + [安装 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 访问 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中搜索并共享 Adobe Workfront 项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 创建 Adobe Workfront 任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 提交 Adobe Workfront 请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hans)
+      + [Adobe Workfront for Microsoft Teams 概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安装 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [从 Microsoft Teams 访问 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在 Microsoft Teams 中搜索并共享 Adobe Workfront 项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [从 Microsoft Teams 创建 Adobe Workfront 任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [从 Microsoft Teams 提交 Adobe Workfront 请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [了解 Workfront for [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -455,54 +456,54 @@ ht-degree: 94%
       + [场景护栏](/help/fusion/11-design-optimization-and-testing/scenario-guardrails.md)
       + [测试和启动](/help/fusion/11-design-optimization-and-testing/testing-considerations.md)
 
-+ Workfront 验证 {#workfront-proof}
-   + [了解验证的益处](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
-   + [了解文件和验证之间的区别](/help/workfront-proof/document-vs-proof.md)
-   + [有关验证观众的解释](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
++ Workfront 校样 {#workfront-proof}
+   + [了解校对的益处](/help/workfront-proof/benefits-of-proofing-in-workfront.md)
+   + [了解文件和校样之间的区别](/help/workfront-proof/document-vs-proof.md)
+   + [有关校对观众的解释](/help/workfront-proof/two-options-for-the-proofing-viewers.md)
 
    + 管理和设置 {#administration-and-setup-for-proof}
       + [什么是自动化工作流模板](/help/workfront-proof/administration-and-setup/what-is-an-automated-workflow-template.md)
-      + [自定义验证评论操作](/help/workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
-      + [自定义验证决策选项](/help/workfront-proof/administration-and-setup/customize-proof-decision-options.md)
-      + [了解电子邮件提醒和验证通知](/help/workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
-      + [验证角色和电子邮件提醒](/help/workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
-      + [验证报告](/help/workfront-proof/administration-and-setup/report-on-proofs.md)
-      + [为存在风险的验证设置默认值](/help/workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
-      + [设置全局验证设置](/help/workfront-proof/administration-and-setup/setup-global-proof-settings.md)
-      + [设置默认验证角色](/help/workfront-proof/administration-and-setup/set-default-proof-roles.md)
-      + [设置验证帐户默认设置](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
-      + [验证用户的设置](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
+      + [自定义校样评论操作](/help/workfront-proof/administration-and-setup/customize-proof-comment-actions.md)
+      + [自定义校样决策选项](/help/workfront-proof/administration-and-setup/customize-proof-decision-options.md)
+      + [了解电子邮件提醒和校样通知](/help/workfront-proof/administration-and-setup/email-alert-vs-proof-notification.md)
+      + [校样角色和电子邮件提醒](/help/workfront-proof/administration-and-setup/proof-roles-and-email-alerts.md)
+      + [校样报告](/help/workfront-proof/administration-and-setup/report-on-proofs.md)
+      + [为存在风险的校样设置默认值](/help/workfront-proof/administration-and-setup/set-default-at-risk-proof-settings.md)
+      + [设置全局校样设置](/help/workfront-proof/administration-and-setup/setup-global-proof-settings.md)
+      + [设置默认校样角色](/help/workfront-proof/administration-and-setup/set-default-proof-roles.md)
+      + [设置校样帐户默认设置](/help/workfront-proof/administration-and-setup/set-up-default-proof-account-settings.md)
+      + [校样用户的设置](/help/workfront-proof/administration-and-setup/settings-for-proof-users.md)
 
    + 上传校样 {#upload-proofs}
-      + [什么是验证版本](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
-      + [谁负责上传验证版本](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
-      + [将文档转换为验证](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
-      + [查看并比较验证版本](/help/workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
-      + [上传验证版本](/help/workfront-proof/upload-proofs/upload-a-proof-version.md)
-      + [管理验证版本](/help/workfront-proof/upload-proofs/manage-proof-versions.md)
-      + [上传视频验证](/help/workfront-proof/upload-proofs/other-types-of-digital-assets.md)
-      + [上传网站验证](/help/workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
-      + [使用基本工作流上传验证](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
-      + [使用自动化工作流上传验证](/help/workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
+      + [什么是校样版本](/help/workfront-proof/upload-proofs/what-is-a-proof-version.md)
+      + [谁负责上传校样版本](/help/workfront-proof/upload-proofs/who-uploads-the-proof-versions.md)
+      + [将文档转换为校样](/help/workfront-proof/upload-proofs/convert-a-document-to-a-proof.md)
+      + [查看并比较校样版本](/help/workfront-proof/upload-proofs/view-and-compare-proof-versions.md)
+      + [上传校样版本](/help/workfront-proof/upload-proofs/upload-a-proof-version.md)
+      + [管理校样版本](/help/workfront-proof/upload-proofs/manage-proof-versions.md)
+      + [上传视频校样](/help/workfront-proof/upload-proofs/other-types-of-digital-assets.md)
+      + [上传网站校样](/help/workfront-proof/upload-proofs/upload-a-proof-of-a-website.md)
+      + [使用基本工作流上传校样](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
+      + [使用自动化工作流上传校样](/help/workfront-proof/upload-proofs/upload-a-proof-with-an-automated-workflow.md)
       + [通过拖放上传](/help/workfront-proof/upload-proofs/upload-with-a-drag-and-drop.md)
-      + [将多个文件合并为一份验证](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
+      + [将多个文件合并为一份校样](/help/workfront-proof/upload-proofs/combine-multiple-files-into-a-single-proof.md)
 
    + 校对工作流 {#proof-workflows}
-      + [了解作为项目时间线的一部分的验证工作流](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
-      + [编辑验证工作流](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
+      + [了解作为项目时间线的一部分的校样工作流](/help/workfront-proof/proof-workflows/understand-and-create-proof-workflows.md)
+      + [编辑校样工作流](/help/workfront-proof/proof-workflows/edit-a-proof-workflow.md)
       + [创建模板组来组织自动化工作流模板](/help/workfront-proof/administration-and-setup/create-template-groups.md)
       + [创建自动化工作流模板](/help/workfront-proof/administration-and-setup/create-an-automated-workflow-template.md)
       + [编辑自动化工作流模板](/help/workfront-proof/administration-and-setup/edit-an-automated-workflow-template.md)
 
    + 审阅和批准工作 {#review-and-approve-work-for-proof}
-      + [浏览验证查看器](/help/workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
-      + [审查并审批验证](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
-      + [审查并回复验证评论](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
-      + [查看具有验证的视频](/help/workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
-      + [查看带有验证的网站](/help/workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
-      + [了解验证细节](/help/workfront-proof/review-and-approve-work/proof-details-overview.md)
-      + [管理验证评论](/help/workfront-proof/review-and-approve-work/manage-proof-comments.md)
-      + [跟踪验证进度](/help/workfront-proof/review-and-approve-work/track-proof-progress.md)
+      + [浏览校样查看器](/help/workfront-proof/review-and-approve-work/navigate-the-proof-viewer.md)
+      + [审阅并审批校对](/help/workfront-proof/review-and-approve-work/review-and-approve-a-proof.md)
+      + [审阅并回复校对评论](/help/workfront-proof/review-and-approve-work/review-and-respond-to-proof-comments.md)
+      + [审阅具有校对的视频](/help/workfront-proof/review-and-approve-work/review-a-video-with-proof.md)
+      + [审阅带有校对的网站](/help/workfront-proof/review-and-approve-work/review-a-website-with-proof.md)
+      + [了解校样细节](/help/workfront-proof/review-and-approve-work/proof-details-overview.md)
+      + [管理校样评论](/help/workfront-proof/review-and-approve-work/manage-proof-comments.md)
+      + [跟踪校样进度](/help/workfront-proof/review-and-approve-work/track-proof-progress.md)
 
 + Workfront DAM {#workfront-dam-program}
    + 系统设置 {#system-setup}
