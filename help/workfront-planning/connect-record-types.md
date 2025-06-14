@@ -21,4 +21,4 @@ ht-degree: 0%
 
 了解如何在Workfront Planning中连接记录类型以简化工作流，提高清晰度并增强团队责任感和效率。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463808/?learn=on&enablevpops&captions=chi_hans)
