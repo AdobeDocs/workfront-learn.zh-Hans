@@ -25,7 +25,7 @@ ht-degree: 76%
 
 生成的报表可帮助用户专注于后期任务，提供依赖关系的洞察，并简化到主机项目的导航。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448352/?quality=12&learn=on&captions=chi_hans)
 
 ## 要点
 
