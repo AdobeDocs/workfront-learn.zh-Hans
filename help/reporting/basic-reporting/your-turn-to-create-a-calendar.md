@@ -7,13 +7,14 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
+last-substantial-update: 2025-06-23T00:00:00Z
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: e5017c98275f3b3853d7a37ee9d1d77d8d7f9098
+source-git-commit: d041d5a8633acd576ffca3e2c7bbdba12be169bd
 workflow-type: tm+mt
-source-wordcount: '380'
-ht-degree: 100%
+source-wordcount: '379'
+ht-degree: 89%
 
 ---
 
@@ -35,16 +36,13 @@ ht-degree: 100%
 
 1. 从主菜单导航至日程表区域。
 1. 单击“新建日程表”按钮，并将该日程表命名为“我未完成的工作”。
-1. 在第一个分组下，单击“添加高级项目”。
+1. 单击添加到日历按钮，然后单击添加高级项目。
 1. 在弹出的“在日程表中添加项目”窗口中，将该组命名为“未完成的任务”。
 1. 选择红色作为其颜色。
 1. 将“日期字段”更改为“规划日期”。
 1. 将“在日程表上显示”字段设置为“仅结束日期”。
 1. 将“可用时切换到实际日期”字段设置为“否”。
-
-   ![将项目添加到日程表的屏幕图像](assets/calendar-activity-1.png)
-
-1. 在“您想要在日程表中添加什么？”部分，选择“任务”。
+1. 在“您想要在日程表中添加什么？”部分中，选择任务。 然后单击“添加任务”按钮。
 1. 添加三个过滤规则：
 
    * 项目 > 状态等于 > 等于 > 当前
@@ -53,16 +51,15 @@ ht-degree: 100%
 
 1. 单击“保存”。
 
-   ![将项目添加到日程表的屏幕图像](assets/calendar-activity-2.png)
+   ![将项目添加到日程表的屏幕图像](assets/calendar-activity-1.png)
 
-1. 单击“添加到日程表”创建第二个分组。
-1. 在此分组下，单击“添加高级项目”。
+1. 通过依次单击添加到日历和添加高级项目来创建第二个分组。
 1. 在弹出的“在日程表中添加项目”窗口中，将该组命名为“未完成的问题”。
 1. 选择蓝色作为颜色。
 1. 将“日期字段”更改为“规划日期”。
 1. 将“在日程表上显示”字段设置为“仅结束日期”。
 1. 将“可用时切换到实际日期”字段设置为“否”。
-1. 在“您想要在日程表中添加什么？”部分，选择“问题”。
+1. 在“您想要在日程表中添加什么？”部分，选择问题。 然后单击Add Issues按钮。
 1. 添加以下三个过滤规则：
 
    * 项目 > 状态等于 > 等于 > 当前
@@ -71,6 +68,6 @@ ht-degree: 100%
 
 1. 单击“保存”。
 
-   ![将项目添加到日程表的屏幕图像](assets/calendar-activity-3.png)
+   ![将项目添加到日程表的屏幕图像](assets/calendar-activity-2.png)
 
 由于您在过滤器中使用了 $$USER.ID，因此您可以与其他人共享此日程表，他们会看到自己未完成的任务和问题。
