@@ -8,13 +8,14 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+source-git-commit: 4f82fb7be6bed149036f0218038f927ef57e67f4
+workflow-type: tm+mt
+source-wordcount: '351'
+ht-degree: 87%
 
 ---
 
@@ -25,11 +26,11 @@ ht-degree: 100%
 * 了解为什么使用通配符
 * 使用基于用户的通配符构建过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412652/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on)
 
 >[!TIP]
 >
->构建能够查看任务或问题分配信息的过滤器时，请使用“任务用户” >> “ID 字段源和名称”。此选项会查看分配给任务或问题的所有用户，而不仅仅是“所有者”或主要负责人。
+>构建能够查看任务或问题分配信息的过滤器时，请使用“任务用户” >> “ID 字段源和名称”。此选项检查分配给任务或问题的所有用户，而不仅仅是“所有者”或主要受让人。
 
 >[!TIP]
 >
@@ -44,7 +45,7 @@ ht-degree: 100%
 
 ### 活动 1
 
-本周您有一些额外的时间，因此我们建议您看一看团队中是否有人在完成任务时需要帮助。创建任务过滤器以查找本周到期但尚未完成的任务。
+本周您有一些额外的时间，因此我们建议您看一看团队中是否有人在完成任务时需要帮助。创建任务筛选器以查找分配给您的主团队的本周到期且尚未完成的任务。
 
 ### 答案 1
 
