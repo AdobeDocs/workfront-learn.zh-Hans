@@ -29,7 +29,7 @@ ht-degree: 100%
 * 使用通配符、属性、运算符和修饰符创建自定义日期
 * 使用通配符创建自定义日期范围
 
->[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3412658/?quality=12&learn=on&captions=chi_hans)
 
 
 ## “使用基于日期的通配符创建过滤器”活动
