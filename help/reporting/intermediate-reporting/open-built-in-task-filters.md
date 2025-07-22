@@ -7,14 +7,15 @@ thumbnail: 336818.png
 type: Tutorial
 role: User
 level: Intermediate
+last-substantial-update: 2025-07-22T00:00:00Z
 team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: 2c9e57b8f85c74061bd3e52ef4eaea60bc4ec5bb
-workflow-type: ht
+source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
+workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -26,7 +27,7 @@ ht-degree: 100%
 * 了解一些有用的任务报告元素
 * 了解如何创建您自己的任务过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412670/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## “了解内置任务过滤器”活动
 
@@ -45,6 +46,6 @@ ht-degree: 100%
 
 建议您根据分配到每个任务的团队名称对列表进行分组。
 
-报告应如下所示：
+以下是报表可能呈现的外观：
 
 ![任务报告的图像](assets/opening-built-in-task-filters-2.png)
