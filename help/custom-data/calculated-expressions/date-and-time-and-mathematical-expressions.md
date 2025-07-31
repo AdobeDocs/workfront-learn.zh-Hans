@@ -9,10 +9,10 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 409147f9a62302d28e14b834981992a0421d4e4b
+source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
 workflow-type: tm+mt
 source-wordcount: '180'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -44,4 +44,7 @@ Workfront 客户通常会使用这两个数学表达式集：
 * SUB、SUM、DIV、PROD
 * ROUND
 
-<b>注释</b>：有关表达式的完整列表以及有关每个表达式的更多信息，请参阅“计算数据表达式”文档页面。
+>[!NOTE]
+>
+>有关表达式的完整列表以及每个表达式的详细信息，请转到[计算数据表达式](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)文档页面。
+
