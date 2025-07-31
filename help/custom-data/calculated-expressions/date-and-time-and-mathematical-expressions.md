@@ -46,5 +46,5 @@ Workfront 客户通常会使用这两个数学表达式集：
 
 >[!NOTE]
 >
->有关表达式的完整列表以及每个表达式的详细信息，请转到[计算数据表达式](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)文档页面。
+>有关表达式的完整列表以及每个表达式的详细信息，请转到[计算数据表达式](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)文档页面。
 
