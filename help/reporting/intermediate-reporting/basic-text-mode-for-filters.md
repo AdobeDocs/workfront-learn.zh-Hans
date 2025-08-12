@@ -1,6 +1,6 @@
 ---
 title: 了解过滤器的基本文本模式
-description: 了解什么是文本模式、什么是驼峰式拼写以及可在 Workfront 的报告过滤器中使用的一些基本的“即插即用”文本模式。
+description: 了解文本模式、驼峰式拼写以及可在Workfront的报告过滤器中使用的一些基本文本模式。
 activity: use
 feature: Reports and Dashboards
 thumbnail: 336820.png
@@ -12,10 +12,10 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 721f246178c0a1dc396b9fe8db53a90e26246775
+source-git-commit: 092205dbe501521ce2152019d79e3c315e197f4f
 workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 100%
+source-wordcount: '421'
+ht-degree: 90%
 
 ---
 
@@ -37,11 +37,11 @@ ht-degree: 100%
 
 在本视频中，您将了解到：
 
-* 什么是文本模式
-* 什么是驼峰式拼写
-* 您可以在报告过滤器中使用一些基本的“即插即用”文本模式
+* 文本模式
+* 驼峰式拼写
+* 一些&#x200B;_文本模式代码块_&#x200B;可用于报表过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412682/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## “了解过滤器的基本文本模式”活动
 
