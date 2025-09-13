@@ -22,7 +22,7 @@ ht-degree: 4%
 
 “画布功能板”是在Workfront中创建功能板的另一种方法。 它目前是一般Beta，这意味着所有Workfront客户都可以通过注册测试版来使用该功能。 系统管理员需要执行注册。 本视频将向他们展示如何做到这一点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474030/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 有关详细信息，请参阅[画布功能板概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
 
