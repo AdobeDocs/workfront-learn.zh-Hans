@@ -11,10 +11,10 @@ jira: KT-18769
 last-substantial-update: 2025-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 5e6a2d66335017a27eb67d40d99479786a41efe2
+source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 0%
+source-wordcount: '111'
+ht-degree: 4%
 
 ---
 
@@ -34,5 +34,10 @@ ht-degree: 0%
 >[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
 
 **有关详细信息，请参阅以下帮助文章：**
-[画布功能板概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[在画布仪表板中生成KPI报告](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[画布功能板概述](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[在画布仪表板中生成KPI报告](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+
+## 有关此主题的推荐教程
+
+* [Canvas仪表板简介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [在画布功能板中创建表报告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
