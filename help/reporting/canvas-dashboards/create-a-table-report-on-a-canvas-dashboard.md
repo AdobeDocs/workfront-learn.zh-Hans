@@ -31,7 +31,7 @@ ht-degree: 4%
 
 [画布功能板简介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)将逐步说明如何同时完成这两项操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474863/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3474875/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 **有关详细信息，请参阅以下帮助文章：**
 [画布功能板概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
