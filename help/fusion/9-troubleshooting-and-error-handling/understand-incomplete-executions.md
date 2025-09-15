@@ -11,23 +11,23 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '261'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
 # 了解未完成的执行
 
-未完成的执行可以存储在 Workfront Fusion 中，稍后可以在那里对其进行审查和解决。了解如何利用这个精彩的功能。
+未完成的执行可以存储在 Workfront Fusion 中，稍后可以在那里对其进行审阅和解决。了解如何利用这个精彩的功能。
 
 在本视频中，您将了解到：
 
 * 什么是未完成的执行
 * 如何处理导致执行未完成的错误
 
->[!VIDEO](https://video.tv.adobe.com/v/3418146/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops)
 
 ## 导致执行未完成的错误
 
@@ -45,4 +45,4 @@ ht-degree: 100%
 
 ## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

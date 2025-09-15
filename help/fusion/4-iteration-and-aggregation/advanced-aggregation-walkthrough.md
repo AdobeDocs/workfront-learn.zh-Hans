@@ -11,10 +11,10 @@ jira: KT-9040
 exl-id: c79250d0-7341-4a25-83dc-de99ce5c6dc4
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '245'
-ht-degree: 100%
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
+source-wordcount: '238'
+ht-degree: 90%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
->[!VIDEO](https://video.tv.adobe.com/v/3417301/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335281/?quality=12&learn=on&enablevpops)
 
 ## 练习 URL
 
@@ -53,10 +53,10 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 本练习以您在演练中学到的内容为基础，但未提供解决方案。
 
-创建一个新场景来汇总营销项目组合中的项目内已记录任务的所有小时数。然后发送一封电子邮件，其中写明“您的 {Project Name} 项目团队的总规划小时数为 {planned hours}，现已记录 {summed hours}，达到计划的 {percentage}”。
+创建一个新场景来汇总营销项目组合中的项目内已记录任务的所有小时数。然后，发送一封电子邮件，说明“您的{Project Name}项目团队已记录总共{summed hours}个计划小时数中的{planned hours}，使您处于计划的{percentage}。”
 
 **挑战：**&#x200B;看看您是否可以进行同样的操作，但仅限今年记录的小时数。
 
 ## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

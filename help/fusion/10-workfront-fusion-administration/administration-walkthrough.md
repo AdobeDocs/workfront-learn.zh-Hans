@@ -11,10 +11,10 @@ jira: KT-9069
 exl-id: a16f408a-1a2f-4e5a-bbea-1f1b8124c091
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -32,13 +32,13 @@ ht-degree: 100%
 * 如何创建团队
 * 如何邀请用户加入组织和团队
 
->[!VIDEO](https://video.tv.adobe.com/v/3418189/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops)
 
 >[!NOTE]
 >
->如果您的组织已加入 Adobe Admin Console，请参阅[通过 Adobe Admin Console 将用户添加到 Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html?lang=zh-Hans)。
+>如果您的组织已加入 Adobe Admin Console，请参阅[通过 Adobe Admin Console 将用户添加到 Adobe Workfront Fusion](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/fusion-in-experience-cloud/add-fusion-users-admin-console.html)。
 
 
 ## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

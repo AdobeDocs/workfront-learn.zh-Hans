@@ -11,10 +11,10 @@ jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: dfcca5f02a6d9f7ee44a1e894106ae48259eea91
+workflow-type: tm+mt
 source-wordcount: '853'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 
 Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416569/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops)
 
 ## 练习 URL
 
@@ -56,7 +56,7 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 Workfront 和许多软件系统都是使用 REST（表述性状态传输）API 构建的，这是当今最简单、最标准的 API 类型。但是，还有其他一些类型，例如：
 
-* SOAP（简单对象访问协议）（Workfront 的验证 API 是以 SOAP 为基础的）
+* SOAP（简单对象访问协议）（Workfront 的校样 API 是以 SOAP 为基础的）
 * FTP（文件传输协议）
 * SFTP（安全文件传输协议）
 * 要了解更多信息，请在网络上搜索 API 类型和感兴趣的关键词。
@@ -105,4 +105,4 @@ API 身份验证是一种身份验证形式，用于控制对服务的访问权�
 
 ## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-fusion/workfront-fusion-2.html?lang=zh-Hans)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
