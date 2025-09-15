@@ -32,7 +32,7 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 * 在场景中创建和解析 JSON，以支持设计需求。
 
->[!VIDEO](https://video.tv.adobe.com/v/335301/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3418110/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 

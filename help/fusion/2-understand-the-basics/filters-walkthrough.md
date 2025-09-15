@@ -32,7 +32,7 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 * 在模块中的两个模块之间添加过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/335266/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3416482/?quality=12&learn=on&enablevpops&captions=chi_hans)
 
 
 ## 到您了
