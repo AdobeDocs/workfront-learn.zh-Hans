@@ -1,25 +1,24 @@
 ---
-title: 在画布功能板中创建KPI报告
-description: 了解如何在 Canvas 仪表板中创建 KPI 报告。
+title: 在画布功能板报表中使用OR过滤器
+description: 了解如何在画布功能板报表中使用OR过滤器。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-jira: KT-18769
-last-substantial-update: 2025-09-11T00:00:00Z
+jira: KT-18770
+last-substantial-update: 2025-09-30T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-exl-id: e25e4a1a-474d-42c5-950c-0214339ac5a2
 source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
 workflow-type: tm+mt
-source-wordcount: '128'
-ht-degree: 18%
+source-wordcount: '129'
+ht-degree: 16%
 
 ---
 
-# 在画布功能板中创建KPI报告
+# 在画布功能板报表中使用OR过滤器
 
 >[!PREREQUISITES]
 >
@@ -32,15 +31,15 @@ ht-degree: 18%
 
 [画布功能板简介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)将逐步说明如何同时完成这两项操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474841/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475381/?quality=12&learn=on&enablevpops)
 
 **有关详细信息，请参阅以下帮助文章：**
 [画布功能板概述](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[在画布仪表板中生成KPI报告](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-kpi-report)
+[在画布仪表板中编辑报告筛选器](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/manage-reports/edit-report-filters)
 
 ## 有关此主题的推荐教程
 
 * [Canvas 仪表板介绍](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [在 Canvas 仪表板上创建 KPI 报告](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
 * [在画布功能板中创建表报告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [向画布功能板报表添加条件格式](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-* [在画布功能板报表中使用OR过滤器](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
