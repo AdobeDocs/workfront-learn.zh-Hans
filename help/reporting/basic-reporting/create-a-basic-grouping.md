@@ -12,7 +12,7 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 888021fa7d7160154a3a21c491c1d50c13650864
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 34%
@@ -24,7 +24,7 @@ ht-degree: 34%
 此视频介绍如何在Workfront中创建和管理分组，以有效组织项目列表。&#x200B;AEM 分组与过滤器和视图一起是三个主要报表元素之一，它们有助于根据共享信息整理结果。&#x200B;AEM
 本教程提供了组织项目列表以简化日常工作和协作的实际步骤。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3449825/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on)
 
 ## 要点
 
@@ -55,6 +55,6 @@ ht-degree: 34%
 1. 将您的分组命名为“请求队列、队列主题、优先级”。
 1. 单击 **[!UICONTROL Add Grouping]**。
 1. 在 [!UICONTROL Group by] 字段。输入“项目名称”，然后在项目字段源下选择 **[!UICONTROL Name]**。
-1. 单击&#x200B;**[!UICONTROL Add another Grouping]**，然后键入“queue”并选择[!UICONTROL Queue Topic]字段源下的&#x200B;**[!UICONTROL Name]**。
-1. 单击&#x200B;**[!UICONTROL Add another Grouping]**，然后键入“priority”并选择[!UICONTROL Issue]字段源下的&#x200B;**[!UICONTROL Priority]**。
+1. 单击&#x200B;**[!UICONTROL Add another Grouping]**，然后键入“queue”并选择&#x200B;**[!UICONTROL Name]**&#x200B;字段源下的[!UICONTROL Queue Topic]。
+1. 单击&#x200B;**[!UICONTROL Add another Grouping]**，然后键入“priority”并选择&#x200B;**[!UICONTROL Priority]**&#x200B;字段源下的[!UICONTROL Issue]。
 1. 单击 **[!UICONTROL Save Grouping]**

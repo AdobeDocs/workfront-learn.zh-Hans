@@ -12,7 +12,7 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: 9f5a6ba3ad6e4aa0af2b3bc18522777c646ae6f3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '421'
 ht-degree: 90%
@@ -30,7 +30,7 @@ ht-degree: 90%
 
 >[!TIP]
 >
->* 为了更深入地了解文本模式，我们建议观看录制的网络研讨会活动[咨询专家 - 文本模式报告简介](https://experienceleague.adobe.com/zh-hans/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)，时长为一小时。
+>* 为了更深入地了解文本模式，我们建议观看录制的网络研讨会活动[咨询专家 - 文本模式报告简介](https://experienceleague.adobe.com/en/docs/events/classics/reporting-and-dashboards/introduction-to-text-mode-reporting)，时长为一小时。
 >* 要了解有关文本模式的更多信息，我们建议观看[高级报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/advanced-reporting/welcome-to-advanced-reporting.html?lang=zh-hans)教程，总共为五个半小时。
 >* 单击此处以访问 [[!UICONTROL API Explorer]](https://developer.adobe.com/workfront/api-explorer/)
 
@@ -41,7 +41,7 @@ ht-degree: 90%
 * 驼峰式拼写
 * 一些&#x200B;_文本模式代码块_&#x200B;可用于报表过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412682/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on)
 
 ## “了解过滤器的基本文本模式”活动
 

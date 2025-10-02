@@ -12,7 +12,7 @@ jira: KT-8861
 last-substantial-update: 2025-05-20T00:00:00Z
 exl-id: e893d94a-e808-4bc1-bc6e-f46a5582b55d
 doc-type: video
-source-git-commit: 39345609d988f5e625ec6bb78ed3be9f4dcdedc9
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 59%
@@ -26,7 +26,7 @@ ht-degree: 59%
 * 矩阵报告何时有用
 * 以及如何创建矩阵报告
 
->[!VIDEO](https://video.tv.adobe.com/v/3448193/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335156/?quality=12&learn=on)
 
 ## 要点
 

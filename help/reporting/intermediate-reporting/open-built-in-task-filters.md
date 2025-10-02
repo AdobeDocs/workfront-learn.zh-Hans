@@ -12,7 +12,7 @@ team: Technical Marketing
 jira: KT-9084
 exl-id: 0516696c-a588-4776-92d3-a334a29619a9
 doc-type: video
-source-git-commit: a3174fcd208a2483bc3728932ae4d31b2e155e6b
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 95%
@@ -27,7 +27,7 @@ ht-degree: 95%
 * 了解一些有用的任务报告元素
 * 了解如何创建您自己的任务过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412670/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336818/?quality=12&learn=on)
 
 ## “了解内置任务过滤器”活动
 

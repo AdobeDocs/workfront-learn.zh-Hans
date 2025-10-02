@@ -12,10 +12,10 @@ last-substantial-update: 2025-06-06T00:00:00Z
 jira: KT-8854
 exl-id: ba3c0e10-dcf1-4a7b-bf11-ccfed9040e6d
 doc-type: video
-source-git-commit: 0e896afd50e0f220a7068dcba1055a02198c99d3
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
-source-wordcount: '790'
-ht-degree: 72%
+source-wordcount: '792'
+ht-degree: 71%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 72%
 
 此视频强调了Workfront中视图的灵活性，并提供了创建、自定义和管理视图的分步说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/3450248/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335148/?quality=12&learn=on)
 
 ## 要点
 
@@ -133,9 +133,9 @@ ht-degree: 72%
 1. 再次单击 **[!UICONTROL Add Column]**。
 1. 在 [!UICONTROL Show in this column] 字段中，输入 [!UICONTROL "constraint"]，然后选择任务字段源下的 [!UICONTROL "Constraint Date"]。
 1. 选择 [!UICONTROL Start On] 列，然后单击 [!UICONTROL Advanced Options]。
-1. 在 [!UICONTROL Field Format] 下拉菜单下，选择 [!UICONTROL "10/17/60 3:00 AM"]。
+1. 在[!UICONTROL Field Format]下拉菜单下，选择[!UICONTROL "10/17/60 3:00 AM“]”。
 1. 选择 [!UICONTROL Due On] 列，然后单击 [!UICONTROL Advanced Options]。
-1. 在 [!UICONTROL Field Format] 下拉菜单下，选择 [!UICONTROL "10/17/60 3:00 AM"]。
+1. 在[!UICONTROL Field Format]下拉菜单下，选择[!UICONTROL "10/17/60 3:00 AM“]”。
 1. 单击 **[!UICONTROL Save]**。
 
 ### 活动 4：创建项目模板活动状态视图

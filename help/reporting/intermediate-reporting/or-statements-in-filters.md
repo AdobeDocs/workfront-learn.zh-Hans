@@ -12,7 +12,7 @@ jira: KT-9987
 exl-id: 1a56f2f6-12df-43a5-943c-986a85661efa
 last-substantial-update: 2025-08-11T00:00:00Z
 doc-type: video
-source-git-commit: b3cff8f86ceeb6e79e2b88ab335b2671aa25600a
+source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 31%
@@ -25,7 +25,7 @@ ht-degree: 31%
 或者，您也可以将过滤器逻辑更改为“或”，以显示符合任何条件的项目。
 该视频还演示了如何使用过滤器组为任务创建过滤器。&#x200B;AEM 例如，您可以创建两个组：一个用于分配给创意团队的未完成任务延迟，另一个用于分配给创意团队的未完成任务未分配。&#x200B;AEM 在每个组中，“与”逻辑适用，这意味着必须满足组中的所有条件。&#x200B;AEM 组之间的“OR”逻辑可确保显示满足任一组条件的任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470703/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on)
 
 ## OR 过滤器活动
 
