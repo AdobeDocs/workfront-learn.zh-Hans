@@ -24,8 +24,8 @@ ht-degree: 20%
 
 >[!PREREQUISITES]
 >
->* [创建请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
->* [创建请求流](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
+>* [创建请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=zh-Hans)
+>* [创建请求流](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hans)
 >* 或者您已经熟悉如何创建使用路由规则和自定义表单的请求队列。
 
 此视频分步介绍了如何为系统管理员创建反馈请求队列。
@@ -45,9 +45,9 @@ ht-degree: 20%
 * **测试和辅助功能：**&#x200B;使用示例请求测试队列，确保正常运行。 它是作为帮助请求队列发布的，可供所有用户访问，默认完成时间为10天。
 
 
-要了解如何创建视频中使用的&#x200B;**管理员团队反馈报告**，请参阅&#x200B;**创建任务报告**&#x200B;教程中的[创建管理员团队反馈报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)活动。
+要了解如何创建视频中使用的&#x200B;**管理员团队反馈报告**，请参阅&#x200B;**创建任务报告**&#x200B;教程中的[创建管理员团队反馈报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)活动。
 
-要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)教程。
+要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hans)教程。
 
 ## 有关此主题的推荐教程
 
