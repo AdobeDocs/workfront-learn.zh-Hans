@@ -41,7 +41,7 @@ ht-degree: 94%
 * 什么是驼峰式拼写
 * 您可以在报表视图中使用某些&#x200B;_文本模式代码块_
 
->[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470798/?quality=12&learn=on&captions=chi_hans)
 
 ## “了解视图的基本文本模式”活动
 

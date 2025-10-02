@@ -25,7 +25,7 @@ ht-degree: 31%
 或者，您也可以将过滤器逻辑更改为“或”，以显示符合任何条件的项目。
 该视频还演示了如何使用过滤器组为任务创建过滤器。&#x200B;AEM 例如，您可以创建两个组：一个用于分配给创意团队的未完成任务延迟，另一个用于分配给创意团队的未完成任务未分配。&#x200B;AEM 在每个组中，“与”逻辑适用，这意味着必须满足组中的所有条件。&#x200B;AEM 组之间的“OR”逻辑可确保显示满足任一组条件的任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3470692/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470703/?quality=12&learn=on&captions=chi_hans)
 
 ## OR 过滤器活动
 
