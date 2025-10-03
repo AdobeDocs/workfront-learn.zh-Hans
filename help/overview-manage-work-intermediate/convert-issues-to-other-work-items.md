@@ -23,7 +23,7 @@ ht-degree: 100%
 
 在本视频中，您将了解如何将问题或请求转化为任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427605/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445440/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 >[!NOTE]
 >

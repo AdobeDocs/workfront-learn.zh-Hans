@@ -41,7 +41,7 @@ ht-degree: 7%
 
 此视频重点介绍如何使用团队和模板来高效地共享管理，并重点介绍管理员在自定义共享偏好设置方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423145/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

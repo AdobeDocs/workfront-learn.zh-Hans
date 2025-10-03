@@ -25,7 +25,7 @@ ht-degree: 100%
 * 目标示例
 * 影响范围
 
->[!VIDEO](https://video.tv.adobe.com/v/335183/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413130/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 指定责任人
 

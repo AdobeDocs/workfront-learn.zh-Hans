@@ -26,4 +26,4 @@ ht-degree: 100%
 * 数据结构如何支持数据存储
 * 如何使用数据存储同步系统
 
->[!VIDEO](https://video.tv.adobe.com/v/335295/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417961/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

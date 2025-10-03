@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何使用跨职能团队
 * 如何创建和关联团队
 
->[!VIDEO](https://video.tv.adobe.com/v/335071/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432878/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 团队创建
 

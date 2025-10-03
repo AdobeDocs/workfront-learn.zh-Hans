@@ -30,4 +30,4 @@ ht-degree: 100%
 * 组织内的场景规划
 * 使用 [!DNL Scenario Planner] 所需的访问设置
 
->[!VIDEO](https://video.tv.adobe.com/v/335317/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412622/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

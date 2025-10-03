@@ -32,7 +32,7 @@ ht-degree: 99%
 * 减少发送的 API 调用
 * 减少使用的模块
 
->[!VIDEO](https://video.tv.adobe.com/v/335313/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418201/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 想要了解详情？我们建议查看以下内容：
 

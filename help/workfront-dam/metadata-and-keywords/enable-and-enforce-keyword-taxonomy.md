@@ -26,4 +26,4 @@ ht-degree: 100%
 * 了解 [!UICONTROL Workfront DAM] 用户何时可以输入自己的关键词
 * 设置搜索方面
 
->[!VIDEO](https://video.tv.adobe.com/v/335237/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419498/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

@@ -29,4 +29,4 @@ ht-degree: 100%
 
 * 简要了解 [!UICONTROL Workfront DAM] 课程
 
->[!VIDEO](https://video.tv.adobe.com/v/335233/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419533/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

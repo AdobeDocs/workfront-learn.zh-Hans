@@ -19,4 +19,4 @@ ht-degree: 100%
 
 了解如何阅读迭代状态栏、查找和阅读燃尽图，以及如何在迭代故事板中查看和移动故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/346285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412174/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

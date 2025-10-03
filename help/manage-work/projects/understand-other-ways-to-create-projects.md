@@ -55,7 +55,7 @@ ht-degree: 7%
 
 此视频强调Workfront在通过模板、草稿、复制或导入来创建项目时为了满足不同用户需求的灵活性。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432174/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

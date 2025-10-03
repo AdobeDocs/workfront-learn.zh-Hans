@@ -25,7 +25,7 @@ ht-degree: 100%
 * 请参阅 [!UICONTROL View by Project] 视图
 * 了解资源信息如何在此视图中显示
 
->[!VIDEO](https://video.tv.adobe.com/v/335170/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420153/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 对于“按项目查看”选项，默认情况下显示“预算”列，该列会从业务案例中提取项目所需资源的估计数量（如果已填写）。这也意味着默认情况下，“净额”列使用“预算”列中的数字来告诉您还剩多少资源。
 

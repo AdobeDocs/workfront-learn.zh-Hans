@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 互斥和非互斥路由器路径的区别。
 
->[!VIDEO](https://video.tv.adobe.com/v/335273/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417253/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

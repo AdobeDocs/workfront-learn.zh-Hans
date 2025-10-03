@@ -22,4 +22,4 @@ ht-degree: 100%
 
 在本视频中，您将学习如何使用布局模板设置术语。
 
->[!VIDEO](https://video.tv.adobe.com/v/335074/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445484/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

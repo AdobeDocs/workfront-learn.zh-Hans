@@ -30,7 +30,7 @@ ht-degree: 11%
 
 通过解决这些问题，用户可以在Workfront中有效地规划和配置其请求队列。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335222/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441915/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

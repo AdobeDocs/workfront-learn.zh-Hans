@@ -26,7 +26,7 @@ ht-degree: 100%
 * 与其他用户共享模板
 * 共享使用模板创建的项目
 
->[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415436/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

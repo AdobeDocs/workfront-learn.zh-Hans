@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 浏览 [!UICONTROL Pulse] 更新流
 
->[!VIDEO](https://video.tv.adobe.com/v/335199/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415933/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

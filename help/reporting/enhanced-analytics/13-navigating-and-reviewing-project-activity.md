@@ -25,7 +25,7 @@ ht-degree: 100%
 
 * 如何根据登录用户、任务状态更改和已完成任务来比较项目
 
->[!VIDEO](https://video.tv.adobe.com/v/335049/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437446/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 比较项目工作
 

@@ -31,7 +31,7 @@ ht-degree: 100%
 * 设置任务开始日期将如何影响任务限制
 * 如何输入前置任务
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447330/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 <!--
 Learn more urls

@@ -32,7 +32,7 @@ ht-degree: 16%
 
 此视频重点介绍了Workfront如何简化通信、任务管理和报告，确保所有与项目相关的信息都可访问和有条不紊。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436154/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 >[!TIP]
 >

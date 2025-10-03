@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * Workfront Fusion 中的场景调度、周期和运行是什么
 
->[!VIDEO](https://video.tv.adobe.com/v/335284/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417319/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

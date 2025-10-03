@@ -25,4 +25,4 @@ ht-degree: 100%
 * 设置元数据模板
 * 将模板应用到文件夹
 
->[!VIDEO](https://video.tv.adobe.com/v/335238/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419478/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

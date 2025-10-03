@@ -24,7 +24,7 @@ ht-degree: 12%
 
 在本视频中，您将了解项目团队可用于什么以及如何维护它。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427227/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444599/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

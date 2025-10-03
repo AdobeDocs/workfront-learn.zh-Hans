@@ -25,7 +25,7 @@ ht-degree: 100%
 * 定义您和您的团队必须做什么才能实现最高级别的目标
 * 从《第 2 节：建立愿景和战略》中完善您的目标层级
 
->[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416013/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 <!--
 Pro-tips graphic

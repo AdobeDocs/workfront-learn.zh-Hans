@@ -22,6 +22,6 @@ ht-degree: 100%
 
 了解系统管理员如何利用群组管理员有效地维护设置并让群组更好地控制其工作流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439323/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439333/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 

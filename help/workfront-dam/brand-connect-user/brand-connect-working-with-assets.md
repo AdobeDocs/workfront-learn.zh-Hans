@@ -24,4 +24,4 @@ ht-degree: 100%
 * 查看 Brand Connect 中的资源
 * 查看有关资源的数据，包括元数据和关键词
 
->[!VIDEO](https://video.tv.adobe.com/v/335247/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418737/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

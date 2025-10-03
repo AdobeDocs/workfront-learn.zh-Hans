@@ -24,4 +24,4 @@ ht-degree: 100%
 * [!UICONTROL Brand Connect] 的用途
 * 如何访问 [!UICONTROL Workfront DAM] 中的 [!UICONTROL Brand Connect] 设置
 
->[!VIDEO](https://video.tv.adobe.com/v/335241/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418781/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

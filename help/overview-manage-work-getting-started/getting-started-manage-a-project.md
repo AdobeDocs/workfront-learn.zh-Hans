@@ -29,7 +29,7 @@ ht-degree: 100%
 * 如何深入了解任务详细信息
 * 如何与利益相关者沟通
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445177/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

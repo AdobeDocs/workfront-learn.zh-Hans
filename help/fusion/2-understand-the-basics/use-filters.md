@@ -26,4 +26,4 @@ ht-degree: 100%
 * 使用过滤器作为模块内的搜索条件
 * 审阅执行历史记录中的过滤器评估
 
->[!VIDEO](https://video.tv.adobe.com/v/335265/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416470/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

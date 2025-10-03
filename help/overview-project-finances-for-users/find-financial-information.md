@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 查找有关项目的财务信息并了解其来源。
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415893/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

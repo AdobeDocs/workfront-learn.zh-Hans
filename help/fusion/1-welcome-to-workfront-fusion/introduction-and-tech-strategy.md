@@ -50,4 +50,4 @@ Fusion 是一个附加产品，其包含在某些 Workfront 软件包中，但�
 * Fusion 的核心和设计能力
 * Fusion 示例场景
 
->[!VIDEO](https://video.tv.adobe.com/v/335259/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416551/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

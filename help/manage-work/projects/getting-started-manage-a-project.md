@@ -24,7 +24,7 @@ ht-degree: 18%
 
 该视频概述了当项目的状态更改为“当前”后如何管理项目&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445177/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

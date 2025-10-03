@@ -79,7 +79,7 @@ Workfront 仪表板中的报告示例
 * 发出请求
 * 查看您提交的请求
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413112/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 等待您审批的项目
 

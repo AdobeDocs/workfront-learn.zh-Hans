@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 在 [!DNL Workfront] 中访问您的待办事项列表
 
->[!VIDEO](https://video.tv.adobe.com/v/335118/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437930/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

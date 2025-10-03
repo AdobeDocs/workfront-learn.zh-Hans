@@ -32,7 +32,7 @@ ht-degree: 100%
 * 从头开始制定模板
 * 从现有项目创建模板
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415442/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 使用 [!UICONTROL Blueprints] 创建的模板
 

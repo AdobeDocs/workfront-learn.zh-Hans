@@ -27,4 +27,4 @@ ht-degree: 61%
 * 如何使用特定用户的访问权限运行报告
 * 如何设置和使用报告提示
 
->[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445873/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

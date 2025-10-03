@@ -24,4 +24,4 @@ ht-degree: 100%
 * 与 Brand Connect 用户或外部利益相关者共享 Lightbox
 * 下载单个或多个资源
 
->[!VIDEO](https://video.tv.adobe.com/v/335249/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414453/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

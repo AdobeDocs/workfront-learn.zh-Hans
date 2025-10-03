@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!UICONTROL View] 如何帮助您查看您需要的信息
 * 如何设置开始或完成日期
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448577/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

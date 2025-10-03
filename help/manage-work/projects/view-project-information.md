@@ -33,7 +33,7 @@ ht-degree: 5%
 
 该视频强调自定义，并提供指向教程的链接以供进一步学习。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453076/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

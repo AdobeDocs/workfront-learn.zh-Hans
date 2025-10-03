@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何对评论使用操作
 * 如何自定义操作标签
 
->[!VIDEO](https://video.tv.adobe.com/v/335128/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432939/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 到您了
 

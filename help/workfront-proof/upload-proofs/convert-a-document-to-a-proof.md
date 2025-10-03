@@ -26,7 +26,7 @@ ht-degree: 100%
 * 生成校样时添加工作流
 * 创建校样后添加或编辑工作流
 
->[!VIDEO](https://video.tv.adobe.com/v/335134/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443480/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 
 ## 谁可以上传文件？

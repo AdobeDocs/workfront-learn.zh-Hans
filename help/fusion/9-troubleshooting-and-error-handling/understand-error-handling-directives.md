@@ -25,7 +25,7 @@ ht-degree: 100%
 * 允许继续执行的三个错误处理程序指令
 * 停止执行的两个错误处理程序指令
 
->[!VIDEO](https://video.tv.adobe.com/v/335305/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418134/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 指令——场景继续
 

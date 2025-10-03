@@ -26,4 +26,4 @@ ht-degree: 100%
 * 简单数组和复杂数组的区别
 * 如何使用简单和复杂的数组
 
->[!VIDEO](https://video.tv.adobe.com/v/335298/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417979/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

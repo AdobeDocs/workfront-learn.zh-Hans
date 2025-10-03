@@ -26,7 +26,7 @@ ht-degree: 100%
 * 如何重命名校样决策选项
 * 如何隐藏不需要的校样决策选项
 
->[!VIDEO](https://video.tv.adobe.com/v/335127/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444659/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 到您了
 

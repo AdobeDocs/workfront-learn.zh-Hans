@@ -36,6 +36,6 @@ ht-degree: 100%
 * 如何创建跨项目前置任务
 * 如何在报告中跟踪跨项目前置任务
 
->[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422832/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 要了解如何创建视频中所使用的&#x200B;**跨项目前置任务和后置任务**&#x200B;视图和&#x200B;**跨项目前置任务和后置任务**&#x200B;报告，请参阅[了解视图的基本文本模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hans)教程；如果需要，请务必学习其中列出的必备教程。

@@ -27,4 +27,4 @@ ht-degree: 100%
 
 1. 观看该视频，了解如何将这些文件上传到 Workfront 中的文件夹中。
 
->[!VIDEO](https://video.tv.adobe.com/v/335258/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416545/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

@@ -25,7 +25,7 @@ ht-degree: 100%
 * 在 Workfront 项目中创建任务的漫长过程
 * 创建任务的一些方便的快捷方式
 
->[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423154/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

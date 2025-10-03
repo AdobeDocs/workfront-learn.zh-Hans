@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 最终用户如何使用任务执行计划、燃尽图和正在执行的任务图表
 
->[!VIDEO](https://video.tv.adobe.com/v/335055/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437699/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

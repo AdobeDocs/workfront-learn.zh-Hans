@@ -28,4 +28,4 @@ ht-degree: 100%
 * 阅读并解读“目标健康”图表
 * 阅读并解读“目标进度”图表
 
->[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415917/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

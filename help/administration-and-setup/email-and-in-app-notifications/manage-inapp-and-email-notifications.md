@@ -23,5 +23,5 @@ ht-degree: 100%
 
 了解用户如何控制他们收到的应用程序内通知和电子邮件通知，以便获得与工作相关的、有用的电子邮件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3442786/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442817/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 

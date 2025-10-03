@@ -24,7 +24,7 @@ ht-degree: 100%
 
 观看此视频，了解更多详细信息：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434156/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434166/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 **我授予了用户访问队列的权限，但现在他们还可以看到请求队列项目。为什么？**
 
@@ -62,7 +62,7 @@ ht-degree: 100%
 
 观看此视频，了解更多详细信息：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434186/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 
 **在报告中过滤请求队列的最佳方法是什么？**
@@ -73,7 +73,7 @@ ht-degree: 100%
 
 观看此视频，了解更多详细信息：
 
->[!VIDEO](https://video.tv.adobe.com/v/3434329/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434340/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 **建议创建请求队列的自定义状态吗？**
 

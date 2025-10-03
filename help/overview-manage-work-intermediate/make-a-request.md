@@ -34,7 +34,7 @@ ht-degree: 100%
 * 查找请求的草稿
 * 查看最后三个请求路径
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413112/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

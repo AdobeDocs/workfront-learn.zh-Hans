@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 在 [!UICONTROL Pulse] 更新流中查看您的个人目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415924/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 过滤脉冲流中的信息
 

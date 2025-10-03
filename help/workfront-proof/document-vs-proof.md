@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * [!DNL Workfront] 中文档和校样之间的区别
 
->[!VIDEO](https://video.tv.adobe.com/v/335123/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439869/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

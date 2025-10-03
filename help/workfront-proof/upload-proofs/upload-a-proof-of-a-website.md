@@ -25,7 +25,7 @@ ht-degree: 100%
 * 作为静态校样上传网站
 * 作为交互式校样上传网站
 
->[!VIDEO](https://video.tv.adobe.com/v/335135/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445077/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 
 ## 交互式内容注意事项

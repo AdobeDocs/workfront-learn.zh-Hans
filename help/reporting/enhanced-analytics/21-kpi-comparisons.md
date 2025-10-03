@@ -27,4 +27,4 @@ ht-degree: 100%
 * 如何更改日期范围
 * 如何使用两个不同的过滤器并排比较 KPI
 
->[!VIDEO](https://video.tv.adobe.com/v/335054/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3440257/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

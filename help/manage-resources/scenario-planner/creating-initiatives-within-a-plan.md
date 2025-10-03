@@ -22,4 +22,4 @@ ht-degree: 100%
 
 在本视频中，您将会学习到如何在 [!DNL Scenario Planner] 中作为计划的一部分创建举措。
 
->[!VIDEO](https://video.tv.adobe.com/v/335319/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412634/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

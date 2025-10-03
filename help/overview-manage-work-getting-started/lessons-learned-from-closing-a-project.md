@@ -29,7 +29,7 @@ ht-degree: 100%
 * 创建“经验教训”自定义报告
 * 创建“经验教训”项目
 
->[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441022/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

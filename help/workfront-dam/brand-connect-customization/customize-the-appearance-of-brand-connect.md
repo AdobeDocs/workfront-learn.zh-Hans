@@ -24,7 +24,7 @@ ht-degree: 100%
 * 自定义导航栏和页脚
 * 自定义主页和登录页面
 
->[!VIDEO](https://video.tv.adobe.com/v/335242/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418774/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 其他 [!UICONTROL Appearance] 设置
 

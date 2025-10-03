@@ -26,4 +26,4 @@ ht-degree: 100%
 * 什么是许可证和访问级别
 * 如何创建和管理访问级别
 
->[!VIDEO](https://video.tv.adobe.com/v/335066/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421299/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

@@ -45,4 +45,4 @@ ht-degree: 100%
 * 触发器、操作和搜索是什么以及它们有何不同
 * 不同应用程序连接器中的模块类型及其功能
 
->[!VIDEO](https://video.tv.adobe.com/v/335287/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417435/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

@@ -20,7 +20,7 @@ ht-degree: 17%
 
 该视频提供了一个教程，介绍了更新任务状态的方式、原因以及频率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471167/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471177/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

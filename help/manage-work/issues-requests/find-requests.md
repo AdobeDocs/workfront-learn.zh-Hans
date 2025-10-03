@@ -30,7 +30,7 @@ ht-degree: 85%
 * 自定义报告和仪表板
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441664/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

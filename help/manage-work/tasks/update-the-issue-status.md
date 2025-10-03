@@ -20,7 +20,7 @@ ht-degree: 18%
 
 在本视频中，您将了解问题状态和使用它们的最佳实践。
 
->[!VIDEO](https://video.tv.adobe.com/v/3472962/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3472975/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

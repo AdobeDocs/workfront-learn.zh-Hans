@@ -24,7 +24,7 @@ ht-degree: 100%
 * 组
 * 团队
 
->[!VIDEO](https://video.tv.adobe.com/v/335068/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444284/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 在开始之前，当您探索 [!DNL Workfront] 中的用户组织时，需要熟悉以下一些关键术语。
 

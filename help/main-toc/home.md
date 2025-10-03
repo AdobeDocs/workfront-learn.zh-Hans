@@ -13,7 +13,7 @@ ht-degree: 100%
 
 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
 
->[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422434/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 <!-- 
 

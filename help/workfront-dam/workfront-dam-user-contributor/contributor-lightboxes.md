@@ -27,7 +27,7 @@ ht-degree: 100%
 * 与 Lightbox 协作
 * 共享 Lightbox 的内容
 
->[!VIDEO](https://video.tv.adobe.com/v/335254/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420177/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 文件夹与 Lightbox
 

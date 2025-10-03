@@ -32,7 +32,7 @@ ht-degree: 99%
 * 如何创建团队
 * 如何邀请用户加入组织和团队
 
->[!VIDEO](https://video.tv.adobe.com/v/335310/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418189/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 >[!NOTE]
 >

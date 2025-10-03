@@ -52,4 +52,4 @@ ht-degree: 100%
 * 使用自下而上和自上而下的方法调整目标
 * 浏览 [!UICONTROL Goal Alignment] 部分
 
->[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415965/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

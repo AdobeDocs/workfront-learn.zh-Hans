@@ -31,7 +31,7 @@ ht-degree: 100%
 * 如何通过将项目放入项目组合中来共享项目
 * 共享项目的最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423145/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 有关此主题的推荐教程
 

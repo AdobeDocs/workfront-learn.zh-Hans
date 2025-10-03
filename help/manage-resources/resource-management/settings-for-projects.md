@@ -24,4 +24,4 @@ ht-degree: 100%
 
 * 如何优化资源管理工具——持续时间和计划日期、规划小时数和工作角色分配
 
->[!VIDEO](https://video.tv.adobe.com/v/335162/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420171/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

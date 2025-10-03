@@ -23,4 +23,4 @@ ht-degree: 100%
 
 * 在 [!DNL Workfront] 中分配任务
 
->[!VIDEO](https://video.tv.adobe.com/v/335117/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441527/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

@@ -25,4 +25,4 @@ ht-degree: 100%
 * 如何安装和使用 Workfront Fusion 开发工具
 * 如何查看不同的高级场景设计工具
 
->[!VIDEO](https://video.tv.adobe.com/v/335302/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418116/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

@@ -25,4 +25,4 @@ ht-degree: 100%
 
 * 如何通过提出建议来帮助您的组织更高效地运营
 
->[!VIDEO](https://video.tv.adobe.com/v/335056/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438839/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

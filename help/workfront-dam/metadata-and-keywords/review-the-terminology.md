@@ -27,4 +27,4 @@ ht-degree: 100%
 * 关键词分类法如何发挥作用
 * 使用元数据和关键词搜索资源
 
->[!VIDEO](https://video.tv.adobe.com/v/335234/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419522/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

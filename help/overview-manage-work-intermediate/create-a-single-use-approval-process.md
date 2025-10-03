@@ -27,7 +27,7 @@ ht-degree: 100%
 
 在本视频中，您将会了解到如何针对项目、任务或问题创建全局审批流程和一次性审批流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3434697/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 >[!TIP]
 >

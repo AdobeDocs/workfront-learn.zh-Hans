@@ -25,7 +25,7 @@ ht-degree: 100%
 * 上传新版本的校样
 * 将校对工作流应用于版本
 
->[!VIDEO](https://video.tv.adobe.com/v/336096/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441862/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 从校对查看器上传版本
 

@@ -23,7 +23,7 @@ ht-degree: 15%
 
 该视频演示了如何将问题或请求转化为项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446632/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

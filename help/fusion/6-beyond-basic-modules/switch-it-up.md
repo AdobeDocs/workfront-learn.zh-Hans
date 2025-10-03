@@ -25,4 +25,4 @@ ht-degree: 100%
 * 切换功能和模块是什么以及它们有何不同
 * 何时使用切换功能与切换模块
 
->[!VIDEO](https://video.tv.adobe.com/v/335288/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417441/?quality=12&learn=on&enablevpops=1&captions=chi_hans)

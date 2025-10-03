@@ -24,7 +24,7 @@ ht-degree: 12%
 
 此视频介绍Workfront中请求队列的概念、用途以及如何提交和管理请求。&#x200B;AEM 请求队列用作提交各种类型请求的集中位置。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447020/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 ## 要点
 

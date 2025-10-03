@@ -44,7 +44,7 @@ ht-degree: 100%
 
 本视频演示了您可以在 [!UICONTROL Workflow] 区域中进行的一些更改。请参阅此视频下的项目符号列表，其中列出了这些设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/335131/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432623/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
 
 作为回顾，以下是您可以在 [!UICONTROL Workflow] 部分中对校对模板进行的更改：
 
