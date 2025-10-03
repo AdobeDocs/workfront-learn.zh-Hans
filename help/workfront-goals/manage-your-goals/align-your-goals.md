@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8923
 exl-id: 4ba304c2-94e0-4425-a74b-bcb825c3a97d
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '489'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 在调整公司目标时，请记住，它们的目的是通过简化内容来提供清晰度和关注点。如果您在协调目标方面遇到困难，可能是因为您试图将本质上互不相关的目标强行整合在一起。当您感到陷入瓶颈时，只需重新审视公司的最高目标，然后审视组和团队目标，并决定保留哪些最重要的目标。消除任何看似多余或不符合组织愿景的目标。
 
-建立并审查顶层目标后，就需要由单个投稿人和团队成员来创建从该级别级联的目标，以便设定更集中的目标。个人目标的范围会更加狭窄。
+建立并审阅顶层目标后，就需要由单个投稿人和团队成员来创建从该级别级联的目标，以便设定更集中的目标。个人目标的范围会更加狭窄。
 
 <!-- Pro-tips graphic -->
 
@@ -52,4 +52,4 @@ ht-degree: 100%
 * 使用自下而上和自上而下的方法调整目标
 * 浏览 [!UICONTROL Goal Alignment] 部分
 
->[!VIDEO](https://video.tv.adobe.com/v/3415965/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335195/?quality=12&learn=on&enablevpops=1)

@@ -12,7 +12,7 @@ last-substantial-update: 2025-09-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 2987677b-64a3-49f4-b6a1-31008c47723f
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 16%
@@ -32,11 +32,11 @@ ht-degree: 16%
 
 [画布功能板简介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)将逐步说明如何同时完成这两项操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474985/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **有关详细信息，请参阅以下帮助文章：**
-[画布功能板概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[在画布仪表板中生成表报告](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[画布功能板概述](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[在画布仪表板中生成表报告](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## 有关此主题的推荐教程
 

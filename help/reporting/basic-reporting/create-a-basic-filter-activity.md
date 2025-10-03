@@ -12,7 +12,7 @@ jira: KT-8856
 last-substantial-update: 2025-05-15T00:00:00Z
 exl-id: fc29b4ce-2937-478e-abd5-0b559657ead0
 doc-type: video
-source-git-commit: 0755d62240ab307d3759c47c4561264cb4baadab
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '411'
 ht-degree: 63%
@@ -49,7 +49,7 @@ ht-degree: 63%
 
 下面包含分步说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/3443389/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops=1)
 
 ## 活动 2 答案
 

@@ -8,8 +8,8 @@ jira: KT-10871
 thumbnail: 346281.jpeg
 exl-id: 5fd50010-6aba-49af-9094-026b0569e0d8
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '375'
 ht-degree: 100%
 
@@ -40,7 +40,7 @@ Workfront 的敏捷团队从迭代页面[1]完成工作。页面顶部的燃尽�
 - 选择 Scrum 方法
 - 确定 Scrum 团队的设置
 
->[!VIDEO](https://video.tv.adobe.com/v/3412162/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/346281/?quality=12&learn=on&enablevpops=1)
 
 您已经想要将 Workfront 中的一个团队转化为敏捷团队？没问题！转到“团队”设置，并选中“这是一个敏捷团队”框。
 

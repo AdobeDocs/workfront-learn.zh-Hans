@@ -2,7 +2,7 @@
 title: Workfront 教程
 description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: 2d9e6ca1aa49d223d99d71d78b295614160281e4
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '136'
 ht-degree: 100%
@@ -13,7 +13,7 @@ ht-degree: 100%
 
 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422434/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335063/?quality=12&learn=on&enablevpops=1)
 
 <!-- 
 

@@ -1,6 +1,6 @@
 ---
-title: 记录和审查时间
-description: 在结束  [!DNL  Workfront] 中的项目之前，记录未完成的小时数并审查记录的小时数。
+title: 记录和审阅时间
+description: 在结束  [!DNL  Workfront] 中的项目之前，记录未完成的小时数并审阅记录的小时数。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
 
 ---
 
-# 记录和审查时间
+# 记录和审阅时间
 
 在本视频中，您将了解到如何：
 
-* 审查项目的时间记录
+* 审阅项目的时间记录
 * 如果需要，批准项目时间
 
->[!VIDEO](https://video.tv.adobe.com/v/3441079/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

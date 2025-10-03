@@ -11,7 +11,7 @@ thumbnail: 335104.png
 jira: KT-8803
 exl-id: e3e1d890-4af7-4688-bee5-0099b97829cf
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 为什么状态在 [!DNL  Workfront] 中很重要
 * 如何通过过滤 [!UICONTROL Work List] 来查看已完成的工作
 
->[!VIDEO](https://video.tv.adobe.com/v/3444295/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335104/?quality=12&learn=on&enablevpops=1)
 
 
 ## 指示工作已完成的另外两种方式

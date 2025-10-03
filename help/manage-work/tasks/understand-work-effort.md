@@ -12,7 +12,7 @@ jira: KT-10153
 last-substantial-update: 2024-05-29T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 71ed10b8-4801-4cd3-828c-334f6c3a86d8
-source-git-commit: c32909809386d30767f113530ccb1e7358de0473
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 10%
@@ -24,7 +24,7 @@ ht-degree: 10%
 此视频介绍如何在难以确定精确估计值的情况下使用Workfront中的工作投入功能来估计任务的计划小时数。
 它演示了如何通过添加相关列（如工作投入、已计划小时数和持续时间类型）来创建自定义工作投入视图以简化任务管理
 
->[!VIDEO](https://video.tv.adobe.com/v/3447409/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3429446/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

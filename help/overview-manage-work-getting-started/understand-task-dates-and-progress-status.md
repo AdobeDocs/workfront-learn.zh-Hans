@@ -12,7 +12,7 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 选择一个视图来比较 [!DNL Workfront's] 不同的日期类型
 * 使用进度状态帮助您跟踪工作进度
 
->[!VIDEO](https://video.tv.adobe.com/v/3436617/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335095/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

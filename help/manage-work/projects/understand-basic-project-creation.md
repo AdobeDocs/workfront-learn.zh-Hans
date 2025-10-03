@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '243'
 ht-degree: 22%
@@ -25,7 +25,7 @@ ht-degree: 22%
 此视频介绍如何从头开始创建和管理项目。&#x200B;AEM 首先，创建一个新项目，重命名该项目，然后使用描述、开始日期和目标完成日期设置目标。 项目可以划分为任务，这些任务为计划工作以及估计持续时间和分配。&#x200B;AEM 任务可以使用前置任务进行排序，并且项目状态可以设置为“当前”以通知团队并将其包含在报表中。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435904/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

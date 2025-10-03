@@ -11,7 +11,7 @@ thumbnail: 335101.png
 jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '158'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * [!DNL  Workfront] 中状态的作用
 * 如何更改工作任务的状态
 
->[!VIDEO](https://video.tv.adobe.com/v/3443440/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
 
 ## 开始 vs. 正在进行中
 

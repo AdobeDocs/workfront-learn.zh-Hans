@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-13743
 hide: true
 exl-id: 5e9d7008-63a7-48df-8eba-b18da763c63c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '56'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何使用 [!UICONTROL Board] 视图
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423274/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

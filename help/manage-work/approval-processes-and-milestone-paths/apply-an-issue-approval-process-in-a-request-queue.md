@@ -12,10 +12,11 @@ jira: KT-17578
 last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '376'
-ht-degree: 6%
+ht-degree: 11%
 
 ---
 
@@ -30,7 +31,7 @@ ht-degree: 6%
 此视频介绍创建请求队列时应用默认审批流程的过程。&#x200B;AEM 创建请求后，其最初的状态为“新建 — 未决批准”，并且会向指定的批准者发送批准通知。&#x200B;AEM 如果获得批准，状态将更改为“新建”，允许已分配人员开始工作。&#x200B;AEM 如果被拒绝，由于审批流程设置中的常见错误，状态可能会错误地恢复为“新”。&#x200B;AEM
 视频重点介绍当状态设置为“新建”（新请求的默认设置）时会触发审批流程。&#x200B;AEM 如果被拒绝，系统默认将状态更改回前一个状态，这对于新请求并不理想。&#x200B;AEM 相反，应选择其他状态，如“将不会解析”。&#x200B;AEM 该视频还指出，默认情况下不提供“已拒绝”状态，但系统管理员可以根据需要创建一个状态。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3455034/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3455013/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '318'
 ht-degree: 9%
@@ -27,7 +27,7 @@ ht-degree: 9%
 在此过程中不能直接复制问题，因为它们不被视为计划工作。&#x200B;AEM 要复制问题，请转到问题选项卡，选择所需的问题，并使用“复制到”选项将它们转移到新项目。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456048/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

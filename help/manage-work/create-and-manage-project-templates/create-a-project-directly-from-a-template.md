@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10156
 exl-id: 1f44eb26-98bf-4723-b162-27a4f8cb8177
 doc-type: video
-source-git-commit: a8581b20a7456c6c8316cf178a37efda1d3e9e7e
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '228'
 ht-degree: 21%
@@ -24,7 +24,7 @@ ht-degree: 21%
 
 此视频介绍如何从模板创建项目。&#x200B;AEM 如果您有权打开模板，则可以将其用作创建项目的快捷方式。&#x200B;AEM 为此，请打开模板，访问三个圆点菜单，然后选择“创建项目”&#x200B;。 这会将您引导至可编辑项目详细信息的屏幕。&#x200B;AEM 准备就绪后，单击“创建项目”以完成。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3456023/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

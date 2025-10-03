@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8967
 exl-id: 4ebf675c-b72d-447e-b131-a89acb449e15
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '376'
 ht-degree: 100%
 
@@ -28,9 +28,9 @@ ht-degree: 100%
 * 创建和编辑组
 * 添加和编辑用户
 
->[!VIDEO](https://video.tv.adobe.com/v/3414465/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
 
-## 组和用户审查
+## 组和用户审阅
 
 在配置 [!UICONTROL Workfront DAM] 系统时，需要考虑用户和组在全局中扮演的角色，这一点很重要。
 

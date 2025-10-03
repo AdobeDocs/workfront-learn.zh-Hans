@@ -11,10 +11,10 @@ thumbnail: 335175.png
 jira: KT-8912
 exl-id: f194fbc8-99b3-4fed-9fc5-a2f5fa4593d2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
-source-wordcount: '281'
-ht-degree: 100%
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
+source-wordcount: '275'
+ht-degree: 97%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR 表达式计算什么
 * 如何在计算字段中创建 ADDWEEKDAYS 数据表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/3416187/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
 
 ## 其他示例
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 客户想知道根据实际开始日期和规划持续时间任务应该何时完成。在这种情况下，预计完成日期不起作用，因为如果任务延迟，它可能会发生变化，而如果之前的任务出现延误，则规划完成日期也没有帮助。
 
-创建的表达式为 ADDDAYS（{actualStartDate},{durationMinutes}/480）
+创建的表达式为ADDDAYS({actualStartDate}，{durationMinutes}/480)
 
 持续时间字段中的时间以分钟为单位存储。因此，在此表达式中，如果要以天为单位反映时间，则“持续时间”字段不能独立。为此，持续时间必须除以 480 分钟（480 分钟 = 8 小时 = 1 天）
 
@@ -50,4 +50,4 @@ ht-degree: 100%
 
 提交后，发票必须在 30 天内填写并归档。为了自动生成完成和归档日期，ADDDAYS 计算字段与“发票提交日期”自定义字段一起使用。表达式如下所示：
 
-ADDDAYS({DE:Invoice Submission Date},30)
+ADDDAYS({DE:Invoice Submission Date}，30)

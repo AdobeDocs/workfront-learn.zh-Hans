@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8896
 exl-id: 6ece64db-3d96-4b14-bbd0-5e5b81e6cab5
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 根据您的组织的需要更改 [!DNL Goals] 术语
 * 将 [!DNL Goals] 添加到 [!DNL Workfront] [!UICONTROL Main Menu]
 
->[!VIDEO](https://video.tv.adobe.com/v/3416488/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335190/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more graphic

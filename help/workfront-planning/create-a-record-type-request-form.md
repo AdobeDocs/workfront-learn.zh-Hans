@@ -1,6 +1,6 @@
 ---
 title: 创建记录类型请求表单
-description: 通过学习如何创建自定义请求表单来组织任务、收集关键信息并提高团队效率来简化工作。
+description: 学习如何创建自定义请求表单，以整理任务、收集关键信息并提升团队效率。
 feature: Workfront Planning,Requests
 topic: Administration,Collaboration
 role: Admin, Leader, User
@@ -9,16 +9,16 @@ doc-type: Feature Video
 duration: 288
 last-substantial-update: 2025-08-21T00:00:00Z
 jira: KT-18667
-source-git-commit: ca19e51981a9f75b0abe20349f2576632432c911
+exl-id: 23dacab2-5294-4c56-90a6-194b23c0dbdf
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 76%
 
 ---
 
-
 # 创建记录类型请求表单
 
-通过学习如何创建自定义请求表单来组织任务、收集关键信息并提高团队效率来简化工作。
+学习如何创建自定义请求表单，以整理任务、收集关键信息并提升团队效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471091/?learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471080/?learn=on&enablevpops=1)

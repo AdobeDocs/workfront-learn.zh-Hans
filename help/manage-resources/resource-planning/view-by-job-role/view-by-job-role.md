@@ -11,8 +11,8 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '314'
 ht-degree: 100%
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 * 了解资源信息如何在此视图中显示
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3416527/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
 
 对于“按工作角色查看”选项，默认情况下显示“预算”列，该列会从业务案例中提取项目所需资源的估计数量（如果已填写）。这也意味着默认情况下，“净额”列使用“预算”列中的数字来告诉您还剩多少资源。
 

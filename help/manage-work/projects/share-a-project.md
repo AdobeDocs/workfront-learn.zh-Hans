@@ -12,7 +12,7 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '357'
 ht-degree: 7%
@@ -41,7 +41,7 @@ ht-degree: 7%
 
 此视频重点介绍如何使用团队和模板来高效地共享管理，并重点介绍管理员在自定义共享偏好设置方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423145/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

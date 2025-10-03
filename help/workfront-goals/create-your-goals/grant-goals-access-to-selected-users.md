@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8895
 exl-id: 8227c72d-fc33-49c6-9519-c71afd5dc046
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 * 向选定的用户授予目标访问权限
 
->[!VIDEO](https://video.tv.adobe.com/v/3416476/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335189/?quality=12&learn=on&enablevpops=1)
 
 系统管理员可以跟踪 Workfront 的 **[!UICONTROL Setup]** 区域使用了多少 [!DNL Workfront Goals] 许可证。
 

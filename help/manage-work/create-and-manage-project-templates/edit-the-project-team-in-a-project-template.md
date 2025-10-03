@@ -13,8 +13,8 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 如何避免无意中将&#x200B;**非**&#x200B;项目团队成员包括在模板项目团队中。
 * 如何编辑模板项目团队。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441560/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

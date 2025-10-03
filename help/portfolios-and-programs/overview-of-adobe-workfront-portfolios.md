@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-13837
 level: Beginner
 exl-id: daa4c8f8-9b15-4de1-8976-547a6362e952
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 7%
@@ -24,7 +24,7 @@ ht-degree: 7%
 此视频介绍项目组合管理，重点介绍经理如何优化项目选择以符合公司目标。&#x200B;AEM 它引入项目组合的概念，作为争夺共享资源、预算和时间表的项目集合。&#x200B;AEM 经理可以使用Portfolio Optimizer等工具，根据人力、费用、风险、ROI等标准以及与项目组合目标的一致性来比较项目。&#x200B;AEM 准备项目以进行比较，需要为每个项目创建业务案例。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442838/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

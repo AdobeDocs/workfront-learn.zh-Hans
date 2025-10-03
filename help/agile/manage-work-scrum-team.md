@@ -8,8 +8,8 @@ jira: KT-10872
 thumbnail: 346282.jpeg
 exl-id: 50773b9b-8f64-4aed-bd44-3a43026bd085
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '234'
 ht-degree: 100%
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 
 在本视频中，您将学习如何：创建敏捷团队积压工作项目并创建新的故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/3412168/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/346282/?quality=12&learn=on&enablevpops=1)
 
 敏捷团队将会一起梳理积压工作。这基本上意味着将会发生三件事。
 

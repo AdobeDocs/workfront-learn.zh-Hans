@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8996
 exl-id: a09d0b0e-2631-414e-87e6-385ddbeb5cd2
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '429'
 ht-degree: 100%
 
@@ -30,11 +30,11 @@ ht-degree: 100%
 * 将元数据模板应用到文件夹
 * 建立文件夹权限
 
->[!VIDEO](https://video.tv.adobe.com/v/3414417/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops=1)
 
 ## 资源版本如何工作
 
-您的工作流的一部分可能包括管理资源的多个版本（或轮次、验证、迭代，无论您如何称呼它们）。您可以通过 [!UICONTROL Workfront DAM] 管理所有版本。
+您的工作流的一部分可能包括管理资源的多个版本（或轮次、校样、迭代，无论您如何称呼它们）。您可以通过 [!UICONTROL Workfront DAM] 管理所有版本。
 
 当与现有文件同名的文件上传到同一文件夹时，系统允许进行自动资源版本控制。请咨询您的系统管理员以查看此功能是否已开启。
 

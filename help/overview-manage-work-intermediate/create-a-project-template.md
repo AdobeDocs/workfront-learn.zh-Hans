@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 8b373be7-df75-4929-9027-d95947c42f94
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '367'
 ht-degree: 100%
@@ -32,7 +32,7 @@ ht-degree: 100%
 * 从头开始制定模板
 * 从现有项目创建模板
 
->[!VIDEO](https://video.tv.adobe.com/v/3415442/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=1)
 
 ## 使用 [!UICONTROL Blueprints] 创建的模板
 
@@ -42,7 +42,7 @@ Workfront 用户可以使用 [!UICONTROL Blueprints] 来帮助构建项目模板
 
 任何获得许可的用户都可以浏览 Workfront 中可用的 Blueprint 列表。创建新项目时（例如将任务或请求转换为项目），您无法直接应用 Blueprint。Blueprint 和项目模板之间的主要区别在于，Blueprint 用于制作模板，而模板则用于创建项目。**Blueprint 需要由系统管理员安装才能创建相应的模板。**
 
-如果您发现看起来很有趣的 Blueprint，可以单击 **[!UICONTROL Details]**&#x200B;了解更多信息。
+如果您发现看起来很有趣的 Blueprint，可以单击 **[!UICONTROL Details]** 了解更多信息。
 
 ![Blueprint 清单](assets/pt-blueprints-02.png)
 

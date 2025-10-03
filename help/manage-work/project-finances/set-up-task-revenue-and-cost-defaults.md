@@ -1,6 +1,6 @@
 ---
 title: 设置任务收入和成本默认值
-description: 了解在何处使用收入类型和成本类型以及如何设置系统默认值。
+description: 了解收入类型和成本类型在哪里使用以及如何设置系统默认值。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,19 +13,19 @@ exl-id: d82d889d-3f50-41d3-951c-995b49727d9c
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 16%
+ht-degree: 33%
 
 ---
 
 
 # 设置任务收入和成本默认值
 
-了解在何处使用收入类型和成本类型以及如何设置系统默认值。
+了解收入类型和成本类型在哪里使用以及如何设置系统默认值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

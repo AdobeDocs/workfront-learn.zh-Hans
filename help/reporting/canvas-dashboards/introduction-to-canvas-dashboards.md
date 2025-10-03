@@ -12,7 +12,7 @@ last-substantial-update: 2025-09-09T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 344982c0-b7e8-4fac-bcb0-ee6b20b81dec
-source-git-commit: 452488fec0f96bdf59bd7b8e8baa18c1698279db
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 26%
@@ -23,9 +23,9 @@ ht-degree: 26%
 
 “画布功能板”是在Workfront中创建功能板的另一种方法。 它目前是一般Beta，这意味着所有Workfront客户都可以通过注册测试版来使用该功能。 系统管理员需要执行注册。 本视频将向他们展示如何做到这一点。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474030/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3474020/?quality=12&learn=on&enablevpops=1)
 
-有关详细信息，请参阅[画布功能板概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
+有关详细信息，请参阅[画布功能板概述](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)文章。
 
 ## 有关此主题的推荐教程
 

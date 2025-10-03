@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: 1f6f333f919aacd8ed94ba1aae434d8a80c91314
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '472'
 ht-degree: 7%
@@ -55,7 +55,7 @@ ht-degree: 7%
 
 此视频强调Workfront在通过模板、草稿、复制或导入来创建项目时为了满足不同用户需求的灵活性。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3432174/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

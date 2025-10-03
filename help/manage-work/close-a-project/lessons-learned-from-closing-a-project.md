@@ -13,8 +13,8 @@ last-substantial-update: 2024-12-12T00:00:00Z
 jira: KT-10135
 exl-id: ea0bd4a9-1656-419d-9357-7d48d791c74b
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -29,11 +29,11 @@ ht-degree: 100%
 * 创建“经验教训”自定义报告
 * 创建“经验教训”项目
 
->[!VIDEO](https://video.tv.adobe.com/v/3441022/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 
 * [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
 * [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
 * [上传资源](/help/manage-work/close-a-project/upload-assets.md)
-* [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [记录和审阅时间](/help/manage-work/close-a-project/log-and-review-hours.md)

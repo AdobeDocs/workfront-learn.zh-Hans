@@ -11,8 +11,8 @@ jira: KT-9016
 exl-id: 18781714-af56-4bde-84c5-bf445186e43a
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 * 在不同路径之间共享数据
 * 使用“设置”和“获取”变量
 
->[!VIDEO](https://video.tv.adobe.com/v/3417265/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335275/?quality=12&learn=on&enablevpops=1)

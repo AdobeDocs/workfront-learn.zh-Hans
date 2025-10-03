@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8890
 exl-id: 2e1823d6-a7f2-485e-952d-e3d230473808
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '131'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 * 典型工作生命周期中的 6 个步骤
 * 工作生命周期“战略阶段”的核心构建模块
 
->[!VIDEO](https://video.tv.adobe.com/v/3415989/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335184/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Your turn graphic

@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8929
 exl-id: 670d1cb7-b66b-4786-8fd8-f396892a4845
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '110'
 ht-degree: 100%
 
@@ -28,4 +28,4 @@ ht-degree: 100%
 * 阅读并解读“目标健康”图表
 * 阅读并解读“目标进度”图表
 
->[!VIDEO](https://video.tv.adobe.com/v/3415917/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335201/?quality=12&learn=on&enablevpops=1)

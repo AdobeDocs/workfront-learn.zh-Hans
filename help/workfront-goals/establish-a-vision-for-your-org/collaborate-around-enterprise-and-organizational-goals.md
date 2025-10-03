@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8893
 exl-id: 777cd503-96a3-4fc6-b0a8-429f72bc9bb0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 定义您和您的团队必须做什么才能实现最高级别的目标
 * 从《第 2 节：建立愿景和战略》中完善您的目标层级
 
->[!VIDEO](https://video.tv.adobe.com/v/3416013/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335187/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Pro-tips graphic

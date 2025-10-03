@@ -13,7 +13,7 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: e848d231176ca58a645a4da000137e68ac492c57
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 14%
@@ -24,7 +24,7 @@ ht-degree: 14%
 
 该视频提供了有关如何在Workfront中发出和管理请求的详细指南。 它说明了创建请求的过程，从主菜单中选择“请求”并单击“新建请求”按钮开始。&#x200B;AEM 用户可以从根据其组织的工作流定制的自定义设计队列中选择请求类型。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413112/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

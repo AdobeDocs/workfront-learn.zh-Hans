@@ -14,7 +14,7 @@ jira: KT-8771
 hide: true
 doc-type: video
 exl-id: be4a5529-08ce-4cce-abb7-b4352629e6bd
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '479'
 ht-degree: 100%
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 上传文档的位置
 * 如何查看更新历史记录
 
->[!VIDEO](https://video.tv.adobe.com/v/3449736/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## 项目页面中的关键部分
 

@@ -1,6 +1,6 @@
 ---
 title: 如何在 [!UICONTROL Home] 中找到工作任务
-description: 了解如何在 [!UICONTROL  ] 中查找分配给您的新工作和现有工作。然后查看任务信息。
+description: 了解如何在 [!UICONTROL  ] 中查找分配给您的新工作和现有工作。然后审阅任务信息。
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
@@ -10,8 +10,8 @@ team: Technical Marketing
 jira: KT-8797
 exl-id: 99c864da-0711-4a30-8067-03b7fbd198df
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '70'
 ht-degree: 100%
 
@@ -29,6 +29,6 @@ ht-degree: 100%
 在本视频中，您将学习如何：
 
 * 查找收到的和现有的工作任务
-* 查看任务信息
+* 审阅任务信息
 
->[!VIDEO](https://video.tv.adobe.com/v/3432299/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335098/?quality=12&learn=on&enablevpops=1)

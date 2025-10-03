@@ -13,8 +13,8 @@ last-substantial-update: 2024-12-02T00:00:00Z
 jira: KT-10138
 exl-id: d6004151-3b05-4433-ad1c-aff1187e61ac
 doc-type: video
-source-git-commit: 780e702885a64bb258d8c44c5541903697278e00
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '75'
 ht-degree: 100%
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 上传文档
 * 查找有关上传校样的培训
 
->[!VIDEO](https://video.tv.adobe.com/v/3440380/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3440370/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 
@@ -37,4 +37,4 @@ ht-degree: 100%
 * [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
 * [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
 * [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [记录和审查时间](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [记录和审阅时间](/help/manage-work/close-a-project/log-and-review-hours.md)

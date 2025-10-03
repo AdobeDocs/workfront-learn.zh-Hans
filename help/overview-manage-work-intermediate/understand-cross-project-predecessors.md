@@ -13,7 +13,7 @@ jira: KT-13737
 doc-type: video
 hide: true
 exl-id: 1ed29279-3452-49db-976a-157e4ed4c678
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -36,6 +36,6 @@ ht-degree: 100%
 * 如何创建跨项目前置任务
 * 如何在报告中跟踪跨项目前置任务
 
->[!VIDEO](https://video.tv.adobe.com/v/3422832/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3422123/?quality=12&learn=on&enablevpops=1)
 
 要了解如何创建视频中所使用的&#x200B;**跨项目前置任务和后置任务**&#x200B;视图和&#x200B;**跨项目前置任务和后置任务**&#x200B;报告，请参阅[了解视图的基本文本模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hans)教程；如果需要，请务必学习其中列出的必备教程。

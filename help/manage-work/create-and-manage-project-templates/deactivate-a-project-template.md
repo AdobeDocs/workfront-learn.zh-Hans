@@ -13,7 +13,7 @@ team: Technical Marketing
 jira: KT-14749
 doc-type: video
 exl-id: ad9b9e1e-3d8c-4a0f-8f73-e204047485a6
-source-git-commit: cbff1cdf0944c666fb983406f416f1ad741bf22f
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '164'
 ht-degree: 76%
@@ -27,11 +27,11 @@ ht-degree: 76%
 * 如何共享项目模板并授予激活和停用该模板的权限。
 * 如何激活和停用项目模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445000/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
->如果决定删除某个模板，您使用该模板创建的任何项目将不受影响。 删除的模板将移至回收站30天，只有系统管理员才能恢复。
+>如果决定删除模板，使用该模板创建的任何项目都不会受到影响。 删除的模板将被移动到回收站保留30天，只有系统管理员才能恢复。
 
 
 

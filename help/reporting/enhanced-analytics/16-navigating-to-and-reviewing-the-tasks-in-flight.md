@@ -1,5 +1,5 @@
 ---
-title: 查看正在执行的任务
+title: 审阅正在执行的任务
 description: 了解如何访问“正在执行的任务”图表，以及如何快速查看项目中哪些任务尚未完成，一切尽在 [!UICONTROL Enhanced analytics] 中。
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ jira: KT-8735
 recommendations: noDisplay,catalog
 exl-id: 4305831f-952b-4d4a-98c4-1fc391a0e1f0
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 100%
 
 ---
 
-# 查看正在执行的任务
+# 审阅正在执行的任务
 
 在本视频中，您将了解到：
 
 * 如何访问“正在执行的任务”图表
 * 如何快速查看项目中哪些任务尚未完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3437010/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335052/?quality=12&learn=on&enablevpops=1)
 
 ## 任务级数据
 

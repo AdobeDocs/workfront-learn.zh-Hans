@@ -12,8 +12,8 @@ jira: KT-8733
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: e29ea4c8-1d57-4dfa-b36c-e19c3c77f1cf
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '222'
 ht-degree: 100%
 
@@ -25,9 +25,9 @@ ht-degree: 100%
 
 * 如何快速查看员工在每个项目上投入了多少时间
 
->[!VIDEO](https://video.tv.adobe.com/v/3437809/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335050/?quality=12&learn=on&enablevpops=1)
 
-## 审查项目所花费的时间
+## 审阅项目所花费的时间
 
 项目树形图有助于您了解用户在某个项目上投入了多少时间。方框代表项目。方框的大小显示了与其他项目相比，该项目花费了多少时间。方框越大，花费的时间就越多。
 

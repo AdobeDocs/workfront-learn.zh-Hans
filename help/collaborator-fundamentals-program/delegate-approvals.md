@@ -6,7 +6,7 @@ type: Tutorial
 team: Technical Marketing
 jira: KT-8810
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '42'
 ht-degree: 100%
@@ -21,7 +21,7 @@ ht-degree: 100%
 * 结束委托期限
 * 查看已委托的审批任务
 
->[!VIDEO](https://video.tv.adobe.com/v/3446386/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

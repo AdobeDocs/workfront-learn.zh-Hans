@@ -13,7 +13,7 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 11%
@@ -24,7 +24,7 @@ ht-degree: 11%
 
 该视频提供了有关在Workfont中创建请求队列的分步指南。&#x200B;AEM 本视频的结尾演示了如何使用新创建的队列提交请求，显示了在“提交的请求”选项卡中输入详细信息并验证提交的过程。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/335221/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

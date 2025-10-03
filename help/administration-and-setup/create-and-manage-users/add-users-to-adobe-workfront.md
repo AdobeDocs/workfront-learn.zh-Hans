@@ -10,8 +10,8 @@ level: Beginner
 thumbnail: 10035.jpeg
 jira: KT-10035
 exl-id: 5e9e252c-c434-47ea-9b55-5caa09029505
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
 
@@ -21,5 +21,5 @@ ht-degree: 100%
 
 了解如何通过复制现有用户、批量导入新用户以及从头开始创建新用户来将用户添加到 Workfront。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447053/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3427085/?quality=12&learn=on&enablevpops=1)
 

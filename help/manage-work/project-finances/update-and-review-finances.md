@@ -1,6 +1,6 @@
 ---
 title: 更新财务
-description: 通过定义费率、为任务分配成本和收入类型、管理费用以及创建开票记录，简化成本跟踪和开票。 Workfront不执行实际计费。
+description: 通过定义费率、为任务分配成本和收入类型、管理费用和创建账单记录来简化成本跟踪和计费。Workfront 不进行实际计费。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '359'
-ht-degree: 2%
+ht-degree: 11%
 
 ---
 
@@ -47,7 +47,7 @@ Workfront跟踪可计费项目，但不处理实际计费；用户必须使用�
 
 此视频强调了正确设置和跟踪以简化客户计费流程的重要性。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
@@ -62,6 +62,6 @@ Workfront跟踪可计费项目，但不处理实际计费；用户必须使用�
 ## 有关此主题的推荐教程
 
 * [查找财务信息](/help/manage-work/project-finances/find-financial-information.md)
-* [了解多个记帐费率](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [了解多种计费费率](/help/manage-work/project-finances/multiple-billing-rates.md)
   <!--* [Update finances](/help/manage-work/project-finances/update-and-review-finances.md)-->
 

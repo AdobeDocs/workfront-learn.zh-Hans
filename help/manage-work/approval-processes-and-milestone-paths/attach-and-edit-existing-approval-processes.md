@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8963
 exl-id: 4ada0ae9-1210-4484-b083-8461ee875f31
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 100%
@@ -25,7 +25,7 @@ ht-degree: 100%
 * 使用现有审批流程
 * 编辑特定项目、任务或问题的现有审批流程
 
->[!VIDEO](https://video.tv.adobe.com/v/3414471/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335226/?quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

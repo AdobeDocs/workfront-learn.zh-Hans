@@ -1,6 +1,6 @@
 ---
-title: 浏览验证查看器
-description: 了解如何在  [!DNL  Workfront]  验证查看器中移动验证、放大/缩小内容、使用缩略图列、过滤验证评论等。
+title: 浏览校样查看器
+description: 了解如何在  [!DNL  Workfront]  校对查看器中移动校对、放大/缩小内容、使用缩略图列、过滤校对评论等。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,23 +11,23 @@ thumbnail: 335140.png
 jira: KT-8840
 exl-id: 1534a43f-1c52-4078-b47b-11d96b7b5c98
 doc-type: video
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
-workflow-type: ht
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
 
 ---
 
-# 浏览验证查看器
+# 浏览校样查看器
 
 在本视频中，您将学习如何：
 
-* 移动验证并放大/缩小内容
-* 使用缩略图列预览和浏览验证页面
+* 移动校样并放大/缩小内容
+* 使用缩略图列预览和浏览校样页面
 * 过滤评论列
-* 关闭验证
+* 关闭校样
 
->[!VIDEO](https://video.tv.adobe.com/v/3449869/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335140/?quality=12&learn=on&enablevpops=1)
 
 <!-- 
 ## Learn more

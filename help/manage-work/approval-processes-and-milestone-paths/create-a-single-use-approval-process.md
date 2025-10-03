@@ -13,7 +13,7 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 25%
@@ -26,7 +26,7 @@ ht-degree: 25%
 此视频演示了如何创建审批流程、设置审批者、配置状态以及使用阶段进行多级审批。
 &#x200B;AEM它强调了全局和一次性流程在有效管理任务批准方面的灵活性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434697/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

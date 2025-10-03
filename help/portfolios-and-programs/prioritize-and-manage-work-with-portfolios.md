@@ -12,7 +12,7 @@ jira: KT-13835
 role: User
 level: Intermediate
 exl-id: b8b91ae8-f0e1-4cab-bf2c-6b8ca9746ea3
-source-git-commit: 3fc3a58c829769ca06ffb93971ac75516dfbd5f2
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 5%
@@ -25,7 +25,7 @@ ht-degree: 5%
 
 该视频强调了完成业务案例以进行准确比较的重要性，并逐步说明了如何有效地优化和管理项目优先次序。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3446285/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

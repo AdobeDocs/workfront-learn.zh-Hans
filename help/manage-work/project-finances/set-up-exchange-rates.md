@@ -1,6 +1,6 @@
 ---
 title: 设置汇率
-description: 通过灵活的汇率管理、全局和项目级自定义以及手动输入选项自定义货币设置，以实现准确的财务跟踪。
+description: 通过灵活的汇率管理、全局和项目级别自定义以及手动输入选项来自定义货币设置，以实现准确的财务跟踪。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -13,10 +13,10 @@ exl-id: f0d5bbe3-54e6-41be-8497-e54ad7cd7707
 last-substantial-update: 2025-04-23T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '277'
-ht-degree: 11%
+ht-degree: 18%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 11%
 该视频提供了有关在Workfront金融跟踪系统中管理货币的指南。&#x200B;AEM 它解释说，默认货币是美元，但可以在全局范围内设置其他货币，或者为各个项目和职位角色设置其他货币。
 视频强调，该系统不提供当前的汇率，因此用户必须从外部获取这些汇率。&#x200B;AEM 设置后，汇率成为项目或工作角色的默认值，但不会自动更新；具有相应权限的用户必须手动更新它们。&#x200B;AEM 设置货币后，用户可以创建新项目并从可用的货币选项中进行选择，同时能够自定义各个项目的汇率。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3457693/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

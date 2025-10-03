@@ -12,7 +12,7 @@ last-substantial-update: 2024-04-25T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10149
 exl-id: 03ebbbaf-0f8a-43ff-b682-9766aca25741
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '245'
 ht-degree: 13%
@@ -25,7 +25,7 @@ ht-degree: 13%
 
 该视频强调团队成员定期更新和主动问题管理的重要性，以确保准确跟踪和及时完成项目。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3447420/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3428748/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

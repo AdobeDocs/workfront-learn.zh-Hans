@@ -1,5 +1,5 @@
 ---
-title: 审查和审批数字作品
+title: 审阅和审批数字作品
 description: 通过“等待我的审批”小组件中的集中管理、灵活的审核选项、详细的验证审批选择以及清晰的注释来简化审批工作流，从而促进高效沟通和更新。
 activity: use
 feature: Work Management
@@ -12,14 +12,14 @@ jira: KT-8808
 recommendations: noDisplay,catalog
 exl-id: 20596d8f-5a00-4263-9e90-e615303d6c0b
 doc-type: video
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '383'
 ht-degree: 13%
 
 ---
 
-# 审查和审批数字作品
+# 审阅和审批数字作品
 
 此视频介绍如何使用“主页”区域中的“等待我审批”构件审阅和审批数字工作。&#x200B;AEM 它涵盖五种类型的批准：
 
@@ -31,7 +31,7 @@ ht-degree: 13%
 
 此视频强调审阅和批准工作的灵活性，并提供了添加注释和指定所需更改的选项。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3444956/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
@@ -44,7 +44,7 @@ ht-degree: 13%
 
 >[!NOTE]
 >
->除了 [!DNL Workfront Home] 以外，还可以在项目和自定义报告中找到需要审批的文档、验证和工作项（项目、任务和问题）。
+>除了 [!DNL Workfront Home] 以外，还可以在项目和自定义报告中找到需要审批的文档、校样和工作项（项目、任务和问题）。
 
 ## 有关此主题的推荐教程
 

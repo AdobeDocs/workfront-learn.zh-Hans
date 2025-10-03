@@ -13,10 +13,10 @@ recommendations: noDisplay,catalog
 jira: KT-8771
 exl-id: 2c70b05e-6320-41e6-9c28-782edd7d4a8c
 doc-type: video
-source-git-commit: e2875475de268e69ca59e7cc7253987bdd195b1d
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '787'
-ht-degree: 54%
+ht-degree: 55%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 54%
 * **文档部分：**&#x200B;允许上载和管理项目相关的文件和校样。&#x200B;AEM 附加到任务的文档将汇总到项目级别以便轻松访问。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3449736/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
@@ -59,8 +59,8 @@ ht-degree: 54%
 5. **[!UICONTROL Percent complete]：**&#x200B;这会根据项目中完成的任务自动更新。
 6. **[!UICONTROL Project Owner]：**&#x200B;在大多数组织中，这是项目经理，这是负责管理 [!DNL Workfront] 中的项目并确保其完成的人员。
 7. **[!UICONTROL Planned Completion Date]：**&#x200B;项目的规划完成日期由项目经理通过项目时间线设定。
-8. **[!UICONTROL Condition]：**&#x200B;[!UICONTROL Condition] 是项目进展情况的直观呈现。[!DNL Workfront] 可以根据项目中任务的进度状态自动配置 [!UICONTROL Condition]。或者 [!UICONTROL Condition] 可以通过项目详细信息手动设置。
-9. **[!UICONTROL Status]：**&#x200B;[!UICONTROL Status] 指示项目所处的流程阶段：项目是否仍在规划中、项目是否正在进行或项目中的所有工作是否已完成。
+8. **[!UICONTROL Condition]：**[!UICONTROL Condition] 是项目进展情况的直观呈现。[!DNL Workfront] 可以根据项目中任务的进度状态自动配置 [!UICONTROL Condition]。或者 [!UICONTROL Condition] 可以通过项目详细信息手动设置。
+9. **[!UICONTROL Status]：**[!UICONTROL Status] 指示项目所处的流程阶段：项目是否仍在规划中、项目是否正在进行或项目中的所有工作是否已完成。
 10. **[!UICONTROL New Task]：**&#x200B;单击可在项目中创任务。任务在列表底部生成。
 11. **[!UICONTROL Export]:** 将任务列表或选定的任务导出为 PDF、电子表格或制表符分隔文件。
 12. **左侧面板菜单：**&#x200B;使用左侧面板导航至有关项目的不同信息。如果您的屏幕上需要更多空间，请单击顶部的任务图标以折叠面板。拖放图标，以便相应的顺序帮助您高效工作。您看到的选项由您的 [!DNL Workfront] 系统管理员设置。

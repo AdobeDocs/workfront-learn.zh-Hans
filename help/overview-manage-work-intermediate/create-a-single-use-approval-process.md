@@ -12,7 +12,7 @@ jira: KT-8962
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
-source-git-commit: d17df7162ccaab6b62db34209f50131927c0a532
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '431'
 ht-degree: 100%
@@ -23,11 +23,11 @@ ht-degree: 100%
 
 项目、任务和问题的审批流程有助于项目经理能够在继续推动工作之前获得专业人员的确认，确定工作已经按照恰当的方式完成。项目经理可以为每种情况创建一个审批流程（这称为一次性审批流程），或者从先前为满足常见需求而创建的可能具有多个审批流程的列表中进行选择（这些称为全局或现有审批流程）。
 
-在任一情况下，当对象状态更改为审批流程中指定的状态时，审批人都会收到各种方式的通知，以便审查该项工作并审批或拒绝它。鉴于整个项目在等待审批时可能会暂停，审批人应提前意识到他们可能会被要求进行审批。如果审批人因任何原因不在办公室，他们可以将审批工作委托给符合资格的替代者。请参阅[委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)，以了解详情。
+在任一情况下，当对象状态更改为审批流程中指定的状态时，审批者都会收到各种方式的通知，以便审阅该项工作并审批或拒绝它。鉴于整个项目在等待审批时可能会暂停，审批人应提前意识到他们可能会被要求进行审批。如果审批人因任何原因不在办公室，他们可以将审批工作委托给符合资格的替代者。请参阅[委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)，以了解详情。
 
 在本视频中，您将会了解到如何针对项目、任务或问题创建全局审批流程和一次性审批流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434697/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

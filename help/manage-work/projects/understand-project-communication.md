@@ -12,7 +12,7 @@ last-substantial-update: 2024-11-11T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10147
 exl-id: 0f2a2c78-8844-47b1-b0db-542392d9ce97
-source-git-commit: 06d6b06e2dfcd54a172d220fdb3996a7949348d1
+source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 16%
@@ -32,13 +32,13 @@ ht-degree: 16%
 
 此视频重点介绍了Workfront如何简化通信、任务管理和报告，确保所有与项目相关的信息都可访问和有条不紊。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3436154/?quality=12&learn=on&enablevpops&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
->要创建视频中显示的“注释搜索”报告，请参阅[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中的活动。
+>要创建视频中显示的“注释搜索”报告，请参阅[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中的活动。
 >
->要将“注释搜索”报告添加到您的项目面板，请参阅[创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=zh-Hans#activity-1-create-a-dashboard)教程中的活动。
+>要将“注释搜索”报告添加到您的项目面板，请参阅[创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard)教程中的活动。
 
 ## 要点
 
