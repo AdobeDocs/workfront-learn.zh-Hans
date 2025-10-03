@@ -24,7 +24,7 @@ EXISTS过滤器是高级的文本模式过滤器，这使我们能够绕过标�
 
 在本视频中，您将了解如何创建存在过滤器以在验证审批报告中查看“当前项目的验证审批”。
 
-有关EXISTS函数的更深入演练，请参阅[使用EXISTS语句创建复杂的文本模式筛选器](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)文档。
+有关EXISTS函数的更深入演练，请参阅[使用EXISTS语句创建复杂的文本模式筛选器](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)文档。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
