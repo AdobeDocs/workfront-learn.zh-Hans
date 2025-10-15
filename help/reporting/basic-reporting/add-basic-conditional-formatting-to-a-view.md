@@ -11,7 +11,7 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '416'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 视图中有哪些条件格式
 * 如何创建和修改条件格式
 
->[!VIDEO](https://video.tv.adobe.com/v/3445451/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
 
 
 ## 条件格式摘要

@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-27T00:00:00Z
 jira: KT-9082
 exl-id: 0f7db4eb-a062-4eb3-99ca-c40d8e266943
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '231'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 使用通配符、属性、运算符和修饰符创建自定义日期
 * 使用通配符创建自定义日期范围
 
->[!VIDEO](https://video.tv.adobe.com/v/3412658/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336812/?quality=12&learn=on&enablevpops=0)
 
 
 ## “使用基于日期的通配符创建过滤器”活动

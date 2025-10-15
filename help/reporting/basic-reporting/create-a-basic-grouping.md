@@ -12,7 +12,7 @@ jira: KT-8853
 last-substantial-update: 2025-05-08T00:00:00Z
 exl-id: e564b836-29fc-43b8-adef-1465a2f765c9
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '398'
 ht-degree: 34%
@@ -24,7 +24,7 @@ ht-degree: 34%
 此视频介绍如何在Workfront中创建和管理分组，以有效组织项目列表。&#x200B;AEM 分组与过滤器和视图一起是三个主要报表元素之一，它们有助于根据共享信息整理结果。&#x200B;AEM
 本教程提供了组织项目列表以简化日常工作和协作的实际步骤。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3449825/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 

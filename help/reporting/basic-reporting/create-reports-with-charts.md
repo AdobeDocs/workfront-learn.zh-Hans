@@ -12,7 +12,7 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '538'
 ht-degree: 36%
@@ -38,7 +38,7 @@ ht-degree: 36%
 
 此视频重点介绍饼图和栈叠柱状图等图表如何提供任务分布和项目性能的见解，帮助用户比较项目并以可视方式了解任务进度。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3450024/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 
@@ -73,7 +73,7 @@ ht-degree: 36%
 1. 在 **[!UICONTROL Filters]** 选项卡中，添加两条过滤规则：
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
    ![在报告中添加过滤器的屏幕图像](assets/chart-report-filters.png)
 

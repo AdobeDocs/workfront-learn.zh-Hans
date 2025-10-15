@@ -12,7 +12,7 @@ last-substantial-update: 2025-05-09T00:00:00Z
 thumbnail: 335153.png
 exl-id: 23a4f7ea-ab64-4e32-9bf5-dd7fc37eab53
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '440'
 ht-degree: 46%
@@ -25,7 +25,7 @@ ht-degree: 46%
 
 视频强调，自定义报表将保留其默认设置，但可以在查看报表时进行临时更改。&#x200B;AEM 报告存储在“我的报告”部分中，而共享的报告显示在“与我共享”中&#x200B;。 可以固定常用报表或将其标记为收藏夹以便轻松访问。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 

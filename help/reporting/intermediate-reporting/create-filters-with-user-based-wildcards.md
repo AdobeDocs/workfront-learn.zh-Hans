@@ -12,7 +12,7 @@ last-substantial-update: 2025-06-26T00:00:00Z
 jira: KT-9081
 exl-id: 46c83acd-6e43-42aa-875f-ae24b09a7fee
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '351'
 ht-degree: 87%
@@ -26,7 +26,7 @@ ht-degree: 87%
 * 了解为什么使用通配符
 * 使用基于用户的通配符构建过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412652/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >

@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '625'
 ht-degree: 86%
@@ -31,7 +31,7 @@ ht-degree: 86%
 * 创建模板后，就可以使用它来制作新的项目。该视频演示了如何根据模板创建新项目、进行必要的调整以及根据需要添加任务或修改持续时间。它还说明了如何使用资源调度和规划功能给任务分配工作角色。
 * 该视频介绍了如何将现有项目另存为新的模板，以便对工作流进行更新和改进。它强调了管理模板的重要性，以避免混淆并确保能够简化项目执行。
 
->[!VIDEO](https://video.tv.adobe.com/v/3415442/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 

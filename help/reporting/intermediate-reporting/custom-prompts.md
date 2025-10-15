@@ -12,7 +12,7 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: 1fafcafb173ceb4115612e1c33ca36564c7a6c3d
+source-git-commit: cc423944628d01e16d390842ecb25696505f923c
 workflow-type: tm+mt
 source-wordcount: '198'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 如何使用文本模式创建自定义提示
 * 您可以在报告中使用的一些示例
 
->[!VIDEO](https://video.tv.adobe.com/v/3412688/?quality=12&learn=on&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## “创建自定义提示词”活动
 
