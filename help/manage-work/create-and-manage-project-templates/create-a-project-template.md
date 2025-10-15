@@ -31,7 +31,7 @@ ht-degree: 86%
 * 创建模板后，就可以使用它来制作新的项目。该视频演示了如何根据模板创建新项目、进行必要的调整以及根据需要添加任务或修改持续时间。它还说明了如何使用资源调度和规划功能给任务分配工作角色。
 * 该视频介绍了如何将现有项目另存为新的模板，以便对工作流进行更新和改进。它强调了管理模板的重要性，以避免混淆并确保能够简化项目执行。
 
->[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3415442/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## 要点
 

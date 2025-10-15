@@ -27,7 +27,7 @@ ht-degree: 100%
 * 如何使用文本模式创建自定义提示
 * 您可以在报告中使用的一些示例
 
->[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412688/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## “创建自定义提示词”活动
 

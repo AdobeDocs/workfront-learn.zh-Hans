@@ -27,7 +27,7 @@ ht-degree: 100%
 * 视图中有哪些条件格式
 * 如何创建和修改条件格式
 
->[!VIDEO](https://video.tv.adobe.com/v/335149/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3445451/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 
 ## 条件格式摘要

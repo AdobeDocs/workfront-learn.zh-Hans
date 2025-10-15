@@ -26,7 +26,7 @@ ht-degree: 87%
 * 了解为什么使用通配符
 * 使用基于用户的通配符构建过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/336810/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412652/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 >[!TIP]
 >
