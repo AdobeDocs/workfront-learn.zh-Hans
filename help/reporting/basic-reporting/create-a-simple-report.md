@@ -25,7 +25,7 @@ ht-degree: 46%
 
 视频强调，自定义报表将保留其默认设置，但可以在查看报表时进行临时更改。&#x200B;AEM 报告存储在“我的报告”部分中，而共享的报告显示在“与我共享”中&#x200B;。 可以固定常用报表或将其标记为收藏夹以便轻松访问。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335153/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3413118/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## 要点
 
