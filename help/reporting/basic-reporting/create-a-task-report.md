@@ -25,7 +25,7 @@ ht-degree: 75%
 
 生成的报表可帮助用户专注于后期任务，提供依赖关系的洞察，并简化到主机项目的导航。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3448352/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 
@@ -41,8 +41,8 @@ ht-degree: 75%
 >[!TIP]
 >
 >请拿出您的“厨具”，准备好尝试我们 [Adobe Workfront 客户报告食谱](/help/assets/workfront-customer-reporting-cookbook.pdf)中的“食谱”。在其中，您会看到 10 份报告的分步说明，可供您立即在自己的环境中快速编写。
->&#x200B;>我们收集了客户最喜欢的报告，并将它们整理成一本易于消化和理解的“食谱”，供您带回并在您自己的 Workfront “厨房”中进行测试。
->&#x200B;>这 10 份报告来自与您类似的客户。我们十分感谢分布在不同的行业、部门、团队、职位和公司的优秀客户分享了他们最喜爱的报告之一。有些报告很简单（但非常有用），有些则比较复杂，可以帮助您的报告提升到一个新的水平。
+>我们收集了客户最喜欢的报告，并将它们整理成一本易于消化和理解的“食谱”，供您带回并在您自己的 Workfront “厨房”中进行测试。
+>这 10 份报告来自与您类似的客户。我们十分感谢分布在不同的行业、部门、团队、职位和公司的优秀客户分享了他们最喜爱的报告之一。有些报告很简单（但非常有用），有些则比较复杂，可以帮助您的报告提升到一个新的水平。
 
 
 ### 活动 1：创建带有提示的注释报告
@@ -119,9 +119,9 @@ ht-degree: 75%
 
 ### 活动 2：创建管理团队反馈报告
 
-这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hans)教程中了解如何创建此请求队列。
+这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)教程中了解如何创建此请求队列。
 
-该报告还使用了自定义表格。要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hans)教程。
+该报告还使用了自定义表格。要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)教程。
 
 此自定义表单应使用“项目”和“问题”对象类型，并应按如下方式创建：
 
