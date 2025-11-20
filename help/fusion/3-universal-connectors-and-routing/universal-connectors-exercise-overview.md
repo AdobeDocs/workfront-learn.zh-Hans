@@ -27,4 +27,4 @@ ht-degree: 100%
 * 连接到外部 API
 * 使用公式编辑器从数组中提取信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335269/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416539/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

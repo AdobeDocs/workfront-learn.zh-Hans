@@ -33,7 +33,7 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 * 使用场景设计器
 * 创建基本场景
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415971/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 ## 想要了解详情？我们建议查看以下内容：
