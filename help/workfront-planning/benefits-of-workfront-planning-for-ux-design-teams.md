@@ -21,4 +21,4 @@ ht-degree: 70%
 
 了解 Workfront 规划如何集中项目跟踪以及确保设计工作与业务目标保持一致，由此提高 UX 团队的效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452180/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452190/?captions=chi_hans&learn=on&enablevpops=1)

@@ -21,7 +21,7 @@ ht-degree: 100%
 
 了解如何删除、添加和重新排列主页上的小组件。
 
->[!VIDEO](https://video.tv.adobe.com/v/3424529/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448983/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]
