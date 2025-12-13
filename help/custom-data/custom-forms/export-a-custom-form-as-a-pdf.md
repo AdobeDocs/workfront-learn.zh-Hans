@@ -18,5 +18,5 @@ ht-degree: 100%
 
 # 将自定义表单导出为 PDF
 
->[!VIDEO](https://video.tv.adobe.com/v/3477594/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3477604/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
