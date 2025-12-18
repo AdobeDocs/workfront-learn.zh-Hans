@@ -47,4 +47,4 @@ ht-degree: 100%
 * 记录时间
 * 将您的工作标记为已完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420642/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
