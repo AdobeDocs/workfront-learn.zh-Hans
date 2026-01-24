@@ -62,4 +62,4 @@ Workfront 不提供 Workfront Fusion 测试版。要在完成这些教程时进�
 
 [Workfront Fusion 文档](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-您还可以在 [Workfront Fusion 2.0 社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)中发布问题。
+您还可以在 [Workfront Fusion 2.0 社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=zh-Hans)中发布问题。
