@@ -37,9 +37,9 @@ ht-degree: 14%
 
 >[!TIP]
 >
->要创建视频中显示的“注释搜索”报告，请参阅[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中的活动。
+>要创建视频中显示的“注释搜索”报告，请参阅[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中的活动。
 >
->要将“注释搜索”报告添加到您的项目面板，请参阅[创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html#activity-1-create-a-dashboard)教程中的活动。
+>要将“注释搜索”报告添加到您的项目面板，请参阅[创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=zh-Hans#activity-1-create-a-dashboard)教程中的活动。
 
 ## 要点
 
