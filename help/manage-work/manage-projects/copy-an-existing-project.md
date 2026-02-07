@@ -1,5 +1,5 @@
 ---
-title: 复制现有项目
+title: 高效地复制现有项目
 description: 使用三个点菜单中的“复制”选项轻松复制项目，将状态重命名并设置为“计划”，复制自定义数据和表单，并通过“问题”选项卡单独传输问题以进行定制项目设置。
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 jira: KT-10155
 exl-id: 90a87fef-70e9-42fc-ac55-415980ef32c7
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '318'
-ht-degree: 9%
+source-wordcount: '320'
+ht-degree: 7%
 
 ---
 
-# 复制现有项目
+# 高效地复制现有项目
 
 此视频介绍如何复制项目而不是使用模板。&#x200B;AEM 要复制项目，请打开所需的项目，单击项目名称旁边的三个圆点菜单，然后选择“复制”&#x200B;。 在“复制项目”窗口中，可以重命名项目并更改其状态，通常为“计划”，以避免向已分配用户发送通知。&#x200B;AEM 您可以选择是否复制分配、进度、自定义数据等&#x200B;。
 要完成，请单击“复制项目”&#x200B;。
 在此过程中不能直接复制问题，因为它们不被视为计划工作。&#x200B;AEM 要复制问题，请转到问题选项卡，选择所需的问题，并使用“复制到”选项将它们转移到新项目。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456048/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

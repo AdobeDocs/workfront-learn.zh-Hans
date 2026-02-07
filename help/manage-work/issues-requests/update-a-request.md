@@ -1,5 +1,5 @@
 ---
-title: 更新请求
+title: 在Workfront中更新请求
 description: 通过使用过滤器查找请求、高效地更新状态和详细信息、访问完整信息以及促进集中式协作以简化工作流来简化Workfront中的请求管理。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ jira: KT-8807
 recommendations: noDisplay,catalog
 exl-id: 2b5ef930-5ce9-43f7-b98b-19bb48907759
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '248'
-ht-degree: 8%
+source-wordcount: '252'
+ht-degree: 5%
 
 ---
 
-# 更新请求
+# 在Workfront中更新请求
 
 此视频介绍如何在Adobe Workfront中找到并更新请求。&#x200B;AEM 提交请求后，您可以添加信息或提出问题，以确保为处理该请求的人提供最新详细信息。&#x200B;&#x200B;AEM
 

@@ -1,5 +1,5 @@
 ---
-title: 共享项目模板
+title: 有效地共享项目模板
 description: 了解如何共享项目模板以及如何共享从模板创建的项目。
 activity: use
 feature: Work Management
@@ -12,21 +12,21 @@ recommendations: noDisplay,catalog
 jira: KT-8951
 exl-id: 9179fbc8-1000-4215-b2c3-de617c7f1d80
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 100%
+source-wordcount: '79'
+ht-degree: 87%
 
 ---
 
-# 共享项目模板
+# 有效地共享项目模板
 
 您将会学到如何：
 
 * 与其他用户共享模板
 * 共享使用模板创建的项目
 
->[!VIDEO](https://video.tv.adobe.com/v/3415436/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335211/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

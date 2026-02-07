@@ -1,5 +1,5 @@
 ---
-title: 从项目时间线跟踪进度
+title: 使用完成百分比和进度状态跟踪进度
 description: 了解如何使用完成百分比和进度状态从项目时间线跟踪工作进度。
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ level: Beginner
 jira: KT-10150
 exl-id: c8793f49-24b8-48cc-af84-5239234ead0e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 100%
+source-wordcount: '73'
+ht-degree: 78%
 
 ---
 
-# 从项目时间线跟踪进度
+# 使用完成百分比和进度状态跟踪进度
 
 确保任务按应有的方式进展，以达到项目最后期限。
 
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 完成百分比
 * 进度状态
 
->[!VIDEO](https://video.tv.adobe.com/v/3438218/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
 
 
 ## 有关此主题的推荐教程

@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解Workfront功能和设置。
-source-git-commit: ecacc319b909a488a176ef69bc44de415470390d
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '2310'
-ht-degree: 91%
+source-wordcount: '2388'
+ht-degree: 83%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 91%
       + [使用布局模板自定义术语](/help/administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [使用布局模板自定义 [!UICONTROL Main Menu]](/help/administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
       + [通过布局模板添加和管理固定页面](/help/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
-      + [使用布局模板自定义主页 &#x200B;](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
+      + [使用布局模板自定义主页 ](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [分配和管理对布局模板的访问](/help/administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [使用布局模板自定义对象区域](/help/administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [使用布局模板自定义项目详细信息](/help/administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
@@ -67,7 +67,7 @@ ht-degree: 91%
 
    + 批准流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [了解特定于组的审批流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
-      + [创建里程碑](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
+      + [创建里程碑路径和步骤](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 
    + 系统性能和维护 {#system-perfomance-and-maintenance}
       + [负责现有的 Adobe Workfront 实例](/help/administration-and-setup/system-performance-and-maintenance/take-charge-of-an-existing-workfront-instance.md)
@@ -105,44 +105,44 @@ ht-degree: 91%
 
 + 管理工作 {#manage-work}
    + 项目 {#projects}
-      + [了解基本项目创建](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [从头开始创建和管理项目](/help/manage-work/projects/understand-basic-project-creation.md)
       + [导航项目页面](/help/manage-work/projects/navigate-the-project-page.md)
-      + [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-      + [填写项目详细信息。](/help/manage-work/projects/fill-in-the-project-details.md)
-      + [开始规划项目](/help/manage-work/projects/getting-started-plan-a-project.md)
+      + [探索创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [填写基本的项目详细信息](/help/manage-work/projects/fill-in-the-project-details.md)
+      + [在Workfront中有效计划项目](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [启动项目](/help/manage-work/projects/take-a-project-live.md)
-      + [开始管理项目](/help/manage-work/projects/getting-started-manage-a-project.md)
-      + [查找项目](/help/manage-work/projects/find-projects.md)
-      + [共享项目](/help/manage-work/projects/share-a-project.md)
+      + [管理具有当前状态的项目](/help/manage-work/projects/getting-started-manage-a-project.md)
+      + [高效查找项目](/help/manage-work/projects/find-projects.md)
+      + [在Workfront中有效共享项目](/help/manage-work/projects/share-a-project.md)
       + [了解项目团队](/help/manage-work/projects/understand-the-project-team.md)
-      + [了解项目沟通](/help/manage-work/projects/understand-project-communication.md)
-      + [查看项目信息](/help/manage-work/projects/view-project-information.md)
+      + [通过有效的沟通提高项目成功率](/help/manage-work/projects/understand-project-communication.md)
+      + [浏览项目管理的筛选器、视图和分组](/help/manage-work/projects/view-project-information.md)
       + [跟踪项目整体进度](/help/manage-work/projects/track-overall-project-progress.md)
       + [使用项目指标跟踪工作进度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
       + [了解 [!UICONTROL Gantt] 视图](/help/manage-work/projects/understand-the-gantt-view.md)
       + [了解 [!UICONTROL Board] 视图](/help/manage-work/projects/understand-the-board-view.md)
 
    + 任务 {#tasks}
-      + [创建任务](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [了解父任务-子任务](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [处理任务](/help/manage-work/tasks/work-with-tasks.md)
+      + [在Workfront中高效创建任务](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [了解父子任务关系](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [在Workfront中高效管理任务](/help/manage-work/tasks/work-with-tasks.md)
       + [从项目规划中分配任务](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-      + [更新任务状态](/help/manage-work/tasks/update-the-task-status.md)
+      + [更新任务状态以准确报告](/help/manage-work/tasks/update-the-task-status.md)
       + [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)
-      + [学习如何对任务进行排序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
+      + [在Workfront中有效地排列任务顺序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
       + [了解规划小时数](/help/manage-work/tasks/understand-planned-hours.md)
-      + [了解 [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+      + [使用工作投入估计任务小时数](/help/manage-work/tasks/understand-work-effort.md)
 
    + 问题/请求 {#issues-requests}
-      + [处理规划外的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
-      + [发出请求](/help/manage-work/issues-requests/make-a-request.md)
-      + [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
-      + [管理问题分配](/help/manage-work/issues-requests/manage-issue-assignments.md)
-      + [更新问题状态](/help/manage-work/tasks/update-the-issue-status.md)
-      + [更新请求](/help/manage-work/issues-requests/update-a-request.md)
+      + [有效处理计划外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+      + [在Workfront中创建和管理请求](/help/manage-work/issues-requests/make-a-request.md)
+      + [高效地查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
+      + [有效管理问题分配](/help/manage-work/issues-requests/manage-issue-assignments.md)
+      + [有效地更新问题状态](/help/manage-work/tasks/update-the-issue-status.md)
+      + [在Workfront中更新请求](/help/manage-work/issues-requests/update-a-request.md)
       + [将问题/请求转化为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
       + [将问题/请求转化为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-      + [报告问题](/help/manage-work/issues-requests/report-on-issues.md)
+      + [创建用于问题管理的自定义报告](/help/manage-work/issues-requests/report-on-issues.md)
 
    + 请求队列 {#request-queues}
       + [了解请求队列](/help/manage-work/request-queues/understand-request-queues.md)
@@ -153,36 +153,36 @@ ht-degree: 91%
       + [有关请求队列的常见问题解答](/help/manage-work/request-queues/request-queue-faq.md)
 
    + 项目组合 {#portfolios}
-      + [了解项目组合](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
-      + [了解 [!UICONTROL Business Case]](/help/portfolios-and-programs/introduction-to-the-business-case.md)
-      + [了解 [!UICONTROL Portfolio Optimizer]](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
+      + [探索产品组合管理和优化](/help/portfolios-and-programs/overview-of-adobe-workfront-portfolios.md)
+      + [创建全面的业务案例](/help/portfolios-and-programs/introduction-to-the-business-case.md)
+      + [使用Portfolio优化工具优化项目优先级](/help/portfolios-and-programs/prioritize-and-manage-work-with-portfolios.md)
 
    + 批准流程和里程碑路径 {#approval-processes-and-milestone-paths}
       + [创建全局和一次性审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
       + [在请求队列中应用问题批准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
       + [审阅和审批数字作品](/help/manage-work/issues-requests/review-and-approve-digital-work.md)
-      + [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-      + [应用里程碑](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
-      + [查看里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
+      + [有效地委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+      + [将里程碑路径应用于项目和任务](/help/manage-work/approval-processes-and-milestone-paths/apply-milestones.md)
+      + [查看项目中的里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 
    + 创建和管理项目模板 {#create-and-manage-project-templates}
-      + [创建项目模板并了解 Blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
+      + [创建项目模板并浏览Blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [直接从模板创建项目](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [共享项目模板](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-      + [复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
+      + [有效地共享项目模板](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [高效地复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-      + [在项目模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+      + [在模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
 
    + 项目时间线 {#project-timelines}
-      + [了解项目时间线](/help/manage-work/project-timelines/understand-project-timelines.md)
+      + [浏览Workfront中的项目时间线](/help/manage-work/project-timelines/understand-project-timelines.md)
       + [了解日期类型和进度状态](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-      + [从项目时间线跟踪进度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+      + [使用完成百分比和进度状态跟踪进度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 
    + 关闭项目 {#close-a-project}
       + [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
-      + [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
-      + [上传资源](/help/manage-work/close-a-project/upload-assets.md)
-      + [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+      + [解决任务和问题的审批](/help/manage-work/close-a-project/complete-approvals.md)
+      + [上传和管理项目资源](/help/manage-work/close-a-project/upload-assets.md)
+      + [记录为未来项目吸取的经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
       + [记录和审阅时间](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 用户的项目财务 {#project-finances-users}
@@ -335,10 +335,10 @@ ht-degree: 91%
       + [使用 Adobe Workfront 插件与 Creative Cloud 集成](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hans)
-      + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hans)
-      + [发送文档并链接资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hans)
-      + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hans)
+      + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [发送文档并链接资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [通过与 G Suite 集成增强您的工作流](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -350,13 +350,13 @@ ht-degree: 91%
       + [安装 Microsoft Outlook 插件](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hans)
-      + [安装 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 访问 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中搜索并共享 Adobe Workfront 项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 创建 Adobe Workfront 任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 提交 Adobe Workfront 请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hans)
+      + [Adobe Workfront for Microsoft Teams 概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安装 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [从 Microsoft Teams 访问 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在 Microsoft Teams 中搜索并共享 Adobe Workfront 项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [从 Microsoft Teams 创建 Adobe Workfront 任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [从 Microsoft Teams 提交 Adobe Workfront 请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [了解 Workfront for [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -616,7 +616,7 @@ ht-degree: 91%
    + [项目、任务和问题首选项](/help/best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](/help/best-practices/project-templates-bp.md)
    + [校对](/help/best-practices/proofing-bp.md)
-   + [请求队列 &#x200B;](/help/best-practices/request-queues-bp.md)
+   + [请求队列 ](/help/best-practices/request-queues-bp.md)
    + [资源规划程序](/help/best-practices/resource-planner-bp.md)
    + [资源池](/help/best-practices/resource-pools-bp.md)
    + [场景计划器](/help/best-practices/scenario-planner-bp.md)

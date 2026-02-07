@@ -1,5 +1,5 @@
 ---
-title: 开始规划项目
+title: 在Workfront中有效计划项目
 description: 通过重点关注关键字段、将状态设置为“计划”、使用适当的视图、选择现实的起始日期以及利用计划模式来获取准确的时间线来简化项目计划。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -12,20 +12,20 @@ recommendations: noDisplay,catalog
 jira: KT-8772
 exl-id: 6df467a3-6e26-4bd4-94ac-b77cd43b5aa3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '271'
-ht-degree: 14%
+source-wordcount: '273'
+ht-degree: 10%
 
 ---
 
-# 开始规划项目
+# 在Workfront中有效计划项目
 
 此视频提供了有关如何在Workfront中有效规划项目的指导。&#x200B;AEM 它强调奠定坚实的基础的重要性，以确保项目按时完成并取得成功。&#x200B;AEM 关键步骤包括了解五个关键字段：任务、工作、持续时间、已计划小时数和前置任务。&#x200B;AEM 利用这些字段，可以快速准确地调整项目计划。&#x200B;AEM
 
 该视频强调了切合实际的时间表、团队可用性和准确规划的重要性，从而为项目成功奠定坚实的基础。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3448577/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

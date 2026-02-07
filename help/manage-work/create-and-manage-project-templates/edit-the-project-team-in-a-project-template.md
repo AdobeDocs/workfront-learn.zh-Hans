@@ -1,5 +1,5 @@
 ---
-title: 在项目模板中编辑项目团队
+title: 在模板中编辑项目团队
 description: 通过学习如何编辑模板项目团队，避免无意中将项目团队成员纳入模板项目团队。
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ team: Technical Marketing
 jira: KT-14755
 doc-type: video
 exl-id: 9a92a0a5-5ea3-428d-a81a-2d217e6e3d59
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 100%
+source-wordcount: '82'
+ht-degree: 82%
 
 ---
 
-# 在项目模板中编辑项目团队
+# 在模板中编辑项目团队
 
 在本视频中，您将了解到：
 
 * 如何避免无意中将&#x200B;**非**&#x200B;项目团队成员包括在模板项目团队中。
 * 如何编辑模板项目团队。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441560/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

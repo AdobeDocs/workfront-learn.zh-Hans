@@ -1,5 +1,5 @@
 ---
-title: 管理问题分配
+title: 有效管理问题分配
 description: 通过使用内联编辑和工作负载均衡器执行分配、跟踪和更新进度、更改问题状态以及遵循特定于团队的工作流来无缝执行项目，有效管理Workfront中的问题。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2023-05-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10071
 exl-id: 1d82e588-a986-4d83-b3b5-3325a5926a61
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '289'
-ht-degree: 25%
+source-wordcount: '291'
+ht-degree: 23%
 
 ---
 
-# 管理问题分配
+# 有效管理问题分配
 
 管理问题是项目经理和负责解决该问题的人员的重要职责。
 
@@ -30,7 +30,7 @@ ht-degree: 25%
 * 更新问题的进展
 * 更新问题状态
 
->[!VIDEO](https://video.tv.adobe.com/v/3446965/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419931/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

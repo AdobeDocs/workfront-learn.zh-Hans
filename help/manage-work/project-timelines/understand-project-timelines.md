@@ -1,5 +1,5 @@
 ---
-title: 了解项目时间线
+title: 浏览Workfront中的项目时间线
 description: 了解如何分配任务、使用甘特图和关键路径功能、通过视图监测项目、有效地安排任务以及通过应用限制来实现最佳的项目规划。
 activity: use
 feature: Work Management
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 jira: KT-8953
 exl-id: ba993197-9f84-4fc0-86cc-cf849c889f56
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '701'
-ht-degree: 100%
+source-wordcount: '705'
+ht-degree: 98%
 
 ---
 
-# 了解项目时间线
+# 浏览Workfront中的项目时间线
 
 您将了解的内容：
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 * Workfront 中的不同视图，例如用于规划的标准视图和用于监测进度的状态视图，其中包括进度、评论、文档、问题、审批、关键路径和里程碑的标志。可以跟踪最近的活动，以查看更新和注释。
 * 可以从开始日期或完成日期进行计划，而 Workfront 则会根据任务持续时间和前置任务计算相应的日期。该视频建议从开始日期开始安排关键的完成日期，以留出一些余地。其中还介绍了任务限制，例如“尽快”和“尽可能晚”，说明了它们会如何影响任务计划。可以通过创建自定义视图来显示任务限制。
 
->[!VIDEO](https://video.tv.adobe.com/v/3435845/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335213/?quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

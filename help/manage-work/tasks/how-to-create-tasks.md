@@ -1,5 +1,5 @@
 ---
-title: 创建任务
+title: 在Workfront中高效创建任务
 description: 使用详细或内联编辑、灵活重新定位、其他字段的自定义视图和特定放置等选项(例如使用Workfront中的“在下面插入任务”)，简化任务创建。
 feature: Work Management
 thumbnail: how-to-create-tasks.jpeg
@@ -10,19 +10,19 @@ last-substantial-update: 2023-05-15T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '195'
-ht-degree: 11%
+source-wordcount: '201'
+ht-degree: 9%
 
 ---
 
-# 创建任务
+# 在Workfront中高效创建任务
 
 该视频提供了有关在Workfront项目中创建任务的教程，其中涵盖了长方法和方便使用的快捷键。 它强调任务创建的灵活性，并提供高效任务管理的提示。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3423154/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419372/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

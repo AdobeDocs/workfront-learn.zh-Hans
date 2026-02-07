@@ -1,5 +1,5 @@
 ---
-title: 查找项目
+title: 高效查找项目
 description: 使用过滤器、搜索工具、最近列表、收藏夹、固定项目和自定义报告或仪表板简化项目管理，以便快速有组织地访问项目。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-15115
 exl-id: 2d894587-60ad-4d1e-961f-886a8accfb17
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 23%
+source-wordcount: '175'
+ht-degree: 20%
 
 ---
 
-# 查找项目
+# 高效查找项目
 
 在这段视频中，您将学习某些快速而简便的查找项目的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439558/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

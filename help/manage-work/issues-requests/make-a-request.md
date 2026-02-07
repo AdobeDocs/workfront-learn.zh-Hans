@@ -1,5 +1,5 @@
 ---
-title: 发出请求
+title: 在Workfront中创建和管理请求
 description: 通过简化的请求创建、可自定义的工作流程、草稿自动保存、跟踪和筛选工具以及复制和重用请求的能力，提高Workfront中的效率。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 14%
+source-wordcount: '260'
+ht-degree: 11%
 
 ---
 
-# 发出请求
+# 在Workfront中创建和管理请求
 
 该视频提供了有关如何在Workfront中发出和管理请求的详细指南。 它说明了创建请求的过程，从主菜单中选择“请求”并单击“新建请求”按钮开始。&#x200B;AEM 用户可以从根据其组织的工作流定制的自定义设计队列中选择请求类型。
 
->[!VIDEO](https://video.tv.adobe.com/v/3413112/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

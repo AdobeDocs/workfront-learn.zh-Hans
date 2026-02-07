@@ -1,5 +1,5 @@
 ---
-title: 报告问题
+title: 创建用于问题管理的自定义报告
 description: 了解如何为问题和项目管理创建自定义报告，包括如何集中和跟踪未解决的问题、自定义列和过滤器以及优化项目和问题管理。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-07-24T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10072
 exl-id: c7d76d7f-46be-40a7-99f8-5e83dc708d34
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 100%
+source-wordcount: '382'
+ht-degree: 96%
 
 ---
 
-# 报告问题
+# 创建用于问题管理的自定义报告
 
 该视频提供了有关通过创建两种类型的报告来管理和跟踪问题和项目的分步指南。
 

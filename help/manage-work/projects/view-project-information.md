@@ -1,5 +1,5 @@
 ---
-title: 查看项目信息
+title: 浏览项目管理的过滤器、视图和分组
 description: 使用可自定义的筛选器、详细视图、高效分组、任务管理工具和问题跟踪功能简化项目工作流，以增强组织和清晰度。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-05-01T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10145
 exl-id: e89be0d0-4584-4985-8a6f-177ea6c5b951
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '417'
-ht-degree: 5%
+source-wordcount: '427'
+ht-degree: 4%
 
 ---
 
-# 查看项目信息
+# 浏览项目管理的过滤器、视图和分组
 
 此视频概述了Workfront中的筛选器、视图和分组，以帮助用户有效地管理和分析项目、任务和问题。&#x200B;AEM 要点包括：
 
@@ -33,7 +33,7 @@ ht-degree: 5%
 
 该视频强调自定义，并提供指向教程的链接以供进一步学习。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3453076/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3428815/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

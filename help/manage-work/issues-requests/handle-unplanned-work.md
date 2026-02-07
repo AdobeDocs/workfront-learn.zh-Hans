@@ -1,5 +1,5 @@
 ---
-title: 处理规划外的工作
+title: 有效处理计划外工作
 description: 通过有效跟踪和解决问题、利用日志记录工具、实施最佳实践、促进沟通并将问题无缝转化为任务以简化执行，改进Workfront中的项目管理。
 activity: use
 team: Technical Marketing
@@ -12,19 +12,19 @@ last-substantial-update: 2024-06-26T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '264'
-ht-degree: 13%
+source-wordcount: '266'
+ht-degree: 10%
 
 ---
 
-# 处理规划外的工作
+# 有效处理计划外工作
 
 该视频强调了沟通在项目管理中的重要性，并强调了问题作为促进沟通的关键工具的作用。&#x200B;AEM 它解释了更新与问题之间的区别，指出问题更适合在项目完成之前需要分配、跟踪和解决的工作。&#x200B;AEM 此视频提供了有关如何记录问题的分步指南。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3446576/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

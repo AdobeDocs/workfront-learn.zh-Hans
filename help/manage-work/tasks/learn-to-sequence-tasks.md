@@ -1,5 +1,5 @@
 ---
-title: 学习如何对任务进行排序
+title: 在Workfront中有效地排列任务顺序
 description: 通过使用前置任务定义任务顺序、通过持续时间设置时间线、使用模板简化顺序、避免手动限制以及根据实践优化技能来简化项目管理。
 activity: use
 feature: Work Management
@@ -13,21 +13,21 @@ jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 10%
+source-wordcount: '220'
+ht-degree: 6%
 
 ---
 
-# 学习如何对任务进行排序
+# 在Workfront中有效地排列任务顺序
 
 此视频介绍如何使用前置任务和持续时间对Workfront中的任务进行排序以有效地管理项目时间线。
 该视频演示了如何为新任务设置前置任务，确保顺序顺序和准确的开始日期。
 &#x200B;AEM它强调与前置任务一起实践的重要性，以了解它们对项目时间线的影响，并建议使用持续时间和前置任务以实现高效的项目规划。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447330/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

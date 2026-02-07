@@ -1,5 +1,5 @@
 ---
-title: 填写项目详细信息。
+title: 填写基本的项目详细信息
 description: 通过使用描述性名称、设置适当的状态、选择正确的计划模式、利用模板和自定义表单以及使用资源池和计划管理资源，优化项目管理效率。
 activity: use
 team: Technical Marketing
@@ -12,14 +12,14 @@ last-substantial-update: 2024-06-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '210'
-ht-degree: 28%
+ht-degree: 23%
 
 ---
 
-# 填写项目详细信息。
+# 填写基本的项目详细信息
 
 在本视频中，您将会了解到创建项目时所需的最常见的项目设置。
 

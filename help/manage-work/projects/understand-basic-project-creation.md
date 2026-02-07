@@ -1,5 +1,5 @@
 ---
-title: 了解基本项目创建
+title: 从头开始创建和管理项目
 description: 了解如何有效地创建、管理和完成项目，处理意外问题，并浏览适合初学者的技巧以掌握基本的项目管理功能。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,19 +13,19 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '243'
-ht-degree: 22%
+source-wordcount: '249'
+ht-degree: 18%
 
 ---
 
-# 了解基本项目创建
+# 从头开始创建和管理项目
 
 此视频介绍如何从头开始创建和管理项目。&#x200B;AEM 首先，创建一个新项目，重命名该项目，然后使用描述、开始日期和目标完成日期设置目标。 项目可以划分为任务，这些任务为计划工作以及估计持续时间和分配。&#x200B;AEM 任务可以使用前置任务进行排序，并且项目状态可以设置为“当前”以通知团队并将其包含在报表中。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435904/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

@@ -1,5 +1,5 @@
 ---
-title: 共享项目
+title: 在Workfront中有效共享项目
 description: 通过自动访问权限、灵活的选项、基于团队的管理、模板共享和可自定义的系统默认值来简化Workfront中的项目共享，进而简化协作。
 activity: use
 team: Technical Marketing
@@ -12,36 +12,40 @@ last-substantial-update: 2023-07-21T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '357'
-ht-degree: 7%
+source-wordcount: '361'
+ht-degree: 5%
 
 ---
 
-# 共享项目
+# 在Workfront中有效共享项目
 
 此视频介绍如何在Workfront中有效共享项目，以确保利益相关者和协作者具有必要的可视性和访问权限。&#x200B;AEM Workfront根据角色自动分配适当的访问权限，从而简化共享：
 
 **自动共享：**
+
 * 项目创建者具有查看和编辑项目、任务和问题的受管权限。
 * 分配到任务的工作者将获得整个项目的查看权限以及他们任务的参与者权限。
 * 项目发起人可以查看项目，而资源经理可以管理项目但不能删除项目。
 
 **手动共享：**
+
 * 可与个人、团队、工作角色、组或公司共享项目。
 * 最佳实践包括创建团队并牢记其重要性，以及使用项目组合或项目群来继承多个项目的权限。
 
 **批量共享和模板共享：**
+
 * 批量编辑允许共享多个项目的调整。&#x200B;AEM
 * 可在项目模板中预配置共享设置以节省时间。&#x200B;AEM
 
 **系统默认值：**
+
 * 系统管理员或组管理员可以修改默认共享设置，例如向分配任务的团队成员授予参与者权限。
 
 此视频重点介绍如何使用团队和模板来高效地共享管理，并重点介绍管理员在自定义共享偏好设置方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423145/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

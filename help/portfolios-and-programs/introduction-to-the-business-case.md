@@ -1,5 +1,5 @@
 ---
-title: 了解 [!UICONTROL Business Case]
+title: 创建全面的业务案例
 description: 在Workfront中制作全面的业务案例，通过包含详细的项目信息、费用、劳动力和风险分析、记分卡以及自定义表单来优化项目组合，从而实现知情的项目组合管理。
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 8%
+source-wordcount: '243'
+ht-degree: 6%
 
 ---
 
-# 了解 [!UICONTROL Business Case]
+# 创建全面的业务案例
 
 此视频介绍了业务案例在项目管理中的重要性。 它强调，彻底填写业务案例有助于管理人员分析和优先处理竞争相同资源的项目。&#x200B;AEM 完成后，提交业务案例会将项目状态更改为“已请求”，并计算其总体分数，以便在Portfolio优化工具中进行比较。&#x200B;AEM 虽然这些字段都不是必填字段，但更详细的信息可改善决策。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3442854/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

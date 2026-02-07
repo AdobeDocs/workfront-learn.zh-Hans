@@ -1,5 +1,5 @@
 ---
-title: 了解父任务-子任务
+title: 了解父子任务关系
 description: 优化项目管理，以任务为基础，采用父子结构、自动完成父任务、灵活组织工具和定制任务结构以提高效率。
 activity: use
 feature: Work Management
@@ -12,19 +12,19 @@ recommendations: noDisplay,catalog
 jira: KT-8774
 exl-id: 882e421d-8ed9-492f-8810-7bc2de8fc820
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 9%
+source-wordcount: '255'
+ht-degree: 7%
 
 ---
 
-# 了解父任务-子任务
+# 了解父子任务关系
 
 以下视频介绍了Workfront中的任务结构。 任务是项目的重要组成部分，代表完成所需的工作项&#x200B;。 视频强调了准确组织任务的重要性，这是项目规划和管理中的关键步骤。 它演示了如何开始处理任务，并说明了父子任务关系。
 &#x200B;AEM父级任务充当组织者，将项目分组为阶段、阶段或里程碑，且不会分配给个人。 子任务或子任务表示分配给团队成员的可操作工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445606/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

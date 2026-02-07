@@ -1,5 +1,5 @@
 ---
-title: 了解创建项目的四种方法
+title: 探索创建项目的四种方法
 description: 探索如何使用模板在Workfront中高效创建项目，从头开始，复制现有项目或导入Microsoft项目文件，这些模板根据不同的用户需求量身定制。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-03-05T00:00:00Z
 exl-id: 98eaadc5-1b1d-4641-83a5-818e7dd60769
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
 source-wordcount: '472'
-ht-degree: 7%
+ht-degree: 4%
 
 ---
 
-# 了解创建项目的四种方法
+# 探索创建项目的四种方法
 
 此视频提供了有关使用各种方法在Workfront中创建项目的全面指南：
 
@@ -55,7 +55,7 @@ ht-degree: 7%
 
 此视频强调Workfront在通过模板、草稿、复制或导入来创建项目时为了满足不同用户需求的灵活性。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3432174/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

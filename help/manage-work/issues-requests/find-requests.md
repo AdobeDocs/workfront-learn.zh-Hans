@@ -1,5 +1,5 @@
 ---
-title: 查找和管理请求
+title: 高效地查找和管理请求
 description: 了解如何使用过滤器、管理团队分配、创建自定义报告和仪表板，以及厘清“我的”在不同上下文中的含义，以实现有效的请求管理。
 activity: use
 team: Technical Marketing
@@ -13,14 +13,14 @@ recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
 exl-id: 45956a0d-d63f-4539-ac65-f2c64a60b4bf
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '227'
-ht-degree: 85%
+source-wordcount: '229'
+ht-degree: 80%
 
 ---
 
-# 查找和管理请求
+# 高效地查找和管理请求
 
 该视频介绍了如何在 Workfront 中查找和管理请求。它涵盖四个主要区域：
 
@@ -30,7 +30,7 @@ ht-degree: 85%
 * 自定义报告和仪表板
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3441664/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

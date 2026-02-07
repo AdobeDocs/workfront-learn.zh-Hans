@@ -1,5 +1,5 @@
 ---
-title: 开始管理项目
+title: 管理具有当前状态的项目
 description: 使用报告有效地跟踪项目进度，通过甘特图视图管理依赖项，监控任务和批准，增强团队沟通，并通过频繁更新确保顺畅的工作流。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8781
 exl-id: 4202941d-eb2d-43b5-91e8-06b0076a470d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 18%
+source-wordcount: '178'
+ht-degree: 12%
 
 ---
 
-# 开始管理项目
+# 管理具有当前状态的项目
 
 该视频概述了当项目的状态更改为“当前”后如何管理项目&#x200B;。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445177/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335094/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

@@ -1,5 +1,5 @@
 ---
-title: 处理任务
+title: 在Workfront中高效管理任务
 description: 通过内联编辑、已删除任务的回收站备份、父子结构添加、任务复制和直观的重组工具(如Workfront中的拖放)来增强任务管理。
 activity: use
 feature: Work Management
@@ -12,18 +12,18 @@ recommendations: noDisplay,catalog
 jira: KT-8775
 exl-id: 8ae9d05a-0435-4db5-a66d-8ffeadf7741b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
 workflow-type: tm+mt
-source-wordcount: '207'
-ht-degree: 12%
+source-wordcount: '211'
+ht-degree: 9%
 
 ---
 
-# 处理任务
+# 在Workfront中高效管理任务
 
 本视频提供了有关在Workfront中管理任务的详细指南。 它强调高效的任务管理，包括编辑、删除、添加、复制和重新组织项目计划中的任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448566/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
