@@ -24,7 +24,7 @@ ht-degree: 7%
 以下视频介绍了Workfront中的任务结构。 任务是项目的重要组成部分，代表完成所需的工作项&#x200B;。 视频强调了准确组织任务的重要性，这是项目规划和管理中的关键步骤。 它演示了如何开始处理任务，并说明了父子任务关系。
 &#x200B;AEM父级任务充当组织者，将项目分组为阶段、阶段或里程碑，且不会分配给个人。 子任务或子任务表示分配给团队成员的可操作工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445606/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

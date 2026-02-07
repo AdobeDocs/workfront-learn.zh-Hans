@@ -23,7 +23,7 @@ ht-degree: 9%
 
 本视频提供了有关在Workfront中管理任务的详细指南。 它强调高效的任务管理，包括编辑、删除、添加、复制和重新组织项目计划中的任务。
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448566/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

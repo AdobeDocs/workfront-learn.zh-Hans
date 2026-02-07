@@ -24,7 +24,7 @@ ht-degree: 10%
 该视频强调了沟通在项目管理中的重要性，并强调了问题作为促进沟通的关键工具的作用。&#x200B;AEM 它解释了更新与问题之间的区别，指出问题更适合在项目完成之前需要分配、跟踪和解决的工作。&#x200B;AEM 此视频提供了有关如何记录问题的分步指南。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3419488/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446576/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

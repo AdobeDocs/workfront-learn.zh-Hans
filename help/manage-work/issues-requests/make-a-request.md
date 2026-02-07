@@ -24,7 +24,7 @@ ht-degree: 11%
 
 该视频提供了有关如何在Workfront中发出和管理请求的详细指南。 它说明了创建请求的过程，从主菜单中选择“请求”并单击“新建请求”按钮开始。&#x200B;AEM 用户可以从根据其组织的工作流定制的自定义设计队列中选择请求类型。
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413112/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

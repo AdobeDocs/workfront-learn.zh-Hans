@@ -27,7 +27,7 @@ ht-degree: 82%
 * 如何避免无意中将&#x200B;**非**&#x200B;项目团队成员包括在模板项目团队中。
 * 如何编辑模板项目团队。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426803/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441560/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

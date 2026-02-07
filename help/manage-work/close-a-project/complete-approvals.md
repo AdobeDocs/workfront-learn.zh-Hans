@@ -27,7 +27,7 @@ ht-degree: 85%
 * 如何查找未解决的任务审批并处理它们
 * 如何查找未解决的问题审批并处理它们
 
->[!VIDEO](https://video.tv.adobe.com/v/3439422/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439434/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

@@ -25,7 +25,7 @@ ht-degree: 10%
 
 该视频强调了切合实际的时间表、团队可用性和准确规划的重要性，从而为项目成功奠定坚实的基础。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448577/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

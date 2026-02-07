@@ -25,7 +25,7 @@ ht-degree: 18%
 此视频介绍如何从头开始创建和管理项目。&#x200B;AEM 首先，创建一个新项目，重命名该项目，然后使用描述、开始日期和目标完成日期设置目标。 项目可以划分为任务，这些任务为计划工作以及估计持续时间和分配。&#x200B;AEM 任务可以使用前置任务进行排序，并且项目状态可以设置为“当前”以通知团队并将其包含在报表中。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435904/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

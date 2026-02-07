@@ -29,7 +29,7 @@ ht-degree: 78%
 * 完成百分比
 * 进度状态
 
->[!VIDEO](https://video.tv.adobe.com/v/3438208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438218/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 ## 有关此主题的推荐教程

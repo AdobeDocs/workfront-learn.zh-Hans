@@ -27,7 +27,7 @@ ht-degree: 87%
 * 查看特定项目中的里程碑
 * 阅读项目列表中的里程碑视图
 
->[!VIDEO](https://video.tv.adobe.com/v/335206/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415899/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >
