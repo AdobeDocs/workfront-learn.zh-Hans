@@ -41,7 +41,7 @@ ht-degree: 51%
 
 创建一个只有一个报告的 [!UICONTROL dashboard]——“搜索该项目中的注释。”这对于快速查找项目上的任何更新非常有用，即使有数千条更新内容需要搜索也是如此。这将会搜索更新跟帖内容，以快速提取能够满足您在提示中指定的条件的任何更新。
 
-通过复制您在“创建注释报告”活动中创建的“搜索注释”报告来创建此报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
+通过复制您在“创建注释报告”活动中创建的“搜索注释”报告来创建此报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
 
 * 从副本中删除“项目名称”提示，并将报告重命名为“搜索该报告中的注释”。
 * 将 [!UICONTROL Dashboard] 命名为“搜索注释。”
@@ -50,7 +50,7 @@ ht-degree: 51%
 
 ### 答案 1
 
-1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
+1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
 1. 单击 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Copy]**。[!DNL Workfront] 会创建一个名为“注释搜索（副本）”的新报告。
 1. 前往 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Edit]**。单击 **[!UICONTROL Report Settings]** 并将名称更改为“搜索该项目中的注释。”
 1. 单击 [!UICONTROL Report Prompts] 并从列表中删除 [!UICONTROL Project] > [!UICONTROL Name] 提示。
