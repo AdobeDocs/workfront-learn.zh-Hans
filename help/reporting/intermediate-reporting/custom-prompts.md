@@ -1,5 +1,5 @@
 ---
-title: 创建自定义提示
+title: 使用文本模式创建自定义提示
 description: 了解什么是自定义提示、如何使用文本模式创建自定义提示以及可以在 Workfront 中的报告中使用的一些示例。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-05T00:00:00Z
 jira: KT-9087
 exl-id: 1bb0832e-e888-4154-b78d-24c6d69f629f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '198'
-ht-degree: 100%
+source-wordcount: '204'
+ht-degree: 94%
 
 ---
 
-# 创建自定义提示
+# 使用文本模式创建自定义提示
 
 在本视频中，您将了解到：
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 如何使用文本模式创建自定义提示
 * 您可以在报告中使用的一些示例
 
->[!VIDEO](https://video.tv.adobe.com/v/3412688/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336822/?quality=12&learn=on&enablevpops=0)
 
 ## “创建自定义提示词”活动
 

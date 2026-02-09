@@ -1,5 +1,5 @@
 ---
-title: 创建带有图表的报告
+title: 使用报表中的图表可视化数据
 description: 图表通过可自定义的筛选器、分组和栈叠列格式组织数据洞察，使分析更清晰、更易于操作，从而增强数据可视化。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8860
 last-substantial-update: 2025-05-06T00:00:00Z
 exl-id: ea3b360b-1fbd-4d1a-b505-b75759d24e41
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '538'
-ht-degree: 36%
+source-wordcount: '542'
+ht-degree: 34%
 
 ---
 
-# 创建带有图表的报告
+# 使用报表中的图表可视化数据
 
 此视频介绍如何使用图表有效地可视化数据，特别是用于跟踪项目任务。&#x200B;AEM 它演示了如何在Workfront中创建两种类型的报表：
 
@@ -38,7 +38,7 @@ ht-degree: 36%
 
 此视频重点介绍饼图和栈叠柱状图等图表如何提供任务分布和项目性能的见解，帮助用户比较项目并以可视方式了解任务进度。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3450024/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335155/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 
@@ -73,7 +73,7 @@ ht-degree: 36%
 1. 在 **[!UICONTROL Filters]** 选项卡中，添加两条过滤规则：
 
    * [!UICONTROL Project] > [!UICONTROL Status Equates With] > [!UICONTROL Complete]
-   * [!UICONTROL Project] >[!UICONTROL &#x200B; Actual Completion Date] > [!UICONTROL Last Quarter]
+   * [!UICONTROL Project] >[!UICONTROL  Actual Completion Date] > [!UICONTROL Last Quarter]
 
    ![在报告中添加过滤器的屏幕图像](assets/chart-report-filters.png)
 

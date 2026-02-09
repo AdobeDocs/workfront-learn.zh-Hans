@@ -1,5 +1,5 @@
 ---
-title: 了解分组的基本文本模式
+title: 浏览Workfront中分组的基文本模式
 description: 了解文本模式、驼峰式拼写以及可在Workfront中的报表分组中使用的一些基本文本模式。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11369
 exl-id: 5f45c64f-a22b-4983-91fd-9a1939f99fb1
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '285'
-ht-degree: 88%
+source-wordcount: '289'
+ht-degree: 82%
 
 ---
 
-# 了解分组的基本文本模式
+# 浏览Workfront中分组的基文本模式
 
 >[!PREREQUISITES]
 >
@@ -40,7 +40,7 @@ ht-degree: 88%
 * 什么是驼峰式拼写
 * 可在报表分组中使用的某些&#x200B;_文本模式代码块_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470789/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
 
 ## “了解分组的基本文本模式”活动
 

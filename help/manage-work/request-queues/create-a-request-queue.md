@@ -1,5 +1,5 @@
 ---
-title: 创建请求队列
+title: 在Workfront中创建请求队列
 description: 通过定义访问权限、自定义请求类型和字段、激活队列并测试其功能以实现无缝项目提交管理，创建高效的Workfront请求队列。
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ jira: KT-8958
 last-substantial-update: 2024-08-05T00:00:00Z
 exl-id: 7d581548-7060-426d-a89b-97bddd0fbc96
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '244'
-ht-degree: 11%
+source-wordcount: '248'
+ht-degree: 8%
 
 ---
 
-# 创建请求队列
+# 在Workfront中创建请求队列
 
 该视频提供了有关在Workfont中创建请求队列的分步指南。&#x200B;AEM 本视频的结尾演示了如何使用新创建的队列提交请求，显示了在“提交的请求”选项卡中输入详细信息并验证提交的过程。&#x200B;AEM
 

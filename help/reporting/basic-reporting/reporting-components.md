@@ -1,5 +1,5 @@
 ---
-title: 了解报告组件
+title: 浏览Workfront中的报表组件
 description: Workfront的报表组件通过基于对象的筛选器、动态视图、结构化分组和通配符功能来优化数据可视化，以提供量身定制的见解。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8850
 last-substantial-update: 2025-04-28T00:00:00Z
 exl-id: e9f9ba24-540f-49e1-ac52-740df489317b
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '522'
-ht-degree: 44%
+source-wordcount: '526'
+ht-degree: 43%
 
 ---
 
-# 了解报告组件
+# 浏览Workfront中的报表组件
 
 此视频介绍Workfront中报表组件的概念，这些组件对于创建筛选器、视图和分组至关重要。 关键组件包括：
 
@@ -29,7 +29,7 @@ ht-degree: 44%
 * **筛选器限定符：**&#x200B;定义要在报告中包含或排除的值，例如显示优先级为“高”的任务&#x200B;。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3447031/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 

@@ -1,5 +1,5 @@
 ---
-title: 创建请求流
+title: 在Workfront中创建请求流
 description: 通过为高效分配创建路由规则、使用嵌套主题组组织请求、将队列主题链接到工作流、测试请求流功能以及进行灵活调整以确保准确性和效率来优化请求管理。
 activity: deploy
 feature: Work Management
@@ -13,14 +13,14 @@ last-substantial-update: 2024-09-11T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 194df349-541d-4940-a6a5-b5d47cb58cf4
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '402'
-ht-degree: 9%
+source-wordcount: '406'
+ht-degree: 7%
 
 ---
 
-# 创建请求流
+# 在Workfront中创建请求流
 
 >[!PREREQUISITES]
 >
@@ -31,7 +31,7 @@ ht-degree: 9%
 然后，该视频演示了如何创建队列主题，这些主题链接到路由规则、主题组、自定义表单、审批流程和默认持续时间。
 最后，该视频演示了如何通过提交请求来测试设置，以确保正确路由该请求。&#x200B;AEM 如果出现任何问题，可以对队列进行调整。&#x200B;AEM 该视频强调验证请求流的结构和功能的重要性，以确保正确的路由和组织。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433832/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335223/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 

@@ -1,5 +1,5 @@
 ---
-title: 了解现有的过滤器
+title: 为复杂报表创建EXISTS过滤器
 description: 了解什么是 EXISTS 过滤器、它能为您带来哪些作用，以及如何从零开始构建一个。此外，还可以查看多个有用的 EXISTS 过滤器示例。
 activity: use
 team: Technical Marketing
@@ -11,22 +11,22 @@ jira: KT-1880
 last-substantial-update: 2025-08-25T00:00:00Z
 doc-type: video
 exl-id: f518a919-0c44-4122-873a-e2f10e3162d5
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '688'
 ht-degree: 4%
 
 ---
 
-# 了解现有的过滤器
+# 为复杂报表创建EXISTS过滤器
 
 EXISTS过滤器是高级的文本模式过滤器，这使我们能够绕过标准Report Builder中2个表/字段跳转限制。 或者，它们可用于通过NOTEXISTS识别系统中缺少特定关系条件的对象。
 
 在本视频中，您将了解如何创建存在过滤器以在验证审批报告中查看“当前项目的验证审批”。
 
-有关EXISTS函数的更深入演练，请参阅[使用EXISTS语句创建复杂的文本模式筛选器](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)文档。
+有关EXISTS函数的更深入演练，请参阅[使用EXISTS语句创建复杂的文本模式筛选器](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471213/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
 
 ## EXISTS过滤器示例
 

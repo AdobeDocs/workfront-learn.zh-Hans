@@ -1,5 +1,5 @@
 ---
-title: 了解其他日程表报告选项
+title: 探索高级日历报告功能
 description: 了解如何复制、编辑、共享和删除日程表。
 activity: use
 feature: Reports and Dashboards
@@ -11,14 +11,14 @@ team: Technical Marketing
 thumbnail: understand-additional-calendar-options.png
 jira: KT-10023
 exl-id: 329e8288-d2ec-4350-8374-59aa47241ef8
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# 了解其他日程表报告选项
+# 探索高级日历报告功能
 
 日程表报告是一种动态报告，其中会在日程表视图中显示工作和休息时间。您可以在日程表报告中显示以下对象的日期信息：
 
@@ -35,4 +35,4 @@ ht-degree: 100%
 * 共享日程表
 * 删除日程表
 
->[!VIDEO](https://video.tv.adobe.com/v/3445066/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)

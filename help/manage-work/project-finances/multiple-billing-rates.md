@@ -1,5 +1,5 @@
 ---
-title: 了解多种计费费率
+title: 自定义工作角色的记帐费率
 description: 在项目级别自定义和管理工作角色的记帐费率。
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: bda562b9-f8da-49c9-bea7-0440fdc4c24c
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 11%
+source-wordcount: '173'
+ht-degree: 6%
 
 ---
 
 
-# 了解多种计费费率
+# 自定义工作角色的记帐费率
 
 此视频介绍如何管理和自定义项目中工作角色的计费率。&#x200B;AEM它强调灵活地为同一工作角色设定多种收费率，并确保进行准确的时间调整。&#x200B;AEM
 

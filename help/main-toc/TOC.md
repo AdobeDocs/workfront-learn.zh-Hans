@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解Workfront功能和设置。
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '2388'
-ht-degree: 83%
+source-wordcount: '2445'
+ht-degree: 75%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 83%
       + [使用布局模板自定义术语](/help/administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [使用布局模板自定义 [!UICONTROL Main Menu]](/help/administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
       + [通过布局模板添加和管理固定页面](/help/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
-      + [使用布局模板自定义主页 &#x200B;](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
+      + [使用布局模板自定义主页 ](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [分配和管理对布局模板的访问](/help/administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [使用布局模板自定义对象区域](/help/administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [使用布局模板自定义项目详细信息](/help/administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
@@ -119,8 +119,8 @@ ht-degree: 83%
       + [浏览项目管理的筛选器、视图和分组](/help/manage-work/projects/view-project-information.md)
       + [跟踪项目整体进度](/help/manage-work/projects/track-overall-project-progress.md)
       + [使用项目指标跟踪工作进度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-      + [了解 [!UICONTROL Gantt] 视图](/help/manage-work/projects/understand-the-gantt-view.md)
-      + [了解 [!UICONTROL Board] 视图](/help/manage-work/projects/understand-the-board-view.md)
+      + [浏览项目管理的甘特图](/help/manage-work/projects/understand-the-gantt-view.md)
+      + [探索任务管理的讨论区视图](/help/manage-work/projects/understand-the-board-view.md)
 
    + 任务 {#tasks}
       + [在Workfront中高效创建任务](/help/manage-work/tasks/how-to-create-tasks.md)
@@ -140,15 +140,15 @@ ht-degree: 83%
       + [有效管理问题分配](/help/manage-work/issues-requests/manage-issue-assignments.md)
       + [有效地更新问题状态](/help/manage-work/tasks/update-the-issue-status.md)
       + [在Workfront中更新请求](/help/manage-work/issues-requests/update-a-request.md)
-      + [将问题/请求转化为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-      + [将问题/请求转化为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+      + [将问题或请求转换为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+      + [将问题或请求转换为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
       + [创建用于问题管理的自定义报告](/help/manage-work/issues-requests/report-on-issues.md)
 
    + 请求队列 {#request-queues}
-      + [了解请求队列](/help/manage-work/request-queues/understand-request-queues.md)
-      + [创建请求队列](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [了解请求流量的设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [创建请求流量](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [浏览Workfront中的请求队列](/help/manage-work/request-queues/understand-request-queues.md)
+      + [在Workfront中创建请求队列](/help/manage-work/request-queues/create-a-request-queue.md)
+      + [组织您的请求流设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [在Workfront中创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
       + [创建系统管理员反馈请求队列](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [有关请求队列的常见问题解答](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -183,50 +183,50 @@ ht-degree: 83%
       + [解决任务和问题的审批](/help/manage-work/close-a-project/complete-approvals.md)
       + [上传和管理项目资源](/help/manage-work/close-a-project/upload-assets.md)
       + [记录为未来项目吸取的经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-      + [记录和审阅时间](/help/manage-work/close-a-project/log-and-review-hours.md)
+      + [记录和审查项目小时](/help/manage-work/close-a-project/log-and-review-hours.md)
 
    + 用户的项目财务 {#project-finances-users}
-      + [查找财务信息](/help/manage-work/project-finances/find-financial-information.md)
-      + [更新财务](/help/manage-work/project-finances/update-and-review-finances.md)
-      + [了解多种计费费率](/help/manage-work/project-finances/multiple-billing-rates.md)
+      + [访问和管理项目和任务的财务信息](/help/manage-work/project-finances/find-financial-information.md)
+      + [更新客户端项目的财务](/help/manage-work/project-finances/update-and-review-finances.md)
+      + [自定义工作角色的记帐费率](/help/manage-work/project-finances/multiple-billing-rates.md)
 
    + 中间项目 {#intermediate-projects}
-      + [了解和管理持续时间类型和任务限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
-      + [了解跨项目前置任务](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [高级前置任务](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [主持续时间类型和任务限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [建立与跨项目前置任务的依赖关系](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
+      + [主高级任务依赖关系](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + 报告 {#reporting}
    + 基本报告 {#basic-reporting}
-      + [了解报告要素](/help/reporting/basic-reporting/reporting-elements.md)
-      + [了解报告组件](/help/reporting/basic-reporting/reporting-components.md)
+      + [探索Workfront报表元素](/help/reporting/basic-reporting/reporting-elements.md)
+      + [浏览Workfront中的报表组件](/help/reporting/basic-reporting/reporting-components.md)
       + [创建基本分组](/help/reporting/basic-reporting/create-a-basic-grouping.md)
       + [创建基本视图](/help/reporting/basic-reporting/create-a-basic-view.md)
       + [向视图中添加基本条件格式](/help/reporting/basic-reporting/add-basic-conditional-formatting-to-a-view.md)
       + [创建基本过滤器](/help/reporting/basic-reporting/create-a-basic-filter.md)
-      + [了解新的过滤器体验](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
+      + [探索新的筛选器体验](/help/reporting/basic-reporting/understand-the-new-filter-experience.md)
       + [创建基本过滤器活动](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
       + [创建简单的报告](/help/reporting/basic-reporting/create-a-simple-report.md)
-      + [单击任务报告](/help/reporting/basic-reporting/create-a-task-report.md)
-      + [复制报告](/help/reporting/basic-reporting/copy-a-report.md)
-      + [创建带有图表的报告](/help/reporting/basic-reporting/create-reports-with-charts.md)
+      + [为延迟分配创建任务报告](/help/reporting/basic-reporting/create-a-task-report.md)
+      + [复制和编辑报告](/help/reporting/basic-reporting/copy-a-report.md)
+      + [使用报表中的图表可视化数据](/help/reporting/basic-reporting/create-reports-with-charts.md)
       + [创建矩阵报告](/help/reporting/basic-reporting/create-a-matrix-report.md)
-      + [创建仪表板](/help/reporting/basic-reporting/create-dashboards.md)
-      + [发送和共享报告](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
-      + [了解报告设置](/help/reporting/basic-reporting/report-settings.md)
+      + [在Workfront中创建仪表板](/help/reporting/basic-reporting/create-dashboards.md)
+      + [有效地发送和共享报告](/help/reporting/basic-reporting/how-to-send-and-share-reports.md)
+      + [浏览报告设置和提示](/help/reporting/basic-reporting/report-settings.md)
 
    + 中间报告 {#intermediate-reporting}
       + [使用基于用户的通配符创建过滤器](/help/reporting/intermediate-reporting/create-filters-with-user-based-wildcards.md)
       + [使用基于日期的通配符创建过滤器](/help/reporting/intermediate-reporting/create-filters-with-date-based-wildcards.md)
       + [在过滤器中创建 OR 语句](/help/reporting/intermediate-reporting/or-statements-in-filters.md)
-      + [了解内置项目过滤器](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
-      + [了解内置任务过滤器](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
-      + [了解内置问题过滤器](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
-      + [了解过滤器的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
-      + [了解视图的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
-      + [了解分组的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
-      + [创建自定义提示](/help/reporting/intermediate-reporting/custom-prompts.md)
-      + [了解现有的过滤器](/help/reporting/intermediate-reporting/understand-exists-filters.md)
+      + [探索内置项目过滤器](/help/reporting/intermediate-reporting/open-built-in-project-filters.md)
+      + [浏览内置任务筛选器](/help/reporting/intermediate-reporting/open-built-in-task-filters.md)
+      + [探索内置问题过滤器](/help/reporting/intermediate-reporting/open-built-in-issue-filters.md)
+      + [浏览Workfront中过滤器的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-filters.md)
+      + [浏览Workfront中视图的基本文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-views.md)
+      + [浏览Workfront中分组的基文本模式](/help/reporting/intermediate-reporting/basic-text-mode-for-groupings.md)
+      + [使用文本模式创建自定义提示](/help/reporting/intermediate-reporting/custom-prompts.md)
+      + [为复杂报表创建EXISTS过滤器](/help/reporting/intermediate-reporting/understand-exists-filters.md)
 
    + 高级报告 {#advanced-reporting}
       + [欢迎使用高级报告](/help/reporting/advanced-reporting/welcome-to-advanced-reporting.md)
@@ -235,18 +235,18 @@ ht-degree: 83%
       + [高级报告第 3 部分](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + 日历报表 {#calendar-reports}
-      + [了解日程表报告界面](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [浏览日历报表界面](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [创建自定义日程表报告](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [了解其他日程表报告选项](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [探索高级日历报告功能](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [活动 — 创建日历报告](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 画布仪表板 {#canvas-dashboards}
-      + [Canvas 仪表板介绍](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+      + [浏览Workfront中的画布功能板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
       + [在 Canvas 仪表板上创建 KPI 报告](/help/reporting/canvas-dashboards/create-a-kpi-report-on-a-canvas-dashboard.md)
       + [在画布功能板上创建图表报告](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
       + [在画布功能板中创建表报告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
       + [向画布功能板报表添加条件格式](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-      + [在画布功能板报表中使用OR过滤器](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+      + [在画布功能板报告中应用OR过滤器](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
 
 + 管理资源 {#manage-resources}
    + 资源管理 {#resource-management}
@@ -335,10 +335,10 @@ ht-degree: 83%
       + [使用 Adobe Workfront 插件与 Creative Cloud 集成](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-      + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hans)
-      + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hans)
-      + [发送文档并链接资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hans)
-      + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hans)
+      + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
+      + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
+      + [发送文档并链接资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
+      + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
 
    + G Suite {#g-suite-integrations}
       + [通过与 G Suite 集成增强您的工作流](/help/integrations/g-suite-integrations/worfront-for-g-suite-integrations.md)
@@ -350,13 +350,13 @@ ht-degree: 83%
       + [安装 Microsoft Outlook 插件](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hans)
-      + [安装 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 访问 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中搜索并共享 Adobe Workfront 项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 创建 Adobe Workfront 任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 提交 Adobe Workfront 请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hans)
+      + [Adobe Workfront for Microsoft Teams 概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html)
+      + [安装 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html)
+      + [从 Microsoft Teams 访问 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html)
+      + [在 Microsoft Teams 中搜索并共享 Adobe Workfront 项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html)
+      + [从 Microsoft Teams 创建 Adobe Workfront 任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html)
+      + [从 Microsoft Teams 提交 Adobe Workfront 请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html)
+      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html)
 
    + Slack {#slack}
       + [了解 Workfront for [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -616,7 +616,7 @@ ht-degree: 83%
    + [项目、任务和问题首选项](/help/best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](/help/best-practices/project-templates-bp.md)
    + [校对](/help/best-practices/proofing-bp.md)
-   + [请求队列 &#x200B;](/help/best-practices/request-queues-bp.md)
+   + [请求队列 ](/help/best-practices/request-queues-bp.md)
    + [资源规划程序](/help/best-practices/resource-planner-bp.md)
    + [资源池](/help/best-practices/resource-pools-bp.md)
    + [场景计划器](/help/best-practices/scenario-planner-bp.md)

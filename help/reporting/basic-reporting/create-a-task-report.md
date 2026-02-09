@@ -1,5 +1,5 @@
 ---
-title: 单击任务报告
+title: 为延迟分配创建任务报告
 description: 了解如何创建具有复杂过滤器的任务报告以及查找您在 Workfront 中创建的报告。
 activity: use
 feature: Reports and Dashboards
@@ -12,20 +12,20 @@ last-substantial-update: 2025-06-11T00:00:00Z
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '1004'
-ht-degree: 75%
+source-wordcount: '1010'
+ht-degree: 74%
 
 ---
 
-# 单击任务报告
+# 为延迟分配创建任务报告
 
 此视频分步介绍了如何创建自定义报告以跟踪分配给登录用户的延迟任务。 首先，它解释了当现有过滤器、视图或内置报告不符合特定要求时，对自定义报告的需求。&#x200B;AEM 该报表名为“分配给我的延迟任务”，并增加了描述以明确说明。&#x200B;AEM
 
 生成的报表可帮助用户专注于后期任务，提供依赖关系的洞察，并简化到主机项目的导航。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3448352/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335154/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 
@@ -119,9 +119,9 @@ ht-degree: 75%
 
 ### 活动 2：创建管理团队反馈报告
 
-这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hans)教程中了解如何创建此请求队列。
+这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html)教程中了解如何创建此请求队列。
 
-该报告还使用了自定义表格。要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hans)教程。
+该报告还使用了自定义表格。要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)教程。
 
 此自定义表单应使用“项目”和“问题”对象类型，并应按如下方式创建：
 

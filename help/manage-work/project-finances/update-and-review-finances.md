@@ -1,5 +1,5 @@
 ---
-title: 更新财务
+title: 更新客户端项目的财务
 description: 通过定义费率、为任务分配成本和收入类型、管理费用和创建账单记录来简化成本跟踪和计费。Workfront 不进行实际计费。
 activity: use
 team: Technical Marketing
@@ -13,15 +13,15 @@ exl-id: fd977963-c8fe-4200-b46e-3de46373f400
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '359'
+source-wordcount: '365'
 ht-degree: 11%
 
 ---
 
 
-# 更新财务
+# 更新客户端项目的财务
 
 此视频提供了有关跟踪时间、费用以及为客户端项目创建账单记录的详细指南。&#x200B;AEM 要点包括：
 

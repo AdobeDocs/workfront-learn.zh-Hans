@@ -1,5 +1,5 @@
 ---
-title: 了解和管理持续时间类型和任务限制
+title: 主持续时间类型和任务限制
 description: 了解持续时间类型和任务限制，并了解如何确保在项目中正确地设置它们。
 feature: Work Management
 thumbnail: 3420986.jpg
@@ -12,14 +12,14 @@ last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13530
 doc-type: video
 exl-id: bd82f007-0d15-4031-94dd-2f41c158c3a2
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 100%
+source-wordcount: '138'
+ht-degree: 91%
 
 ---
 
-# 了解和管理持续时间类型和任务限制
+# 主持续时间类型和任务限制
 
 在本视频中，您将了解以下有关持续时间类型和任务限制的知识：
 
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 使用它们的最佳实践
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422822/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
 有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)的持续时间类型和任务限制视图**&#x200B;活动。

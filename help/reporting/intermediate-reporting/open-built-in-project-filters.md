@@ -1,5 +1,5 @@
 ---
-title: 了解内置项目过滤器
+title: 探索内置项目过滤器
 description: 了解如何查看内置项目过滤器，以了解它们的构建方式，并在 Workfront 中创建您自己的项目过滤器。
 activity: use
 feature: Reports and Dashboards
@@ -12,21 +12,21 @@ last-substantial-update: 2025-07-24T00:00:00Z
 jira: KT-9083
 exl-id: 8180029a-a350-45cb-9948-eb5b44276b86
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '158'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
-# 了解内置项目过滤器
+# 探索内置项目过滤器
 
 在本视频中，您将学习如何：
 
 * 查看内置项目过滤器，以了解它们的构建方式
 * 使用您所学到的知识创建您自己的项目过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412664/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
 
 ## “了解内置项目过滤器”活动
 

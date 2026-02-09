@@ -1,5 +1,5 @@
 ---
-title: 了解请求队列
+title: 浏览Workfront中的请求队列
 description: 通过集中的提交请求队列、高效的队列管理和对已提交请求的轻松访问，简化了Workfront中的操作，从而改进了项目工作流。
 activity: use
 feature: Work Management,Get Started with Workfront
@@ -13,18 +13,18 @@ recommendations: noDisplay,catalog
 jira: KT-8957
 exl-id: 8d6f8ddc-c08e-46f6-8b77-50af02c36b5c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 12%
+source-wordcount: '225'
+ht-degree: 9%
 
 ---
 
-# 了解请求队列
+# 浏览Workfront中的请求队列
 
 此视频介绍Workfront中请求队列的概念、用途以及如何提交和管理请求。&#x200B;AEM 请求队列用作提交各种类型请求的集中位置。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3447020/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

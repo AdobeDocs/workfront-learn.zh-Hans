@@ -1,5 +1,5 @@
 ---
-title: 了解视图的基本文本模式
+title: 浏览Workfront中视图的基本文本模式
 description: 了解文本模式、驼峰式拼写以及可在Workfront的报告视图中使用的一些基本文本模式。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-08-12T00:00:00Z
 jira: KT-11367
 exl-id: 156e5510-4a51-449f-9c8c-e16fdd8ea23d
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '649'
-ht-degree: 94%
+source-wordcount: '653'
+ht-degree: 92%
 
 ---
 
-# 了解视图的基本文本模式
+# 浏览Workfront中视图的基本文本模式
 
 
 >[!PREREQUISITES]
@@ -41,7 +41,7 @@ ht-degree: 94%
 * 什么是驼峰式拼写
 * 您可以在报表视图中使用某些&#x200B;_文本模式代码块_
 
->[!VIDEO](https://video.tv.adobe.com/v/3470798/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3410571/?quality=12&learn=on&enablevpops=0)
 
 ## “了解视图的基本文本模式”活动
 

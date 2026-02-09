@@ -1,5 +1,5 @@
 ---
-title: 了解 [!UICONTROL Board] 视图
+title: 探索任务管理的讨论区视图
 description: 使用[!UICONTROL Board]视图的 [!DNL Kanban] 界面简化Workfront中的任务管理，提供任务排序、创建、自定义以及与任务列表视图的无缝集成，以实现高效的项目组织。
 activity: use
 team: Technical Marketing
@@ -12,18 +12,18 @@ last-substantial-update: 2024-02-13T00:00:00Z
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 10%
+source-wordcount: '302'
+ht-degree: 8%
 
 ---
 
-# 了解 [!UICONTROL Board] 视图
+# 探索任务管理的讨论区视图
 
 此视频介绍了Workfront中的展示板查看功能，该功能提供了查看和管理项目任务的替代方式。&#x200B;AEM 在“展示板”视图中，任务在Kanban样式的展示板上显示为卡片，允许用户在列内或列之间排序、分组和移动任务。&#x200B;AEM 移动任务会自动更新其状态，这反映在任务列表视图中。&#x200B;AEM 用户可以创建新信息卡，这些信息卡在项目中生成新任务，并直接在展示板视图中编辑或分配它们。&#x200B;AEM 可以配置列和卡片，并且可以使用任务列表视图中的前置任务对任务进行排序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423274/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

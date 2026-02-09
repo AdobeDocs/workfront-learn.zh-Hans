@@ -1,5 +1,5 @@
 ---
-title: 记录和审阅时间
+title: 记录和审查项目小时
 description: 在结束项目之前，记录未完成的小时数并审阅记录的小时数。
 activity: use
 team: Technical Marketing
@@ -13,21 +13,21 @@ recommendations: noDisplay,catalog
 last-substantial-update: 2024-12-12T00:00:00Z
 exl-id: 3c783592-45a3-4f97-b963-e660659375f6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 100%
+source-wordcount: '58'
+ht-degree: 82%
 
 ---
 
-# 记录和审阅时间
+# 记录和审查项目小时
 
 在本视频中，您将了解到如何：
 
 * 审阅项目的时间记录
 * 如果需要，批准项目时间
 
->[!VIDEO](https://video.tv.adobe.com/v/3441079/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

@@ -1,5 +1,5 @@
 ---
-title: 了解内置问题过滤器
+title: 探索内置问题过滤器
 description: 了解如何查看内置问题过滤器，以了解它们的构建方式，并在 Workfront 中创建您自己的问题过滤器。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-25T00:00:00Z
 jira: KT-9085
 exl-id: c1bdea98-e70a-4e93-935c-b8f7754afa21
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
 source-wordcount: '273'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
-# 了解内置问题过滤器
+# 探索内置问题过滤器
 
 在此视频中，您将：
 
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 了解一些有用的问题报告元素
 * 了解如何创建您自己的问题过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412676/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
 
 
 ## “了解内置问题过滤器”活动

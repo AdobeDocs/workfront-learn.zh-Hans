@@ -1,5 +1,5 @@
 ---
-title: 了解报告设置
+title: 浏览报告设置和提示
 description: 了解如何访问 Workfront 报告设置以及一些常见报告设置的用途。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ jira: KT-8871
 last-substantial-update: 2025-05-30T00:00:00Z
 exl-id: ed4b3395-9582-4b3f-b87b-8121315b7c9c
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 61%
+source-wordcount: '58'
+ht-degree: 46%
 
 ---
 
-# 了解报告设置
+# 浏览报告设置和提示
 
 在本视频中，您将了解到：
 
@@ -27,4 +27,4 @@ ht-degree: 61%
 * 如何使用特定用户的访问权限运行报告
 * 如何设置和使用报告提示
 
->[!VIDEO](https://video.tv.adobe.com/v/3445873/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335159/?quality=12&learn=on&enablevpops=1)

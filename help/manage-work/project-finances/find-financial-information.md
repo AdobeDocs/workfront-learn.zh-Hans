@@ -1,5 +1,5 @@
 ---
-title: 查找财务信息
+title: 访问和管理项目和任务的财务信息
 description: 了解如何有效地访问、分析和管理项目和任务的财务数据，涵盖项目和任务级别的预算、收入、成本和绩效指标。
 activity: use
 feature: Work Management
@@ -13,18 +13,18 @@ exl-id: 8b50c79a-d5b7-4127-8daf-8a449b3fe570
 last-substantial-update: 2025-04-16T00:00:00Z
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 21%
+source-wordcount: '217'
+ht-degree: 17%
 
 ---
 
-# 查找财务信息
+# 访问和管理项目和任务的财务信息
 
 此视频介绍如何访问和管理项目和任务的财务信息。&#x200B;AEM它提供了在项目层和任务层导航和了解财务数据的全面概述。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/3415893/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

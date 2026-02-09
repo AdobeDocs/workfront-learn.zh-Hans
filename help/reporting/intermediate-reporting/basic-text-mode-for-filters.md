@@ -1,5 +1,5 @@
 ---
-title: 了解过滤器的基本文本模式
+title: 浏览Workfront中过滤器的基本文本模式
 description: 了解文本模式、驼峰式拼写以及可在Workfront的报告过滤器中使用的一些基本文本模式。
 activity: use
 feature: Reports and Dashboards
@@ -12,14 +12,14 @@ last-substantial-update: 2025-07-30T00:00:00Z
 jira: KT-9086
 exl-id: b3f16468-b720-468d-887a-b313fc32bd89
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '421'
-ht-degree: 90%
+source-wordcount: '425'
+ht-degree: 87%
 
 ---
 
-# 了解过滤器的基本文本模式
+# 浏览Workfront中过滤器的基本文本模式
 
 >[!PREREQUISITES]
 >
@@ -41,7 +41,7 @@ ht-degree: 90%
 * 驼峰式拼写
 * 一些&#x200B;_文本模式代码块_&#x200B;可用于报表过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/3412682/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
 
 ## “了解过滤器的基本文本模式”活动
 

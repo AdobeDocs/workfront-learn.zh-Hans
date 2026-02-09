@@ -1,5 +1,5 @@
 ---
-title: 创建仪表板
+title: 在Workfront中创建仪表板
 description: 使用 Workfront 仪表板组织和显示项目数据，可以自定义、轻松访问、共享和打印，实现无缝项目管理和协作。
 activity: use
 feature: Reports and Dashboards
@@ -12,19 +12,19 @@ jira: KT-8862
 last-substantial-update: 2025-05-28T00:00:00Z
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
 workflow-type: tm+mt
-source-wordcount: '601'
-ht-degree: 52%
+source-wordcount: '605'
+ht-degree: 51%
 
 ---
 
-# 创建仪表板
+# 在Workfront中创建仪表板
 
 此视频提供了全面指南，让您了解并使用Workfront中的功能板。
 &#x200B;AEM它解释说，功能板是报表的集合，允许用户在一个位置组织和显示相关数据。
 
->[!VIDEO](https://video.tv.adobe.com/v/3449132/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335157/?quality=12&learn=on&enablevpops=0)
 
 ## 要点
 
@@ -41,7 +41,7 @@ ht-degree: 52%
 
 创建一个只有一个报告的 [!UICONTROL dashboard]——“搜索该项目中的注释。”这对于快速查找项目上的任何更新非常有用，即使有数千条更新内容需要搜索也是如此。这将会搜索更新跟帖内容，以快速提取能够满足您在提示中指定的条件的任何更新。
 
-通过复制您在“创建注释报告”活动中创建的“搜索注释”报告来创建此报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
+通过复制您在“创建注释报告”活动中创建的“搜索注释”报告来创建此报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
 
 * 从副本中删除“项目名称”提示，并将报告重命名为“搜索该报告中的注释”。
 * 将 [!UICONTROL Dashboard] 命名为“搜索注释。”
@@ -50,7 +50,7 @@ ht-degree: 52%
 
 ### 答案 1
 
-1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
+1. 运行您在“创建注释报告”活动中创建的报告。 尚未创建它？ 单击此处可在[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-1-create-a-note-report-with-prompts)教程中查看活动。
 1. 单击 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Copy]**。[!DNL Workfront] 会创建一个名为“注释搜索（副本）”的新报告。
 1. 前往 **[!UICONTROL Report Actions]** 并选择 **[!UICONTROL Edit]**。单击 **[!UICONTROL Report Settings]** 并将名称更改为“搜索该项目中的注释。”
 1. 单击 [!UICONTROL Report Prompts] 并从列表中删除 [!UICONTROL Project] > [!UICONTROL Name] 提示。
