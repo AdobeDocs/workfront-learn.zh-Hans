@@ -26,7 +26,7 @@ EXISTS过滤器是高级的文本模式过滤器，这使我们能够绕过标�
 
 有关EXISTS函数的更深入演练，请参阅[使用EXISTS语句创建复杂的文本模式筛选器](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/text-mode/create-complex-text-mode-filters-using-exists-statements)文档。
 
->[!VIDEO](https://video.tv.adobe.com/v/3471181/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3471213/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## EXISTS过滤器示例
 

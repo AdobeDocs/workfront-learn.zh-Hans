@@ -27,7 +27,7 @@ ht-degree: 97%
 * 了解一些有用的问题报告元素
 * 了解如何创建您自己的问题过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/336819/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412676/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 
 ## “了解内置问题过滤器”活动

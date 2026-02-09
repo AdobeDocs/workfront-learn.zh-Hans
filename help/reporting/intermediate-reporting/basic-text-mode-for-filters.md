@@ -41,7 +41,7 @@ ht-degree: 87%
 * 驼峰式拼写
 * 一些&#x200B;_文本模式代码块_&#x200B;可用于报表过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/336820/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412682/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## “了解过滤器的基本文本模式”活动
 

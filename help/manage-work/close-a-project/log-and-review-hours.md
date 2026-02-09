@@ -27,7 +27,7 @@ ht-degree: 82%
 * 审阅项目的时间记录
 * 如果需要，批准项目时间
 
->[!VIDEO](https://video.tv.adobe.com/v/3441069/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441079/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

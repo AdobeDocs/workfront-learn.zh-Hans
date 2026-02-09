@@ -23,4 +23,4 @@ ht-degree: 75%
 
 了解如何通过复制和编辑类似报告来快速创建新报告。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437055/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

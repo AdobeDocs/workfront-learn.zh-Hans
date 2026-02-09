@@ -40,7 +40,7 @@ ht-degree: 82%
 * 什么是驼峰式拼写
 * 可在报表分组中使用的某些&#x200B;_文本模式代码块_
 
->[!VIDEO](https://video.tv.adobe.com/v/3410641/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3470789/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## “了解分组的基本文本模式”活动
 

@@ -23,7 +23,7 @@ ht-degree: 8%
 
 此视频介绍了Workfront中的展示板查看功能，该功能提供了查看和管理项目任务的替代方式。&#x200B;AEM 在“展示板”视图中，任务在Kanban样式的展示板上显示为卡片，允许用户在列内或列之间排序、分组和移动任务。&#x200B;AEM 移动任务会自动更新其状态，这反映在任务列表视图中。&#x200B;AEM 用户可以创建新信息卡，这些信息卡在项目中生成新任务，并直接在展示板视图中编辑或分配它们。&#x200B;AEM 可以配置列和卡片，并且可以使用任务列表视图中的前置任务对任务进行排序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423274/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

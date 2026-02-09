@@ -29,7 +29,7 @@ ht-degree: 43%
 * **筛选器限定符：**&#x200B;定义要在报告中包含或排除的值，例如显示优先级为“高”的任务&#x200B;。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335146/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3447031/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## 要点
 

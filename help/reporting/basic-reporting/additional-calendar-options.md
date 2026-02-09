@@ -35,4 +35,4 @@ ht-degree: 87%
 * 共享日程表
 * 删除日程表
 
->[!VIDEO](https://video.tv.adobe.com/v/3423530/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445066/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

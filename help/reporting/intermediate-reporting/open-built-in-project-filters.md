@@ -26,7 +26,7 @@ ht-degree: 94%
 * 查看内置项目过滤器，以了解它们的构建方式
 * 使用您所学到的知识创建您自己的项目过滤器
 
->[!VIDEO](https://video.tv.adobe.com/v/336817/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3412664/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## “了解内置项目过滤器”活动
 

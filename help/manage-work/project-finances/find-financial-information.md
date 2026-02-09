@@ -24,7 +24,7 @@ ht-degree: 17%
 
 此视频介绍如何访问和管理项目和任务的财务信息。&#x200B;AEM它提供了在项目层和任务层导航和了解财务数据的全面概述。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335208/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415893/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

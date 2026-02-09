@@ -35,4 +35,4 @@ ht-degree: 87%
 * 概要信息
 * 以及如何创建临时日程表项目
 
->[!VIDEO](https://video.tv.adobe.com/v/3423318/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438775/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
