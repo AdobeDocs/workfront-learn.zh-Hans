@@ -23,7 +23,7 @@ ht-degree: 24%
 了解管理员如何安装Blueprint以及用户如何将其投入使用。 在此示例中，我们将安装“面向新用户的Workfront培训”Blueprint，并使用其创建的模板和视图作为培训核对清单来帮助启用Workfront中的用户。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479845/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## 要点
 
