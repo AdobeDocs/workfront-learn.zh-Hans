@@ -13,7 +13,7 @@ jira: KT-9001
 exl-id: 78408bf8-e676-4e49-b023-5ea0a6999229
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
+source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
 workflow-type: tm+mt
 source-wordcount: '130'
 ht-degree: 82%
@@ -34,9 +34,9 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 * 使用场景设计器
 * 创建基本场景
 
->[!VIDEO](https://video.tv.adobe.com/v/3415971/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
 
-## 在测试驱动器实例中创建OAuth应用程序集成时，以下是&#x200B;**重定向URL**&#x200B;字段中要粘贴的URL
+**在试用实例中创建OAuth应用程序集成时，在“重定向URL”字段中粘贴以下URL**
 
 ```
 https://app.workfrontfusion.com/oauth/cb/workfront-workfront
@@ -44,4 +44,4 @@ https://app.workfrontfusion.com/oauth/cb/workfront-workfront
 
 ## 想要了解详情？我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
