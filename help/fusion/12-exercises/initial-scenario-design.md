@@ -12,7 +12,7 @@ thumbnail: KT11038.png
 last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 181f611224fc0a981008b04579aa9886594dc183
+source-git-commit: be157b67df534e0be0f58e8aa04a6646950541d0
 workflow-type: tm+mt
 source-wordcount: '1181'
 ht-degree: 77%
@@ -50,19 +50,19 @@ ht-degree: 77%
 
 1. 在连接到Workfront实例之前，您需要先在该Workfront实例中创建OAuth 2.0连接器。 若要登录Workfront实例，请转到&#x200B;**设置>系统> OAuth2应用程序**，然后单击&#x200B;**创建应用程序集成**。
 
-填写表单的第一页，如下所示，然后单击&#x200B;**创建**。
+   填写表单的第一页，如下所示，然后单击&#x200B;**创建**。
 
-![初始方案设计图像3a](../12-exercises/assets/initial-scenario-design-3a.png)
+   ![初始方案设计图像3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-当下一个屏幕出现时，在&#x200B;**重定向URL**&#x200B;字段中填写以下URL：
+1. 当下一个屏幕出现时，在&#x200B;**重定向URL**&#x200B;字段中填写以下URL：
 
-`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
+   `https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-![初始方案设计图像3b](../12-exercises/assets/initial-scenario-design-3b.png)
+   ![初始方案设计图像3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-然后单击&#x200B;**添加客户端密钥**&#x200B;按钮。 此时将显示客户端密码。 复制该模板并将其保存在可检索它以供将来步骤使用的位置。 在您的Fusion场景中需要它。 还复制并保存&#x200B;**客户端ID**&#x200B;以供将来步骤使用。 完成复制后，单击应用程序底部的&#x200B;**保存**。
+1. 然后单击&#x200B;**添加客户端密钥**&#x200B;按钮。 此时将显示客户端密码。 复制该模板并将其保存在可检索它以供将来步骤使用的位置。 在您的Fusion场景中需要它。 还复制并保存&#x200B;**客户端ID**&#x200B;以供将来步骤使用。 完成复制后，单击应用程序底部的&#x200B;**保存**。
 
-![初始方案设计图像3c](../12-exercises/assets/initial-scenario-design-3c.png)
+   ![初始方案设计图像3c](../12-exercises/assets/initial-scenario-design-3c.png)
 
 1. 返回Fusion后，单击“**添加**”按钮以创建与Workfront的连接。
 
