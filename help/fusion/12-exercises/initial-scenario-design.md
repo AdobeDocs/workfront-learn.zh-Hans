@@ -9,13 +9,13 @@ role: User
 level: Beginner
 jira: KT-11038
 thumbnail: KT11038.png
-last-substantial-update: 2025-06-02T00:00:00Z
+last-substantial-update: 2026-02-19T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 8ecf4979-f291-4788-bdaa-ab5485fb0849
-source-git-commit: 64b23532fba54ac1fbfba807e4b6f0490bfca631
+source-git-commit: 248683cd98cd123c4af9f34380a932deb714c62b
 workflow-type: tm+mt
-source-wordcount: '985'
-ht-degree: 97%
+source-wordcount: '1181'
+ht-degree: 77%
 
 ---
 
@@ -48,19 +48,37 @@ ht-degree: 97%
 
    **验证该模块与您的 Workfront 帐户的连接。**
 
-1. 如果是首次创建连接，请单击“添加”按钮。
+1. 在连接到Workfront实例之前，您需要先在该Workfront实例中创建OAuth 2.0连接器。 若要登录Workfront实例，请转到&#x200B;**设置>系统> OAuth2应用程序**，然后单击&#x200B;**创建应用程序集成**。
 
-   ![初始场景设计图像 3](../12-exercises/assets/initial-scenario-design-3.png)
+填写表单的第一页，如下所示，然后单击&#x200B;**创建**。
 
-1. 为该连接命名，例如“My Workfront 2020”
+![初始方案设计图像3a](../12-exercises/assets/initial-scenario-design-3a.png)
 
-   ![初始场景设计图像 4](../12-exercises/assets/initial-scenario-design-4.png)
+当下一个屏幕出现时，在&#x200B;**重定向URL**&#x200B;字段中填写以下URL：
 
-1. 输入&#x200B;**您的Workfront试用帐户**&#x200B;的URL，然后单击“下一步”。
+`https://app.workfrontfusion.com/oauth/cb/workfront-workfront`
 
-   ![初始场景设计图像 5](../12-exercises/assets/initial-scenario-design-5.png)
+![初始方案设计图像3b](../12-exercises/assets/initial-scenario-design-3b.png)
 
-1. 输入您的密码并单击“登录”。
+然后单击&#x200B;**添加客户端密钥**&#x200B;按钮。 此时将显示客户端密码。 复制该模板并将其保存在可检索它以供将来步骤使用的位置。 在您的Fusion场景中需要它。 还复制并保存&#x200B;**客户端ID**&#x200B;以供将来步骤使用。 完成复制后，单击应用程序底部的&#x200B;**保存**。
+
+![初始方案设计图像3c](../12-exercises/assets/initial-scenario-design-3c.png)
+
+1. 返回Fusion后，单击“**添加**”按钮以创建与Workfront的连接。
+
+   ![初始方案设计图像3d](../12-exercises/assets/initial-scenario-design-3d.png)
+
+1. 选择&#x200B;**Adobe Workfront身份验证**&#x200B;作为连接类型，并选中&#x200B;**显示高级设置**&#x200B;框。 然后单击&#x200B;**继续**。
+
+   ![初始方案设计图像4a](../12-exercises/assets/initial-scenario-design-4a.png)
+
+1. 使用您之前保存的&#x200B;**客户端ID**&#x200B;和&#x200B;**客户端密钥**&#x200B;在此处填写。 对于&#x200B;**身份验证URL**，最简单的方法是复制字段下给定的默认身份验证URL，并将`oauth.my`替换为`<domain name>.testdrive`，然后单击&#x200B;**继续**。
+
+   ![初始方案设计图像5a](../12-exercises/assets/initial-scenario-design-5a.png)
+
+1. 您的连接应该正在进行身份验证。 您可能需要登录到Workfront。 单击&#x200B;**允许访问**。
+
+   ![初始方案设计图像5b](../12-exercises/assets/initial-scenario-design-5b.png)
 
    **此时连接已建立。现在输入您要从 Workfront 下载的文档的文档 ID。**
 
