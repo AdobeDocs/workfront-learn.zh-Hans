@@ -40,9 +40,9 @@ ht-degree: 100%
 * 很好地理解如何使用自定义表单，尤其是计算自定义字段。
 * 具有可创建报告的权限并启用了过滤器的 [!UICONTROL Plan] 许可证类型。
 * 您应学习以下课程：
-   * [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html)
-   * [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html)
-   * [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html)
+   * [[!UICONTROL Basic Reporting Elements]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-1-reporting.html?lang=zh-Hans)
+   * [[!UICONTROL Create custom reports and dashboards]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-3-reporting.html?lang=zh-Hans)
+   * [[!UICONTROL Create intermediate filters]](https://experienceleague.adobe.com/docs/courses/using/workfront-u-1-2022-2-reporting.html?lang=zh-Hans)
 * 您还应学习以下教程：
    * [[!UICONTROL Understand basic text mode for views]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hans)
    * [[!UICONTROL Understand basic text mode for groupings]](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hans)
