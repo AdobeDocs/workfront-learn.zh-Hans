@@ -1,6 +1,6 @@
 ---
-title: 创建全局和一次性审批流程
-description: 利用任务、项目或问题的全局和一次性审批流程，实施多级别分阶段审批，并通过项目模板中的可重用性提高效率，从而增强审批工作流。
+title: Create and manage approval processes
+description: Enhance approval workflows by leveraging both global and single-use approval processes for tasks, projects, or issues, implementing multi-level staged approvals, and promoting efficiency through reusability in project templates.
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -13,28 +13,28 @@ last-substantial-update: 2025-03-26T00:00:00Z
 recommendations: noDisplay,catalog
 exl-id: 85d28b54-72a6-4dd1-bac8-8e7ffb3e2b76
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
 workflow-type: tm+mt
-source-wordcount: '294'
-ht-degree: 25%
+source-wordcount: '288'
+ht-degree: 20%
 
 ---
 
-# 创建全局和一次性审批流程
+# Create and manage approval processes
 
-此视频介绍如何创建和管理项目、任务或问题的批准流程，区分全局批准流程与一次性批准流程。
-此视频演示了如何创建审批流程、设置审批者、配置状态以及使用阶段进行多级审批。
-&#x200B;AEM它强调了全局和一次性流程在有效管理任务批准方面的灵活性。
+The video explains how to create and manage approval processes for projects, tasks, or issues, distinguishing between global and single-use approval processes.
+The video demonstrates creating approval processes, setting approvers, configuring statuses, and using stages for multi-level approvals.
+&#x200B;It highlights the flexibility of both global and single-use processes for managing task approvals effectively.
 
->[!VIDEO](https://video.tv.adobe.com/v/3434697/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335225/?quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
-* **审批流程类型：**&#x200B;有两种类型 — 全局审批流程（在任务、项目或问题之间共享）和一次性审批流程（特定于单个任务、项目或问题）。
-* **全局审批流程：**&#x200B;这些流程在“设置”>“流程”>“审批”部分创建，并可由特定状态触发。&#x200B;AEM 它们可能涉及多个批准者或分阶段批准。
-* **一次性审批流程：**&#x200B;这些是对象特定的，不能共享。&#x200B;AEM 它们可以从头开始创建，也可以通过编辑全局批准流程并转换它来创建。
-* **多级审批：**&#x200B;审批流程可以同时或分阶段包括多个审批者，确保在通知下一个审批者之前先获得连续审批。
-* **可重用性：**&#x200B;一次性审批流程可以与任务、项目或问题一起复制或包含在项目模板中，从而允许跨项目轻松复制。
+* **Types of Approval Processes:** There are two types—global approval processes (shared across tasks, projects, or issues) and single-use approval processes (specific to a single task, project, or issue).
+* **Global Approval Processes:** These are created in the Setup > Processes > Approvals section and can be triggered by specific statuses. &#x200B; They can involve multiple approvers or staged approvals.
+* **Single-Use Approval Process:** These are object-specific and cannot be shared. &#x200B; They can be created from scratch or by editing a global approval process and converting it.
+* **Multi-Level Approvals:** Approval processes can include multiple approvers either simultaneously or in stages, ensuring sequential approvals before notifying the next approver.
+* **Reusability:** Single-use approval processes can be copied with tasks, projects, or issues or included in project templates, allowing for easy replication across projects.
 
 
 >[!TIP]
@@ -52,5 +52,5 @@ ht-degree: 25%
 * [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 * [了解特定于群组的审批流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 * [创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
-* [在请求队列中应用问题批准流程](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
+* [Apply an issue approval process in a request queue](/help/manage-work/approval-processes-and-milestone-paths/apply-an-issue-approval-process-in-a-request-queue.md)
 
