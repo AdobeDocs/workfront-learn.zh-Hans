@@ -1,6 +1,6 @@
 ---
 title: 管理工作 — 快速入门
-description: 通过学习创建和计划项目来开始Workfront之旅。 Workfront 建议您一切从简。
+description: 通过学习创建和计划项目来开始您的 Workfront 历程。Workfront 建议您一切从简。
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,22 +11,22 @@ last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-10669
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
-index: y
+index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '930'
-ht-degree: 4%
+ht-degree: 6%
 
 ---
 
 # 管理工作 — 快速入门 {#overview}
 
-通过学习创建和计划项目来开始Workfront之旅。 Workfront 建议您一切从简。
+通过学习创建和计划项目来开始您的 Workfront 历程。Workfront 建议您一切从简。
 
 在本教程中，您将了解如何创建项目、计划项目、管理项目以及关闭项目。
 
-完成本教程后，我们建议[管理工作 — 中级](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=zh-Hans)以进一步提升项目管理技能。
+完成本教程后，我们建议[管理工作 — 中级](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)以进一步提升项目管理技能。
 
 >[!PREREQUISITES]
 >

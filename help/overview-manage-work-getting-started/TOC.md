@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: 管理工作 — 快速入门
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '192'
-ht-degree: 67%
+ht-degree: 69%
 
 ---
 
@@ -17,15 +17,15 @@ ht-degree: 67%
 # 管理工作 — 快速入门 {#manage-work-getting-started}
 
 + [管理工作 — 快速入门](overview.md)
-+ 管理工作 — 快速入门{#manage-work-getting-started}
-   + 创建项目{#create-a-project}
++ 管理工作 — 快速入门 {#manage-work-getting-started}
+   + 创建项目 {#create-a-project}
       + [了解基本项目创建](understand-basic-project-creation.md)
       + [将问题/请求转化为项目](create-a-project-from-a-request.md)
       + [了解创建项目的四种方法](understand-other-ways-to-create-projects.md)
       + [填写项目详细信息。](fill-in-the-project-details.md)
       + [导航项目页面](navigate-the-project-page.md)
 
-   + 计划项目{#plan-a-project}
+   + 计划项目 {#plan-a-project}
       + [开始规划项目](getting-started-plan-a-project.md)
       + [创建任务](how-to-create-tasks.md)
       + [了解父任务-子任务](understand-parent-child-tasks.md)
@@ -39,7 +39,7 @@ ht-degree: 67%
       + [了解 [!UICONTROL Work Effort]](understand-work-effort.md)
       + [启动项目](take-a-project-live.md)
 
-   + 管理项目{#manage-a-project}
+   + 管理项目 {#manage-a-project}
       + [开始管理项目](getting-started-manage-a-project.md)
       + [查找项目](find-projects.md)
       + [共享项目](share-a-project.md)
@@ -57,6 +57,6 @@ ht-degree: 67%
       + [完成审批](complete-approvals.md)
       + [上传资源](upload-assets.md)
       + [记录经验教训](lessons-learned-from-closing-a-project.md)
-      + [记录和审查时间](log-and-review-hours.md)
-      + [更新和审查财务状况](update-and-review-finances.md)
+      + [记录和审阅时间](log-and-review-hours.md)
+      + [更新和审阅财务状况](update-and-review-finances.md)
 

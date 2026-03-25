@@ -5,11 +5,11 @@ feature: Work Management
 breadcrumb-title: 管理工作 — 中间
 solution: Workfront
 sub-product: Work Management
-index: y
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+index: true
+source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
 workflow-type: tm+mt
 source-wordcount: '173'
-ht-degree: 63%
+ht-degree: 64%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 63%
 # 管理工作 — 中间 {#manage-work-intermediate}
 
 + [管理工作 — 中间](overview.md)
-+ 管理工作 — 中间{#manage-work-intermediate}
-   + 项目模板{#project-templates}
++ 管理工作 — 中间 {#manage-work-intermediate}
+   + 项目模板 {#project-templates}
       + [创建项目模板并了解 Blueprint](create-a-project-template.md)
       + [直接从模板创建项目](create-a-project-directly-from-a-template.md)
       + [共享项目模板](share-a-project-template.md)
@@ -26,18 +26,18 @@ ht-degree: 63%
       + [停用项目模板](deactivate-a-project-template.md)
       + [在项目模板中编辑项目团队](edit-the-project-team-in-a-project-template.md)
 
-   + 如何创建和使用审批流程{#how-to-create-and-use-approval-processes}
+   + 如何创建和使用审批流程 {#how-to-create-and-use-approval-processes}
       + [创建全局和一次性审批流程](create-a-single-use-approval-process.md)
       + [了解特定于群组的审批流程](group-specific-approval-processes.md)
-      + [审查和审批数字作品](review-and-approve-digital-work.md)
+      + [审阅和审批数字作品](review-and-approve-digital-work.md)
       + [委派任务、问题和审批](delegate-approvals.md)
 
-   + 如何创建和使用里程碑{#how-to-create-and-use-milestones}
+   + 如何创建和使用里程碑 {#how-to-create-and-use-milestones}
       + [创建里程碑](creating-milestones.md)
       + [应用里程碑](apply-milestones.md)
       + [查看里程碑](view-milestones.md)
 
-   + 如何处理问题{#how-to-work-with-issues}
+   + 如何处理问题 {#how-to-work-with-issues}
       + [处理规划外的工作](handle-unplanned-work.md)
       + [发出请求](make-a-request.md)
       + [查找和管理请求](find-requests.md)
@@ -47,7 +47,7 @@ ht-degree: 63%
       + [将问题/请求转化为任务](convert-issues-to-other-work-items.md)
       + [报告问题](report-on-issues.md)
 
-   + 正在深入挖掘{#digging-deeper}
+   + 深入挖掘 {#digging-deeper}
       + [了解和管理持续时间类型和任务限制](understand-and-manage-duration-types-and-task-constraints.md)
       + [了解跨项目前置任务](understand-cross-project-predecessors.md)
       + [高级前置任务](advanced-predecessors.md)
