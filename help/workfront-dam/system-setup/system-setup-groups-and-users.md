@@ -28,7 +28,7 @@ ht-degree: 100%
 * 创建和编辑组
 * 添加和编辑用户
 
->[!VIDEO](https://video.tv.adobe.com/v/335230/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414465/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 组和用户审阅
 
