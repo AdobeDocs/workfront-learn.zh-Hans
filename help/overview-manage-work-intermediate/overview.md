@@ -38,7 +38,7 @@ Workfront中的里程碑为项目规划、监控和报告提供了一些真正�
 >
 >* 很好地了解如何使用Workfront
 >* 已启用创建项目权限的标准许可证类型
->* [管理工作 — 快速入门](https://experienceleague.adobe.com/?recommended=Workfront-U-1-2022.1.planners)
+>* [管理工作 — 快速入门](https://experienceleague.adobe.com/?lang=zh-hans&recommended=Workfront-U-1-2022.1.planners)
 
 
 ## 项目模板
