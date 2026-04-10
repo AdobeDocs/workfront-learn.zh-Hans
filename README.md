@@ -1,7 +1,7 @@
 ---
 source-git-commit: 960fec2f8329aa037e7342a63f37f8c26042e8d4
-workflow-type: ht
-source-wordcount: '424'
+workflow-type: tm+mt
+source-wordcount: '401'
 ht-degree: 100%
 
 ---
@@ -57,4 +57,4 @@ If you submit a pull request with significant changes to documentation and code 
 在公共存储库中，自动标签将分配到所有提取请求以帮助我们管理提取请求工作流，并有助于您了解您的提取请求发生了什么：
 
 * **已发送给作者的更改**：已通知作者拉取请求处于待处理状态。
-* **准备合并**：等待我们的拉取请求审核工作组进行审核。
+* **准备合并**：等待我们的拉取请求审阅工作组进行审阅。
