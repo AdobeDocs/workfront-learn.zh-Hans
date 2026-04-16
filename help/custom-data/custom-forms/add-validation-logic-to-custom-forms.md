@@ -20,5 +20,5 @@ ht-degree: 0%
 
 了解如何向自定义表单添加验证逻辑以确保数据准确性并指导用户正确填写表单。 实施验证逻辑有助于防止错误、简化流程并提高团队效率。 了解如何有效创建条件、设置错误消息和测试验证的分步说明。 观看以下视频以了解此基本功能。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483436/?captions=chi_hans&learn=on&enablevpops)
 

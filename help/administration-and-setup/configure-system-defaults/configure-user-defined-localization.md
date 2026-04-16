@@ -21,5 +21,5 @@ ht-degree: 0%
 
 了解如何配置用户定义的本地化，以根据用户偏好以多种语言显示内容。 此功能通过使团队能够使用其母语来简化跨区域协作。 请观看以下视频，了解如何有效设置和管理特定语言的翻译。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483438/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483449/?captions=chi_hans&learn=on&enablevpops)
 
