@@ -21,5 +21,5 @@ ht-degree: 0%
 
 了解如何使用高级显示逻辑表达式来控制自定义表单字段和部分的可见性，帮助您创建更动态、更定制的表单，满足特定用户需求并提高工作流效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483439/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483461/?captions=chi_hans&learn=on&enablevpops)
 

@@ -20,5 +20,5 @@ ht-degree: 0%
 
 了解如何向自定义表单添加验证逻辑以确保数据准确性。 通过实施验证逻辑，您可以防止错误、简化流程并提高团队效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483426/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483436/?captions=chi_hans&learn=on&enablevpops)
 
