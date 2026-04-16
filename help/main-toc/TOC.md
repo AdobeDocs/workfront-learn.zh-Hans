@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。
-source-git-commit: 1548354dd04aeeeeeb0e64726ea2256f7f832279
+source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
 workflow-type: tm+mt
-source-wordcount: '2447'
-ht-degree: 76%
+source-wordcount: '2461'
+ht-degree: 75%
 
 ---
 
@@ -12,7 +12,7 @@ ht-degree: 76%
 # Workfront 教程 {#tutorials-workfront}
 
 + [Workfront 教程](home.md)
-+ Administration and Setup {#administration-and-setup}
++ 管理和设置 {#administration-and-setup}
    + 组织设置 {#organizational-setup}
       + [创建团队](/help/administration-and-setup/organizational-setup/user-organization-teams.md)
       + [创建组和子组](/help/administration-and-setup/organizational-setup/user-organization-groups.md)
@@ -35,6 +35,7 @@ ht-degree: 76%
       + [自定义问题类型和术语](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [配置全局默认问题首选项](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [创建和管理业务规则。](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [配置用户定义的本地化](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + 布局模板 {#layout-templates}
       + [什么是布局模板？](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -88,6 +89,8 @@ ht-degree: 76%
       + [将自定义表单附加到对象](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [在自定义表单中添加分区界限和逻辑](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [将自定义表单导出为 PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [向自定义表单添加验证逻辑](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [配置高级显示逻辑](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + 计算表达式 {#calculated-expressions}
       + [开始使用计算字段和表达式](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
@@ -105,9 +108,9 @@ ht-degree: 76%
 
 + 管理工作 {#manage-work}
    + 项目 {#projects}
-      + [Create and manage a project from scratch](/help/manage-work/projects/understand-basic-project-creation.md)
+      + [从头开始创建和管理项目](/help/manage-work/projects/understand-basic-project-creation.md)
       + [导航项目页面](/help/manage-work/projects/navigate-the-project-page.md)
-      + [Explore four methods to create a project](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+      + [探索创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
       + [填写基本的项目详细信息](/help/manage-work/projects/fill-in-the-project-details.md)
       + [在Workfront中有效计划项目](/help/manage-work/projects/getting-started-plan-a-project.md)
       + [启动项目](/help/manage-work/projects/take-a-project-live.md)
@@ -123,9 +126,9 @@ ht-degree: 76%
       + [探索任务管理的讨论区视图](/help/manage-work/projects/understand-the-board-view.md)
 
    + 任务 {#tasks}
-      + [Create tasks efficiently in Workfront](/help/manage-work/tasks/how-to-create-tasks.md)
-      + [Understand parent-child task relationships](/help/manage-work/tasks/understand-parent-child-tasks.md)
-      + [Manage tasks efficiently in Workfront](/help/manage-work/tasks/work-with-tasks.md)
+      + [在Workfront中高效创建任务](/help/manage-work/tasks/how-to-create-tasks.md)
+      + [了解父子任务关系](/help/manage-work/tasks/understand-parent-child-tasks.md)
+      + [在Workfront中高效管理任务](/help/manage-work/tasks/work-with-tasks.md)
       + [从项目规划中分配任务](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
       + [更新任务状态以准确报告](/help/manage-work/tasks/update-the-task-status.md)
       + [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)
@@ -147,8 +150,8 @@ ht-degree: 76%
    + 请求队列 {#request-queues}
       + [浏览Workfront中的请求队列](/help/manage-work/request-queues/understand-request-queues.md)
       + [在Workfront中创建请求队列](/help/manage-work/request-queues/create-a-request-queue.md)
-      + [Organize your request flow settings](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
-      + [Create a request flow in Workfront](/help/manage-work/request-queues/create-a-request-flow.md)
+      + [组织您的请求流设置](/help/manage-work/request-queues/understand-settings-for-a-flow-request.md)
+      + [在Workfront中创建请求流](/help/manage-work/request-queues/create-a-request-flow.md)
       + [创建系统管理员反馈请求队列](/help/manage-work/request-queues/create-a-system-admin-feedback-request-queue.md)
       + [有关请求队列的常见问题解答](/help/manage-work/request-queues/request-queue-faq.md)
 
@@ -169,7 +172,7 @@ ht-degree: 76%
       + [创建项目模板并浏览Blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
       + [安装和使用Blueprint](/help/manage-work/create-and-manage-project-templates/install-and-use-a-blueprint.md)
       + [直接从模板创建项目](/help/manage-work/create-and-manage-project-templates/create-a-project-directly-from-a-template.md)
-      + [Share a project template effectively](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
+      + [有效地共享项目模板](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
       + [高效地复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
       + [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
       + [在模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
@@ -194,7 +197,7 @@ ht-degree: 76%
    + 中间项目 {#intermediate-projects}
       + [主持续时间类型和任务限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
       + [建立与跨项目前置任务的依赖关系](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
-      + [Master advanced task dependencies](/help/manage-work/intermediate-projects/advanced-predecessors.md)
+      + [主高级任务依赖关系](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
 
 + 报告 {#reporting}
@@ -236,9 +239,9 @@ ht-degree: 76%
       + [高级报告第 3 部分](/help/reporting/advanced-reporting/advanced-reporting-part-3.md)
 
    + 日历报表 {#calendar-reports}
-      + [Explore the calendar report interface](/help/reporting/basic-reporting/tour-of-the-interface.md)
+      + [浏览日历报表界面](/help/reporting/basic-reporting/tour-of-the-interface.md)
       + [创建自定义日程表报告](/help/reporting/basic-reporting/creating-custom-calendars.md)
-      + [Explore advanced calendar report functionalities](/help/reporting/basic-reporting/additional-calendar-options.md)
+      + [探索高级日历报告功能](/help/reporting/basic-reporting/additional-calendar-options.md)
       + [活动 — 创建日历报告](/help/reporting/basic-reporting/your-turn-to-create-a-calendar.md)
 
    + 画布仪表板 {#canvas-dashboards}
@@ -264,7 +267,7 @@ ht-degree: 76%
       + [工作负载均衡器要考虑的设置](/help/manage-resources/workload-balancer/settings-to-consider-for-the-workload-balancer.md)
       + [在工作负载均衡器中分配工作](/help/manage-resources/workload-balancer/assign-work-in-the-workload-balancer.md)
 
-   + Resource planning {#resource-planning}
+   + 资源规划 {#resource-planning}
       + [什么是资源规划程序？](/help/manage-resources/resource-planning/what-is-the-resource-planner.md)
       + [查看利用率](/help/manage-resources/resource-planning/view-utlization-intro-filter-the-resource-planner.md)
       + [按用户查看](/help/manage-resources/resource-planning/view-by-users/view-by-users.md)
