@@ -21,5 +21,5 @@ ht-degree: 8%
 
 了解如何使用布局模板定制项目标题以仅显示最相关的信息。 了解如何删除不必要的字段、添加自定义字段和有效组织它们，以确保团队可以快速访问关键项目详细信息，提高清晰度和效率。
 
->[!VIDEO](https://video.tv.adobe.com/v/3483451/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483473/?captions=chi_hans&learn=on&enablevpops)
 
