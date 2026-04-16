@@ -1,7 +1,7 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。
-source-git-commit: bbf9d52b51168d846cc317a44b5eeaed432f8e5a
+source-git-commit: 3b5a94cd50070e090fce922898a546118efbb76b
 workflow-type: tm+mt
 source-wordcount: '2461'
 ht-degree: 75%
@@ -89,7 +89,7 @@ ht-degree: 75%
       + [将自定义表单附加到对象](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [在自定义表单中添加分区界限和逻辑](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [将自定义表单导出为 PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
-      + [向自定义表单添加验证逻辑](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [将验证逻辑添加到自定义表单](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
       + [配置高级显示逻辑](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + 计算表达式 {#calculated-expressions}
