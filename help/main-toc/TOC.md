@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。
-source-git-commit: 7d929d47386ce95aa82689117dcb1e4d204130cc
+source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
 workflow-type: tm+mt
-source-wordcount: '2447'
-ht-degree: 76%
+source-wordcount: '2456'
+ht-degree: 75%
 
 ---
 
@@ -193,6 +193,7 @@ ht-degree: 76%
 
    + 中间项目 {#intermediate-projects}
       + [主持续时间类型和任务限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+      + [使用基线、快照和自动化报表进行主项目跟踪](/help/manage-work/intermediate-projects/baselines-snapshots-and-automated-reports.md)
       + [建立与跨项目前置任务的依赖关系](/help/manage-work/intermediate-projects/understand-cross-project-predecessors.md)
       + [主高级任务依赖关系](/help/manage-work/intermediate-projects/advanced-predecessors.md)
 
