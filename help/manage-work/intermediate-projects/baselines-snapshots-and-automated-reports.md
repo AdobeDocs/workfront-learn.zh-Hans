@@ -22,7 +22,7 @@ ht-degree: 0%
 此视频重点介绍使用基线、快照和已发送报告进行有效项目跟踪、历史分析和利益相关者沟通的重要性。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3483617/?quality=12&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3483627/?captions=chi_hans&quality=12&learn=on&enablevpops)
 
 ## 要点
 
