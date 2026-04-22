@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。
-source-git-commit: f846da511d1b9a23eca21e249ea619dba5321420
+source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
 workflow-type: tm+mt
-source-wordcount: '2456'
+source-wordcount: '2470'
 ht-degree: 75%
 
 ---
@@ -35,6 +35,7 @@ ht-degree: 75%
       + [自定义问题类型和术语](/help/administration-and-setup/configure-system-defaults/customize-issue-types-and-terminology.md)
       + [配置全局默认问题首选项](/help/administration-and-setup/configure-system-defaults/configure-global-default-issue-preferences.md)
       + [创建和管理业务规则。](/help/administration-and-setup/configure-system-defaults/create-and-manage-business-rules.md)
+      + [配置用户定义的本地化](/help/administration-and-setup/configure-system-defaults/configure-user-defined-localization.md)
 
    + 布局模板 {#layout-templates}
       + [什么是布局模板？](/help/administration-and-setup/layout-templates/what-are-layout-templates.md)
@@ -88,6 +89,8 @@ ht-degree: 75%
       + [将自定义表单附加到对象](/help/custom-data/custom-forms/custom-forms-using-a-custom-form.md)
       + [在自定义表单中添加分区界限和逻辑](/help/custom-data/custom-forms/add-section-breaks-and-logic-to-a-custom-form.md)
       + [将自定义表单导出为 PDF](/help/custom-data/custom-forms/export-a-custom-form-as-a-pdf.md)
+      + [将验证逻辑添加到自定义Forms](/help/custom-data/custom-forms/add-validation-logic-to-custom-forms.md)
+      + [配置高级显示逻辑](/help/custom-data/custom-forms/configure-advanced-dispaly-logic.md)
 
    + 计算表达式 {#calculated-expressions}
       + [开始使用计算字段和表达式](/help/custom-data/calculated-expressions/get-started-with-calculated-fields-and-expressions.md)
