@@ -25,7 +25,7 @@ ht-degree: 12%
 此视频介绍系统管理员在管理对Workfront中财务信息的访问权限方面的作用。 管理员&#x200B;通过访问级别控制访问&#x200B;。
 该视频强调，用户只能将其财务访问权限用于他们创建的项目或具有财务访问权限的人与他们共享的项目。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457731/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484938/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
