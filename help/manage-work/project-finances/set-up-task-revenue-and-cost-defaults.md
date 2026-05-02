@@ -25,7 +25,7 @@ ht-degree: 33%
 
 了解收入类型和成本类型在哪里使用以及如何设置系统默认值。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457685/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3484190/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
