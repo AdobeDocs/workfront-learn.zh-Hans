@@ -13,7 +13,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 22ed8642-220e-4d45-b15d-c245391073ea
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * 创建“经验教训”自定义报告
 * 创建“经验教训”项目
 
->[!VIDEO](https://video.tv.adobe.com/v/3441022/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441012/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

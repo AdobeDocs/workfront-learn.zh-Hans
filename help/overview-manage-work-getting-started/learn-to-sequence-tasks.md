@@ -1,6 +1,6 @@
 ---
 title: 学习如何对任务进行排序
-description: 了解什么是前置任务，以及他们如何对项目中的任务进行排序。然后学习使用持续时间和前置任务来创建时间线。
+description: 了解什么是前置任务，以及他们如何对项目中的任务进行排序。 然后学习使用持续时间和前置任务来创建时间线。
 activity: use
 feature: Work Management
 thumbnail: 335091.jpeg
@@ -14,7 +14,7 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: d9beede9-fe6d-4d2b-be1b-ee41d3130b43
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 100%
@@ -31,7 +31,7 @@ ht-degree: 100%
 * 设置任务开始日期将如何影响任务限制
 * 如何输入前置任务
 
->[!VIDEO](https://video.tv.adobe.com/v/3447330/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn more urls

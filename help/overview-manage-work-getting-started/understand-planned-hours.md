@@ -14,10 +14,10 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: 56b8ea1a-d0cc-47ec-8d88-5f0ef204656f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 100%
+source-wordcount: '104'
+ht-degree: 98%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 100%
 * 如何估算规划小时数
 * 如何将规划小时数添加到任务中
 
->[!VIDEO](https://video.tv.adobe.com/v/3445343/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335090/?quality=12&learn=on&enablevpops=1)
 
 
 ## 关于此主题的推荐教程和文章
@@ -38,5 +38,5 @@ ht-degree: 100%
 * [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)
 * [学习如何对任务进行排序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
 * [了解 [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
-* [时间表概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/timesheets/details/timesheets-overview)
+* [工时表概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/timesheets/details/timesheets-overview)
 * [记录时间](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/timesheets/create-and-manage-timesheets-in-adobe-workfront/log-time)

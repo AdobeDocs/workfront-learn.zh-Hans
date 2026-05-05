@@ -13,7 +13,7 @@ jira: KT-8772
 hide: true
 doc-type: video
 exl-id: c8b7e6b0-9464-4b2b-8963-b2184293ca7a
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
@@ -29,7 +29,7 @@ ht-degree: 100%
 * [!UICONTROL View] 如何帮助您查看您需要的信息
 * 如何设置开始或完成日期
 
->[!VIDEO](https://video.tv.adobe.com/v/3448577/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335086/?quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 
