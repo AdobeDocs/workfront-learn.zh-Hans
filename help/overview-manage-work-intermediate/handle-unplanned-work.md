@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 jira: KT-10070
 hide: true
 exl-id: e2d538db-f2bf-46b9-a4d8-425c62870d1b
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何记录问题
 * 问题管理最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/3446576/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3446576/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

@@ -1,6 +1,6 @@
 ---
 title: 发出请求
-description: 了解如何找到 [!UICONTROL Requests] 区域并提出请求。然后了解如何查看已提交的和草稿请求。
+description: 了解如何找到 [!UICONTROL Requests] 区域并提出请求。 然后了解如何查看已提交的和草稿请求。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -14,7 +14,7 @@ hide: true
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 651312d5-c5ec-4c0b-83aa-f6723da110fd
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 100%
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 # 发出请求
 
-在许多组织中，启动新项目、开发新产品或创建可交付成果的第一步是在 Workfront 中提出请求。您可以跟踪请求的进度并在需要时提供其他信息。
+在许多组织中，启动新项目、开发新产品或创建可交付成果的第一步是在 Workfront 中提出请求。 您可以跟踪请求的进度并在需要时提供其他信息。
 
 在本视频中，您将学习如何：
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 * 查找请求的草稿
 * 查看最后三个请求路径
 
->[!VIDEO](https://video.tv.adobe.com/v/3413112/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3413112/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

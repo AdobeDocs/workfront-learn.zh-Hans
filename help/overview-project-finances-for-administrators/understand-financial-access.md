@@ -10,7 +10,8 @@ role: User
 level: Intermediate
 jira: KT-10067
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: ded6b570-3e2a-4372-867d-a370de30dc31
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '391'
 ht-degree: 96%
@@ -28,7 +29,7 @@ ht-degree: 96%
 
 例如，用户可能具有在其访问级别上查看财务数据的权限，但只有在与其共享任务，并且在共享该任务时启用了财务查看功能的情况下，用户才能查看该任务的财务信息。
 
-因此，拥有查看财务信息 [!UICONTROL Access Level] 权限的用户可以查看某些对象的财务信息，而不能查看其他对象的财务信息，具体取决于这些对象的单独共享选项。但是，任何用户都不能查看任何对象的财务信息，除非他们在其 [!UICONTROL Access Level] 中获得了相应的权限。
+因此，拥有查看财务信息 [!UICONTROL Access Level] 权限的用户可以查看某些对象的财务信息，而不能查看其他对象的财务信息，具体取决于这些对象的单独共享选项。 但是，任何用户都不能查看任何对象的财务信息，除非他们在其 [!UICONTROL Access Level] 中获得了相应的权限。
 
 ## [!UICONTROL Access Level] 设置
 
@@ -51,11 +52,11 @@ ht-degree: 96%
 
 * 查看财务信息
 
-**权限可以通过 [!UICONTROL Access Level] 进行修改。财务数据访问权限的三个选项是：**
+**权限可以通过 [!UICONTROL Access Level] 进行修改。 财务数据访问权限的三个选项是：**
 
 * [!UICONTROL No Access]—用户无法看到财务信息。
 * [!UICONTROL View]—用户可以查看和共享信息。
-* [!UICONTROL Edit]—用户可以创建、编辑、删除和共享信息。（仅适用于“计划”许可证。）
+* [!UICONTROL Edit]—用户可以创建、编辑、删除和共享信息。 （仅适用于“计划”许可证。）
 
 ![显示访问级别中的一般财务数据选项的图像](assets/setting-up-finances-8.png)
 

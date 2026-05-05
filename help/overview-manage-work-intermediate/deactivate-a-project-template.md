@@ -14,9 +14,9 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: d1246b53-922e-44f5-b4db-c68afa974c71
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '140'
 ht-degree: 100%
 
 ---
@@ -28,11 +28,11 @@ ht-degree: 100%
 * 如何共享项目模板并授予激活和停用该模板的权限。
 * 如何激活和停用项目模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445000/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3445000/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 了解如何创建自定义视图，以查看和编辑项目模板的活动状态
 
-要创建具有活动状态列的项目模板视图，请参阅[创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-hans)中的&#x200B;**项目模板活动状态视图**&#x200B;活动。
+要创建具有活动状态列的项目模板视图，请参阅[创建基本视图](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)中的&#x200B;**项目模板活动状态视图**&#x200B;活动。
 
 ## 有关此主题的推荐教程
 

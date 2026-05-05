@@ -10,16 +10,17 @@ role: User
 level: Intermediate
 jira: KT-10065
 hide: true
-source-git-commit: d7347d41099e0faf6b47a6fe0e58091105e4e41d
+exl-id: a7dbd937-0caa-4eb6-bb5d-bff6705e2972
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '350'
+source-wordcount: '372'
 ht-degree: 100%
 
 ---
 
 # 了解绩效指标
 
-项目经理使用的两个绩效指标包括 [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) 和 [!UICONTROL Estimate at Completion] ([!UICONTROL EAC])。系统范围的默认值可以在 [!DNL Workfront] 中设置，并会应用于新创建的项目。然后，可以在各个项目上对 [!UICONTROL PIM] 进行修改。
+项目经理使用的两个绩效指标包括 [!UICONTROL Performance Index Method] ([!UICONTROL PIM]) 和 [!UICONTROL Estimate at Completion] ([!UICONTROL EAC])。 系统范围的默认值可以在 [!DNL Workfront] 中设置，并会应用于新创建的项目。 然后，可以在各个项目上对 [!UICONTROL PIM] 进行修改。
 
 **[!UICONTROL PIM]**
 
@@ -27,15 +28,15 @@ ht-degree: 100%
 
 [!UICONTROL PIM] 的选项基于小时和成本。
 
-* **基于小时**—Workfront 使用规划小时数来计算项目的 CPI 和 EAC。项目的 EAC 显示为数字（以小时为单位）。
-* **基于成本**—Workfront 使用规划劳动力成本来计算项目的 CPI 和 EAC。EAC 显示为货币值。使用此选项时，请确保任务受让人（用户和/或工作角色）与成本费率相关联。
+* **基于小时**—Workfront 使用规划小时数来计算项目的 CPI 和 EAC。 项目的 EAC 显示为数字（以小时为单位）。
+* **基于成本**—Workfront 使用规划劳动力成本来计算项目的 CPI 和 EAC。 EAC 显示为货币值。 使用此选项时，请确保任务受让人（用户和/或工作角色）与成本费率相关联。
 
 **[!UICONTROL EAC]**
 
-[!UICONTROL EAC] 表示任务或项目完成后的预计总成本。选项在项目级别计算，并会从任务/子任务汇总。
+[!UICONTROL EAC] 表示任务或项目完成后的预计总成本。 选项在项目级别计算，并会从任务/子任务汇总。
 
-* **在项目级别计算**—父任务和项目的 [!UICONTROL EAC] 是使用 [!UICONTROL EAC] 公式中的实际小时数/实际劳动力成本确定的。计算包括直接添加到父任务或项目的实际小时数/成本和费用。
-* **从任务/子任务中汇总**—父任务和项目的 [!UICONTROL EAC] 是通过将每个子任务的 [!UICONTROL EAC] 相加来确定的。此计算不包括直接添加到父任务或项目的实际小时数/成本。
+* **在项目级别计算**—父任务和项目的 [!UICONTROL EAC] 是使用 [!UICONTROL EAC] 公式中的实际小时数/实际劳动力成本确定的。 计算包括直接添加到父任务或项目的实际小时数/成本和费用。
+* **从任务/子任务中汇总**—父任务和项目的 [!UICONTROL EAC] 是通过将每个子任务的 [!UICONTROL EAC] 相加来确定的。 此计算不包括直接添加到父任务或项目的实际小时数/成本。
 
 [!UICONTROL EAC] 计算情况列在[完工估算 (EAC) ](https://experienceleague.adobe.com/docs/workfront/using/manage-work/projects/project-finances/calculate-eac.html?lang=zh-Hans)中。
 
@@ -45,7 +46,7 @@ ht-degree: 100%
 
 1. 从主菜单中选择 **[!UICONTROL Setup]**。
 1. 单击左侧面板菜单中的 **[!UICONTROL Project Preferences]**，然后单击 **[!UICONTROL Projects]**
-1. 在 [!UICONTROL Project Status] 部分，找到 [!UICONTROL Performance Index Method]。选择基于时间或基于成本。
+1. 在 [!UICONTROL Project Status] 部分，找到 [!UICONTROL Performance Index Method]。 选择基于时间或基于成本。
 1. 对于 [!UICONTROL Estimate at Completion]，选择在项目级别计算或从任务/子任务中汇总。
 1. 单击窗口底部的 **[!UICONTROL Save]**。
 

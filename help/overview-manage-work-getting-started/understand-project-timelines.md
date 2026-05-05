@@ -1,6 +1,6 @@
 ---
 title: 了解项目时间线
-description: 了解如何从开始日期或完成日期来计划项目。然后了解持续时间、前置任务和任务限制如何影响项目计划。
+description: 了解如何从开始日期或完成日期来计划项目。 然后了解持续时间、前置任务和任务限制如何影响项目计划。
 activity: use
 feature: Work Management
 thumbnail: 335213.jpeg
@@ -12,9 +12,9 @@ jira: KT-8953
 hide: true
 doc-type: video
 exl-id: 069ff32b-0dca-4dc7-a2d8-d9d3fd26a379
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '91'
 ht-degree: 100%
 
 ---
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 从开始或完成日期计划项目
 * 任务限制
 
->[!VIDEO](https://video.tv.adobe.com/v/3435845/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3435845/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 >[!IMPORTANT]
 >

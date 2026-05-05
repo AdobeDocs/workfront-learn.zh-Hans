@@ -13,7 +13,7 @@ recommendations: noDisplay,catalog
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '57'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 审阅项目的时间记录
 * 如果需要，批准项目时间
 
->[!VIDEO](https://video.tv.adobe.com/v/3441079/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441079/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

@@ -14,7 +14,7 @@ doc-type: video
 recommendations: noDisplay,catalog
 hide: true
 exl-id: c2f06ee1-efbd-4c65-aca7-d844cb08f52f
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 如何避免无意中将&#x200B;**非**&#x200B;项目团队成员包括在模板项目团队中。
 * 如何编辑模板项目团队。
 
->[!VIDEO](https://video.tv.adobe.com/v/3441560/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3441560/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

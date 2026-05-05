@@ -12,9 +12,9 @@ jira: KT-8782
 hide: true
 doc-type: video
 exl-id: 1df6a15a-5f6e-4f4f-a916-c9cc279d7459
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
@@ -26,11 +26,11 @@ ht-degree: 100%
 * 选择一个视图来比较 [!DNL Workfront's] 不同的日期类型
 * 使用进度状态帮助您跟踪工作进度
 
->[!VIDEO](https://video.tv.adobe.com/v/3436617/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3436617/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
->正如该视频中所述，当人们开始执行任务时，将状态从 **[!UICONTROL New]** 更改为 **[!UICONTROL In Progress]** 非常重要，这样 [!UICONTROL Actual Start Date] 才会正确。但是，如果他们在开始任务时忘记执行此操作，他们也可以随时返回编辑 [!UICONTROL Actual Start Date]。
+>正如该视频中所述，当人们开始执行任务时，将状态从 **[!UICONTROL New]** 更改为 **[!UICONTROL In Progress]** 非常重要，这样 [!UICONTROL Actual Start Date] 才会正确。 但是，如果他们在开始任务时忘记执行此操作，他们也可以随时返回编辑 [!UICONTROL Actual Start Date]。
 
 
 <!--

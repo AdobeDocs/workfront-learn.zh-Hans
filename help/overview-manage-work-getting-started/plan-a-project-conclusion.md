@@ -1,6 +1,6 @@
 ---
-title: 规划项目 - 审查
-description: 查看规划项目时要重点关注的项目中的五个字段：任务、持续时间、规划小时数、前置任务和分配。
+title: 规划项目 - 审阅
+description: 审阅规划项目时要重点关注的项目中的五个字段：任务、持续时间、规划小时数、前置任务和分配。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,16 +9,16 @@ role: User
 level: Beginner
 jira: KT-10152
 hide: true
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
 
-# 规划项目 - 审查
+# 规划项目 - 审阅
 
-使用项目模板快速启动和运行您的 [!DNL  Workfront] 项目。然后，首先通过关注这五个领域来规划您的项目：
+使用项目模板快速启动和运行您的 [!DNL  Workfront] 项目。 然后，首先通过关注这五个领域来规划您的项目：
 
 1. 任务
 1. 持续时间
@@ -26,7 +26,7 @@ ht-degree: 100%
 1. 前置任务
 1. 分配
 
-一切设置完毕后，将项目状态更改为“当前”以启动项目。随着项目的进展，您需要跟踪完成的工作、出现的问题、需要回答的问题等等。请记住——您可以在 [!DNL Workfront] 中查找和管理所有这些信息！
+一切设置完毕后，将项目状态更改为“当前”以启动项目。 随着项目的进展，您需要跟踪完成的工作、出现的问题、需要回答的问题等等。 请记住——您可以在 [!DNL Workfront] 中查找和管理所有这些信息！
 
 <!--
 footer urls for the LP

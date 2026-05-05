@@ -13,9 +13,9 @@ jira: KT-8775
 hide: true
 doc-type: video
 exl-id: 81b6fc1f-2988-4eac-8dc5-be52358724ba
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '70'
 ht-degree: 100%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 100%
 * 添加和删除任务的方法
 * 如何更改任务顺序
 
->[!VIDEO](https://video.tv.adobe.com/v/3448566/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3448566/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

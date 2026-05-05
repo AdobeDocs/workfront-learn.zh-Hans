@@ -13,23 +13,23 @@ recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: c6eedc74-c104-434d-8124-1329d4e39e25
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '90'
 ht-degree: 100%
 
 ---
 
 # 审阅和审批数字作品
 
-在本视频中，您将了解到如何：
+在本视频中，您将学习如何：
 
 * 查找 [!DNL Workfront Home] 中的审批信息
 * 审批项目、任务和问题
 * 审批文件
 * 审批校样
 
->[!VIDEO](https://video.tv.adobe.com/v/3444956/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3444956/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 >[!NOTE]

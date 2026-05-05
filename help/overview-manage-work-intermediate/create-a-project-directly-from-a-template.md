@@ -1,6 +1,6 @@
 ---
 title: 直接从模板创建项目
-description: 了解如何从已构建的模板开始创建项目。
+description: 了解如何从已构建的模板创建项目。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -12,16 +12,16 @@ jira: KT-10156
 recommendations: noDisplay,catalog
 hide: true
 exl-id: 310d499f-d48e-42ff-92bf-a398594e44f7
-source-git-commit: 422b07bc6b1941316a9e441560929d9b2832232f
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
-source-wordcount: '197'
-ht-degree: 93%
+source-wordcount: '198'
+ht-degree: 100%
 
 ---
 
 # 直接从模板创建项目
 
-如果您碰巧正在使用一个模板，并需要使用该模板创建一个项目，请单击模板名称旁边的三点菜单。然后选择“创建项目”。
+如果您碰巧正在使用一个模板，并需要使用该模板创建一个项目，请单击模板名称旁边的三点菜单。 然后选择“创建项目”。
 
 ![菜单中的“创建项目”选项](assets/direct-template-01.png)
 
@@ -31,11 +31,11 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->若要使用此方法创建项目，您需要具有对 Workfront “模板”区域的访问权限。如果您无法访问模板，您仍然可以从“项目”区域或者在转换问题/任务时，使用模板创建项目。
+>若要使用此方法创建项目，您需要具有对 Workfront “模板”区域的访问权限。 如果您无法访问模板，您仍然可以从“项目”区域或者在转换问题/任务时，使用模板创建项目。
 
 >[!TIP]
 >
->如果有您经常使用的模板，请收藏它！除了显示在导航栏的“收藏夹”菜单下之外，您还会看到“新建项目”菜单中也会列出该模板。
+>如果有您经常使用的模板，请收藏它！ 除了显示在导航栏的“收藏夹”菜单下之外，您还会看到“新建项目”菜单中也会列出该模板。
 
 
 ![新项目收藏夹模板](assets/direct-template-03.png)

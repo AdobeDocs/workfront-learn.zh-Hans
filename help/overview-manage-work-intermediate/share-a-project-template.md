@@ -13,7 +13,7 @@ hide: true
 doc-type: video
 recommendations: noDisplay,catalog
 exl-id: d154cbc5-f52a-45aa-a236-8c3bf5e712fa
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
 workflow-type: tm+mt
 source-wordcount: '73'
 ht-degree: 100%
@@ -27,7 +27,7 @@ ht-degree: 100%
 * 与其他用户共享模板
 * 共享使用模板创建的项目
 
->[!VIDEO](https://video.tv.adobe.com/v/3415436/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3415436/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 
