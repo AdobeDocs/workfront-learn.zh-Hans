@@ -30,7 +30,7 @@ ht-degree: 100%
 * 上传文档的位置
 * 如何查看更新历史记录
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449736/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 项目页面中的关键部分
 

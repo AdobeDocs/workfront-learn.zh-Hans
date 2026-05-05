@@ -29,7 +29,7 @@ ht-degree: 100%
 * 为任务添加一个里程碑
 * 应用里程碑的最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/335205/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3430287/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

@@ -26,7 +26,7 @@ ht-degree: 100%
 
 * [!DNL Workfront] 项目中的任务结构
 
->[!VIDEO](https://video.tv.adobe.com/v/335087/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445606/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

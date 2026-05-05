@@ -31,7 +31,7 @@ ht-degree: 100%
 * 委派对项目、任务和问题的审批
 * 确定委派的审批
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446386/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

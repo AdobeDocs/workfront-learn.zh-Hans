@@ -28,7 +28,7 @@ ht-degree: 100%
 * 添加和删除任务的方法
 * 如何更改任务顺序
 
->[!VIDEO](https://video.tv.adobe.com/v/335088/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448566/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 
