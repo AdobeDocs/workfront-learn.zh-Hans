@@ -33,7 +33,7 @@ ht-degree: 100%
 
 学习自定义您的用户 [!UICONTROL Home] 区域，以便快速轻松地访问、跟踪、审批和更新工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432782/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <br>
 </br>
@@ -48,4 +48,4 @@ ht-degree: 100%
 * 从 [!UICONTROL Home] 中删除项目
 * 添加项目到 [!UICONTROL Home]
 
->[!VIDEO](https://video.tv.adobe.com/v/335081/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432321/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

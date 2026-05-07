@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何将信息卡添加到全新的展示板或来自预先存在的工作项目的展示板。
 
->[!VIDEO](https://video.tv.adobe.com/v/346617/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423047/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

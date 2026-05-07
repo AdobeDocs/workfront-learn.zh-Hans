@@ -32,6 +32,6 @@ ht-degree: 100%
 * DATEDIFF 和 WEEKDAYDIFF 表达式在计算的内容。
 * 如何在计算字段中创建 WEEKDAYDIFF 数据表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/335176/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417113/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 **注释**：WEEKDAYDIFF 数据表达式不考虑您的组织指定的假期。

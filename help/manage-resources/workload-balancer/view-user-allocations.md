@@ -35,4 +35,4 @@ ht-degree: 100%
 * 选择图表模式以获得用户分配情况的概括视图
 * 显示用户的每日分配明细
 
->[!VIDEO](https://video.tv.adobe.com/v/335164/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413836/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

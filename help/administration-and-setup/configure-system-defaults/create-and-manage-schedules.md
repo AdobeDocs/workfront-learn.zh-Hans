@@ -32,5 +32,5 @@ ht-degree: 100%
 
 了解计划的用途、如何创建和编辑计划以及其他设置，以更好地确定何时可以完成工作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422184/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423336/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 

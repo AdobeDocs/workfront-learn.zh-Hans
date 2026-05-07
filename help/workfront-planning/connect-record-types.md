@@ -38,4 +38,4 @@ ht-degree: 86%
 
 了解如何在 Workfront 规划中关联不同的记录类型，以优化工作流、提升清晰度，并增强团队的责任意识与执行效率。  
 
->[!VIDEO](https://video.tv.adobe.com/v/3463796/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3463808/?captions=chi_hans&learn=on&enablevpops=1)

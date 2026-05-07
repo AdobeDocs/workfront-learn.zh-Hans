@@ -45,7 +45,7 @@ ht-degree: 92%
 
 ## 资源管理成熟度的四个阶段
 
->[!VIDEO](https://video.tv.adobe.com/v/335160/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420159/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 ## 下一步

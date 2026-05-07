@@ -35,7 +35,7 @@ ht-degree: 22%
 
 此视频介绍如何从模板创建项目。 如&#x200B;果您有权打开模板，则可以将其用作创建项目的快捷方式。 为此&#x200B;，请打开模板，访问三个圆点菜单，然后选择“创建项目”。 这&#x200B;会将您转到可编辑项目详细信息的屏幕。 准备就绪&#x200B;后，单击“创建项目”以完成。  
 
->[!VIDEO](https://video.tv.adobe.com/v/3456013/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456023/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

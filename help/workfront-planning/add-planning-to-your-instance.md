@@ -33,4 +33,4 @@ ht-degree: 80%
 
 了解添加 Workfront Planning 工具并使其对实例中的用户可见所需的要求。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447930/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447976/?captions=chi_hans&learn=on&enablevpops=1)

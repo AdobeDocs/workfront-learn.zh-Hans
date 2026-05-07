@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何编辑、添加、重新排列和删除展示板上的列。
 
->[!VIDEO](https://video.tv.adobe.com/v/346570/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422946/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

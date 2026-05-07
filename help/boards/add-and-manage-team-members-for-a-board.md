@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何在展示板中添加和删除个人和团队，以便他们可以访问展示板信息。
 
->[!VIDEO](https://video.tv.adobe.com/v/346808/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3423038/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

@@ -37,4 +37,4 @@ ht-degree: 100%
 * 将布局模板分配给用户、组或团队
 * 控制谁可以管理布局模板访问权限
 
->[!VIDEO](https://video.tv.adobe.com/v/335080/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432328/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

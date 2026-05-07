@@ -36,7 +36,7 @@ ht-degree: 100%
 * 审批或拒绝工作
 * 审阅校对
 
->[!VIDEO](https://video.tv.adobe.com/v/335105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447917/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLs

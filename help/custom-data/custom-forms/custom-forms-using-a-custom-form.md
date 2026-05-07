@@ -33,4 +33,4 @@ ht-degree: 100%
 
 在这个视频中，您将了解如何在 Workfront 中将自定义表单附加到对象。
 
->[!VIDEO](https://video.tv.adobe.com/v/335173/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431637/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

@@ -44,7 +44,7 @@ ht-degree: 90%
 * 确定可带来高绩效的合适设计
 * 挑战假设并为利益相关者提供最佳建议
 
->[!VIDEO](https://video.tv.adobe.com/v/335311/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418195/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 想要了解详情？ 我们建议查看以下内容：
 

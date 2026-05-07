@@ -37,4 +37,4 @@ ht-degree: 100%
 * 在 [!DNL Scenario Planner] 中更新计划
 * 在 [!DNL Scenario Planner] 中复制计划
 
->[!VIDEO](https://video.tv.adobe.com/v/335321/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412646/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

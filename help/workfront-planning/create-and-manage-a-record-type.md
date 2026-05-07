@@ -34,4 +34,4 @@ ht-degree: 77%
 
 了解在 Adobe Workfront Planning 中创建、导入和管理自定义记录类型，以便有效地组织和跟踪与工作相关的项。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447965/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3448094/?captions=chi_hans&learn=on&enablevpops=1)

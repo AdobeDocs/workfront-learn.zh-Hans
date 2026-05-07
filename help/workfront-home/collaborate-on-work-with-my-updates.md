@@ -36,4 +36,4 @@ ht-degree: 100%
 * 使用“提及”部分查看包含您的更新
 * 回复更新
 
->[!VIDEO](https://video.tv.adobe.com/v/340342/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414231/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

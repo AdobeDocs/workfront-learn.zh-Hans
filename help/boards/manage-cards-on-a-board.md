@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何在板上重新组织、复制、存档、删除和断开信息卡连接。
 
->[!VIDEO](https://video.tv.adobe.com/v/346810/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422917/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

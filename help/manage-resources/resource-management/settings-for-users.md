@@ -40,4 +40,4 @@ ht-degree: 100%
 * 个人休息时间
 * 工作角色
 
->[!VIDEO](https://video.tv.adobe.com/v/335161/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420165/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

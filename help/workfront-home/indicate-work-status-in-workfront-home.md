@@ -34,7 +34,7 @@ ht-degree: 100%
 * [!DNL  Workfront] 中状态的作用
 * 如何更改工作任务的状态
 
->[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443440/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 开始 vs. 正在进行中
 

@@ -32,7 +32,7 @@ ht-degree: 97%
 * ADDDAYS/ADDWEEKDAY/ADDMONTHS/ADDYEAR 表达式计算什么
 * 如何在计算字段中创建 ADDWEEKDAYS 数据表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/335175/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416187/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 其他示例
 

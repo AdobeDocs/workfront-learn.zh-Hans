@@ -29,4 +29,4 @@ ht-degree: 100%
 
 了解如何在展示板中添加和编辑列设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/347332/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422927/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

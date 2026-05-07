@@ -32,7 +32,7 @@ ht-degree: 89%
 * SUB、SUM、DIV 和 PROD 表达式的作用
 * 如何在计算字段中创建 SUB 数据表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/335177/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413998/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 附加信息：ROUND 表达式
 
