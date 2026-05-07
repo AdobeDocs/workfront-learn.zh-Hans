@@ -9,24 +9,30 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10030
 exl-id: c8f5677f-8d9d-4d1a-a1e3-d1a438878213
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/Wo7ObQJmkrsaYDXxaPMYQvDFfQx8wtC8qYi3Nvc6DkY
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '363'
+source-wordcount: 369
 ht-degree: 100%
 
 ---
 
 # 自定义系统范围的问题
 
-[!DNL Workfront] 提供各种默认状态来适应您组织的问题管理工作流。可以对这些状态进行重命名，以匹配您组织的术语。并且可以将状态分配给特定的问题类型。
+[!DNL Workfront] 提供各种默认状态来适应您组织的问题管理工作流。 可以对这些状态进行重命名，以匹配您组织的术语。 并且可以将状态分配给特定的问题类型。
 
-如果需要，可以创建其他状态。只有系统管理员才能创建系统范围的状态。此外，系统管理员可以控制组管理员可以编辑哪些状态。
+如果需要，可以创建其他状态。 只有系统管理员才能创建系统范围的状态。 此外，系统管理员可以控制组管理员可以编辑哪些状态。
 
 ![[!UICONTROL Issues] 选项卡，在 [!UICONTROL Statues] 页面上，位于 [!UICONTROL Setup]](assets/admin-fund-all-issue-statuses.png)
 
 ## 修改现有状态
 
-[!DNL Workfront] 建议尽量减少状态数量。这使得用户可以更轻松地选择正确的状态，并减少需要维护的状态列表。
+[!DNL Workfront] 建议尽量减少状态数量。 这使得用户可以更轻松地选择正确的状态，并减少需要维护的状态列表。
 
 您可以编辑现有的状态，以更改名称、所分配的问题类型、相关颜色等。
 
@@ -36,7 +42,7 @@ ht-degree: 100%
 1. 展开左侧菜单面板中的 **[!UICONTROL Project Preferences]** 部分。
 1. 选择 **[!UICONTROL Statuses]**。
 1. 选择 **[!UICONTROL Issues]** 选项卡，并确保 [!UICONTROL System Statuses] 显示在右上角。
-1. 选择 **[!UICONTROL Master List]**，以查看所有问题类型的状态。您可以在此处创建或修改问题状态。
+1. 选择 **[!UICONTROL Master List]**，以查看所有问题类型的状态。 您可以在此处创建或修改问题状态。
 1. 将鼠标悬停在您要重命名的状态的右侧，然后单击 **[!UICONTROL Edit]**。
 1. 根据需要为状态指定新名称或更改任何其他信息。
 1. 如果这些设置应适用于您 [!DNL Workfront] 实例中的所有用户，请锁定该状态。
@@ -48,7 +54,7 @@ ht-degree: 100%
 
 ### 状态分配
 
-并非所有状态都可以分配给所有问题类型。[!UICONTROL Statuses] 页面中的各列显示了每个状态可用于哪种问题类型。
+并非所有状态都可以分配给所有问题类型。 [!UICONTROL Statuses] 页面中的各列显示了每个状态可用于哪种问题类型。
 
 ![“状态”页面的“问题”选项卡上突出显示的“更改顺序”](assets/admin-fund-issue-type-statuses.png)
 

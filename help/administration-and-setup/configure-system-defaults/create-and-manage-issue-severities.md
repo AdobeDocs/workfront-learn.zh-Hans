@@ -9,9 +9,15 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10020
 exl-id: a5a9280b-0d48-413d-92de-f6a949e6b210
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/Ox5zZ29nZxPd801bzB5A8nu-PHDrS4OuaD-3E--tkRs
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '329'
+source-wordcount: 330
 ht-degree: 100%
 
 ---
@@ -24,7 +30,7 @@ ht-degree: 100%
 
 ![[!UICONTROL Severity] 菜单，在 [!UICONTROL Issue Details] 窗口中](assets/admin-fund-severity-issue-details.png)
 
-可以在 [!UICONTROL Issue Details] 中访问 [!UICONTROL Severity] 字段。它也可以包含在列表的列视图和自定义报告中。
+可以在 [!UICONTROL Issue Details] 中访问 [!UICONTROL Severity] 字段。 它也可以包含在列表的列视图和自定义报告中。
 
 [!DNL Workfront] 有五种默认的严重性：
 
@@ -49,9 +55,9 @@ ht-degree: 100%
 1. 选择 **[!UICONTROL Severities]**。
 1. 单击 **[!UICONTROL Add a New Severity]**。
 1. 为严重性指定一个与其预期用途相匹配的名称。
-1. **[!UICONTROL Importance]** 数字与问题的严重性相匹配。最高的数字对应于最高的严重性。[!UICONTROL Importance] 号码是唯一的。
-1. 为您的优先级选择一种颜色。这会在图表报告和 [!DNL Workfront] 中的其他地方使用。
-1. 将其中一个严重性选项指定为 **[!UICONTROL Default Severity]**。这会自动应用于 Workfront 中的所有新问题。
+1. **[!UICONTROL Importance]** 数字与问题的严重性相匹配。 最高的数字对应于最高的严重性。 [!UICONTROL Importance] 号码是唯一的。
+1. 为您的优先级选择一种颜色。 这会在图表报告和 [!DNL Workfront] 中的其他地方使用。
+1. 将其中一个严重性选项指定为 **[!UICONTROL Default Severity]**。 这会自动应用于 Workfront 中的所有新问题。
 1. 包括对严重性的描述，例如如何使用。
 1. 单击字段外部进行保存。
 
@@ -61,11 +67,11 @@ ht-degree: 100%
 
 如果某项严重性不再与您的问题工作流相关，则可以对其进行重命名、隐藏或删除。
 
-如果不再需要某项严重性，[!DNL Workfront] 建议您隐藏该严重性（单击设置区域中其旁边的 [!UICONTROL Hide] 框）。这会从问题的下拉菜单中删除该严重性选项，但会在历史数据中保留该严重性，以便其仍可用于报告目的。
+如果不再需要某项严重性，[!DNL Workfront] 建议您隐藏该严重性（单击设置区域中其旁边的 [!UICONTROL Hide] 框）。 这会从问题的下拉菜单中删除该严重性选项，但会在历史数据中保留该严重性，以便其仍可用于报告目的。
 
 ![[!UICONTROL Hide] 列突出显示的 [!UICONTROL Severities] 页面，位于 [!UICONTROL Setup]](assets/admin-fund-severity-hide.png)
 
-[!DNL Workfront] 建议您&#x200B;**不要**&#x200B;删除此前的问题中使用的严重性。当您删除一项严重性时，系统会要求您使用另一项严重性来替换。这可能会更改历史数据并影响报告。
+[!DNL Workfront] 建议您&#x200B;**不要**&#x200B;删除此前的问题中使用的严重性。 当您删除一项严重性时，系统会要求您使用另一项严重性来替换。 这可能会更改历史数据并影响报告。
 
 ![删除严重性窗口](assets/admin-fund-severity-delete.png)
 

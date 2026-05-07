@@ -10,21 +10,27 @@ level: Beginner
 thumbnial: 10039.jpeg
 jira: KT-10039
 exl-id: 6df6ee45-ab59-4eb3-a1a0-adcb0911faac
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/9O3GCs9rFee72YR7akAsp3cUC6pqwhFP8A4BSvTzoC8
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: 175
 ht-degree: 100%
 
 ---
 
 # 修改用户信息
 
-有时您可能需要在 Workfront 中编辑用户。例如，用户在公司内更换职位，因此需要不同的 Workfront 权限。
+有时您可能需要在 Workfront 中编辑用户。 例如，用户在公司内更换职位，因此需要不同的 Workfront 权限。
 
 ## 编辑单个用户
 
 * 从主菜单中选择用户。
-* 单击列表中该用户的名称。这将打开 Workfront 中的配置文件页面。
+* 单击列表中该用户的名称。 这将打开 Workfront 中的配置文件页面。
 * 从页面标题的三点菜单中单击“编辑”。
 * 此时会打开用户的配置文件页面，您可以在其中编辑个人信息、首选项、通知、访问级别、组织选项、资源规划设置和自定义表单。
 * 单击保存更改。
@@ -34,9 +40,9 @@ ht-degree: 100%
 
 ## 编辑多个用户
 
-Workfront 的批量编辑功能允许您同时编辑多个用户。当需要更改有关多个人员的相同信息（例如重新分配访问级别或更改团队分配）时，这非常有用。
+Workfront 的批量编辑功能允许您同时编辑多个用户。 当需要更改有关多个人员的相同信息（例如重新分配访问级别或更改团队分配）时，这非常有用。
 
-选中您要编辑的用户旁边的框。然后单击“编辑”按钮打开用户详细信息。您所做的更改适用于所有选定的用户。
+选中您要编辑的用户旁边的框。 然后单击“编辑”按钮打开用户详细信息。 您所做的更改适用于所有选定的用户。
 
 
 ![[!DNL Edit Person] 窗口](assets/mod_02.png)

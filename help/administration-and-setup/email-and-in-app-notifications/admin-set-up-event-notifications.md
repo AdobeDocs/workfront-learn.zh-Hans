@@ -10,9 +10,15 @@ level: Intermediate
 thumbnail: 10093.jpeg
 jira: KT-10093
 exl-id: 6bd3a777-0ed8-4383-ad8e-f1238e334e78
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/VpeDSuAKqWlXviBhwNl8oV2LJ8LRQCjfhu0-XqIRZ6k
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '521'
+source-wordcount: 524
 ht-degree: 100%
 
 ---
@@ -29,13 +35,13 @@ add URL link in the note at the top of the LP
 
 >[!NOTE]
 >
->由于分阶段推出，一些 [!DNL Workfront] 客户暂时无法使用允许系统和组管理员管理事件通知的功能。请关注本文以获取有关版本的更新：解锁组的事件通知配置。
+>由于分阶段推出，一些 [!DNL Workfront] 客户暂时无法使用允许系统和组管理员管理事件通知的功能。 请关注本文以获取有关版本的更新：解锁组的事件通知配置。
 
 系统管理员确定用户应通过 [!DNL Workfront] 接收哪些通知。
 
 ![[!UICONTROL Email Notifications] 窗口，在 [!UICONTROL Setup] 区域中](assets/admin-fund-notifications-1.png)
 
-[!UICONTROL Event Notifications] 列表按类型分组。对于列出的每个事件通知，您将会看到五条信息：
+[!UICONTROL Event Notifications] 列表按类型分组。 对于列出的每个事件通知，您将会看到五条信息：
 
 * **[!UICONTROL Active]—**[!UICONTROL Active] 列允许您在系统范围内打开或关闭通知。
 * **[!UICONTROL Name]—**&#x200B;这是 [!DNL Workfront] 中通知的名称。
@@ -47,7 +53,7 @@ add URL link in the note at the top of the LP
 
 要在全局系统级别管理通知，请确保搜索栏显示 [!UICONTROL System Event Notifications]。
 
-单击切换按钮以显示蓝色，从而打开特定通知，使其可供所有用户使用。如果蓝色被隐藏，则通知处于关闭状态。
+单击切换按钮以显示蓝色，从而打开特定通知，使其可供所有用户使用。 如果蓝色被隐藏，则通知处于关闭状态。
 
 ![[!UICONTROL Active] 列，在 [!UICONTROL Email Notifications] 页面上](assets/admin-fund-notifications-2.png)
 
@@ -71,16 +77,16 @@ add URL link in the note at the top of the LP
 
 ![[!UICONTROL Group Access] 列，在 [!UICONTROL Email Notifications] 页面上](assets/ganotifications_02.png)
 
-通过单击切换按钮以显示灰色，从而锁定未锁定的通知。通过选中复选框并单击工具栏中的解锁图标，可以同时锁定多个通知。
+通过单击切换按钮以显示灰色，从而锁定未锁定的通知。 通过选中复选框并单击工具栏中的解锁图标，可以同时锁定多个通知。
 
 ![[!UICONTROL Group Access] 列，在 [!UICONTROL Email Notifications] 页面上](assets/ganotifications_03.png)
 
-顶级组管理员会看到解锁的通知，以确定其组和子组是否需要该通知。子组会从其顶级父组继承通知配置。﻿
+顶级组管理员会看到解锁的通知，以确定其组和子组是否需要该通知。 子组会从其顶级父组继承通知配置。 ﻿
 
 
 ## 管理组通知
 
-当系统管理员解锁通知选项后，组管理员可以通过单击左侧面板菜单中的“事件通知”，从单个组页面管理组的通知。然后您可以激活或停用通知选项。
+当系统管理员解锁通知选项后，组管理员可以通过单击左侧面板菜单中的“事件通知”，从单个组页面管理组的通知。 然后您可以激活或停用通知选项。
 
 ![[!UICONTROL Group Access] 列，在 [!UICONTROL Email Notifications] 页面上](assets/managegroupnotifications_01.png)
 

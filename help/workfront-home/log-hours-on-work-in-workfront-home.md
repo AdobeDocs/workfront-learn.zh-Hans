@@ -1,6 +1,6 @@
 ---
 title: 如何在 [!UICONTROL Home] 记录工作时间
-description: 了解如何在  [!DNL  Workfront] 中记录在工作分配上花费的时间。了解您的组织为什么可能要求记录时间。
+description: 了解如何在  [!DNL  Workfront] 中记录在工作分配上花费的时间。 了解您的组织为什么可能要求记录时间。
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,9 +11,14 @@ thumbnail: 335103.png
 jira: KT-8802
 exl-id: 3bd3b403-bfa3-4120-8afe-7566fc8f184f
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/scBWTdMHtri-zSM3xUbf4oYESDKiqE3ERDsg5nMLnA4
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: 138
 ht-degree: 100%
 
 ---
@@ -25,14 +30,14 @@ ht-degree: 100%
 * 记录时间的值
 * 如何记录在工作分配上花费的时间
 
->[!VIDEO](https://video.tv.adobe.com/v/3438608/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335103/?quality=12&learn=on&enablevpops=1)
 
 ## 在 [!DNL Home] 中记录工作时间的技巧
 
 与记录时间相关的一些选项取决于系统管理员如何设置 Workfront。
 
 * 您也许能够，也可能无法记录未来几天的时间。
-* 您可能需要从下拉菜单中选择一个小时类型，以便您可以更具体地了解您如何度过时间。此小时类型还可能会表明您的时间是可计费的还是不可计费的。在单击 [!UICONTROL Log Time] 按钮输入时间之前，请务必选择小时类型。
+* 您可能需要从下拉菜单中选择一个小时类型，以便您可以更具体地了解您如何度过时间。 此小时类型还可能会表明您的时间是可计费的还是不可计费的。 在单击 [!UICONTROL Log Time] 按钮输入时间之前，请务必选择小时类型。
 
 <!--
 learn more URLs

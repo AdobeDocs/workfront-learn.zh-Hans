@@ -10,9 +10,14 @@ team: Technical Marketing
 thumbnail: settings-to-consider.png
 jira: KT-10189
 exl-id: d9cf1309-c994-4a4e-89e2-030b67e2f57d
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/9wqffuyCRztBZCBI1kTssGbACTr-qlwbRgWlVBLLhNg
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '325'
+source-wordcount: 325
 ht-degree: 100%
 
 ---
@@ -32,7 +37,7 @@ ht-degree: 100%
 
 ## 包括来自问题的小时数
 
-默认情况下，工作负载均衡器仅会显示任务。但是，用户可能会被分配到需要满足或解决的请求和问题，而这会占用他们在项目工作上花费的时间。
+默认情况下，工作负载均衡器仅会显示任务。 但是，用户可能会被分配到需要满足或解决的请求和问题，而这会占用他们在项目工作上花费的时间。
 
 为了更好地了解用户的所有工作负载，Workfront 建议在已分配用户的工作列表中加入问题。
 
@@ -62,7 +67,7 @@ ht-degree: 100%
 
 ### 已完成的任务
 
-已完成的任务以及当前正在进行或即将开始的任务会显示在工作负载均衡器中。为了更好地了解用户可以承担哪些额外工作，您可能需要排除已完成的工作。
+已完成的任务以及当前正在进行或即将开始的任务会显示在工作负载均衡器中。 为了更好地了解用户可以承担哪些额外工作，您可能需要排除已完成的工作。
 
 取消选中工作负载均衡器设置中的“显示已完成的工作”选项。
 

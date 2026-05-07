@@ -9,10 +9,14 @@ activity: use
 team: Technical Marketing
 thumbnail: date-time-expressions.png
 exl-id: 333ba6ae-5004-4693-989b-03dc49fcbff8
-source-git-commit: 382df5f0f590df73db9e7d3c708aa3606f750210
+TQID: https://experienceleague.adobe.com/ybuGW-UvYh8SaPdxkgRvcp-qoT-2DSEKvdMwQV7W-Vw
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 88%
+source-wordcount: 193
+ht-degree: 82%
 
 ---
 
@@ -46,5 +50,5 @@ Workfront 客户通常会使用这两个数学表达式集：
 
 >[!NOTE]
 >
->有关表达式的完整列表以及每个表达式的详细信息，请转到[计算数据表达式](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)文档页面。
+>有关表达式的完整列表以及每个表达式的详细信息，请转到[计算数据表达式](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/reports/calculated-custom-data/calculated-data-expressions)文档页面。
 

@@ -10,9 +10,13 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2: id: fceb5125-bb41-419a-b0db-31958cb42f6c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 1f0dff02462d4c11075064f6ad7e2adb8b97c40b
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: 278
 ht-degree: 100%
 
 ---
@@ -23,15 +27,15 @@ ht-degree: 100%
 
 * 在 [!UICONTROL Pulse] 更新流中查看您的个人目标
 
->[!VIDEO](https://video.tv.adobe.com/v/3415924/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335200/?quality=12&learn=on&enablevpops=1)
 
 ## 过滤脉冲流中的信息
 
-您可能会注意到，有时您在 [!UICONTROL Pulse] 流中获得的信息太多，或者可能不是正确的信息。过滤源中的信息以查看您想要或需要的信息。
+您可能会注意到，有时您在 [!UICONTROL Pulse] 流中获得的信息太多，或者可能不是正确的信息。 过滤源中的信息以查看您想要或需要的信息。
 
 1. 单击左侧面板中的&#x200B;[!UICONTROL **脉冲**]。
 1. 单击右上角的&#x200B;[!UICONTROL **过滤**]&#x200B;图标。
-1. 选择一个作为过滤依据的选项。默认情况下应用“全部”过滤器并显示系统中的所有目标。您可以执行以下操作之一：
+1. 选择一个作为过滤依据的选项。 默认情况下应用“全部”过滤器并显示系统中的所有目标。 您可以执行以下操作之一：
 
    * 选择过滤器面板 [!UICONTROL Saved] 部分下列出的任何预定义过滤器，以显示所有者的目标（即 [!UICONTROL All]、[!UICONTROL Personal]、[!UICONTROL My teams]、[!UICONTROL My groups] 和 [!UICONTROL Company]）。
    * 将鼠标悬停在过滤器的名称上，然后单击其名称旁边的&#x200B;**编辑**&#x200B;图标，可对其进行自定义并添加用户、团队、组的特定名称或组织的名称。
@@ -39,11 +43,11 @@ ht-degree: 100%
 
    ![图像：[!UICONTROL Filters] 面板，位于 [!DNL Workfront Goals]](assets/18-workfront-goals-pulse-stream.png)
 
-**注释：**&#x200B;您的过滤选择将会被保留，[!DNL Goals] 其他部分中的信息将根据此信息显示。您可以在 [!DNL Workfront] 中的 [!DNL Goals] 区域的各个部分中查找和过滤目标：
+**注释：**&#x200B;您的过滤选择将会被保留，[!DNL Goals] 其他部分中的信息将根据此信息显示。 您可以在 [!DNL Workfront] 中的 [!DNL Goals] 区域的各个部分中查找和过滤目标：
 
 * [!UICONTROL Goal List]
 * [!UICONTROL Graphs]
 * [!UICONTROL Pulse]
-* [!UICONTROL Goal Alignment]. 在此部分中，您可以临时显示与您应用的过滤器不匹配的目标，以便您可以全面了解所有对齐的目标。如果所选过滤器隐藏了目标，请单击&#x200B;[!UICONTROL **显示**]&#x200B;选项。
+* [!UICONTROL Goal Alignment]. 在此部分中，您可以临时显示与您应用的过滤器不匹配的目标，以便您可以全面了解所有对齐的目标。 如果所选过滤器隐藏了目标，请单击&#x200B;[!UICONTROL **显示**]&#x200B;选项。
 
   ![](assets/19-workfront-goals-filter-show-it.png)

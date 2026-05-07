@@ -11,9 +11,14 @@ thumbnail: 335169.jpeg
 jira: KT-8906
 exl-id: 2114027c-e616-45a3-aca4-6382b6a20fda
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/xqa0b-3ApGd1QiIJh1s4Y0btYfdkgZXDQQ1kAiBWp3I
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '314'
+source-wordcount: 317
 ht-degree: 100%
 
 ---
@@ -26,11 +31,11 @@ ht-degree: 100%
 * 了解资源信息如何在此视图中显示
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3416527/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335169/?quality=12&learn=on&enablevpops=1)
 
-对于“按工作角色查看”选项，默认情况下显示“预算”列，该列会从业务案例中提取项目所需资源的估计数量（如果已填写）。这也意味着默认情况下，“净额”列使用“预算”列中的数字来告诉您还剩多少资源。
+对于“按工作角色查看”选项，默认情况下显示“预算”列，该列会从业务案例中提取项目所需资源的估计数量（如果已填写）。 这也意味着默认情况下，“净额”列使用“预算”列中的数字来告诉您还剩多少资源。
 
-但是，您的组织可能没有使用或准备使用业务案例来估计这些金额。相反，您可以使用项目中已输入的规划小时数。通过“自定义”选项，您可以选择在所选视图中显示哪些列以及如何计算“净值”列。
+但是，您的组织可能没有使用或准备使用业务案例来估计这些金额。 相反，您可以使用项目中已输入的规划小时数。 通过“自定义”选项，您可以选择在所选视图中显示哪些列以及如何计算“净值”列。
 
 要更改显示的列和净列计算，使其以规划小时数为基础：
 

@@ -1,6 +1,6 @@
 ---
 title: 在 [!UICONTROL Home] 中更改已分配工作的状态
-description: 了解如何从 [!UICONTROL Home] 页面更改任务的状态以指示工作正在进行中。了解为什么状态在  [!DNL  Workfront] 中很重要。
+description: 了解如何从 [!UICONTROL Home] 页面更改任务的状态以指示工作正在进行中。 了解为什么状态在  [!DNL  Workfront] 中很重要。
 feature: Work Management
 type: Tutorial
 role: User
@@ -11,9 +11,14 @@ thumbnail: 335101.png
 jira: KT-8800
 exl-id: c871cb18-65a3-4451-929d-f50cb3544b8d
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/mFZqZLjObPFqeCu1yarFaPiW4arvQh1ZoMx9hhLCRYs
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: 158
 ht-degree: 100%
 
 ---
@@ -25,7 +30,7 @@ ht-degree: 100%
 * [!DNL  Workfront] 中状态的作用
 * 如何更改工作任务的状态
 
->[!VIDEO](https://video.tv.adobe.com/v/3443440/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335101/?quality=12&learn=on&enablevpops=1)
 
 ## 开始 vs. 正在进行中
 
@@ -35,7 +40,7 @@ ht-degree: 100%
 
 当您单击 [!UICONTROL Start Task] 时，这会自动将您的任务状态更改为“正在进行中”（或您组织中的同等状态）。
 
-有些团队可能会看到 [!UICONTROL Work On It] 按钮。在这种情况下，您表示您接受该任务，但尚未开始处理该项目。任务的状态不会改变。
+有些团队可能会看到 [!UICONTROL Work On It] 按钮。 在这种情况下，您表示您接受该任务，但尚未开始处理该项目。 任务的状态不会改变。
 
 按钮的名称和功能由您的系统或组管理员以及组织的工作流和流程决策。
 

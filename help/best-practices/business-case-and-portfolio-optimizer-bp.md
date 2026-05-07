@@ -6,9 +6,13 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-source-git-commit: 0c822b5be5272c5b638039d83294b00d25c32141
+TQID: https://experienceleague.adobe.com/0m7HL1cXKtWUA6-cEOYgOvd3Z-WIQi7V39qPZjjxnng
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '440'
+source-wordcount: 488
 ht-degree: 100%
 
 ---
@@ -19,13 +23,13 @@ ht-degree: 100%
 
 最佳实践是代表有效、高效行动方针的指南；您和您公司的用户很容易采用；并且可以在您的组织中成功复制的实践。
 
-当您查看这些建议时，请记住，一些 Workfront 最佳实践是通用的，而其他最佳实践可能更特定于相关主题。使用这些最佳实践作为框架来帮助指导您对 Workfront 系统的设置和使用。
+当您审阅这些建议时，请记住，一些 Workfront 最佳实践是通用的，而其他最佳实践可能更特定于相关主题。 使用这些最佳实践作为框架来帮助指导您对 Workfront 系统的设置和使用。
 
 ## 浏览此页面
 
-当您滚动浏览此页面时，首先您将找到该主题的所有最佳实践的概括列表。通过该列表，您可以查看建议，而无需深入了解有关“原因”的细节。
+当您滚动浏览此页面时，首先您将找到该主题的所有最佳实践的概括列表。 通过该列表，您可以审阅建议，而无需深入了解有关“原因”的细节。
 
-“这些为什么是最佳实践？”概括列表后面的区域提供了一些最佳实践的更多详细信息以及为什么将它们视为应考虑使用 Workfront 实例实施的流程、工具等。
+“这些为什么是最佳实践？” 概括列表后面的区域提供了一些最佳实践的更多详细信息以及为什么将它们视为应考虑使用 Workfront 实例实施的流程、工具等。
 
 </br>
 </br>
@@ -51,7 +55,7 @@ ht-degree: 100%
 
 它还让您有机会向利益相关者展示您的项目如何为部门、区域和/或公司目标做出贡献。
 
-有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hans)。
+有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)。
 
 </br>
 </br>
@@ -62,9 +66,9 @@ ht-degree: 100%
 
 **原因如下**
 
-确保此信息与“真实”项目所需的信息尽可能接近，使您能够准确地使用项目组合优化器中的评分功能来确定列出的项目的优先级。项目组合优化器是一个很好的工具，可以确保您的项目有效地确定优先级，并与您公司的战略和价值保持一致。
+确保此信息与“真实”项目所需的信息尽可能接近，使您能够准确地使用项目组合优化器中的评分功能来确定列出的项目的优先级。 项目组合优化器是一个很好的工具，可以确保您的项目有效地确定优先级，并与您公司的战略和价值保持一致。
 
-有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hans)。
+有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)。
 
-有关如何使用项目组合优化器的说明，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=zh-Hans)。
+有关如何使用项目组合优化器的说明，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)。
 

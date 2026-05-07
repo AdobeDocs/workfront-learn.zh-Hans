@@ -9,22 +9,28 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10098
 exl-id: afc02878-e72e-4707-9a9b-94f1dc4694aa
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/qMUsOWywOvf46kP-8sy5v8-wJd-iAiLItw-BeHsRri8
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bdid: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '400'
+source-wordcount: 402
 ht-degree: 100%
 
 ---
 
 # 订阅工作项目
 
-事件通知会向您通报分配给您的工作的最新信息。但是，有时您可能想要跟踪未分配给您的工作项目，因为这可能会影响您所做的工作。订阅特定项目是完美的解决方案。
+事件通知会向您通报分配给您的工作的最新信息。 但是，有时您可能想要跟踪未分配给您的工作项目，因为这可能会影响您所做的工作。 订阅特定项目是完美的解决方案。
 
-例如，您对初始副本任务的进度感兴趣。您没有被分配到此任务，但您负责编辑该初始副本并想知道发生了什么。您可以订阅该任务，并在进行更新时收到电子邮件通知，其中提供有关工作进展情况的实时更新。
+例如，您对初始副本任务的进度感兴趣。 您没有被分配到此任务，但您负责编辑该初始副本并想知道发生了什么。 您可以订阅该任务，并在进行更新时收到电子邮件通知，其中提供有关工作进展情况的实时更新。
 
 ![来自任务订阅的电子邮件](assets/admin-fund-user-notifications-10.png)
 
-请务必注意，仅当对项目发表评论时才会发送订阅电子邮件和应用内通知。不会针对其他操作（例如截止日期修改或作业更改）发送电子邮件和通知。
+请务必注意，仅当对项目发表评论时才会发送订阅电子邮件和应用内通知。 不会针对其他操作（例如截止日期修改或作业更改）发送电子邮件和通知。
 
 为了订阅工作项目，您必须至少拥有该项目的查看共享权限。
 
@@ -50,13 +56,13 @@ ht-degree: 100%
 
 ![[!UICONTROL Subscribe] 窗口](assets/admin-fund-user-notifications-15.png)
 
-您订阅的人不会收到有关订阅的通知。所有订阅者都被会获得“查看”该项目的权限。但是，如果订阅者已经对该项拥有 [!UICONTROL Contribute] 或 [!UICONTROL Manage] 权限，则这些权限保持不变。
+您订阅的人不会收到有关订阅的通知。 所有订阅者都被会获得“查看”该项目的权限。 但是，如果订阅者已经对该项拥有 [!UICONTROL Contribute] 或 [!UICONTROL Manage] 权限，则这些权限保持不变。
 
-单个项目的 [!UICONTROL Updates] 选项卡中的条目还指示订阅者和订阅时间。当用户被其他人订阅时，[!UICONTROL Updates] 选项卡也会进行记录。
+单个项目的 [!UICONTROL Updates] 选项卡中的条目还指示订阅者和订阅时间。 当用户被其他人订阅时，[!UICONTROL Updates] 选项卡也会进行记录。
 
 ![[!UICONTROL Updates] 页面，该页面涉及某个任务，其中显示订阅](assets/admin-fund-user-notifications-16.png)
 
-要取消订阅用户，请再次单击气泡以打开 [!UICONTROL Subscribers] 窗口。然后单击人名旁边的 X。用户不会收到已取消订阅的通知。
+要取消订阅用户，请再次单击气泡以打开 [!UICONTROL Subscribers] 窗口。 然后单击人名旁边的 X。 用户不会收到已取消订阅的通知。
 
 ![[!UICONTROL Unsubscribe] 菜单选项，涉及某个项目](assets/admin-fund-user-notifications-14.png)
 
