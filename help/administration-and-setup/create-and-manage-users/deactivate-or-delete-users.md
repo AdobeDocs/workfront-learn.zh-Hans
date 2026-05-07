@@ -11,11 +11,17 @@ thumbnail: 10037.jpeg
 jira: KT-10037
 exl-id: 89b7d083-97d3-4783-a61d-35226d6582c0
 TQID: https://experienceleague.adobe.com/bOJ2ng-HrOD5SA9-uAItNK1rFF90zSnuxjeSiyh9LXk
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: d968a1bc-9a90-4926-a531-bcf272c32aad
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
 source-wordcount: 275
@@ -39,9 +45,9 @@ ht-degree: 86%
 
 在极少数情况下（例如意外进入或测试用户），可能需要从 [!DNL Workfront] 中删除用户登录信息。 删除用户会删除该用户在 [!DNL Workfront] 中的关联项目——工作任务、注释、时间、文档、他们创建的对象等。
 
-当用户从未分配获得过工作或完全没有与 Workfront 项目相关的历史记录时，****[!DNL Workfront] 才建议删除该用户。
+当用户从未分配获得过工作或完全没有与 Workfront 项目相关的历史记录时，**&#x200B;**&#x200B;[!DNL Workfront] 才建议删除该用户。
 
-[!DNL Workfront]**强烈**&#x200B;建议停用用户，而不是删除用户。 停用操作会将用户信息保留在[!DNL Workfront]中，这些信息可能是准确报告、项目管理等所必需的。如果您对是否应停用或删除用户有任何疑问，请与您的[!DNL Workfront]顾问或[!DNL Workfront]客户支持部门联系。
+[!DNL Workfront]&#x200B;**强烈**&#x200B;建议停用用户，而不是删除用户。 停用操作会将用户信息保留在[!DNL Workfront]中，这些信息可能是准确报告、项目管理等所必需的。如果您对是否应停用或删除用户有任何疑问，请与您的[!DNL Workfront]顾问或[!DNL Workfront]客户支持部门联系。
 
 ![[!DNL Users] 页面上显示选项的“更多”菜单](assets/admin-fund-adding-users-11.png)
 
