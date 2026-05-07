@@ -35,7 +35,7 @@ ht-degree: 75%
 
 * Workfront 应用程序中的各种有用的触发器、操作和搜索模块
 
->[!VIDEO](https://video.tv.adobe.com/v/335297/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417973/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 ## 想要了解详情？ 我们建议查看以下内容：

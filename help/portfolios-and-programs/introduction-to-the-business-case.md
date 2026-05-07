@@ -34,7 +34,7 @@ ht-degree: 6%
 
 此视频介绍了业务案例在项目管理中的重要性。 它强调，彻底填写业务案例有助于管理人员分析和优先处理竞争相同资源的项目。 完成&#x200B;后，提交业务案例会将项目状态更改为“已请求”，并计算其总体分数，以便在Portfolio优化工具中进行比较。 虽然&#x200B;这些字段都不是必填字段，但更详细的信息可改善决策。  
 
->[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442854/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

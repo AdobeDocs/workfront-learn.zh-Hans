@@ -37,4 +37,4 @@ ht-degree: 100%
 * 元数据和关键词维护计划
 * 建立 [!UICONTROL Workfront DAM] 最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/335239/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3419469/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

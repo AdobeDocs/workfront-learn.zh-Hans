@@ -36,7 +36,7 @@ ht-degree: 91%
 * 如何导航 Brand Connect
 * 如何寻找资源
 
->[!VIDEO](https://video.tv.adobe.com/v/335246/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418745/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 基本搜索条件
 

@@ -40,7 +40,7 @@ ht-degree: 100%
 * 选择相应的项目模板
 * 完成从请求到项目的转化
 
->[!VIDEO](https://video.tv.adobe.com/v/340343/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446632/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 ## 有关此主题的推荐教程

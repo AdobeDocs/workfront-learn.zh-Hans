@@ -35,7 +35,7 @@ ht-degree: 35%
 此视频介绍如何在Workfront中创建和管理分组，以有效组织项目列表。 分组&#x200B;与过滤器和视图一起是三个主要报表元素之一，它们有助于根据共享信息整理结果。  
 本教程提供了组织项目列表以简化日常工作和协作的实际步骤。  
 
->[!VIDEO](https://video.tv.adobe.com/v/335147/?quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3449825/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
 ## 关键要点
 

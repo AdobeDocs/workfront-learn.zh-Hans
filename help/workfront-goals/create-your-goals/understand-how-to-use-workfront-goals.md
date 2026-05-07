@@ -35,4 +35,4 @@ ht-degree: 100%
 * 浏览图表
 * 浏览目标对齐
 
->[!VIDEO](https://video.tv.adobe.com/v/335182/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3421293/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

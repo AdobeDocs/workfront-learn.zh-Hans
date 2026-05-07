@@ -41,7 +41,7 @@ ht-degree: 100%
 * 问题
 * 报告
 
->[!VIDEO](https://video.tv.adobe.com/v/3419150/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436154/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 >[!TIP]
 >

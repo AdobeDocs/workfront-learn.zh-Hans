@@ -40,4 +40,4 @@ ht-degree: 100%
 * 工作图表概述
 * 人员图表概述
 
->[!VIDEO](https://video.tv.adobe.com/v/335057/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436403/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

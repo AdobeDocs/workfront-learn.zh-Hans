@@ -37,7 +37,7 @@ ht-degree: 100%
 * 下载校样的所有版本
 * 删除校样版本
 
->[!VIDEO](https://video.tv.adobe.com/v/335137/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438652/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

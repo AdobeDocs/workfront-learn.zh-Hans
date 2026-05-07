@@ -34,4 +34,4 @@ ht-degree: 100%
 
 * 通过 [!DNL Slack] 搜索 [!DNL Workfront]
 
->[!VIDEO](https://video.tv.adobe.com/v/335121/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437523/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

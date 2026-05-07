@@ -35,4 +35,4 @@ ht-degree: 100%
 * 品牌准则是什么
 * 如何在 [!UICONTROL Brand Connect] 中创建品牌指南页面
 
->[!VIDEO](https://video.tv.adobe.com/v/335244/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418760/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

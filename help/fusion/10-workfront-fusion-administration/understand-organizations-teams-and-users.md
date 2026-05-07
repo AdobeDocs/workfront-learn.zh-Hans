@@ -35,4 +35,4 @@ ht-degree: 100%
 
 * 如何在组织、团队和用户之间进行使用、创建和导航。
 
->[!VIDEO](https://video.tv.adobe.com/v/335309/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418183/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

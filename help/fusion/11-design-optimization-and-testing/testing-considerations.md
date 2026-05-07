@@ -43,7 +43,7 @@ Workfront Fusion 测试应重点检查互联的软件平台之间的输入和输
 * 创建详细且可共享的文档
 * 测试深度、广度、复杂性和负载
 
->[!VIDEO](https://video.tv.adobe.com/v/335315/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418730/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 测试注意事项清单
 

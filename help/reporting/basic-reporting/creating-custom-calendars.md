@@ -45,5 +45,5 @@ ht-degree: 83%
 * 将工作项添加到日程表分组
 * 创建休息时间日程表
 
->[!VIDEO](https://video.tv.adobe.com/v/3423482/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3452403/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 

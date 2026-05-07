@@ -41,7 +41,7 @@ ht-degree: 100%
 * 将元数据模板应用到文件夹
 * 建立文件夹权限
 
->[!VIDEO](https://video.tv.adobe.com/v/335256/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414417/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 资源版本如何工作
 

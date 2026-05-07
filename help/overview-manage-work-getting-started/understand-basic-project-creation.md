@@ -41,7 +41,7 @@ ht-degree: 100%
 * 关于任务和问题的小知识
 * 开始创建项目的最佳实践
 
->[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435904/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 

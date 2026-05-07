@@ -47,4 +47,4 @@ ht-degree: 100%
 * 搜索并查看资源
 * 探索文件夹结构会如何影响对资源的组织和访问
 
->[!VIDEO](https://video.tv.adobe.com/v/335228/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420100/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

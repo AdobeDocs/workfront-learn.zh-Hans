@@ -34,4 +34,4 @@ ht-degree: 100%
 
 * 更新结果和活动的进展
 
->[!VIDEO](https://video.tv.adobe.com/v/335196/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415952/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

@@ -39,7 +39,7 @@ ht-degree: 89%
 * 查看文件夹详细信息
 * 查看和更新资源元数据和关键词
 
->[!VIDEO](https://video.tv.adobe.com/v/335253/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3453933/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 基本搜索条件
 

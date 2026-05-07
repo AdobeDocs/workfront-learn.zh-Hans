@@ -36,7 +36,7 @@ ht-degree: 3%
 
 该视频强调了完成业务案例以进行准确比较的重要性，并逐步说明了如何有效地优化和管理项目优先次序。  
 
->[!VIDEO](https://video.tv.adobe.com/v/3446275/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446285/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

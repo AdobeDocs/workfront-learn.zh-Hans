@@ -34,4 +34,4 @@ ht-degree: 100%
 
 * 通过添加结果来激活目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335194/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415977/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

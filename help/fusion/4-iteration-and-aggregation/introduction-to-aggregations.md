@@ -37,4 +37,4 @@ ht-degree: 100%
 * 如何使用聚合器
 * 不同类型的聚合器
 
->[!VIDEO](https://video.tv.adobe.com/v/335279/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417283/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

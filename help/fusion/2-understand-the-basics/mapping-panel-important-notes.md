@@ -35,4 +35,4 @@ ht-degree: 100%
 
 * 使用映射面板中提供的运算符的重要性
 
->[!VIDEO](https://video.tv.adobe.com/v/335263/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416001/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

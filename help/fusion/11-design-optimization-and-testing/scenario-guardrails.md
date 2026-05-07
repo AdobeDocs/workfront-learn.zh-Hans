@@ -41,7 +41,7 @@ ht-degree: 87%
 * 文件护栏
 * Webhook 护栏
 
->[!VIDEO](https://video.tv.adobe.com/v/335314/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418723/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 想要了解详情？ 我们建议查看以下内容：
 

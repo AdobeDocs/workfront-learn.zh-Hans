@@ -35,7 +35,7 @@ ht-degree: 100%
 
 * 构成 Workfront Fusion 的三个核心概念——场景、应用程序和模块
 
->[!VIDEO](https://video.tv.adobe.com/v/335260/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415958/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 核心概念术语
 

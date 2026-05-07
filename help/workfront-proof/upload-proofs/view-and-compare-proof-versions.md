@@ -38,7 +38,7 @@ ht-degree: 100%
 * 对版本进行评论和标记
 * 将文件的当前版本与早期版本进行比较
 
->[!VIDEO](https://video.tv.adobe.com/v/335142/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446906/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

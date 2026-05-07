@@ -38,4 +38,4 @@ ht-degree: 100%
 * 制定有关下载的规则
 * 查看报告和审核日志
 
->[!VIDEO](https://video.tv.adobe.com/v/335231/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414459/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

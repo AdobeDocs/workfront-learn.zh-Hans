@@ -35,4 +35,4 @@ ht-degree: 100%
 
 * Workfront Fusion 中的平衡运行、循环和捆绑是什么
 
->[!VIDEO](https://video.tv.adobe.com/v/335285/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417423/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

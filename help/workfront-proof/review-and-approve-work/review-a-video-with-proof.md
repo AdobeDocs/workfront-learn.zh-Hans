@@ -36,7 +36,7 @@ ht-degree: 100%
 * 向视频添加带时间戳的评论
 * 调整查看器设置
 
->[!VIDEO](https://video.tv.adobe.com/v/335144/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444232/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

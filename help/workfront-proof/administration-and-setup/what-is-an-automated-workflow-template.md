@@ -38,7 +38,7 @@ ht-degree: 100%
 * 校样用户如何从工作流模板中受益
 * 如何开始规划要创建哪些模板
 
->[!VIDEO](https://video.tv.adobe.com/v/335129/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441307/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 Learn More Icon

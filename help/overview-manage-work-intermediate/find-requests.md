@@ -44,7 +44,7 @@ ht-degree: 100%
 * 在自定义仪表板中
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422686/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3441664/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 ## 有关此主题的推荐教程

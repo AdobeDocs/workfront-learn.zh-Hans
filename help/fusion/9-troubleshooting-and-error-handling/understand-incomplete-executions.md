@@ -38,7 +38,7 @@ ht-degree: 93%
 * 什么是未完成的执行
 * 如何处理导致执行未完成的错误
 
->[!VIDEO](https://video.tv.adobe.com/v/335307/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418146/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 导致执行未完成的错误
 

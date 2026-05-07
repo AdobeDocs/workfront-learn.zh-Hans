@@ -37,7 +37,7 @@ ht-degree: 100%
 * 对静态网站校样进行评论
 * 对交互式网站校样进行评论
 
->[!VIDEO](https://video.tv.adobe.com/v/335143/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445972/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 ## Learn more

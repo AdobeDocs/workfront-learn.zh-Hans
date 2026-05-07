@@ -60,7 +60,7 @@ ht-degree: 63%
 
 下面包含分步说明。
 
->[!VIDEO](https://video.tv.adobe.com/v/336807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3443389/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 活动 2 答案
 

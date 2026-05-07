@@ -47,7 +47,7 @@ ht-degree: 100%
 
 * 通过导航 [!UICONTROL Goals List] 部分来添加新的目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335191/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412616/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 复制现有目标
 
@@ -104,5 +104,5 @@ ht-degree: 100%
 
 * 添加一项活动并将其转换为一致的目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335192/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416521/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 

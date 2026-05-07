@@ -35,7 +35,7 @@ ht-degree: 75%
 * 创建清晰的目标陈述或“指挥官意图”
 * 编写强有力的企业或组织目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335186/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3416007/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 Your turn graphic

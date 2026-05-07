@@ -34,4 +34,4 @@ ht-degree: 100%
 
 * 将活动和项目添加到目标
 
->[!VIDEO](https://video.tv.adobe.com/v/335193/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3420189/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

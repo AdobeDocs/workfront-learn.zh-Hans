@@ -37,4 +37,4 @@ ht-degree: 100%
 * 如何通过任务执行计划图表对项目进行深入分析，以显示燃尽图和“正在执行的任务”图表
 * 如何创建时间范围过滤器，以在某个日期范围内放大其中的信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335048/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437277/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

@@ -35,7 +35,7 @@ ht-degree: 5%
 此视频介绍项目组合管理，重点介绍经理如何优化项目选择以符合公司目标。 它&#x200B;将项目组合的概念引入为争夺共享资源、预算和时间表的项目集合。 经理可&#x200B;以使用Portfolio Optimizer等工具，根据人力、费用、风险、ROI等标准并与项目组合目标一致性来比较项目。 准备项目以进行比较&#x200B;涉及为每个项目创建业务案例。  
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3442807/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442838/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

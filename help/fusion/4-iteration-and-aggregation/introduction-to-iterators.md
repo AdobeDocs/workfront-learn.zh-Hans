@@ -36,4 +36,4 @@ ht-degree: 100%
 * 如何使用迭代和聚合
 * 不同类型的迭代器
 
->[!VIDEO](https://video.tv.adobe.com/v/335277/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417277/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

@@ -34,7 +34,7 @@ ht-degree: 100%
 
 * 了解您能够从其他 [!DNL Workfront] for [!DNL Slack] 视频中学到的内容
 
->[!VIDEO](https://video.tv.adobe.com/v/335116/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3435925/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >

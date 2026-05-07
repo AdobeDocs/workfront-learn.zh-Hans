@@ -35,4 +35,4 @@ ht-degree: 100%
 * 三个 [!UICONTROL Workfront DAM] 用户配置文件之间的差异
 * 如何导航 [!UICONTROL Workfront DAM]
 
->[!VIDEO](https://video.tv.adobe.com/v/335252/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3414423/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
