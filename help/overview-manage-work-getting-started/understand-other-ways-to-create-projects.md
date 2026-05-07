@@ -42,7 +42,7 @@ ht-degree: 100%
 * 复制现有项目
 * 导入 [!DNL Microsoft Project] 文件
 
->[!VIDEO](https://video.tv.adobe.com/v/335084/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432174/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 
