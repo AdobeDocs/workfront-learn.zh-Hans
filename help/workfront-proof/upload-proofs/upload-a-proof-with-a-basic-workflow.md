@@ -11,9 +11,15 @@ thumbnail: 335132.png
 jira: KT-8832
 exl-id: adadfa42-1c41-4b45-a947-e0851b3117d3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:46:14.611Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '185'
+source-wordcount: 187
 ht-degree: 100%
 
 ---
@@ -35,9 +41,9 @@ ht-degree: 100%
 >请不要忘记提醒您的同事，您向他们发送的校样是您 Workfront 培训的一部分。
 
 
-1. 在您的计算机或服务器上找到多个可以上传的文件。这些可以是文本文档、图像、电子表格等。
-1. 使用基本工作流将两个文件上传到您的练习项目或任务。指派您的同事审阅并审批校对，截止日期为明天下午 2 点。
-1. 如果您有 3 个校样需要上传，并且它们都需要不同的截止日期，您可以同时上传它们吗？为什么能或者为什么不能？
+1. 在您的计算机或服务器上找到多个可以上传的文件。 这些可以是文本文档、图像、电子表格等。
+1. 使用基本工作流将两个文件上传到您的练习项目或任务。 指派您的同事审阅并审批校对，截止日期为明天下午 2 点。
+1. 如果您有 3 个校样需要上传，并且它们都需要不同的截止日期，您可以同时上传它们吗？ 为什么能或者为什么不能？
 1. 您将在团队的审阅和审批流程中扮演哪个校对角色？
 
 <!--

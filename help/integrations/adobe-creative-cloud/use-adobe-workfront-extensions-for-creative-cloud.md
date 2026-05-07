@@ -9,14 +9,20 @@ level: Beginner
 team: Technical Marketing
 jira: KT-8811
 doc-type: video
-last-substantial-update: 2025-12-18T00:00:00Z
+last-substantial-update: '2025-12-18T00:00:00.000Z'
 exl-id: 1a9b767c-3efd-4ecd-9a99-178586cc6774
 badgeIntegration: label="集成" type="positive"
 feature-set: Workfront
 topic: Integrations
-source-git-commit: 67237825d4d14091c1664993a65b2658c4f700dd
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+subfeature_v2: id: d1807669-3cb9-4c7d-8433-600aa390c92f
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:04:47.729Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '174'
+source-wordcount: 209
 ht-degree: 100%
 
 ---
@@ -33,8 +39,8 @@ ht-degree: 100%
 
 您必须为您正在使用的 Adobe Creative Cloud 应用程序安装正确的插件：
 
-* 对于 Photoshop，请参阅[安装并打开 Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?lang=zh-Hans&)
-* 对于 InDesign、Illustrator、Premiere Pro 和 After Effects，请参阅[安装并打开 Adobe Workfront 以进行设计和视频制作](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?lang=zh-Hans&)
+* 对于 Photoshop，请参阅[安装并打开 Adobe Workfront for Photoshop](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-cc-install-ps.html?)
+* 对于 InDesign、Illustrator、Premiere Pro 和 After Effects，请参阅[安装并打开 Adobe Workfront 以进行设计和视频制作](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/install-wf-cc/wf-install-cc.html?)
 
 
 在本视频中，您将会了解到如何在 Creative Cloud 应用程序中执行以下操作：
@@ -47,4 +53,4 @@ ht-degree: 100%
 * 记录时间
 * 将您的工作标记为已完成
 
->[!VIDEO](https://video.tv.adobe.com/v/3420642/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415452/?quality=12&learn=on&enablevpops=1)

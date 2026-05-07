@@ -10,9 +10,15 @@ team: Technical Marketing
 jira: KT-8972
 exl-id: 65ca5265-8fa7-4a46-8747-1fa362c6332b
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T22:32:06.332Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '279'
+source-wordcount: 280
 ht-degree: 100%
 
 ---
@@ -26,11 +32,11 @@ ht-degree: 100%
 * 使用现有元数据字段
 * 创建自定义元数据字段
 
->[!VIDEO](https://video.tv.adobe.com/v/3419514/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/335235/?quality=12&learn=on&enablevpops=1)
 
 ## 元数据最佳实践
 
-元数据是 [!UICONTROL Workfront DAM] 中进行资源搜索的主要驱动力。它不仅增强了可搜索性，还可以用于跟踪有关资源的关键信息，例如版权、位置、图像源等。
+元数据是 [!UICONTROL Workfront DAM] 中进行资源搜索的主要驱动力。 它不仅增强了可搜索性，还可以用于跟踪有关资源的关键信息，例如版权、位置、图像源等。
 
 以下是一些可帮助您开始使用元数据的最佳实践：
 
@@ -44,12 +50,12 @@ ht-degree: 100%
 
 ## 制定元数据策略
 
-在制定组织的元数据策略时，请查看您的资源工作流。您的 [!DNL Workfront] 顾问可以帮助您回答以下关键问题：
+在制定组织的元数据策略时，请查看您的资源工作流。 您的 [!DNL Workfront] 顾问可以帮助您回答以下关键问题：
 
 * 谁负责添加元数据？
-* 需要哪些元数据？哪些是可选的？
+* 需要哪些元数据？ 哪些是可选的？
 * 何时添加元数据？
 * 多久检查一次资源，以确保正确使用元数据？
 * 谁负责检查元数据？
 
-添加元数据的工作可能既耗时又乏味。但是，结构化且一致的元数据是构建高度可搜索且易于浏览的 [!UICONTROL Workfront DAM] 的基础。
+添加元数据的工作可能既耗时又乏味。 但是，结构化且一致的元数据是构建高度可搜索且易于浏览的 [!UICONTROL Workfront DAM] 的基础。

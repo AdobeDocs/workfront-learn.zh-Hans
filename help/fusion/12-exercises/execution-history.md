@@ -1,6 +1,6 @@
 ---
 title: 执行历史练习
-description: 查看和审核有关过去执行情况和场景配置的详细信息。
+description: 查看和审阅有关过去执行情况和场景配置的详细信息。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,20 +11,26 @@ jira: KT-11049
 thumbnail: KT11049.png
 recommendations: noDisplay,catalog
 exl-id: 5ccbf773-fdb2-4886-b315-e5c9daa72554
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '292'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:44:02.583Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 294
 ht-degree: 100%
 
 ---
 
 # 执行历史练习
 
-查看和审核有关过去执行情况和场景配置的详细信息。
+查看和审阅有关过去执行情况和场景配置的详细信息。
 
 ## 练习概述
 
-查看“使用强大的过滤器”场景的执行历史记录，以了解执行时发生了什么，以及它们在运行时的结构。
+审阅“使用强大的过滤器”场景的执行历史记录，以了解执行时发生了什么，以及它们在运行时的结构。
 
 ![执行历史记录图像 1](../12-exercises/assets/execution-history-walkthrough-1.png)
 
@@ -35,11 +41,11 @@ ht-degree: 100%
 
    ![执行历史记录图像 2](../12-exercises/assets/execution-history-walkthrough-2.png)
 
-1. 找到一个执行，然后单击详细信息按钮打开一个页面，该页面在右侧面板中显示已执行（或未执行）的特定操作。在左侧面板中，您可以检查执行时的场景。
+1. 找到一个执行，然后单击详细信息按钮打开一个页面，该页面在右侧面板中显示已执行（或未执行）的特定操作。 在左侧面板中，您可以检查执行时的场景。
 
    ![执行历史记录图像 3](../12-exercises/assets/execution-history-walkthrough-3.png)
 
-1. 当您单击场景面板中的模块时，会出现模块检查器面板，其中显示有关模块设置的信息。单击模块或过滤器旁边的执行检查器，查看执行了哪些信息捆绑包。
+1. 当您单击场景面板中的模块时，会出现模块检查器面板，其中显示有关模块设置的信息。 单击模块或过滤器旁边的执行检查器，查看执行了哪些信息捆绑包。
 
    ![执行历史记录图像 4](../12-exercises/assets/execution-history-walkthrough-4.png)
 
@@ -52,12 +58,12 @@ ht-degree: 100%
 
    ![执行历史记录图像 6](../12-exercises/assets/execution-history-walkthrough-6.png)
 
-   + 单击“场景”面板中的日志项，以打开“操作”面板。日志会按其发生的时间顺序列出。
+   + 单击“场景”面板中的日志项，以打开“操作”面板。 日志会按其发生的时间顺序列出。
 
 
    ![执行历史记录图像 7](../12-exercises/assets/execution-history-walkthrough-7.png)
 
 
-1. 高级日志显示类似的信息。然而，它提供了关于每次运行执行了多少个周期的更多信息，并使您能够更深入地了解每个周期中处理了哪些信息捆绑包。
+1. 高级日志显示类似的信息。 然而，它提供了关于每次运行执行了多少个周期的更多信息，并使您能够更深入地了解每个周期中处理了哪些信息捆绑包。
 
 ![执行历史记录图像 8](../12-exercises/assets/execution-history-walkthrough-8.png)

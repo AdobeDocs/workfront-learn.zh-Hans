@@ -11,9 +11,15 @@ jira: KT-11039
 thumbnail: KT11039.png
 recommendations: noDisplay,catalog
 exl-id: 979d794d-b936-402e-b07c-71e999f40780
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '314'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:44:57.573Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 314
 ht-degree: 100%
 
 ---
@@ -32,18 +38,18 @@ ht-degree: 100%
 
 **克隆您的初始场景设计场景。**
 
-1. 在场景部分选择初始场景设计右侧的“克隆”选项，如下所示。将其命名为“超越基本映射”。
+1. 在场景部分选择初始场景设计右侧的“克隆”选项，如下所示。 将其命名为“超越基本映射”。
 
    ![超越基本映射图像 2](../12-exercises/assets/beyond-basic-mapping-walkthrough-2.png)
 
    **现在，我们将会使用“创建 Workfront 项目”模块中的映射面板来配置项目名称、规划开始日期和优先级字段。**
 
-1. 单击“创建 Workfront 项目”模块以编辑设置。使用映射面板，将“名称”字段更改为“[我的项目名称]/[赞助商]”。
+1. 单击“创建 Workfront 项目”模块以编辑设置。 使用映射面板，将“名称”字段更改为“[我的项目名称]/[赞助商]”。
 
-   + [我的项目名称]是解析 CSV 模块的第 1 列，而[赞助商]是第 6 列。“/”这个符号只是在两者之间键入的。
+   + [我的项目名称]是解析 CSV 模块的第 1 列，而[赞助商]是第 6 列。 “/”这个符号只是在两者之间键入的。
 
 1. 接下来转到“规划开始日期”，并使用 addDays 公式向该字段添加 15 天，如“超越基本映射”演练视频中所述。
-1. 找到“优先级”字段，并切换该字段右上角的“映射”按钮。拾取列表菜单将更改为数字。如果 CSV 文件置信度低于 100，则创建 if 语句将项目标记为高 (4) 优先级，否则可以标记为正常 (2)。
+1. 找到“优先级”字段，并切换该字段右上角的“映射”按钮。 拾取列表菜单将更改为数字。 如果 CSV 文件置信度低于 100，则创建 if 语句将项目标记为高 (4) 优先级，否则可以标记为正常 (2)。
 
    + 置信度评级见第 4 列。
 

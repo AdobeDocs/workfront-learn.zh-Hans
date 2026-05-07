@@ -7,13 +7,19 @@ feature: Reports and Dashboards
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2025-06-23T00:00:00Z
+last-substantial-update: '2025-06-23T00:00:00.000Z'
 thumbnail: your-turn-to-create-a-calendar.png
 jira: KT-10026
 exl-id: 74d57f1a-c6c5-49e0-9529-2e2deb2f273e
-source-git-commit: c5f90e3f36744bbcd6cd7ad8044390f4e222008f
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: c6584858-4838-4ce3-ab7f-7292f37179f4
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:16:18.343Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '362'
+source-wordcount: 362
 ht-degree: 81%
 
 ---
@@ -26,7 +32,7 @@ ht-degree: 81%
 
 选择红色作为这些项目的颜色。
 
-包括另一个名为“未完成的问题”的日程表组，其中显示在“当前”项目中分配给您的所有未完成的问题。选择蓝色作为这些项目的颜色。
+包括另一个名为“未完成的问题”的日程表组，其中显示在“当前”项目中分配给您的所有未完成的问题。 选择蓝色作为这些项目的颜色。
 
 ## 答案
 
@@ -38,7 +44,7 @@ ht-degree: 81%
 1. 将“日期字段”更改为“规划日期”。
 1. 将“在日程表上显示”字段设置为“仅结束日期”。
 1. 将“可用时切换到实际日期”字段设置为“否”。
-1. 在“您想要在日程表中添加什么？”部分中，选择任务。 然后单击“添加任务”按钮。
+1. 在“您想要在日程表中添加什么？” 部分中，选择任务。 然后单击“添加任务”按钮。
 1. 添加三个过滤规则：
 
    * 项目 > 状态等于 > 等于 > 当前
@@ -55,7 +61,7 @@ ht-degree: 81%
 1. 将“日期字段”更改为“规划日期”。
 1. 将“在日程表上显示”字段设置为“仅结束日期”。
 1. 将“可用时切换到实际日期”字段设置为“否”。
-1. 在“您想要在日程表中添加什么？”部分，选择问题。 然后单击Add Issues按钮。
+1. 在“您想要在日程表中添加什么？” 部分，选择问题。 然后单击Add Issues按钮。
 1. 添加以下三个过滤规则：
 
    * 项目 > 状态等于 > 等于 > 当前

@@ -11,10 +11,16 @@ jira: KT-11048
 thumbnail: KT11048.png
 recommendations: noDisplay,catalog
 exl-id: 5364befa-491d-4b75-b1f0-10244f70ad7c
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '493'
-ht-degree: 100%
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:45:52.312Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 493
+ht-degree: 94%
 
 ---
 
@@ -48,8 +54,8 @@ ht-degree: 100%
 
    **您需要收集每个国家/地区的子区域信息，因此您需要发出额外的 HTTP 请求。**
 
-1. 添加另一个请求以获取子区域信息。它只会返回第一个国家/地区，但目前还可以。添加另外一个 HTTP 请求模块并使用该 URL `https://restcountries.com/v2/name/{country name}`。
-1. 要获取第一个国家/地区的名称，请转到映射面板并单击“数据”，然后单击数组中的“名称”。数据字段中的 [1] 表示它将会返回数组中的第一项。
+1. 添加另一个请求以获取子区域信息。 它只会返回第一个国家/地区，但目前还可以。 添加另外一个 HTTP 请求模块并使用该 URL `https://restcountries.com/v2/name/{country name}`。
+1. 要获取第一个国家/地区的名称，请转到映射面板并单击“数据”，然后单击数组中的“名称”。 数据字段中的 [1] 表示它将会返回数组中的第一项。
 
    + 单击数字并根据需要更改索引，但在本例中您只需要第一项。
 
@@ -61,7 +67,7 @@ ht-degree: 100%
 
    + 输出是单个国家/地区的信息。
 
-1. 要获取其他国家/地区，您需要遍历数组。添加一个迭代器，它获取事物列表并为列表中的每个项目输出一个捆绑包。
+1. 要获取其他国家/地区，您需要遍历数组。 添加一个迭代器，它获取事物列表并为列表中的每个项目输出一个捆绑包。
 
    **添加迭代器和聚合器。**
 
@@ -77,8 +83,8 @@ ht-degree: 100%
 1. 现在，在“获取国家/地区详细信息”之后添加一个数字聚合器，以对人口进行分组和求和。
 1. 源模块是迭代器模块。
 1. 聚合函数是 SUM。
-1. 该值为“获取国家/地区详细信息”模块中的 [data:population]。
-1. 单击底部的“显示高级设置”选项，然后按“获取国家/地区详细信息”模块中的 [data:subregion] 分组。
+1. 获取国家/地区详细信息模块中的值为[data:population]。
+1. 单击底部的“显示高级设置”选项，然后从“获取国家/地区详细信息”模块中按[数据:subregion]分组。
 
    ![高级聚合图像 7](../12-exercises/assets/advanced-aggregation-walkthrough-7.png)
 
@@ -92,4 +98,4 @@ ht-degree: 100%
 
 1. 保存并运行一次。
 
-   + 查看最终模块的输出。
+   + 审阅最终模块的输出。

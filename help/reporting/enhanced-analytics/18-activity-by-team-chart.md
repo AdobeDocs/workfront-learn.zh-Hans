@@ -11,16 +11,22 @@ level: Beginner
 jira: KT-10045
 recommendations: noDisplay,catalog
 exl-id: a9c5c4bc-0728-4199-b87e-e166c23dc25a
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '310'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:09:15.287Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 312
 ht-degree: 100%
 
 ---
 
 # 通过团队图表了解活动
 
-通过“按团队划分的活动”图表，您可以了解到组织中的主团队在 Workfront 中是如何分配其时间的。Workfront 用户可以属于多个团队，但只能属于一个主团队。人员图表中使用的团队仅由指定该团队为其主团队的用户组成。
+通过“按团队划分的活动”图表，您可以了解到组织中的主团队在 Workfront 中是如何分配其时间的。 Workfront 用户可以属于多个团队，但只能属于一个主团队。 人员图表中使用的团队仅由指定该团队为其主团队的用户组成。
 
 各类活动（登录的用户、任务状态更改和已完成的任务）会以不同颜色显示，以对所过滤的时段内的这些事件进行总结。
 

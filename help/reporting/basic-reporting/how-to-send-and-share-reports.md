@@ -9,13 +9,19 @@ level: Beginner
 team: Technical Marketing
 thumbnail: 335158.png
 jira: KT-8863
-last-substantial-update: 2025-05-29T00:00:00Z
+last-substantial-update: '2025-05-29T00:00:00.000Z'
 exl-id: 3d0554fb-4fe0-43d5-b725-2bcd44134bb5
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:18:44.706Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 56%
+source-wordcount: 337
+ht-degree: 57%
 
 ---
 
@@ -27,14 +33,14 @@ ht-degree: 56%
 * 如何与任何人共享报告
 * 收件人可以在 Workfront 报告中看到什么，以及执行哪些操作
 
->[!VIDEO](https://video.tv.adobe.com/v/3447822/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335158/?quality=12&learn=on&enablevpops=0)
 
-## 要点
+## 关键要点
 
-* **向外部用户发送报告：**&#x200B;您可以通过输入非Workfront用户的电子邮件地址来向这些用户发送报告，从而便于在组织外部共享数据。&#x200B;AEM
-* **访问权限控制可见性：**&#x200B;收件人的报表视图取决于您设置的访问权限，以确保数据安全和适当的可见性。&#x200B;AEM
-* **重复传送快照：**&#x200B;计划传送在特定时间提供数据的冻结快照，用于跟踪趋势和维护项目数据的历史记录。&#x200B;AEM
-* **与团队共享报告：**&#x200B;可与个人、团队或工作角色共享报告，从而授予查看或管理权限。&#x200B;AEM 共享报表显示在用户“与我共享”部分。&#x200B;AEM
+* **向外部用户发送报告：**&#x200B;您可以通过输入非Workfront用户的电子邮件地址来向这些用户发送报告，从而便于在组织外部共享数据。  
+* **访问权限控制可见性：**&#x200B;收件人的报表视图取决于您设置的访问权限，以确保数据安全和适当的可见性。  
+* **重复传送快照：**&#x200B;计划传送在特定时间提供数据的冻结快照，用于跟踪趋势和维护项目数据的历史记录。  
+* **与团队共享报告：**&#x200B;可与个人、团队或工作角色共享报告，从而授予查看或管理权限。 共享&#x200B;报表显示在用户“与我共享”部分。  
 * **公共共享和全系统共享：**&#x200B;可以通过公共链接为外部用户共享报告，或在全系统为所有Workfront用户显示报告，从而为数据共享提供灵活性。
 
 
@@ -42,7 +48,7 @@ ht-degree: 56%
 
 ### 活动 1：发送一份报告
 
-每周一早上 5 点以 Excel 电子表格形式向自己发送一份报告。这是自动收集每周报告的好方法，您可以稍后使用该报告来查看相关的趋势。
+每周一早上 5 点以 Excel 电子表格形式向自己发送一份报告。 这是自动收集每周报告的好方法，您可以稍后使用该报告来查看相关的趋势。
 
 ### 答案 1
 
@@ -60,7 +66,7 @@ ht-degree: 56%
 
 >[!NOTE]
 >
->请注意右侧 [!UICONTROL Repeating Deliveries] 面板中新的“重复传递”。您可以为一份报告设置多个传递，它们都会显示在此处。
+>请注意右侧 [!UICONTROL Repeating Deliveries] 面板中新的“重复传递”。 您可以为一份报告设置多个传递，它们都会显示在此处。
 
 **删除一项传递**
 

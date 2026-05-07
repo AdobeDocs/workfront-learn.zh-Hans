@@ -1,6 +1,6 @@
 ---
-title: 验证报告
-description: 了解如何使用报告功能来管理验证进度。
+title: 校样报告
+description: 了解如何使用报告功能来管理校样进度。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,36 +10,42 @@ level: Intermediate
 thumbnail: report-on-proofs.png
 jira: KT-10233
 exl-id: 9a1a9e16-61cc-4f95-977a-8870b7fd0dda
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:01.017Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '366'
+source-wordcount: 384
 ht-degree: 100%
 
 ---
 
-# 验证报告
+# 校样报告
 
-[!DNL Workfront] 的数字验证功能使您可以在一个地方（在 [!DNL Workfront] 中）管理项目和相关的审查工作流。通过报告类型、字段源以及显示审查和审批信息的字段名称，获得有关正在进行的验证工作的宝贵见解。
+[!DNL Workfront] 的数字校对功能使您可以在一个地方（在 [!DNL Workfront] 中）管理项目和相关的审阅工作流。 通过报告类型、字段源以及显示审阅和审批信息的字段名称，获得有关正在进行的校对工作的宝贵洞察。
 
-我们建议您与 [!DNL Workfront] 顾问合作，创建符合组织要求的报告。生成某些报告需要熟悉 [!DNL Workfront] 的文本模式报告。
+我们建议您与 [!DNL Workfront] 顾问合作，创建符合组织要求的报告。 生成某些报告需要熟悉 [!DNL Workfront] 的文本模式报告。
 
-从这些基本的标准报告开始，帮助您的团队在 [!DNL Workfront] 中管理正在进行审查和审批流程的验证。
+从这些基本的标准报告开始，帮助您的团队在 [!DNL Workfront] 中管理正在进行审阅和审批流程的校对。
 
 ## [!UICONTROL Proof Approval]
 
-此报告类型可以帮助您跟踪未完成的验证审批，以确保按时完成。
+此报告类型可以帮助您跟踪未完成的校样审批，以确保按时完成。
 
 ![从 [!UICONTROL New Report] 下拉菜单选择 [!UICONTROL Proof Approval]](assets/proof-system-setups-proof-approval-report.png)
 
-视图和过滤选项包括 [!UICONTROL decision date]、[!UICONTROL proof approval]、[!UICONTROL approver stage]、[!UICONTROL workflow template] 和 [!UICONTROL requester information]。通过文本模式报告功能，您可以创建按文档名称组织列表的分组。请参阅[了解分组的基本文本模式。](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hans)
+视图和过滤选项包括 [!UICONTROL decision date]、[!UICONTROL proof approval]、[!UICONTROL approver stage]、[!UICONTROL workflow template] 和 [!UICONTROL requester information]。 通过文本模式报告功能，您可以创建按文档名称组织列表的分组。 请参阅[了解分组的基本文本模式。](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-groupings.html?lang=zh-Hans)
 
-编写验证审批报告时，请确保您获得的是与最新版本的验证相关的信息。[!DNL Workfront] 建议在过滤器中包含此字段源和字段名称：
+编写校样审批报告时，请确保您获得的是与最新版本的校样相关的信息。 [!DNL Workfront] 建议在过滤器中包含此字段源和字段名称：
 
 **[!UICONTROL Proof Approval]>>[!UICONTROL Is Current Document Version]**
 
 ![Report Builder 中的“过滤器”选项卡](assets/proof-system-setups-proof-approval-report-is-current-version.png)
 
-当您报告具有多个版本的验证时，这非常有用，此时报告仅会列出每个需要审批的验证的当前版本。这会过滤掉您不再需要处理的早期版本。
+当您报告具有多个版本的校样时，这非常有用，此时报告仅会列出每个需要审批的校样的当前版本。 这会过滤掉您不再需要处理的早期版本。
 
 ## [!UICONTROL Document Version]
 
@@ -49,11 +55,11 @@ ht-degree: 100%
 
 视图选项包括 [!UICONTROL document version]、[!UICONTROL document]、[!UICONTROL entered by]、[!UICONTROL proof approval status]、[!UICONTROL proof creator] 和 [!UICONTROL document provider] 中的信息。
 
-分组可以通过 [!UICONTROL document version]、[!UICONTROL entered by]、[!UICONTROL proof approval status] 或验证所有者信息来完成。
+分组可以通过 [!UICONTROL document version]、[!UICONTROL entered by]、[!UICONTROL proof approval status] 或校样所有者信息来完成。
 
 过滤器包括 [!UICONTROL document version]、[!UICONTROL access level]、[!UICONTROL document]、[!UICONTROL entered by]、[!UICONTROL proof approval status]、[!UICONTROL proof creator] 以及文档提供者信息。
 
-您可以使用视图中的此列显示报告上每个文档当前处于活动状态的验证阶段的名称：
+您可以使用视图中的此列显示报告上每个文档当前处于活动状态的校对阶段的名称：
 
 **[!UICONTROL Document Versions]>>[!UICONTROL Active Proof Stages]**
 
@@ -63,7 +69,7 @@ ht-degree: 100%
 
 此字段源 >> 字段名称也可用作报告中的过滤器。
 
-使用 [!UICONTROL Proof Creator] 字段源来报告有关创建验证的用户信息。选择 [!UICONTROL Name] 字段源，以在视图中显示验证创建者的名称。
+使用 [!UICONTROL Proof Creator] 字段源来报告有关创建校样的用户信息。 选择 [!UICONTROL Name] 字段源，以在视图中显示校样创建者的名称。
 
 **[!UICONTROL Proof Creator]>>[!UICONTROL Name]**
 

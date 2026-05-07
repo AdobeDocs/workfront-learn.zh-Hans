@@ -11,9 +11,15 @@ jira: KT-11053
 thumbnail: KT11053.png
 recommendations: noDisplay,catalog
 exl-id: d6a62a26-a8ab-477c-a8f2-98f3b9ff5edf
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '654'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:44.091Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 670
 ht-degree: 100%
 
 ---
@@ -24,7 +30,7 @@ ht-degree: 100%
 
 ## 练习概述
 
-此场景的目的是创建一个向便利店销售的应用程序，以便他们可以轻松确定顾客的年龄是否足以购买酒精饮料。收银员只需将顾客的姓名和出生日期发布到向他们提供的 URL 上即可。这个发布请求将触发场景，计算答案并将其返回给请求者。
+此场景的目的是创建一个向便利店销售的应用程序，以便他们可以轻松确定顾客的年龄是否足以购买酒精饮料。 收银员只需将顾客的姓名和出生日期发布到向他们提供的 URL 上即可。 这个发布请求将触发场景，计算答案并将其返回给请求者。
 
 1. 该场景由三个 Webhook 组成。
 1. 触发器模块是一个侦听发布请求的自定义 Webhook。
@@ -47,10 +53,10 @@ ht-degree: 100%
 
    ![Webhook 图像 2](../12-exercises/assets/webhooks-walkthrough-2.png)
 
-1. 返回 Webhook 映射面板，其中已为此特定 Webhook 创建了一个 URL。单击“将地址复制到剪贴板”以复制该 URL。
+1. 返回 Webhook 映射面板，其中已为此特定 Webhook 创建了一个 URL。 单击“将地址复制到剪贴板”以复制该 URL。
 1. 单击“确定”。
 1. 单击“运行一次”。
-1. 使用 Postman 中的 URL 将姓名和出生日期发送到您的自定义 Webhook。有关设置 Postman 的说明，请参阅 [Webhook 演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=zh-Hans)教程。
+1. 使用 Postman 中的 URL 将姓名和出生日期发送到您的自定义 Webhook。 有关设置 Postman 的说明，请参阅 [Webhook 演练](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/fusion/beyond-basic-modules/webhooks-walkthrough.html?lang=zh-Hans)教程。
 
    **Webhook 模块面板应如下所示：**
 
@@ -58,8 +64,8 @@ ht-degree: 100%
 
    **Webhook 现在处于侦听数据以确定数据结构的状态。**
 
-1. 您可以定义您期望获得的有效负载的数据结构（数据结构将在稍后讨论）。如果您未定义数据结构，Fusion 将在发送发布请求时自动确定数据结构。
-1. 在 Postman 端，您要发送到复制的 URL。该发布请求应包含基本表单数据。对于此示例，您需要三个字段：Name、Birthdate 和 clientToken。
+1. 您可以定义您期望获得的有效负载的数据结构（数据结构将在稍后讨论）。 如果您未定义数据结构，Fusion 将在发送发布请求时自动确定数据结构。
+1. 在 Postman 端，您要发送到复制的 URL。 该发布请求应包含基本表单数据。 对于此示例，您需要三个字段：Name、Birthdate 和 clientToken。
 
    ![Webhook 图像 4](../12-exercises/assets/webhooks-walkthrough-4.png)
 
@@ -72,24 +78,24 @@ ht-degree: 100%
    **设置客户端令牌的路由。**
 
 1. 将路由器添加到触发器模块。
-1. 在上面的路径中，添加 Webhook 响应模块。当客户端令牌不匹配时，这将会是我们的路径。
+1. 在上面的路径中，添加 Webhook 响应模块。 当客户端令牌不匹配时，这将会是我们的路径。
 1. 将状态设置为 401。
 1. 将正文设置为 {&quot;error&quot;: &quot;Failed to authenticate request. Please check your clientToken&quot;}.
 
    ![Webhook 图像 6](../12-exercises/assets/webhooks-walkthrough-6.png)
 
-1. 在路由器和 Webhook 响应模块之间创建过滤器。将其命名为“客户端令牌不匹配”。
+1. 在路由器和 Webhook 响应模块之间创建过滤器。 将其命名为“客户端令牌不匹配”。
 1. 对于条件，使用触发器模块中的 clientToken 字段，并与数字 5121933 进行数字“不等于”比较。
 
    ![Webhook 图像 7](../12-exercises/assets/webhooks-walkthrough-7.png)
 
-1. 在底部路径中，添加另一个 Webhook 响应模块。当客户端令牌匹配时，这将会是我们的路径。
+1. 在底部路径中，添加另一个 Webhook 响应模块。 当客户端令牌匹配时，这将会是我们的路径。
 1. 将状态设置为 200。
-1. 在设置“正文”时，使用映射面板功能来测试该人是否年满 21 岁。如果是，则返回“您已经到了可以喝酒的年龄了！”，否则返回“您运气不好……”
+1. 在设置“正文”时，使用映射面板功能来测试该人是否年满 21 岁。 如果是，则返回“您已经到了可以喝酒的年龄了！”，否则返回“您运气不好……”
 
    ![Webhook 图像 9](../12-exercises/assets/webhooks-walkthrough-9.png)
 
-1. 在较低路径上的路由器和 Webhook 响应模块之间创建过滤器。将其命名为“客户端令牌确实匹配”。
+1. 在较低路径上的路由器和 Webhook 响应模块之间创建过滤器。 将其命名为“客户端令牌确实匹配”。
 1. 对于条件，使用触发器模块中的 clientToken 字段，并与数字 5121933 进行数字“等于”比较。
 
 

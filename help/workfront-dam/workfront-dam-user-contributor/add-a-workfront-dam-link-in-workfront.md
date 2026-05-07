@@ -9,9 +9,15 @@ role: User
 level: Beginner
 jira: KT-10106
 exl-id: bd0a6498-2cac-49b1-85d1-e6fc2a7ab07c
-source-git-commit: 2cb3cc67f4f1fcd1345f178bf525d7b00f6271cf
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T20:28:30.227Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: 229
 ht-degree: 100%
 
 ---
@@ -35,10 +41,10 @@ ht-degree: 100%
    ![[!UICONTROL Add New] 下拉菜单中 [!UICONTROL From Workfront DAM] 选项的图像](assets/01-contributor-from-workfront-dam.png)
 1. 您在 [!UICONTROL Workfront DAM] 中有权访问的文件和文件夹的列表在窗口中出现。
 
-1. 找到您要查找的资源并选中其旁边的框。默认视图是一个列表，但您可以通过窗口右上角的图标切换到缩略图视图。
+1. 找到您要查找的资源并选中其旁边的框。 默认视图是一个列表，但您可以通过窗口右上角的图标切换到缩略图视图。
 
    ![弹出窗口中选中资源的图像](assets/02-contributor-select-files-in-dam.png)
 
-1. 单击 **[!UICONTROL Link]** 按钮。[!UICONTROL Workfront DAM] 文件的链接出现在文档列表中。会有一个图标指示此链接。
+1. 单击 **[!UICONTROL Link]** 按钮。 [!UICONTROL Workfront DAM] 文件的链接出现在文档列表中。 会有一个图标指示此链接。
 
    ![[!DNL Workfront] 的文档列表中出现的 [!UICONTROL Workfront DAM] 文件链接的图像。](assets/03-contributor-linked-in-wf.png)

@@ -11,20 +11,26 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
-source-git-commit: 2bfb833431370c0debe85d3d3376cf907632042e
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2: id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:55:03.417Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '701'
+source-wordcount: 702
 ht-degree: 100%
 
 ---
 
 # 审阅并审批校对
 
-在开始审阅校对之前，请确保您知道对您的期望是什么。您在校对工作流中扮演什么角色？审阅校对、审批它，还是两者兼而有之？
+在开始审阅校对之前，请确保您知道对您的期望是什么。 您在校对工作流中扮演什么角色？ 审阅校对、审批它，还是两者兼而有之？
 
-作为文字编辑，您的工作重点可能是检查语法错误和拼写错误。营销和创意团队可能会专注于资源的设计并确保遵循企业品牌的要求。法律团队可能会确保服务合同的措辞无懈可击。项目经理可能会确保正在审阅的内容符合与其相关的项目的意图和目标。
+作为文字编辑，您的工作重点可能是检查语法错误和拼写错误。 营销和创意团队可能会专注于资源的设计并确保遵循企业品牌的要求。 法律团队可能会确保服务合同的措辞无懈可击。 项目经理可能会确保正在审阅的内容符合与其相关的项目的意图和目标。
 
-您可能还会被要求审批该校样。审批校样意味着您说：“这项工作没问题，已经准备就绪。”或者您可能要说：“这项工作需要修改，请发回修改。”
+您可能还会被要求审批该校样。 审批校样意味着您说：“这项工作没问题，已经准备就绪。” 或者您可能要说：“这项工作需要修改，请发回修改。”
 
 在您知道预期的内容后，就可以开始审阅校对了。
 
@@ -32,9 +38,9 @@ ht-degree: 100%
 
 当资源准备好接受审阅和审批时，您将会收到电子邮件通知。
 
-![一封要求对 [!DNL &#x200B; Workfront] 中的两份校对进行审阅和审批的新校对电子邮件的图像。](assets/new-proof-emails.png)
+![一封要求对 [!DNL  Workfront] 中的两份校对进行审阅和审批的新校对电子邮件的图像。](assets/new-proof-emails.png)
 
-请务必注意，此校样链接对于您来说是独一无二的。如果您与某人分享该链接，他们所做的任何评论和标记都将标有您的名字。
+请务必注意，此校样链接对于您来说是独一无二的。 如果您与某人分享该链接，他们所做的任何评论和标记都将标有您的名字。
 
 该 [!UICONTROL New Proof] 电子邮件还包含有关该校样的基本信息：
 
@@ -51,11 +57,11 @@ ht-degree: 100%
 
 ![[!UICONTROL My Approvals] 小组件的图像，位于 [!DNL Workfront] [!UICONTROL Home]。](assets/open-proof-from-home.png)
 
-值得注意的是，只有当分配您审批校样时，它才会显示在 [!DNL Workfront]&#x200B;[!UICONTROL Home] 中。如果您只是被要求审批校对，它不会显示在 [!DNL Workfront] [!UICONTROL Home]。
+值得注意的是，只有当分配您审批校样时，它才会显示在 [!DNL Workfront][!UICONTROL Home] 中。 如果您只是被要求审批校对，它不会显示在 [!DNL Workfront] [!UICONTROL Home]。
 
 单击 [!UICONTROL Go to Proof] 链接，将其在校对查看器中打开。
 
-根据您组织的校样和项目工作流，您可能会在 [!DNL Workfront] [!UICONTROL Home] 中看到任务分配，而不是校样审批请求。在这种情况下，您会从任务本身的 [!UICONTROL Documents] 部分打开校样（请参阅下面的说明）。
+根据您组织的校样和项目工作流，您可能会在 [!DNL Workfront] [!UICONTROL Home] 中看到任务分配，而不是校样审批请求。 在这种情况下，您会从任务本身的 [!UICONTROL Documents] 部分打开校样（请参阅下面的说明）。
 
 您还可以在专门为您的团队或组织创建的用于帮助管理校订工作流的 [!DNL Workfront] 仪表板上找到要审阅的校样。
 
@@ -63,7 +69,7 @@ ht-degree: 100%
 
 如果您通常在 [!DNL Workfront] 中处理项目、任务或问题，您可能更喜欢直接从该项目的 [!DNL Documents] 部分打开校样。
 
-![突出显示了 [!UICONTROL Open Proof] 链接的 [!DNL &#x200B; Workfront] 任务中的 [!UICONTROL Documents] 部分的图像。](assets/open-proof-from-documents.png)
+![突出显示了 [!UICONTROL Open Proof] 链接的 [!DNL  Workfront] 任务中的 [!UICONTROL Documents] 部分的图像。](assets/open-proof-from-documents.png)
 
 1. 单击项目、任务或问题的名称。
 2. 单击项目页面的左侧面板菜单中的 [!UICONTROL Documents]。
@@ -72,11 +78,11 @@ ht-degree: 100%
 
 ## 如何审批校样
 
-打开校样后，您将在顶部的&#x200B;**添加评论**&#x200B;旁边看到&#x200B;**作出决策**&#x200B;按钮。如果您不是此校样的审批人，则您不会看到此按钮。
+打开校样后，您将在顶部的&#x200B;**添加评论**&#x200B;旁边看到&#x200B;**作出决策**&#x200B;按钮。 如果您不是此校样的审批人，则您不会看到此按钮。
 
 ![第一个“作出决策”按钮的图像。](assets/make-decision-1.png)
 
-当您准备好作出决策时，请单击&#x200B;**作出决策**&#x200B;按钮，以查看您的决策选项。进行选择，然后单击下面的另一个&#x200B;**作出决策**&#x200B;按钮。
+当您准备好作出决策时，请单击&#x200B;**作出决策**&#x200B;按钮，以查看您的决策选项。 进行选择，然后单击下面的另一个&#x200B;**作出决策**&#x200B;按钮。
 
 ![第二个“作出决策”按钮的图像。](assets/make-decision-2.png)
 

@@ -11,9 +11,15 @@ jira: KT-11047
 thumbnail: KT11047.png
 recommendations: noDisplay,catalog
 exl-id: 4626b623-8b05-41be-9cfc-917e28222855
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '302'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:46:06.511Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 302
 ht-degree: 100%
 
 ---
@@ -33,7 +39,7 @@ ht-degree: 100%
 **添加过滤器并对规划小时数求和。**
 
 1. 克隆您在上一个练习中创建的“迭代简介”场景，并将其命名为“聚合简介”。
-1. 在“读取项目的任务”模块和“计算任务数”模块之间添加一个过滤器。将过滤器命名为“仅工作任务”。
+1. 在“读取项目的任务”模块和“计算任务数”模块之间添加一个过滤器。 将过滤器命名为“仅工作任务”。
 1. 将条件设置为子任务数 [数字运算符：等于] 0。
 
    ![聚合图像 2](../12-exercises/assets/aggregation-walkthrough-2.png)
@@ -55,10 +61,10 @@ ht-degree: 100%
 1. 在数字聚合器之后添加来自电子邮件应用程序的发送电子邮件模块。
 1. 将电子邮件发送给自己。
 1. 主题行为“项目详细信息”
-1. 在“内容”字段中，输入“有一个名为 [项目名称] 的项目，其总体规划小时数为 [结果]。”“[项目名称]”取自读取记录模块，“[结果]”取自聚合器模块。
+1. 在“内容”字段中，输入“有一个名为 [项目名称] 的项目，其总体规划小时数为 [结果]。” “[项目名称]”取自读取记录模块，“[结果]”取自聚合器模块。
 
    ![聚合图像 5](../12-exercises/assets/aggregation-walkthrough-5.png)
 
-1. 保存并运行一次。在收件箱中找到该电子邮件。
+1. 保存并运行一次。 在收件箱中找到该电子邮件。
 
-在迭代中，可以访问各个捆绑包。但在迭代之外，在发送电子邮件模块中，只能访问聚合字段。
+在迭代中，可以访问各个捆绑包。 但在迭代之外，在发送电子邮件模块中，只能访问聚合字段。

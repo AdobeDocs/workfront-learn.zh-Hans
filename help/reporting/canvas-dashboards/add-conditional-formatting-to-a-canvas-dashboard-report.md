@@ -1,6 +1,6 @@
 ---
 title: 向画布功能板报表添加条件格式
-description: 了解如何将条件格式添加到画布功能板报表。
+description: 了解如何为 Canvas 仪表板报告添加条件格式。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -8,14 +8,20 @@ type: Tutorial
 role: User
 level: Beginner
 jira: KT-18771
-last-substantial-update: 2025-09-16T00:00:00Z
+last-substantial-update: '2025-09-16T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 2987677b-64a3-49f4-b6a1-31008c47723f
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2: id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:15:20.972Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '136'
-ht-degree: 9%
+source-wordcount: 160
+ht-degree: 15%
 
 ---
 
@@ -32,11 +38,11 @@ ht-degree: 9%
 
 [画布功能板简介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)将逐步说明如何同时完成这两项操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/3474985/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3474973/?quality=12&learn=on&enablevpops=1)
 
 **有关详细信息，请参阅以下帮助文章：**
-[画布功能板概述](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
-[在画布仪表板中生成表报告](https://experienceleague.adobe.com/zh-hans/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
+[画布功能板概述](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/canvas-dashboards-overview)
+[在画布仪表板中生成表报告](https://experienceleague.adobe.com/en/docs/workfront/using/reporting/canvas-dashboards/add-reports/build-table-report)
 
 ## 有关此主题的推荐教程
 

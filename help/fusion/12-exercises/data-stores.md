@@ -1,6 +1,6 @@
 ---
 title: 数据存储练习
-description: 了解如何在两个系统之间同步公司名称。（应为 60 至 160 个字符，但实为 178 个字符）
+description: 了解如何在两个系统之间同步公司名称。 （应为 60 至 160 个字符，但实为 178 个字符）
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,9 +11,15 @@ jira: KT-11055
 thumbnail: KT11055.png
 recommendations: noDisplay,catalog
 exl-id: e4aa9a97-679a-4575-a2c6-b6ac304ce9c2
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '904'
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:45:21.347Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 909
 ht-degree: 100%
 
 ---
@@ -24,7 +30,7 @@ ht-degree: 100%
 
 ## 练习概述
 
-这是 Workfront 和另一个系统中公司单向同步的第一部分。目前，仅可在 Fusion 数据存储和 Workfront 之间同步。数据存储中的表格会跟踪每个公司的 Workfront ID (WFID) 和 CSV 文件中的公司 ID (CID)。这允许在将来的某个时刻进行双向同步。
+这是 Workfront 和另一个系统中公司单向同步的第一部分。 目前，仅可在 Fusion 数据存储和 Workfront 之间同步。 数据存储中的表格会跟踪每个公司的 Workfront ID (WFID) 和 CSV 文件中的公司 ID (CID)。 这允许在将来的某个时刻进行双向同步。
 
 ![数据存储图像 1](../12-exercises/assets/data-stores-walkthrough-1.png)
 
@@ -81,12 +87,12 @@ ht-degree: 100%
 1. 在 Workfront 搜索记录模块的右侧添加一个路由器模块。
 1. 将 Workfront 创建记录模块添加到顶部路径。
 1. 将记录类型设置为“公司”。
-1. 从要映射的字段中选择名称。将名称字段映射到解析 CSV 模块的输出（第 2 列）。
+1. 从要映射的字段中选择名称。 将名称字段映射到解析 CSV 模块的输出（第 2 列）。
 1. 将此模块重命名为“创建公司”。
 
    ![数据存储图像 5](../12-exercises/assets/data-stores-walkthrough-5.png)
 
-1. 在路由器后添加一个过滤器，以仅创建未存在于 Workfront 的公司。将其命名为“不在 Workfront 中”。
+1. 在路由器后添加一个过滤器，以仅创建未存在于 Workfront 的公司。 将其命名为“不在 Workfront 中”。
 1. 将“条件”设置为 Workfront 搜索模块中的 ID，但不存在。
 
    ![数据存储图像 6](../12-exercises/assets/data-stores-walkthrough-6.png)
@@ -100,7 +106,7 @@ ht-degree: 100%
 
    **路由路径 2 - 更新数据存储。**
 
-1. 在路由路径 2 上创建一个过滤器。将其命名为“不在数据存储中”。
+1. 在路由路径 2 上创建一个过滤器。 将其命名为“不在数据存储中”。
 
 1. 将“条件”设置为数据存储模块中的键并且不存在。
 
@@ -110,7 +116,7 @@ ht-degree: 100%
 1. 将变量名称设置为“Workfront ID”。
 1. 将此模块重命名为“获取 Workfront ID”。
 1. 从数据存储应用程序添加另一个模块，添加/替换记录。
-1. 在数据存储字段中，选择“公司同步”。这是您之前创建的数据存储。
+1. 在数据存储字段中，选择“公司同步”。 这是您之前创建的数据存储。
 1. 将“键”字段留空。
 1. 从解析 CSV 模块中的第 1 列映射 CID 字段。
 1. 映射解析 CSV 模块中第 2 列的公司名称字段。
@@ -123,15 +129,15 @@ ht-degree: 100%
 
    **路由路径 3-在系统之间同步数据存储。**
 
-1. 首先在路由路径 3 上创建一个过滤器。将其命名为“公司存在，不在数据存储中”。
+1. 首先在路由路径 3 上创建一个过滤器。 将其命名为“公司存在，不在数据存储中”。
 1. 将“条件”设置为数据存储搜索记录模块中的键并且不存在。
 1. 单击“添加 AND 规则”按钮，并指定 CSV 文件中的公司名称（第 2 列）与 Workfront 搜索模块中找到的公司名称相同。
 
    ![数据存储图像 9](../12-exercises/assets/data-stores-walkthrough-9.png)
 
 1. 现在，通过克隆路由路径 2 末尾的模块来添加另一个“添加/替换记录”模块。
-1. 将克隆的模块拖到路由路径 3 末尾的位置。删除此处的空模块。
-1. 单击克隆的模块。除 WFID 字段外，所有字段均应保持不变。从匹配公司搜索模块中进行映射。
+1. 将克隆的模块拖到路由路径 3 末尾的位置。 删除此处的空模块。
+1. 单击克隆的模块。 除 WFID 字段外，所有字段均应保持不变。 从匹配公司搜索模块中进行映射。
 
    ![数据存储图像 10](../12-exercises/assets/data-stores-walkthrough-10.png)
 
