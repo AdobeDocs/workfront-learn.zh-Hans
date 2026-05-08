@@ -62,7 +62,7 @@ ht-degree: 100%
 
 ![[!UICONTROL My Approvals] 小组件的图像，位于 [!DNL Workfront] [!UICONTROL Home]。](assets/open-proof-from-home.png)
 
-值得注意的是，只有当分配您审批校样时，它才会显示在 [!DNL Workfront][!UICONTROL Home] 中。 如果您只是被要求审批校对，它不会显示在 [!DNL Workfront] [!UICONTROL Home]。
+值得注意的是，只有当分配您审批校样时，它才会显示在 [!DNL Workfront] [!UICONTROL Home] 中。 如果您只是被要求审批校对，它不会显示在 [!DNL Workfront] [!UICONTROL Home]。
 
 单击 [!UICONTROL Go to Proof] 链接，将其在校对查看器中打开。
 
