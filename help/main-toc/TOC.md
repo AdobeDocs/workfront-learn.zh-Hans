@@ -1,10 +1,10 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。
-source-git-commit: 81308974e68a409b69f789a98b3b570167f2a4fa
+source-git-commit: ee03983e89e8c99e2fbdc12b108f3fb33d6d8e72
 workflow-type: tm+mt
-source-wordcount: '2470'
-ht-degree: 75%
+source-wordcount: '2642'
+ht-degree: 74%
 
 ---
 
@@ -43,7 +43,7 @@ ht-degree: 75%
       + [使用布局模板自定义术语](/help/administration-and-setup/layout-templates/customize-workfront-terminology.md)
       + [使用布局模板自定义 [!UICONTROL Main Menu]](/help/administration-and-setup/layout-templates/customize-the-main-menu-with-layout-templates.md)
       + [通过布局模板添加和管理固定页面](/help/administration-and-setup/layout-templates/add-and-manage-pins-in-layout-template.md)
-      + [使用布局模板自定义主页 &#x200B;](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
+      + [使用布局模板自定义主页](/help/administration-and-setup/layout-templates/customize-workfront-home-with-layout-templates.md)
       + [分配和管理对布局模板的访问](/help/administration-and-setup/layout-templates/assign-and-manage-access-to-layout-templates.md)
       + [使用布局模板自定义对象区域](/help/administration-and-setup/layout-templates/customize-object-areas-with-a-layout-template.md)
       + [使用布局模板自定义项目详细信息](/help/administration-and-setup/layout-templates/customize-project-details-with-layout-templates.md)
@@ -78,6 +78,7 @@ ht-degree: 75%
       + [设置任务收入和成本默认值](/help/manage-work/project-finances/set-up-task-revenue-and-cost-defaults.md)
       + [设置汇率](/help/manage-work/project-finances/set-up-exchange-rates.md)
       + [设置费用类型](/help/manage-work/project-finances/set-up-expense-types.md)
+      + [创建工作角色和费率卡](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md)
       + [了解财务访问权限](/help/manage-work/project-finances/understand-financial-access.md)
 
 
@@ -342,7 +343,7 @@ ht-degree: 75%
    + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
       + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hans)
       + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hans)
-      + [发送文档并链接资源](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hans)
+      + [发送文档并链接资产](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hans)
       + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hans)
 
    + G Suite {#g-suite-integrations}
@@ -355,13 +356,13 @@ ht-degree: 75%
       + [安装 Microsoft Outlook 插件](/help/integrations/outlook/integrations-microsoft-outlook.md)
 
    + Microsoft Teams {#ms-teams}
-      + [Adobe Workfront for Microsoft Teams 概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hans)
-      + [安装 Adobe Workfront for Microsoft Teams](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 访问 Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中搜索并共享 Adobe Workfront 项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 创建 Adobe Workfront 任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hans)
-      + [从 Microsoft Teams 提交 Adobe Workfront 请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hans)
-      + [在 Microsoft Teams 中管理 Adobe Workfront 通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hans)
+      + [适用于Microsoft Teams的Adobe Workfront概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hans)
+      + [安装适用于Microsoft Teams的Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/install-workfront-ms-teams.html?lang=zh-Hans)
+      + [从Microsoft Teams访问Adobe Workfront](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/access-workfront-from-ms-teams.html?lang=zh-Hans)
+      + [在Microsoft Teams中搜索和共享Adobe Workfront项目](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/search-for-and-share-wf-items-in-ms-teams.html?lang=zh-Hans)
+      + [从Microsoft Teams创建Adobe Workfront任务](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/create-workfront-tasks-from-ms-teams.html?lang=zh-Hans)
+      + [从Microsoft Teams提交Adobe Workfront请求](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/submit-workfront-requests-from-ms-teams.html?lang=zh-Hans)
+      + [在Microsoft Teams中管理Adobe Workfront通知](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/manage-wf-notifications-approval-requests-ms-teams.html?lang=zh-Hans)
 
    + Slack {#slack}
       + [了解 Workfront for [!UICONTROL Slack]](/help/integrations/slack/introduction-to-workfront-for-slack.md)
@@ -621,7 +622,7 @@ ht-degree: 75%
    + [项目、任务和问题首选项](/help/best-practices/project-task-issue-preferences-bp.md)
    + [项目模板](/help/best-practices/project-templates-bp.md)
    + [校对](/help/best-practices/proofing-bp.md)
-   + [请求队列 &#x200B;](/help/best-practices/request-queues-bp.md)
+   + [请求队列](/help/best-practices/request-queues-bp.md)
    + [资源规划程序](/help/best-practices/resource-planner-bp.md)
    + [资源池](/help/best-practices/resource-pools-bp.md)
    + [场景计划器](/help/best-practices/scenario-planner-bp.md)
