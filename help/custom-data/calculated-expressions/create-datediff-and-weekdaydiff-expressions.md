@@ -11,9 +11,16 @@ thumbnail: 335176.png
 jira: KT-8913
 exl-id: 7ef77612-d490-4dc5-82e1-5c36acad761e
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/b2f32nuPHT2FgnEw-kixygNl1sUAJ9-G77YSpM0aseA
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: 64
 ht-degree: 100%
 
 ---
@@ -25,6 +32,6 @@ ht-degree: 100%
 * DATEDIFF 和 WEEKDAYDIFF 表达式在计算的内容。
 * 如何在计算字段中创建 WEEKDAYDIFF 数据表达式
 
->[!VIDEO](https://video.tv.adobe.com/v/3417113/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3417113/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 **注释**：WEEKDAYDIFF 数据表达式不考虑您的组织指定的假期。

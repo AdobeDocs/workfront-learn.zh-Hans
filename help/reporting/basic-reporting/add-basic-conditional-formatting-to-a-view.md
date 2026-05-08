@@ -11,16 +11,27 @@ team: Technical Marketing
 jira: KT-8855
 exl-id: bf9a4cf4-b073-4f7e-8516-e7843f4dc20f
 doc-type: video
-source-git-commit: cc423944628d01e16d390842ecb25696505f923c
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:28:11.136Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '416'
+source-wordcount: 418
 ht-degree: 100%
 
 ---
 
 # 向视图中添加基本条件格式
 
-条件格式是通过创建列规则来完成的。列规则允许您根据您所设定的标准以特定的方式对一个列进行格式化。
+条件格式是通过创建列规则来完成的。 列规则允许您根据您所设定的标准以特定的方式对一个列进行格式化。
 
 在本视频中，您将了解到：
 
@@ -61,16 +72,16 @@ ht-degree: 100%
 1. 在任务列表报告中，转至 **[!UICONTROL View]** 下拉菜单并选择 **[!UICONTROL New View]**。
 1. 将您的视图命名为“标准+进度”。
 1. 使用所提供的默认列。
-1. 选择 [!UICONTROL Task Name] 列。这是您要应用条件格式的列，这样一来，如果任务的进度状态不是“按时”，它便会显示为红色或黄色。
+1. 选择 [!UICONTROL Task Name] 列。 这是您要应用条件格式的列，这样一来，如果任务的进度状态不是“按时”，它便会显示为红色或黄色。
 1. 单击位于 Report Builder 窗口右上角的 **[!UICONTROL Advanced Options]**。
 1. 单击 **[!UICONTROL Add a Rule for this Column]**。
-1. 通过将窗口顶部的 [!UICONTROL Task] > [!UICONTROL Name] 更改为 [!UICONTROL Task] > [!UICONTROL Progress Status] 来启动列规则。只需单击 [!UICONTROL Task] > [!UICONTROL Name] 旁边的 **[!UICONTROL X]** 图标即可将其从字段中删除。
+1. 通过将窗口顶部的 [!UICONTROL Task] > [!UICONTROL Name] 更改为 [!UICONTROL Task] > [!UICONTROL Progress Status] 来启动列规则。 只需单击 [!UICONTROL Task] > [!UICONTROL Name] 旁边的 **[!UICONTROL X]** 图标即可将其从字段中删除。
 1. 在该字段中键入“进度”，然后选择 [!UICONTROL Task] 字段源下的 [!UICONTROL Progress Status]。
 1. 在 [!UICONTROL Equal] 限定符右侧的字段中选择 **[!UICONTROL Late]**。
 1. 在 [!UICONTROL Text Color] 行中选择红色背景。
 1. 单击 **[!UICONTROL Add Rule]** 保存列规则。
 1. 现在再次单击 **[!UICONTROL Add Column Rule]** 来添加另一条规则。
-1. 和之前一样，从条件字段中删除 [!UICONTROL Task] > [!UICONTROL Name]。将其替换为 [!UICONTROL Task] 字段源下的 [!UICONTROL Progress Status]。
+1. 和之前一样，从条件字段中删除 [!UICONTROL Task] > [!UICONTROL Name]。 将其替换为 [!UICONTROL Task] 字段源下的 [!UICONTROL Progress Status]。
 1. 在“等于”限定符右侧的字段中同时选择 [!UICONTROL At Risk] 和 [!UICONTROL Behind]。
 1. 在 [!UICONTROL Text Color] 行中选择黄色背景。
 1. 单击 **[!UICONTROL Add Rule]** 保存列规则。

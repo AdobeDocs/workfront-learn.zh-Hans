@@ -11,9 +11,20 @@ jira: KT-11042
 thumbnail: KT11042.png
 recommendations: noDisplay,catalog
 exl-id: eb442c3e-26f3-44b7-9937-ed4eeba39fb1
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '602'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:43:07.393Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 604
 ht-degree: 100%
 
 ---
@@ -34,7 +45,7 @@ ht-degree: 100%
 
 1. 在 Workfront“Fusion 练习文件”文件夹中，选择 &quot;_Fusion2020_Shipping Manifest.csv&quot; 并单击“文档详细信息”。
 1. 复制 URL 地址中的第一个 ID 号。
-1. 在 Workfront Fusion 中创建新场景。将其命名为“使用通用连接器”。
+1. 在 Workfront Fusion 中创建新场景。 将其命名为“使用通用连接器”。
 1. 从 Workfront 应用程序中的“下载文档”模块开始。
 1. 设置您的 Workfront 连接，并包含从 Workfront URL 复制的文档 ID。
 1. 将此模块重命名为“下载装运清单”。
@@ -44,7 +55,7 @@ ht-degree: 100%
    **解析装运清单数据。**
 
 1. 添加另一个模块，选择“解析 CSV”。
-1. 为 11 列设置解析 CSV。选中“CSV 包含标题”框。选择逗号分隔符类型，并将下载文档模块中的数据放入 CSV 字段中。
+1. 为 11 列设置解析 CSV。 选中“CSV 包含标题”框。 选择逗号分隔符类型，并将下载文档模块中的数据放入 CSV 字段中。
 
    ![通用连接器简介图像 2](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-2.png)
 
@@ -65,8 +76,8 @@ ht-degree: 100%
 
    **在该练习的这一部分中，您只需要处理 CSV 文件中的第 1 行。**
 
-1. 在获取宠物小精灵信息模块之前添加一个过滤器。将其命名为“仅第 1 行”。
-1. 将条件设置为只允许 1 号 ID 通过。1 号 ID 位于 CSV 文件的第 1 行，ID 字段位于第 1 列。
+1. 在获取宠物小精灵信息模块之前添加一个过滤器。 将其命名为“仅第 1 行”。
+1. 将条件设置为只允许 1 号 ID 通过。 1 号 ID 位于 CSV 文件的第 1 行，ID 字段位于第 1 列。
 
    ![通用连接器简介图像 4](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-4.png)
 
@@ -75,7 +86,7 @@ ht-degree: 100%
 
    >[!IMPORTANT]
    >
-   >请注意，在输入数据 URL 字段中，角色名称是大写的。这不适用于 API 调用，因为角色名称需要小写。
+   >请注意，在输入数据 URL 字段中，角色名称是大写的。 这不适用于 API 调用，因为角色名称需要小写。
 
    ![通用连接器简介图像 5](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-5.png)
 
@@ -85,7 +96,7 @@ ht-degree: 100%
 
    **使用设置多个变量模块从 API 映射信息。**
 
-1. 在获取宠物小精灵信息后添加设置多个变量模块。映射名称、高度、体重和能力。
+1. 在获取宠物小精灵信息后添加设置多个变量模块。 映射名称、高度、体重和能力。
 1. 由于“能力”字段是一个数组，因此请记住使用映射函数来访问数组中每个能力的名称。
 
    ![通用连接器简介图像 7](../12-exercises/assets/introduction-to-universal-connectors-walkthrough-7.png)
@@ -100,7 +111,7 @@ ht-degree: 100%
    + 单击“确定”。
 
 1. 保存该场景并单击“运行一次”。
-1. 获取宠物小精灵信息模块发生错误。您会看到一个超级英雄角色已传递给宠物小精灵 API。
+1. 获取宠物小精灵信息模块发生错误。 您会看到一个超级英雄角色已传递给宠物小精灵 API。
 
    >[!NOTE]
    >

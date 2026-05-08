@@ -9,16 +9,26 @@ activity: use
 team: Technical Marketing
 jira: KT-10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
-source-git-commit: a25a49e59ca483246271214886ea4dc9c10e8d66
+TQID: https://experienceleague.adobe.com/sN6HqoLl6N-asOtCSlZyKP6W0FSpT0C-7egQTlgAdkY
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '476'
+source-wordcount: 479
 ht-degree: 100%
 
 ---
 
 # 休息时间如何影响项目时间线
 
-已分配用户的休息时间是否计入项目时间线取决于名为 [!UICONTROL User Time Off] 的项目设置。此设置决定了项目中该任务的规划日期是否会随着该任务的主要受让人的休息时间而调整。
+已分配用户的休息时间是否计入项目时间线取决于名为 [!UICONTROL User Time Off] 的项目设置。 此设置决定了项目中该任务的规划日期是否会随着该任务的主要受让人的休息时间而调整。
 
 让我们来看一看选择每种设置后项目时间线会发生什么 - C[!UICONTROL onsider user time off in task durations] 或者 [!UICONTROL Ignore user time off in task durations]。
 
@@ -36,7 +46,7 @@ ht-degree: 100%
 
 ![带有日期的项目任务](assets/toapt_03.png)
 
-当将该任务分配给此用户时，规划日期会自动调整。现在，为了考虑到用户的休息时间，该任务的规划完成日期延长了几天。请务必注意，此更改可能会影响项目中其他任务的计划日期，并可能会影响到项目的规划完成日期。
+当将该任务分配给此用户时，规划日期会自动调整。 现在，为了考虑到用户的休息时间，该任务的规划完成日期延长了几天。 请务必注意，此更改可能会影响项目中其他任务的计划日期，并可能会影响到项目的规划完成日期。
 
 ![带有截止日期的项目任务](assets/toapt_04.png)
 
@@ -48,7 +58,7 @@ ht-degree: 100%
 
 ![标记有休息日期的 PTO 日程表](assets/toapt_05.png)
 
-项目经理给他们分配了一项与休息时间重叠的任务。分配用户后，该任务的规划日期将会按照原规划保留。
+项目经理给他们分配了一项与休息时间重叠的任务。 分配用户后，该任务的规划日期将会按照原规划保留。
 
 ![调整项目任务日期](assets/toapt_06.png)
 
@@ -73,7 +83,7 @@ ht-degree: 100%
 
 **注释**：在项目页面的左侧面板菜单中选择 [!UICONTROL Project Details] 时，此设置不可用。
 
-[!UICONTROL Setup] 菜单的项目首选项中具有对此项的全局设置。此设置由您的系统管理员管理。组管理员也许可以为其管理的组调整此设置。
+[!UICONTROL Setup] 菜单的项目首选项中具有对此项的全局设置。 此设置由您的系统管理员管理。 组管理员也许可以为其管理的组调整此设置。
 
 Workfront 建议按照您希望组织内的大多数项目处理休息时间的方式来对其进行设置。
 

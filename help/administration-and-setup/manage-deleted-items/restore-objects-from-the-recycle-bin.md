@@ -10,18 +10,29 @@ level: Beginner
 thumbnail: 10100.jpeg
 jira: KT-10100
 exl-id: 72eafec6-b4fc-454a-9372-4df1cdcba745
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/FH5-fqz-u62W04-Cm8x4nU6cYSb2bKhrZ27No-yScG8
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '251'
+source-wordcount: 251
 ht-degree: 100%
 
 ---
 
 # 从回收站恢复对象
 
-项目工作会经历许多变化。您可能删除了某些内容，但 30 分钟后才意识到还需要该任务，或者该文档对于您要解决的问题至关重要。
+项目工作会经历许多变化。 您可能删除了某些内容，但 30 分钟后才意识到还需要该任务，或者该文档对于您要解决的问题至关重要。
 
-有了回收站，当相关对象被删除时，Workfront 会将其放置在回收站中最多 30 天。系统管理员可以将相关对象及其所有信息（更新内容、记录的时间、文档等）恢复到其在 Workfront 中的原始位置。
+有了回收站，当相关对象被删除时，Workfront 会将其放置在回收站中最多 30 天。 系统管理员可以将相关对象及其所有信息（更新内容、记录的时间、文档等）恢复到其在 Workfront 中的原始位置。
 
 ## 恢复对象
 
@@ -39,7 +50,7 @@ ht-degree: 100%
 
 ![在回收站中选择的项目](assets/admin-fund-recycle-bin-2.png)
 
-正在恢复的对象会在 [!UICONTROL In Progress] 部分短暂弹出。屏幕刷新后，该对象就不会再出现在屏幕上，因为它已被恢复。这些项目会出现在 [!DNL Workfront] 中以前的位置，您可以在 [!UICONTROL Recently Restored] 屏幕上进行验证。
+正在恢复的对象会在 [!UICONTROL In Progress] 部分短暂弹出。 屏幕刷新后，该对象就不会再出现在屏幕上，因为它已被恢复。 这些项目会出现在 [!DNL Workfront] 中以前的位置，您可以在 [!UICONTROL Recently Restored] 屏幕上进行验证。
 
 ![设置区域中回收站最近恢复的部分](assets/admin-fund-recycle-bin-3.png)
 

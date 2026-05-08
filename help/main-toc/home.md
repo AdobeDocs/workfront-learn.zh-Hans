@@ -1,19 +1,26 @@
 ---
 title: Workfront 教程
-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
+description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。  其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
 exl-id: 07d2a063-357e-4ced-bf67-e80025c21b45
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:00:42.557Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: 136
 ht-degree: 100%
 
 ---
 
 # Workfront 教程 {#overview}
 
-培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
+培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。  其中包括一系列最佳实践、精心编制的练习和其他资源，可帮助您和您的组织成功使用 Workfront。
 
->[!VIDEO](https://video.tv.adobe.com/v/3422434/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3422434/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!-- 
 

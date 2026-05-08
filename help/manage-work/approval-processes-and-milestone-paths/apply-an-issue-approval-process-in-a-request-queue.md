@@ -9,14 +9,26 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-17578
-last-substantial-update: 2025-03-26T00:00:00Z
+last-substantial-update: '2025-03-26T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9200eeb4-db5d-45c1-9b17-28c6ca04de2d
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-06T15:58:59.618Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '376'
-ht-degree: 11%
+source-wordcount: 426
+ht-degree: 23%
 
 ---
 
@@ -28,12 +40,12 @@ ht-degree: 11%
 >* [创建全局和一次性审批流程](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process)
 
 
-此视频介绍创建请求队列时应用默认审批流程的过程。&#x200B;AEM 创建请求后，其最初的状态为“新建 — 未决批准”，并且会向指定的批准者发送批准通知。&#x200B;AEM 如果获得批准，状态将更改为“新建”，允许已分配人员开始工作。&#x200B;AEM 如果被拒绝，由于审批流程设置中的常见错误，状态可能会错误地恢复为“新”。&#x200B;AEM
-视频重点介绍当状态设置为“新建”（新请求的默认设置）时会触发审批流程。&#x200B;AEM 如果被拒绝，系统默认将状态更改回前一个状态，这对于新请求并不理想。&#x200B;AEM 相反，应选择其他状态，如“将不会解析”。&#x200B;AEM 该视频还指出，默认情况下不提供“已拒绝”状态，但系统管理员可以根据需要创建一个状态。&#x200B;AEM
+此视频介绍创建请求队列时应用默认审批流程的过程。 创建请求&#x200B;后，其最初的状态为“新建 — 未决批准”，并且会向指定的批准者发送批准通知。 如&#x200B;果获得批准，状态将更改为“新”，允许已分配人员开始工作。 如&#x200B;果被拒绝，由于审批流程设置中的常见错误，状态可能会错误地恢复为“新”。  
+视频重点介绍当状态设置为“新建”（新请求的默认设置）时会触发审批流程。 如&#x200B;果被拒绝，系统默认将状态更改回前一个状态，这对于新请求并不理想。 相反&#x200B;，应选择其他状态，如“将不会解析”。 视频&#x200B;还指出，默认情况下不提供“已拒绝”状态，但系统管理员可以根据需要创建状态。  
 
->[!VIDEO](https://video.tv.adobe.com/v/3455034/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3455034/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 要点
+## 关键要点
 
 * **默认审批流程：**&#x200B;创建请求队列时，您可以应用默认审批流程，自动将审批工作流分配给每个请求。
 * **批准时状态更改：**&#x200B;已批准的请求将其状态从“新 — 未决批准”更改为“新”，从而允许已分配的个人开始处理这些请求。

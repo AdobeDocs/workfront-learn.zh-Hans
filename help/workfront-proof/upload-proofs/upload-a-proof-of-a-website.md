@@ -11,9 +11,20 @@ thumbnail: 335135.png
 jira: KT-8835
 exl-id: 7e75e409-f87e-46f6-8ff1-f55bbdd892f6
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-05T19:51:21.804Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: 205
 ht-degree: 100%
 
 ---
@@ -25,12 +36,12 @@ ht-degree: 100%
 * 作为静态校样上传网站
 * 作为交互式校样上传网站
 
->[!VIDEO](https://video.tv.adobe.com/v/3445077/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3445077/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 ## 交互式内容注意事项
 
-当您开始校对网站时，您可能会发现 [!DNL Workfront] 无法支持所有配置或情况。必须满足某些标准：
+当您开始校对网站时，您可能会发现 [!DNL Workfront] 无法支持所有配置或情况。 必须满足某些标准：
 
 * 该网站必须使用安全协议托管，这意味着网站地址需要以 https 开头。
 * 待校样的网站不能嵌入到 iframe 中。
@@ -44,8 +55,8 @@ ht-degree: 100%
 >
 >请不要忘记提醒您的同事，您向他们发送的校样是您 Workfront 培训的一部分。
 
-1. 打开您要在 Workfront 中进行实践练习的项目、任务或问题。为您组织的网站制作静态校样。如果该网站不符合静态校样标准，您可以使用 adobe.com。
-1. 接下来，为您组织的网站制作一份交互式校样。如果该网站无法运行，您可以使用 adobe.com。
+1. 打开您要在 Workfront 中进行实践练习的项目、任务或问题。 为您组织的网站制作静态校样。 如果该网站不符合静态校样标准，您可以使用 adobe.com。
+1. 接下来，为您组织的网站制作一份交互式校样。 如果该网站无法运行，您可以使用 adobe.com。
 
 <!-- 
 Learn more about these considerations in the articles Generate a static proof for a website or other web content and Generate an interactive proof for a website or other web content. 

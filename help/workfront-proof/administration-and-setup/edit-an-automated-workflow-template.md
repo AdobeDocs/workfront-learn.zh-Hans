@@ -8,13 +8,25 @@ role: User, Admin
 level: Intermediate
 team: Technical Marketing
 thumbnail: 335131.png
-last-substantial-update: 2024-08-08T00:00:00Z
+last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+subfeature_v2:
+  - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+autotag-review: '2026-05-05T20:06:38.512Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '535'
+source-wordcount: 541
 ht-degree: 100%
 
 ---
@@ -29,7 +41,7 @@ ht-degree: 100%
 1. 从那里选择左侧面板菜单中的 **[!UICONTROL Workflows]**。
 1. 单击模板名称最右侧的三点菜单，然后选择 **[!UICONTROL View template details]**。
 
-用于共享、复制和删除模板的选项位于每个模板的模板详细信息窗口的顶部。删除模板不会影响应用该模板的正在进行的校对，但这意味着该模板无法再使用。
+用于共享、复制和删除模板的选项位于每个模板的模板详细信息窗口的顶部。 删除模板不会影响应用该模板的正在进行的校对，但这意味着该模板无法再使用。
 
 ![模板详细信息窗口](assets/proof-system-setup-edit-templates-details-area.png)
 
@@ -42,9 +54,9 @@ ht-degree: 100%
 
 自动化工作流的每个阶段都有自己的部分，以便能够独立修改截止日期、隐私、校样收件人和其他信息。
 
-本视频演示了您可以在 [!UICONTROL Workflow] 区域中进行的一些更改。请参阅此视频下的项目符号列表，其中列出了这些设置。
+本视频演示了您可以在 [!UICONTROL Workflow] 区域中进行的一些更改。 请参阅此视频下的项目符号列表，其中列出了这些设置。
 
->[!VIDEO](https://video.tv.adobe.com/v/3432623/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3432623/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 作为回顾，以下是您可以在 [!UICONTROL Workflow] 部分中对校对模板进行的更改：
 
@@ -53,20 +65,20 @@ ht-degree: 100%
 * 在收件人列表中，单击 [!UICONTROL Role] 或 [!UICONTROL Email alerts] 字段以选择另一个选项。
 * 转到收件人姓名最右侧的三点菜单，将其从列表中删除，将他们设为该工作流阶段的主要决策者，或编辑校样角色和电子邮件警报信息。
 * 您有两种选择可将收件人添加到列表中。
-   1. 在每个阶段部分的右上角，转到 [!UICONTROL More] 菜单并选择 [!UICONTROL Add people to stage]。打开 [!UICONTROL Add people to stage] 窗口后，单击要将其添加到的那个阶段。然后在收件人列表中输入他们的姓名或电子邮件地址，并分配校样角色和电子邮件提醒。完成后单击 [!UICONTROL Add people] 按钮。
+   1. 在每个阶段部分的右上角，转到 [!UICONTROL More] 菜单并选择 [!UICONTROL Add people to stage]。 打开 [!UICONTROL Add people to stage] 窗口后，单击要将其添加到的那个阶段。 然后在收件人列表中输入他们的姓名或电子邮件地址，并分配校样角色和电子邮件提醒。 完成后单击 [!UICONTROL Add people] 按钮。
    1. 在 [!UICONTROL Workflow] 区域的顶部，选择 [!UICONTROL Add people to stage]。
 
 ## 模板共享
 
-[!UICONTROL Shared With] 区域会显示可以使用该模板的校样用户。对于不再需要使用模板的人员，单击其姓名最右侧的三点菜单并选择 [!UICONTROL Remove] 对其进行删除。
+[!UICONTROL Shared With] 区域会显示可以使用该模板的校样用户。 对于不再需要使用模板的人员，单击其姓名最右侧的三点菜单并选择 [!UICONTROL Remove] 对其进行删除。
 
 ![[!UICONTROL Shared With] 列表](assets/proof-system-setups-edit-template-shared-with.png)
 
-但是，您无法从该部分将人员添加到共享列表。若要添加，请返回模板详细信息窗口的顶部，然后单击 [!UICONTROL Share template] 按钮。
+但是，您无法从该部分将人员添加到共享列表。 若要添加，请返回模板详细信息窗口的顶部，然后单击 [!UICONTROL Share template] 按钮。
 
 ## 其他信息
 
-[!DNL Workfront] 会保存对模板进行更改的审核历史记录。您可以查看相关日期、谁进行的更改，以及有关所做更改的一些简要信息。
+[!DNL Workfront] 会保存对模板进行更改的审核历史记录。 您可以查看相关日期、谁进行的更改，以及有关所做更改的一些简要信息。
 
 该部分不会记录有关校样何时使用模板的信息。
 

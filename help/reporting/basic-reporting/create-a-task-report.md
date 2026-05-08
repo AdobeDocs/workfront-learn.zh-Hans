@@ -8,31 +8,42 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 335154.png
-last-substantial-update: 2025-06-11T00:00:00Z
+last-substantial-update: '2025-06-11T00:00:00.000Z'
 jira: KT-8859
 exl-id: 90bad2e8-9cd2-4ae7-973b-eeab9d615bef
 doc-type: video
-source-git-commit: 66bab1a0b2316a31cb99916220500303e49797ad
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: ceb4d94a-32ed-4fea-9724-1339d684b0bc
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:20:19.850Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '1010'
-ht-degree: 74%
+source-wordcount: 1047
+ht-degree: 75%
 
 ---
 
 # 为延迟分配创建任务报告
 
-此视频分步介绍了如何创建自定义报告以跟踪分配给登录用户的延迟任务。 首先，它解释了当现有过滤器、视图或内置报告不符合特定要求时，对自定义报告的需求。&#x200B;AEM 该报表名为“分配给我的延迟任务”，并增加了描述以明确说明。&#x200B;AEM
+此视频分步介绍了如何创建自定义报告以跟踪分配给登录用户的延迟任务。 首先，它解释了当现有过滤器、视图或内置报告不符合特定要求时，对自定义报告的需求。 为&#x200B;了清楚起见，该报表名为“分配给我的延迟任务”，并增加了描述。  
 
-生成的报表可帮助用户专注于后期任务，提供依赖关系的洞察，并简化到主机项目的导航。&#x200B;AEM
+生成的报表可帮助用户专注于后期任务，提供依赖关系的洞察，并简化到主机项目的导航。  
 
 >[!VIDEO](https://video.tv.adobe.com/v/3448352/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
 
-## 要点
+## 关键要点
 
-* **自定义报告创建：**&#x200B;当现有的筛选器和内置报告无法满足您的需求时，您可以从头开始创建自定义报告，以重点关注特定数据，例如分配给您的延迟任务。&#x200B;AEM
-* **筛选器设置：**&#x200B;使用筛选器定义报告条件，包括延迟的任务、未完成的任务、当前项目和分配给登录用户的任务。&#x200B;AEM
-* 上下文&#x200B;**列：**&#x200B;添加诸如“可以开始”之类的列以确定依赖关系问题，并添加带有超链接的“项目名称”以轻松导航到相关项目。&#x200B;AEM
-* **优先级排序：**&#x200B;按“到期日”列升序排序任务，以在报告顶部优先处理最过期的任务。&#x200B;AEM
+* **自定义报告创建：**&#x200B;当现有的筛选器和内置报告无法满足您的需求时，您可以从头开始创建自定义报告，以重点关注特定数据，例如分配给您的延迟任务。  
+* **筛选器设置：**&#x200B;使用筛选器定义报告条件，包括延迟的任务、未完成的任务、当前项目和分配给登录用户的任务。  
+* 上下文&#x200B;**列：**&#x200B;添加诸如“可以开始”之类的列以确定依赖关系问题，并添加带有超链接的“项目名称”以轻松导航到相关项目。  
+* **优先级排序：**&#x200B;按“到期日”列升序排序任务，以在报告顶部优先处理最过期的任务。  
 * **辅助功能：**&#x200B;保存报告、固定报告或将其标记为常用报告以进行快速访问，从而确保高效地跟踪和管理延迟的任务。
 
 
@@ -40,16 +51,16 @@ ht-degree: 74%
 
 >[!TIP]
 >
->请拿出您的“厨具”，准备好尝试我们 [Adobe Workfront 客户报告食谱](/help/assets/workfront-customer-reporting-cookbook.pdf)中的“食谱”。在其中，您会看到 10 份报告的分步说明，可供您立即在自己的环境中快速编写。
+>请拿出您的“厨具”，准备好尝试我们 [Adobe Workfront 客户报告食谱](/help/assets/workfront-customer-reporting-cookbook.pdf)中的“食谱”。 在其中，您会看到 10 份报告的分步说明，可供您立即在自己的环境中快速编写。
 >我们收集了客户最喜欢的报告，并将它们整理成一本易于消化和理解的“食谱”，供您带回并在您自己的 Workfront “厨房”中进行测试。
->这 10 份报告来自与您类似的客户。我们十分感谢分布在不同的行业、部门、团队、职位和公司的优秀客户分享了他们最喜爱的报告之一。有些报告很简单（但非常有用），有些则比较复杂，可以帮助您的报告提升到一个新的水平。
+>这 10 份报告来自与您类似的客户。 我们十分感谢分布在不同的行业、部门、团队、职位和公司的优秀客户分享了他们最喜爱的报告之一。 有些报告很简单（但非常有用），有些则比较复杂，可以帮助您的报告提升到一个新的水平。
 
 
 ### 活动 1：创建带有提示的注释报告
 
-创建一份“注释”报告，该报告可用于根据注释内容、作者、输入日期、项目名称或审核类型搜索用户注释（即评论或更新）或系统注释。将该报告命名为“注释搜索”。
+创建一份“注释”报告，该报告可用于根据注释内容、作者、输入日期、项目名称或审核类型搜索用户注释（即评论或更新）或系统注释。 将该报告命名为“注释搜索”。
 
-使用“注释文本”提示时，此报告将会在更新跟帖中进行搜索，以快速提取满足提示中指定条件的任何内容。运行报告时，您不需要填写每个提示，只需填写您关心的提示即可。空白的提示将会被自动忽略。
+使用“注释文本”提示时，此报告将会在更新跟帖中进行搜索，以快速提取满足提示中指定条件的任何内容。 运行报告时，您不需要填写每个提示，只需填写您关心的提示即可。 空白的提示将会被自动忽略。
 
 该视图应包含以下列：
 
@@ -97,7 +108,7 @@ ht-degree: 74%
 
 1. 将 [!UICONTROL Filters] 留空。
 1. 打开 **[!UICONTROL Report Settings]**，并将报告命名为“注释搜索”。
-1. 在 [!UICONTROL Description] 字段中，输入类似于“根据所选审核类型和其他提示搜索系统或用户注释。系统注释显示在审核文本列中，用户注释显示在注释文本列中。”的内容
+1. 在 [!UICONTROL Description] 字段中，输入类似于“根据所选审核类型和其他提示搜索系统或用户注释。 系统注释显示在审核文本列中，用户注释显示在注释文本列中。”的内容
 
    ![创建注释报告设置的屏幕图像](assets/note-report-report-options.png)
 
@@ -119,9 +130,9 @@ ht-degree: 74%
 
 ### 活动 2：创建管理团队反馈报告
 
-这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hans)教程中了解如何创建此请求队列。
+这是一份问题报告，其中会显示为系统管理员创建的反馈请求队列中的所有问题。 您可以在[创建系统管理员反馈请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-system-admin-feedback-request-queue.html?lang=zh-Hans)教程中了解如何创建此请求队列。
 
-该报告还使用了自定义表格。要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hans)教程。
+该报告还使用了自定义表格。 要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hans)教程。
 
 此自定义表单应使用“项目”和“问题”对象类型，并应按如下方式创建：
 
@@ -135,7 +146,7 @@ ht-degree: 74%
    * 里程碑路径
    * 项目模板
    * 提醒通知
-   * 请求队列 
+   * 请求队列
 1. 流程名称（单行文本字段）
 1. 流程等级（单选下拉字段）
    * 1 - 完全没用

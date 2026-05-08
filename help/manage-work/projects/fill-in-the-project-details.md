@@ -8,14 +8,25 @@ thumbnail: fill-in-the-project-details.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: 2024-06-21T00:00:00Z
+last-substantial-update: '2024-06-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10140
 exl-id: a62b9421-627a-4f23-ab66-da1f29114225
-source-git-commit: 06aa10f55d388112c486fce3d544e6a2cf7ef8da
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:47:36.241Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 23%
+source-wordcount: 217
+ht-degree: 27%
 
 ---
 
@@ -26,12 +37,12 @@ ht-degree: 23%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3430410/?quality=12&learn=on&enablevpops=1)
 
-## 要点
+## 关键要点
 
-* **使用描述性项目名称：**&#x200B;避免混淆，应通过描述性命名项目而不是使用通用标题。&#x200B;AEM 将项目整理到项目组合和程序中可增强报告和一致性。&#x200B;AEM
-* **设置适当的项目状态：**&#x200B;在创建项目时从“计划”状态开始，然后在项目上线时切换到“当前”。&#x200B;AEM 非“当前”状态为暂停通知，允许无中断地重新计划。&#x200B;AEM
-* **利用模板和自定义Forms：**&#x200B;使用项目模板实现一致性，并使用自定义表单存储独特的项目数据。&#x200B;AEM 这些工具可简化设置并确保捕获关键信息。
-* **利用资源池和计划：**&#x200B;将资源池分配给项目以进行有效的资源管理，并应用正确的计划以反映工作日、小时和假日。&#x200B;AEM 这可以确保顺利的项目执行和资源分配。
+* **使用描述性项目名称：**&#x200B;避免混淆，应通过描述性命名项目而不是使用通用标题。 将项目&#x200B;整理到项目组合和项目中可增强报告和一致性。  
+* **设置适当的项目状态：**&#x200B;在创建项目时从“计划”状态开始，然后在项目上线时切换到“当前”。 非&#x200B;“当前”状态为暂停通知，允许无中断地重新计划。  
+* **利用模板和自定义Forms：**&#x200B;使用项目模板实现一致性，并使用自定义表单存储独特的项目数据。 这&#x200B;些工具可简化设置并确保捕获关键信息。
+* **利用资源池和计划：**&#x200B;将资源池分配给项目以进行有效的资源管理，并应用正确的计划以反映工作日、小时和假日。 这可&#x200B;确保顺利执行项目和分配资源。
 
 
 

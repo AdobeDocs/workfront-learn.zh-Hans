@@ -11,9 +11,20 @@ jira: KT-11045
 thumbnail: KT11045.png
 recommendations: noDisplay,catalog
 exl-id: 225f0090-0428-40e2-8a4b-9c6b18b205d2
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '641'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:58.796Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 642
 ht-degree: 100%
 
 ---
@@ -60,16 +71,16 @@ ht-degree: 100%
 
    **为了避免此错误，请创建两条路径：一条用于具有发起人 ID 的项目，另一条用于没有发起人 ID 的项目。**
 
-1. 单击路由器和“读取记录”模块之间的扳手图标，在这两个模块之间添加路由器。设置名为“发起人存在”的过滤器，并将条件设置为“发起人 ID 存在”。
+1. 单击路由器和“读取记录”模块之间的扳手图标，在这两个模块之间添加路由器。 设置名为“发起人存在”的过滤器，并将条件设置为“发起人 ID 存在”。
 
    ![设置“获取变量”图像 5](../12-exercises/assets/set-get-variables-walkthrough-5.png)
 
-1. 单击路由器以创建另一条路径。从电子邮件应用程序添加“发送电子邮件”模块。
+1. 单击路由器以创建另一条路径。 从电子邮件应用程序添加“发送电子邮件”模块。
 
    + 在“收件人”字段中输入您自己的电子邮件地址。
    + 在“主题”字段中，输入“当前项目信息”。
    + 在“内容”字段中，输入项目名称、描述和发起人。
-   + 您无法从“读取记录”模块中提取发起人名称输出内容。您只能从路由器之前的“搜索”模块访问发起人 ID。您需要找到一种方法从其他路由器路径访问发起人名称。
+   + 您无法从“读取记录”模块中提取发起人名称输出内容。 您只能从路由器之前的“搜索”模块访问发起人 ID。 您需要找到一种方法从其他路由器路径访问发起人名称。
 
    ![设置“获取变量”图像 6](../12-exercises/assets/set-get-variables-walkthrough-6.png)
 
@@ -87,12 +98,12 @@ ht-degree: 100%
 
    ![设置“获取变量”图像 7](../12-exercises/assets/set-get-variables-walkthrough-7.png)
 
-1. 接下来，在路由器和“发送电子邮件”模块之间右键单击以添加“获取变量工具”模块。在“变量名称”字段中输入“发起人名称”。
-1. 单击“确定”。将该模块重命名为“获取发起人名称”。
+1. 接下来，在路由器和“发送电子邮件”模块之间右键单击以添加“获取变量工具”模块。 在“变量名称”字段中输入“发起人名称”。
+1. 单击“确定”。 将该模块重命名为“获取发起人名称”。
 
    ![设置“获取变量”图像 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
-1. 返回“发送电子邮件”模块，并将“获取发起人名称”模块中的值映射到内容字段。单击“确定”。
+1. 返回“发送电子邮件”模块，并将“获取发起人名称”模块中的值映射到内容字段。 单击“确定”。
 
    ![设置“获取变量”图像 8](../12-exercises/assets/set-get-variables-walkthrough-8.png)
 
@@ -100,12 +111,12 @@ ht-degree: 100%
    >
    >在测试场景之前，我们建议限制您处理的项目数量，以避免收到大量电子邮件。
 
-1. 前往 Workfront 测试版，并找到 Northstar Fashion Exhibitors Booth 项目。这是一个有发起人的当前项目。从 URL 复制项目 ID。
+1. 前往 Workfront 测试版，并找到 Northstar Fashion Exhibitors Booth 项目。 这是一个有发起人的当前项目。 从 URL 复制项目 ID。
 
    ![设置“获取变量”图像 10](../12-exercises/assets/set-get-variables-walkthrough-10.png)
 
-1. 在您的场景中，单击“查找当前项目”模块。单击绿色的“添加 AND 规则”按钮，向搜索条件添加另一个条件。指定 ID 必须等于您复制的项目 ID。单击“确定”。
+1. 在您的场景中，单击“查找当前项目”模块。 单击绿色的“添加 AND 规则”按钮，向搜索条件添加另一个条件。 指定 ID 必须等于您复制的项目 ID。 单击“确定”。
 1. 保存您的场景并单击“运行一次”。
-1. 查看执行检查器和您收到的电子邮件。
+1. 审阅执行检查器和您收到的电子邮件。
 
    ![设置“获取变量”图像 11](../12-exercises/assets/set-get-variables-walkthrough-11.png)

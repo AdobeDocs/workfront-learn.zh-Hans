@@ -11,9 +11,20 @@ team: Technical Marketing
 jira: KT-8724
 recommendations: noDisplay,catalog
 exl-id: 464bf4b9-4b41-421a-ad71-e60b7c9ccf64
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:08:16.541Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: 62
 ht-degree: 100%
 
 ---
@@ -29,4 +40,4 @@ ht-degree: 100%
 * 工作图表概述
 * 人员图表概述
 
->[!VIDEO](https://video.tv.adobe.com/v/3436403/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3436403/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

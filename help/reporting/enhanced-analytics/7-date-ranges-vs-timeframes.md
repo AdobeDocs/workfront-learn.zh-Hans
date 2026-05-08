@@ -1,6 +1,6 @@
 ---
 title: 了解日期范围和时间范围
-description: 在 [!UICONTROL Enhanced analytics] 中，日期范围是使用日程表小组件指定的。时间范围是在图表中创建的。
+description: 在 [!UICONTROL Enhanced analytics] 中，日期范围是使用日程表小组件指定的。 时间范围是在图表中创建的。
 activity: use
 team: Technical Marketing
 feature: Reports and Dashboards
@@ -11,30 +11,41 @@ level: Beginner
 jira: KT-10043
 recommendations: noDisplay,catalog
 exl-id: 9ed421a0-5f44-4096-a7ad-c4be4d00808f
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '313'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:01:21.544Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 313
 ht-degree: 100%
 
 ---
 
 # 了解日期范围和时间范围
 
-当查看 [!DNL Enhanced analytics] 图表时，日期范围是使用日程表小组件指定的。当您通过单击并拖动来定义特定区域时，会在图表中创建时间范围，因此您可以放大并更详细地查看该时间范围内的信息。
+当查看 [!DNL Enhanced analytics] 图表时，日期范围是使用日程表小组件指定的。 当您通过单击并拖动来定义特定区域时，会在图表中创建时间范围，因此您可以放大并更详细地查看该时间范围内的信息。
 
 ## 日期范围
 
-只需单击日程表中的任意日期来指示范围内的一个日期，然后单击任意日期来指示范围另一端的日期。如果您的开始日期和结束日期不在同一个月，请使用日程表顶部的箭头导航到不同的月份。
+只需单击日程表中的任意日期来指示范围内的一个日期，然后单击任意日期来指示范围另一端的日期。 如果您的开始日期和结束日期不在同一个月，请使用日程表顶部的箭头导航到不同的月份。
 
 ![使用日程表小组件选择日期范围的图像](assets/section-1-3.png)
 
-默认情况下，[!DNL Analytics] 中的图表显示过去 60 天和未来 15 天的数据。使用 [!DNL Analytics] 时，您可以选择一个新的日期范围并将其应用于所有图表。
+默认情况下，[!DNL Analytics] 中的图表显示过去 60 天和未来 15 天的数据。 使用 [!DNL Analytics] 时，您可以选择一个新的日期范围并将其应用于所有图表。
 
 当您刷新页面、离开或注销/登录 Workfront 时，日期范围将会重置为默认值。
 
 ## 时间范围
 
-单击并拖动时间线的相应部分来创建时间范围过滤器。此时间范围现在适用于“工作”区域中的所有图表，并且它会显示在过滤器栏中任何其他过滤器的旁边。通过单击并拖动相关区域来更新时间范围，以深入挖掘图表。要删除时间范围过滤器，只需将鼠标悬停在过滤器栏中的该时间范围过滤器上，然后单击出现的 X。
+单击并拖动时间线的相应部分来创建时间范围过滤器。 此时间范围现在适用于“工作”区域中的所有图表，并且它会显示在过滤器栏中任何其他过滤器的旁边。 通过单击并拖动相关区域来更新时间范围，以深入挖掘图表。 要删除时间范围过滤器，只需将鼠标悬停在过滤器栏中的该时间范围过滤器上，然后单击出现的 X。
 
 ![使用单击并拖动的方法选择日期范围的图像](assets/section-1-4.png)
 

@@ -9,25 +9,35 @@ role: Admin
 level: Beginner
 team: Technical Marketing
 jira: KT-8726
-last-substantial-update: 2024-04-02T00:00:00Z
+last-substantial-update: '2024-04-02T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:08:00.924Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: 145
 ht-degree: 100%
 
 ---
 
-
 # 如何访问已优化的分析
 
-与 Workfront 中的大多数其他功能一样，您可以从主菜单访问 [!UICONTROL Enhanced analytics]。但默认情况下，[!UICONTROL Analytics] 不在主菜单上。
+与 Workfront 中的大多数其他功能一样，您可以从主菜单访问 [!UICONTROL Enhanced analytics]。 但默认情况下，[!UICONTROL Analytics] 不在主菜单上。
 
 ![主菜单的图像 ](assets/analytics-on-main-menu.png)
 
-如果您在主菜单看不到，系统或组管理员需要为您添加。他们将在布局模板中执行此操作。以下视频解释了具体方法。
+如果您在主菜单看不到，系统或组管理员需要为您添加。 他们将在布局模板中执行此操作。 以下视频解释了具体方法。
 
 
 ## 将 Analytics 添加到布局模板
@@ -37,4 +47,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335045/?quality=12&learn=on&enablevpops=1)
 
-任何拥有 Workfront 许可证（在 [!UICONTROL Workfront Business] 计划或更高版本）的人员都可以在将其添加到分配给他们的布局模板中后访问 [!UICONTROL Analytics]。但是，只有在您的 Workfront 访问级别以及特定项目和用户的共享权限允许的情况下，您才会看到项目和用户信息。
+任何拥有 Workfront 许可证（在 [!UICONTROL Workfront Business] 计划或更高版本）的人员都可以在将其添加到分配给他们的布局模板中后访问 [!UICONTROL Analytics]。 但是，只有在您的 Workfront 访问级别以及特定项目和用户的共享权限允许的情况下，您才会看到项目和用户信息。

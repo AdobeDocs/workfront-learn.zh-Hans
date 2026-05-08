@@ -11,9 +11,20 @@ jira: KT-11050
 thumbnail: KT1101.png
 recommendations: noDisplay,catalog
 exl-id: f04c84b1-2a3c-418b-9db3-baa74cf364f3
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '342'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:43:39.670Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 344
 ht-degree: 100%
 
 ---
@@ -30,10 +41,10 @@ ht-degree: 100%
 
 ## 应遵循的步骤
 
-1. 克隆名为“在路由路径之间共享变量”的场景。将新场景命名为“在路由路径之间共享变量 - 周期测试”。
+1. 克隆名为“在路由路径之间共享变量”的场景。 将新场景命名为“在路由路径之间共享变量 - 周期测试”。
 1. 删除“发送电子邮件”模块，因为此测试不需要它。
 
-   **将您的场景设置为每次运行处理 3 个周期。每个周期处理 5 个项目。**
+   **将您的场景设置为每次运行处理 3 个周期。 每个周期处理 5 个项目。**
 
 1. 单击“触发”模块，将 Maximal 字段更改为 5，这样每个周期只会处理 5 个项目。
 1. 在“搜索”条件中，删除将搜索范围限制为单个项目的第二个过滤器。
@@ -51,15 +62,15 @@ ht-degree: 100%
 
    ![探索运行、周期和捆绑图像 2](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-2.png)
 
-1. 接下来，将“运行一次”按钮下的“计划”开关切换为“开”。保存您的场景。
+1. 接下来，将“运行一次”按钮下的“计划”开关切换为“开”。 保存您的场景。
 
    ![探索运行、周期和捆绑图像 3](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-3.png)
 
-1. 转到该场景的执行历史记录，并观察下一分钟内出现的新历史记录。您可能需要刷新页面。
+1. 转到该场景的执行历史记录，并观察下一分钟内出现的新历史记录。 您可能需要刷新页面。
 
    ![探索运行、周期和捆绑图像 1](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-4.png)
 
-1. 单击一次运行的“详细信息”按钮。单击右侧面板中的“简单”日志，其类似于您在 Workfront Fusion 培训的执行历史记录部分中所做的操作。
+1. 单击一次运行的“详细信息”按钮。 单击右侧面板中的“简单”日志，其类似于您在 Workfront Fusion 培训的执行历史记录部分中所做的操作。
 1. 已处理操作的记录被划分为多个周期。
 
    ![探索运行、周期和捆绑图像 5](../12-exercises/assets/exploring-runs-cycles-and-bundles-walkthrough-5.png)

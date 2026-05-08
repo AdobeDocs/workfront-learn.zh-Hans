@@ -9,9 +9,22 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10018
 exl-id: 9924e479-c300-47b4-8e40-241ebb2435cf
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/yTBd9pAA4m4fbXniB-givgEjA5Ble6N6Xv5c1JgM4bc
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '738'
+source-wordcount: 740
 ht-degree: 74%
 
 ---
@@ -24,7 +37,7 @@ ht-degree: 74%
 
 全局问题偏好设置可以调整，但建议您和您的[!DNL Workfront]顾问讨论组织的工作流、流程和报告需求所需的设置。 您的顾问还可以帮助您了解如果更改某些设置会发生什么。
 
-问题首选项允许系统管理员控制将问题转换为任务或项目时的选项、实际日期的计算方式以及分配问题时谁可以访问项目。我们来看看这些设置在[!DNL Workfront]中的位置。
+问题首选项允许系统管理员控制将问题转换为任务或项目时的选项、实际日期的计算方式以及分配问题时谁可以访问项目。 我们来看看这些设置在[!DNL Workfront]中的位置。
 
 ## 转换后的问题首选项
 
@@ -45,7 +58,7 @@ ht-degree: 74%
 
   通过此设置，您可以将原始问题的解决方案与新对象（任务或项目）的解决方案关联起来。
 
-  启用（选中）此设置后，您可以创建与任务或项目状态具有相同状态键的自定义问题状态。当任务或项目（可解决对象）设置为自定义状态时，相关的更改也会显示在问题状态中。
+  启用（选中）此设置后，您可以创建与任务或项目状态具有相同状态键的自定义问题状态。 当任务或项目（可解决对象）设置为自定义状态时，相关的更改也会显示在问题状态中。
 
   禁用后，解决对象状态会自动设置为默认状态，而不是自定义状态。
 
@@ -53,7 +66,7 @@ ht-degree: 74%
 
 * **[!UICONTROL Keep the original issue and tie is resolution to the task/project]**
 
-  当问题被转换时，这会告诉 [!DNL Workfront] 保留原始问题。问题的状态会随着任务或项目的状态发生变化而改变。当任务或项目被标记为已完成时，该问题就会被标记为已解决。
+  当问题被转换时，这会告诉 [!DNL Workfront] 保留原始问题。 问题的状态会随着任务或项目的状态发生变化而改变。 当任务或项目被标记为已完成时，该问题就会被标记为已解决。
 
   如果未选中此选项，则原始问题会被删除，并且仅会保留转换后的任务或项目。
 
@@ -61,7 +74,7 @@ ht-degree: 74%
 
 * **[!UICONTROL Allow Primary Contact to have access to the task/project]**
 
-  这使得创建原始问题的人员可以在转换期间访问创建的任务或项目。他们可以审查工作、进行更新并随时了解其进展情况。
+  这使得创建原始问题的人员可以在转换期间访问创建的任务或项目。 他们可以审阅工作、进行更新并随时了解其进展情况。
 
 * **[!UICONTROL Allow these settings to be changed during conversion]**
 
@@ -76,9 +89,9 @@ Create and customize system-wide statuses
 
 ## 实际日期首选项
 
-[!DNL Workfront] 中使用多种类型的日期。实际日期是[!DNL Workfront]在某些状态发生更改时生成的“时间戳”。
+[!DNL Workfront] 中使用多种类型的日期。 实际日期是[!DNL Workfront]在某些状态发生更改时生成的“时间戳”。
 
-当问题状态从“新建”变为另一状态时，会创建 [!UICONTROL Actual Start Date] 时间戳。[!UICONTROL Actual Completion Date] 时间戳是指问题状态何时更改为表示其已关闭的状态。
+当问题状态从“新建”变为另一状态时，会创建 [!UICONTROL Actual Start Date] 时间戳。 [!UICONTROL Actual Completion Date] 时间戳是指问题状态何时更改为表示其已关闭的状态。
 
 请注意，此首选项控制任务和问题的实际日期设置，这一点很重要。
 
@@ -111,9 +124,9 @@ Configure system-wide task and issue preferences
 1. 展开左侧菜单面板中的 **[!UICONTROL Project Preferences]** 部分。
 1. 选择 **[!UICONTROL Tasks & Issues]**。
 1. 滚动到&#x200B;**[!UICONTROL Access]**&#x200B;部分并找到“[!UICONTROL When someone is assigned to an ISSUE]”选项。
-1. 设置问题本身的共享访问权限——[!UICONTROL View]、[!UICONTROL Contribute] 或 [!UICONTROL Manage]。[!DNL Workfront] 建议保留高级选项不变。
+1. 设置问题本身的共享访问权限——[!UICONTROL View]、[!UICONTROL Contribute] 或 [!UICONTROL Manage]。 [!DNL Workfront] 建议保留高级选项不变。
 1. 如果问题受让人也应该有权访问该项目，请选中此框
-1. 然后选择项目的共享访问权限—— [!UICONTROL View]、[!UICONTROL Contribute] 或 [!UICONTROL Manage]。在设置[!UICONTROL Advanced Options]时，请牢记组织的工作流和访问需求。
+1. 然后选择项目的共享访问权限—— [!UICONTROL View]、[!UICONTROL Contribute] 或 [!UICONTROL Manage]。 在设置[!UICONTROL Advanced Options]时，请牢记组织的工作流和访问需求。
 1. 完成后保存。
 
 ![[!UICONTROL Access] 窗口，其中显示 [!UICONTROL Contribute] 选项](assets/admin-fund-issue-prefs-access-2.png)

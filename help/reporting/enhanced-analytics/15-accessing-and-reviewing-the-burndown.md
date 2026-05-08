@@ -12,9 +12,20 @@ jira: KT-8734
 recommendations: noDisplay,catalog
 exl-id: d06c1b04-205d-478a-b44a-c43ebe55f649
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:10:10.755Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '291'
+source-wordcount: 293
 ht-degree: 100%
 
 ---
@@ -30,7 +41,7 @@ ht-degree: 100%
 
 ## 跟踪项目速度
 
-燃尽图有助于您了解剩余时间、项目完成情况和速度之间的关系。实线显示了随着时间的推移花在项目上的时间，以及项目每天的完成情况。虚线（显示从开始日期到规划完成日期的计划速度）随着任务日期的更改而调整。
+燃尽图有助于您了解剩余时间、项目完成情况和速度之间的关系。 实线显示了随着时间的推移花在项目上的时间，以及项目每天的完成情况。 虚线（显示从开始日期到规划完成日期的计划速度）随着任务日期的更改而调整。
 
 查看此信息可以帮助您确定：
 

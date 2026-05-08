@@ -9,20 +9,33 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10096
 exl-id: 5d49108e-1795-4833-a374-3b598c90b345
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/1mERTG2biYLpdvo1iYpE46qJD811RsKRnwCpsUJDFyo
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+subfeature_v2:
+  - id: ce22a157-dd2c-405f-b740-c2f204bb4c1a
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '204'
+source-wordcount: 204
 ht-degree: 100%
 
 ---
 
 # 将提醒通知附加到工作项
 
-事件和订阅通知并不是您可以通过 Workfront 接收的唯一通知类型。提醒通知可以附加在特定项目、任务、问题和/或时间表，以便人们知道相关事项何时到期或逾期。
+事件和订阅通知并不是您可以通过 Workfront 接收的唯一通知类型。 提醒通知可以附加在特定项目、任务、问题和/或时间表，以便人们知道相关事项何时到期或逾期。
 
 提醒通知最初由系统管理员创建，然后会在需要时附加到特定工作项目。
 
-例如，提醒可以设置为当已分配用户的任务离规划完成日期不足一天时通过电子邮件发送给他们。或者，可以在规划开始日期后两天向项目团队发出提醒。
+例如，提醒可以设置为当已分配用户的任务离规划完成日期不足一天时通过电子邮件发送给他们。 或者，可以在规划开始日期后两天向项目团队发出提醒。
 
 这些通知是保持工作顺利进行的另一种方式。
 

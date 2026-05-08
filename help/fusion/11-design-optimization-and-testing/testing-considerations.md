@@ -11,16 +11,27 @@ jira: KT-9073
 exl-id: 627c767d-de31-4bc6-bac7-c8143c0dbbaf
 recommendations: noDisplay,catalog
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:47:07.248Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 99%
+source-wordcount: 333
+ht-degree: 94%
 
 ---
 
 # 测试和启动
 
-Workfront Fusion 测试应重点检查互联的软件平台之间的输入和输出数据，以及 Workfront Fusion 场景中执行的数据转换。此外，Workfront Fusion 集成测试旨在评估您的场景是否符合特定业务需求。从本质上讲，我们进行 Workfront Fusion 测试以确保集成按预期工作。
+Workfront Fusion 测试应重点检查互联的软件平台之间的输入和输出数据，以及 Workfront Fusion 场景中执行的数据转换。 此外，Workfront Fusion 集成测试旨在评估您的场景是否符合特定业务需求。 从本质上讲，我们进行 Workfront Fusion 测试以确保集成按预期工作。
 
 ## 测试注意事项
 
@@ -32,7 +43,7 @@ Workfront Fusion 测试应重点检查互联的软件平台之间的输入和输
 * 创建详细且可共享的文档
 * 测试深度、广度、复杂性和负载
 
->[!VIDEO](https://video.tv.adobe.com/v/3418730/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3418730/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 测试注意事项清单
 
@@ -40,12 +51,12 @@ Workfront Fusion 测试应重点检查互联的软件平台之间的输入和输
 
 请牢记这些准则，以确保您的测试保持一致并能够捕获所有基本要素。
 
-* 根据需求确定需要哪些测试数据。通常，最有效的测试的基础是明确定义和记录的需求。
-* 规划并沟通如何生成测试深度、广度、复杂性和负载所需的数据。避免仅进行“快乐路径”测试。考虑用户可能会与自动化交互的所有方式，以及将要处理的各种可能的数据。
-* 考虑互联系统之间所需的输入和输出数据。验证这些系统中的输入和输出，而不仅仅是在 Workfront Fusion 中。
+* 根据需求确定需要哪些测试数据。 通常，最有效的测试的基础是明确定义和记录的需求。
+* 规划并沟通如何生成测试深度、广度、复杂性和负载所需的数据。 避免仅进行“快乐路径”测试。 考虑用户可能会与自动化交互的所有方式，以及将要处理的各种可能的数据。
+* 考虑互联系统之间所需的输入和输出数据。 验证这些系统中的输入和输出，而不仅仅是在 Workfront Fusion 中。
 
-在 Workfront Fusion 实施的整个生命周期中优先考虑测试。设计时，考虑如何测试设计决策是否满足要求。思考意外数据会如何导致错误，并在构建时添加相关的错误处理功能。在不断测试的过程中，计划对可行的原型进行迭代。
+在 Workfront Fusion 实施的整个生命周期中优先考虑测试。 设计时，考虑如何测试设计决策是否满足要求。 思考意外数据会如何导致错误，并在构建时添加相关的错误处理功能。 在不断测试的过程中，计划对可行的原型进行迭代。
 
-## 想要了解详情？我们建议查看以下内容：
+## 想要了解详情？ 我们建议查看以下内容：
 
 [Workfront Fusion 文档](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

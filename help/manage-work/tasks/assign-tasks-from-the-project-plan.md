@@ -8,14 +8,25 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: 2024-05-23T00:00:00Z
+last-substantial-update: '2024-05-23T00:00:00.000Z'
 jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T14:38:57.192Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: 219
 ht-degree: 13%
 
 ---
@@ -27,13 +38,13 @@ ht-degree: 13%
 
 >[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
 
-## 要点
+## 关键要点
 
-* **快速分配的内联编辑：**&#x200B;通过键入名称并从列表中进行选择，轻松分配任务，并具有预先键入功能以加快选择速度。&#x200B;AEM
-* **为提高效率批量编辑：**&#x200B;通过选择任务、使用批量编辑并从列表中选择名称，将多个任务分配给同一个人。&#x200B;AEM
-* **简化分配的工作角色：**&#x200B;使用工作角色促进任务分配，尤其是使用项目模板。&#x200B;AEM 职位角色将分别记录用于资源管理和能力计划。&#x200B;AEM
-* **Collaboration的团队分配：**&#x200B;通过选择带有团队图标的团队名称将任务分配给团队。&#x200B;AEM 团队成员可以自行分配任务，或者团队领导可以重新分配任务，同时保留团队名称用于报告。&#x200B;AEM
-* **资源管理集成：**&#x200B;工作角色和团队分配支持资源容量和可用性计算，增强了项目规划和执行。&#x200B;AEM
+* **快速分配的内联编辑：**&#x200B;通过键入名称并从列表中进行选择，轻松分配任务，并具有预先键入功能以加快选择速度。  
+* **为提高效率批量编辑：**&#x200B;通过选择任务、使用批量编辑并从列表中选择名称，将多个任务分配给同一个人。  
+* **简化分配的工作角色：**&#x200B;使用工作角色促进任务分配，尤其是使用项目模板。 工&#x200B;作角色在资源管理和能力规划中单独记录。  
+* **Collaboration的团队分配：**&#x200B;通过选择带有团队图标的团队名称将任务分配给团队。 团队成员&#x200B;可以自行分配任务，或者团队负责人可以重新分配任务，同时保留团队名称以用于报告。  
+* **资源管理集成：**&#x200B;工作角色和团队分配支持资源容量和可用性计算，增强了项目规划和执行。  
 
 
 ## 有关此主题的推荐教程

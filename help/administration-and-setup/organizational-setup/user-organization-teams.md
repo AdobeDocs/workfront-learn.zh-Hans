@@ -11,9 +11,20 @@ thumbnail: 335071.png
 jira: KT-8762
 exl-id: 2a8e6306-36e2-4058-b9ab-e3fb37e6cfe3
 doc-type: video
-source-git-commit: bbdf99c6bc1be714077fd94fc3f8325394de36b3
+TQID: https://experienceleague.adobe.com/sR3ziCHBY4B3QItNQA4mjHQweEztyyeh3eyvAj9HHOg
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '262'
+source-wordcount: 264
 ht-degree: 100%
 
 ---
@@ -26,7 +37,7 @@ ht-degree: 100%
 * 如何使用跨职能团队
 * 如何创建和关联团队
 
->[!VIDEO](https://video.tv.adobe.com/v/3432878/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3432878/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 团队创建
 
@@ -44,13 +55,13 @@ ht-degree: 100%
 
 创建团队后，通过从列表中选择团队并单击窗口右侧的 [!UICONTROL Team Settings] 来编辑设置。
 
-调整设置，例如分配布局模板，或添加更多团队成员。此外，您还可以自定义该团队将在任务和问题工作分配内容中看到的 [!UICONTROL Work On It] 按钮和“完成”按钮。
+调整设置，例如分配布局模板，或添加更多团队成员。 此外，您还可以自定义该团队将在任务和问题工作分配内容中看到的 [!UICONTROL Work On It] 按钮和“完成”按钮。
 
 ![[!UICONTROL Edit Team] 窗口](assets/admin-fund-team-settings.png)
 
-默认情况下，[!UICONTROL Work On It] 按钮只是告诉 [!DNL Workfront] 您将会处理该任务，而不会将任务状态更改为“正在进行中”（或等效状态）。要使 [!DNL Workfront] 自动更改状态，请将 [!UICONTROL Work On It] 按钮更改为 [!UICONTROL Start] 按钮。只需选中团队设置中的复选框即可。
+默认情况下，[!UICONTROL Work On It] 按钮只是告诉 [!DNL Workfront] 您将会处理该任务，而不会将任务状态更改为“正在进行中”（或等效状态）。 要使 [!DNL Workfront] 自动更改状态，请将 [!UICONTROL Work On It] 按钮更改为 [!UICONTROL Start] 按钮。 只需选中团队设置中的复选框即可。
 
-单击 [!UICONTROL Start] 按钮时，任务或问题的状态将从“新建”更改为在团队设置中选择的状态。[!DNL Workfront] 还会记录任务的实际开始日期。
+单击 [!UICONTROL Start] 按钮时，任务或问题的状态将从“新建”更改为在团队设置中选择的状态。 [!DNL Workfront] 还会记录任务的实际开始日期。
 
 ![[!UICONTROL Work On It] 部分，在 [!UICONTROL Edit Team] 窗口中](assets/admin-fund-start-button-team.png)
 

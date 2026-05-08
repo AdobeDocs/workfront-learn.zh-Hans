@@ -11,9 +11,20 @@ jira: KT-11056
 thumbnail: KT11056.png
 recommendations: noDisplay,catalog
 exl-id: 72d5159e-72e5-4202-90de-753b3d7626de
-source-git-commit: f033b210268e8979ee15abe812e6ad85673eeedb
-workflow-type: ht
-source-wordcount: '496'
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2:
+  - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+autotag-review: '2026-05-06T16:40:11.405Z'
+source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+workflow-type: tm+mt
+source-wordcount: 497
 ht-degree: 100%
 
 ---
@@ -24,7 +35,7 @@ ht-degree: 100%
 
 ## 练习概述
 
-本练习的目的是从概念上展示如何利用以 JSON 格式发送到场景的信息，并将其解析为可在整个场景中映射的字段和项目。然后，您可以从这些映射数组中获取信息，也可以将信息聚合到 JSON 中，然后发送到另一个需要 JSON 作为接收输入的系统。
+本练习的目的是从概念上展示如何利用以 JSON 格式发送到场景的信息，并将其解析为可在整个场景中映射的字段和项目。 然后，您可以从这些映射数组中获取信息，也可以将信息聚合到 JSON 中，然后发送到另一个需要 JSON 作为接收输入的系统。
 
 ![使用 JSON 图像 1](../12-exercises/assets/working-with-json-walkthrough-1.png)
 
@@ -46,7 +57,7 @@ ht-degree: 100%
 
    ![使用 JSON 图像 3](../12-exercises/assets/working-with-json-walkthrough-3.png)
 
-1. 单击“保存”，将数据结构命名为“甜甜圈数据”。然后单击“保存”。
+1. 单击“保存”，将数据结构命名为“甜甜圈数据”。 然后单击“保存”。
 1. 将“甜甜圈数据”从“设置变量”模块映射到 JSON 字符串字段。
 
    ![使用 JSON 图像 4](../12-exercises/assets/working-with-json-walkthrough-4.png)
@@ -75,7 +86,7 @@ ht-degree: 100%
 
 1. 在下部路由路径上，在 JSON 模块中添加一个聚合。
 1. 对于“源”模块，选择迭代器——解析 JSON 模块。
-1. 对于数据结构，创建或选择任何数据结构。对于本示例，请使用甜甜圈数据。
+1. 对于数据结构，创建或选择任何数据结构。 对于本示例，请使用甜甜圈数据。
 1. 继续直接映射本示例的字段，如下所示。
 1. 当您开始处理面糊和配料时，请注意这些是数组，因此您需要单击“添加项目”来映射它们。
 
@@ -83,6 +94,6 @@ ht-degree: 100%
 
 1. 保存该场景并单击“运行一次”。
 
-查看“聚合至 JSON”模块的执行检查器，并注意如何能够将三个捆绑包聚合为单个 JSON 字符串。然后，您可以将此字符串发送到需要 JSON 的其他系统。
+查看“聚合至 JSON”模块的执行检查器，并注意如何能够将三个捆绑包聚合为单个 JSON 字符串。 然后，您可以将此字符串发送到需要 JSON 的其他系统。
 
 ![使用 JSON 图像 9](../12-exercises/assets/working-with-json-walkthrough-9.png)

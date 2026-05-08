@@ -9,9 +9,20 @@ role: Admin
 level: Intermediate, Experienced
 jira: KT-10021
 exl-id: d1e5c2d6-b001-4e9e-b72d-c792c70d09e8
-source-git-commit: 4568e4e47b719e2dee35357d42674613112a9c43
+TQID: https://experienceleague.adobe.com/twVXujg-A2HhqTJAPyGB4E7ER59CcV7Prubge9OV2Cs
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
 workflow-type: tm+mt
-source-wordcount: '299'
+source-wordcount: 301
 ht-degree: 100%
 
 ---
@@ -20,16 +31,16 @@ ht-degree: 100%
 
 ## 重命名默认问题类型
 
-[!DNL Workfront] 提供四种类型的问题，以帮助您的用户对所创建的问题类型进行分类。默认值为：
+[!DNL Workfront] 提供四种类型的问题，以帮助您的用户对所创建的问题类型进行分类。 默认值为：
 
 * [!UICONTROL Bug Report]
 * [!UICONTROL Change Order]
 * [!UICONTROL Issue]
 * [!UICONTROL Request]
 
-如果现有问题类型不符合您组织的问题管理需求怎么办？或者您的组织可能使用的是不同的术语？
+如果现有问题类型不符合您组织的问题管理需求怎么办？ 或者您的组织可能使用的是不同的术语？
 
-例如，有一个团队希望使用问题来跟踪项目风险。作为系统管理员，您知道您的组织不会跟踪错误报告。因此，您可以将未使用的问题类型（如 [!UICONTROL Bug Reports]）的名称更改为“项目风险”。
+例如，有一个团队希望使用问题来跟踪项目风险。 作为系统管理员，您知道您的组织不会跟踪错误报告。 因此，您可以将未使用的问题类型（如 [!UICONTROL Bug Reports]）的名称更改为“项目风险”。
 
 问题类型在系统范围内进行重命名，因此更改适用于所有用户。
 
@@ -38,7 +49,7 @@ ht-degree: 100%
 1. 选择 **[!UICONTROL Statuses]**。
 1. 选择 **[!UICONTROL Issues]** 选项卡。
 1. 确保右上角的菜单设置为 [!UICONTROL System Statuses]。
-1. 将光标悬停在列表顶部的问题类型旁边。单击铅笔图标以启用字段编辑。
+1. 将光标悬停在列表顶部的问题类型旁边。 单击铅笔图标以启用字段编辑。
 1. 重命名问题类型。
 1. 单击字段外部进行保存。
 
@@ -55,8 +66,8 @@ Customize default issue types
 
 ## 更改 Workfront 中的术语“问题”
 
-有些组织使用不同于“问题”的术语来指代规划外的工作项目。“问题”是默认术语，并会在整个软件中出现——菜单、报告、字段名称等。
-Workfront 管理员可以使用布局模板功能重命名问题项目，以匹配其组织使用的术语。对于分配到布局模板的人员，新术语随后会出现在整个 [!DNL Workfront] 中。
+有些组织使用不同于“问题”的术语来指代规划外的工作项目。 “问题”是默认术语，并会在整个软件中出现——菜单、报告、字段名称等。
+Workfront 管理员可以使用布局模板功能重命名问题项目，以匹配其组织使用的术语。 对于分配到布局模板的人员，新术语随后会出现在整个 [!DNL Workfront] 中。
 
 ![[!UICONTROL Terminology] 窗口，其中突出显示 [!UICONTROL Issue]](assets/admin-fund-issue-custom-terminology.png)
 
