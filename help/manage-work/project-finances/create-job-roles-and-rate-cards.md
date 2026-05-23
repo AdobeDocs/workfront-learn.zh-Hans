@@ -35,7 +35,7 @@ ht-degree: 13%
 此视频介绍如何创建工作角色和费率卡，以及如何从项目附加和删除费率卡。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3486517/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486528/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
