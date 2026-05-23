@@ -36,7 +36,7 @@ ht-degree: 4%
 此视频介绍如何管理和自定义项目中工作角色的计费率。 它&#x200B;强调灵活地为同一工作角色设定多种收费率，并确保进行准确的时间调整。  
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3457652/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3489645/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
