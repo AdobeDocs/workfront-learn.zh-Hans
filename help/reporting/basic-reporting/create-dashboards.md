@@ -12,11 +12,16 @@ jira: KT-8862
 last-substantial-update: '2026-05-28T00:00:00.000Z'
 exl-id: 7adc2aeb-6618-4894-acc3-298e35175854
 doc-type: video
-product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2: id: c6dd2ac5-f5bd-4e59-9101-25b156918623
-subfeature_v2: id: caabbe77-a670-4ba9-8190-faf649b1f84a
-role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2:
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+subfeature_v2:
+  - id: caabbe77-a670-4ba9-8190-faf649b1f84a
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:20:51.376Z'
 source-git-commit: f6c4afc6e1984ef0af8f80e052766f90de7a8655
 workflow-type: tm+mt
@@ -132,7 +137,7 @@ ht-degree: 32%
 1. 新报告将在标题中追加名称&#x200B;**&quot;（副本）&quot;**。
 1. 单击&#x200B;**[!UICONTROL Report Actions]>[!UICONTROL Edit]**。 然后，更改过滤器和报表标题以关注Orion团队（或您的任何其他团队）。
 1. 单击[!UICONTROL Filters]选项卡，然后更改筛选规则
-   **[!UICONTROL Task]> [!UICONTROL Team ID] > [!UICONTROL Equal] > &quot;Creative&quot;**至
+   **[!UICONTROL Task]> [!UICONTROL Team ID] > [!UICONTROL Equal] > &quot;Creative&quot;**&#x200B;至
    **[!UICONTROL Task]> [!UICONTROL Team ID] > [!UICONTROL Equal] > “猎户座”**
 1. 在“报告标题”字段中，将&#x200B;**[!UICONTROL "Creative"]**&#x200B;一词更改为&#x200B;**[!UICONTROL "Orion"]**&#x200B;并删除&#x200B;**“（复制）”**&#x200B;单词。
 1. 单击&#x200B;**[!UICONTROL Save+Close]**&#x200B;按钮保存并关闭报告。
