@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8768
 exl-id: 1be0bec5-13b3-44b0-ba49-d25adf0378a5
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: 169
-ht-degree: 27%
+ht-degree: 20%
 
 ---
 
@@ -36,7 +31,7 @@ ht-degree: 27%
 此视频介绍如何从头开始创建和管理项目。首先，&#x200B;要创建新项目，重命名项目，然后使用描述、开始日期和目标完成日期设置目标。项目可以划分为任务，这些任务为计划工作以及估计持续时间和分配。任务&#x200B;可以使用前置任务进行排序，并且项目状态可以设置为“当前”以通知团队并将其包含在报表中。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3435904/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335082/?quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
@@ -50,6 +45,6 @@ ht-degree: 27%
 ## 有关此主题的推荐教程
 
 * [导航项目页面](/help/manage-work/projects/navigate-the-project-page.md)
-* [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [填写项目详细信息。](/help/manage-work/projects/fill-in-the-project-details.md)
+* [探索创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [填写基本的项目详细信息](/help/manage-work/projects/fill-in-the-project-details.md)
 
