@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:53:40.935Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 372
-ht-degree: 13%
+source-wordcount: 355
+ht-degree: 11%
 
 ---
 
@@ -40,17 +40,17 @@ ht-degree: 13%
 * **验证审批：**&#x200B;导航到验证以进行审阅并添加特定评论。 审批&#x200B;选项包括“已批准”、“已批准但有更改”、“需要更改”或“不相关”。
 * **文档审批：**&#x200B;仍可以批准或拒绝无验证的文档。 如&#x200B;果需要更改，请在评论中描述它们，类似于验证审批中的“已审批但有更改”。
 
-此视频强调审阅和批准工作的灵活性，并提供了添加注释和指定所需更改的选项。  
+此视频强调审阅和批准工作的灵活性，并提供了添加注释和指定所需更改的选项。&#x200B;AEM
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444956/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 关键要点
+## 要点
 
-* **集中式审批管理：**&#x200B;所有等待审批的项都可以在“主页”区域的“等待我的审批”构件中访问。  
-* **灵活的审阅选项：**&#x200B;您可以直接从主页区域批准或拒绝，或者单击项目名称以在做出决定之前审阅详细信息。  
-* **添加注释选项：**&#x200B;添加注释是可选的，但为了清楚起见，建议添加。 在“主页”区域所做的&#x200B;批准会提示发表评论，而在项目内所做的批准则不会。  
-* **验证审批详情：**&#x200B;验证审批提供多个选项，包括“已审批但有更改”、“需要更改”和“不相关”，可提供详细反馈。  
-* **处理更改：**&#x200B;对于需要更改的文档或校样，您可以在注释中指定更改，确保重新提交或更新时保持清晰的通信。  
+* **集中式审批管理：**&#x200B;所有等待审批的项都可以在“主页”区域的“等待我的审批”构件中访问。&#x200B;AEM
+* **灵活的审阅选项：**&#x200B;您可以直接从主页区域批准或拒绝，或者单击项目名称以在做出决定之前审阅详细信息。&#x200B;AEM
+* **添加注释选项：**&#x200B;添加注释是可选的，但为了清楚起见，建议添加。在“主页”区域所做的&#x200B;批准会提示发表评论，而在项目内所做的批准则不会。&#x200B;AEM
+* **验证审批详情：**&#x200B;验证审批提供多个选项，包括“已审批但有更改”、“需要更改”和“不相关”，可提供详细反馈。&#x200B;AEM
+* **处理更改：**&#x200B;对于需要更改的文档或校样，您可以在注释中指定更改，确保重新提交或更新时保持清晰的通信。&#x200B;AEM
 
 
 >[!NOTE]
@@ -59,8 +59,8 @@ ht-degree: 13%
 
 ## 有关此主题的推荐教程
 
-* [创建一次性的审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
+* [创建和管理审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [有效地委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
 
 
 <!--

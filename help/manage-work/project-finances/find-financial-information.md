@@ -24,16 +24,16 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:52:10.607Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 215
-ht-degree: 17%
+source-wordcount: 203
+ht-degree: 16%
 
 ---
 
 # 访问和管理项目和任务的财务信息
 
-此视频介绍如何访问和管理项目和任务的财务信息。 它&#x200B;全面概述了在项目和任务级别导航和了解财务数据。  
+此视频介绍如何访问和管理项目和任务的财务信息。它&#x200B;全面概述了在项目和任务级别导航和了解财务数据。&#x200B;AEM
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415893/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
@@ -49,6 +49,6 @@ ht-degree: 17%
 ## 有关此主题的推荐教程
 
 <!--* [Find financial information](/help/manage-work/project-finances/find-financial-information.md)-->
-* [更新财务](/help/manage-work/project-finances/update-and-review-finances.md)
-* [了解多种计费费率](/help/manage-work/project-finances/multiple-billing-rates.md)
+* [更新客户端项目的财务](/help/manage-work/project-finances/update-and-review-finances.md)
+* [自定义工作角色的记帐费率](/help/manage-work/project-finances/multiple-billing-rates.md)
 

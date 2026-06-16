@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:14:45.915Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 160
-ht-degree: 12%
+source-wordcount: 163
+ht-degree: 9%
 
 ---
 
@@ -34,14 +34,14 @@ ht-degree: 12%
 
 >[!PREREQUISITES]
 >
->* [Canvas 仪表板介绍](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+>* [浏览Workfront中的画布功能板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 
 在创建画布功能板&#x200B;**报告**&#x200B;之前，需要完成的第一件事包括：
 
 * 注册画布功能板测试版，并
 * 创建画布功能板
 
-[画布功能板简介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)将逐步说明如何同时完成这两项操作。
+[在Workfront中探索画布功能板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)会逐步说明如何同时完成这两项操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3474852/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
@@ -51,8 +51,8 @@ ht-degree: 12%
 
 ## 有关此主题的推荐教程
 
-* [Canvas功能板简介](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
+* [探索Workfront中的画布功能板](/help/reporting/canvas-dashboards/introduction-to-canvas-dashboards.md)
 * [在画布功能板上创建图表报告](/help/reporting/canvas-dashboards/create-a-chart-report-on-a-canvas-dashboard.md)
 * [在画布功能板中创建表报告](/help/reporting/canvas-dashboards/create-a-table-report-on-a-canvas-dashboard.md)
 * [向画布功能板报表添加条件格式](/help/reporting/canvas-dashboards/add-conditional-formatting-to-a-canvas-dashboard-report.md)
-* [在画布功能板报表中使用OR过滤器](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)
+* [在画布功能板报告中应用OR过滤器](/help/reporting/canvas-dashboards/use-an-or-filter-in-a-canvas-dashboard-report.md)

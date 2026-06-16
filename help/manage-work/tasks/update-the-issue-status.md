@@ -20,10 +20,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:42.333Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 195
-ht-degree: 14%
+source-wordcount: 199
+ht-degree: 3%
 
 ---
 
@@ -42,7 +42,7 @@ ht-degree: 14%
 
 ## 有关此主题的推荐教程
 
-* [处理规划外的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
-* [将问题/请求转化为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [将问题/请求转化为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
+* [有效处理计划外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [将问题或请求转换为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [将问题或请求转换为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [高效地查找和管理请求](/help/manage-work/issues-requests/find-requests.md)

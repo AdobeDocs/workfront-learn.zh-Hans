@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:14.617Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 58
-ht-degree: 82%
+source-wordcount: 67
+ht-degree: 61%
 
 ---
 
@@ -43,6 +43,6 @@ ht-degree: 82%
 ## 有关此主题的推荐教程
 
 * [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
-* [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
-* [上传资源](/help/manage-work/close-a-project/upload-assets.md)
-* [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [解决任务和问题的审批](/help/manage-work/close-a-project/complete-approvals.md)
+* [上传和管理项目资源](/help/manage-work/close-a-project/upload-assets.md)
+* [记录为未来项目吸取的经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)

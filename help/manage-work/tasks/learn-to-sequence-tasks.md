@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 216
-ht-degree: 6%
+source-wordcount: 179
+ht-degree: 7%
 
 ---
 
@@ -40,16 +40,16 @@ ht-degree: 6%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447330/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 关键要点
+## 要点
 
-* **前置任务定义任务顺序：**&#x200B;前置任务建立任务顺序，确保某些任务在其他任务可以开始之前完成，这对于项目成功至关重要。  
-* **持续时间影响时间线：**&#x200B;任务持续时间设置工作的时间范围并调整开始和完成日期，从而创建对相关任务的级联影响。  
-* **模板简化设置：**&#x200B;可以在项目模板中预先设置前置任务和约束，从而简化任务序列的管理过程。  
-* **手动调整影响约束：**&#x200B;手动设置特定日期将覆盖由持续时间或前置任务更改导致的级联更新。  
+* **前置任务定义任务顺序：**&#x200B;前置任务建立任务顺序，确保某些任务在其他任务可以开始之前完成，这对于项目成功至关重要。&#x200B;AEM
+* **持续时间影响时间线：**&#x200B;任务持续时间设置工作的时间范围并调整开始和完成日期，从而创建对相关任务的级联影响。&#x200B;AEM
+* **模板简化设置：**&#x200B;可以在项目模板中预先设置前置任务和约束，从而简化任务序列的管理过程。&#x200B;AEM
+* **手动调整影响约束：**&#x200B;手动设置特定日期将覆盖由持续时间或前置任务更改导致的级联更新。&#x200B;AEM
 * **实践提高技能：**&#x200B;实践前置任务和持续时间有助于改进项目管理技能，并确保更好地控制时间线。
 
 ## 有关此主题的推荐教程
 
 * [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)
 * [了解规划小时数](/help/manage-work/tasks/understand-planned-hours.md)
-* [了解 [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+* [使用工作投入估计任务小时数](/help/manage-work/tasks/understand-work-effort.md)

@@ -23,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 293
-ht-degree: 8%
+source-wordcount: 290
+ht-degree: 5%
 
 ---
 
@@ -36,18 +36,18 @@ ht-degree: 8%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3423274/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 关键要点
+## 要点
 
-* **讨论区视图概述：** Workfront中的讨论区视图提供了Kanban样式的界面来查看和管理项目任务，这是传统任务列表视图的替代方案。  
-* **任务管理：**&#x200B;可以在列内或列之间对任务进行排序、分组和移动，并在移动任务时自动应用状态更新。  
-* **任务创建：**&#x200B;可以直接在展示板视图中创建新信息卡，该视图在项目中生成新任务。 这&#x200B;些任务可以立即编辑和分配。  
-* **自定义：**&#x200B;可以配置讨论区视图中的列和卡片以满足项目需求，从而提高任务组织的灵活性。  
-* **与任务列表的集成：**&#x200B;在“展示板”视图中所做的更改（如任务状态更新或新任务创建）将反映在任务列表视图中，从而确保视图之间的无缝集成。  
+* **讨论区视图概述：** Workfront中的讨论区视图提供了Kanban样式的界面来查看和管理项目任务，这是传统任务列表视图的替代方案。&#x200B;AEM
+* **任务管理：**&#x200B;可以在列内或列之间对任务进行排序、分组和移动，并在移动任务时自动应用状态更新。&#x200B;AEM
+* **任务创建：**&#x200B;可以直接在展示板视图中创建新信息卡，该视图在项目中生成新任务。这&#x200B;些任务可以立即编辑和分配。&#x200B;AEM
+* **自定义：**&#x200B;可以配置讨论区视图中的列和卡片以满足项目需求，从而提高任务组织的灵活性。&#x200B;AEM
+* **与任务列表的集成：**&#x200B;在“展示板”视图中所做的更改（如任务状态更新或新任务创建）将反映在任务列表视图中，从而确保视图之间的无缝集成。&#x200B;AEM
 
 
 ## 有关此主题的推荐教程
 
-* [开始管理项目](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [管理具有当前状态的项目](/help/manage-work/projects/getting-started-manage-a-project.md)
 * [跟踪项目整体进度](/help/manage-work/projects/track-overall-project-progress.md)
 * [使用项目指标跟踪工作进度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [了解 [!UICONTROL Gantt] 视图](/help/manage-work/projects/understand-the-gantt-view.md)
+* [浏览项目管理的甘特图](/help/manage-work/projects/understand-the-gantt-view.md)

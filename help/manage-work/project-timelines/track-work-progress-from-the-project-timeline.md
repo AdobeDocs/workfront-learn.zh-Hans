@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:39.713Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 73
-ht-degree: 78%
+source-wordcount: 75
+ht-degree: 72%
 
 ---
 
@@ -45,6 +45,6 @@ ht-degree: 78%
 
 ## 有关此主题的推荐教程
 
-* [了解项目时间线](/help/manage-work/project-timelines/understand-project-timelines.md)
+* [浏览Workfront中的项目时间线](/help/manage-work/project-timelines/understand-project-timelines.md)
 * [了解日期类型和进度状态](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
 

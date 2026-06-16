@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:11.134Z'
-source-git-commit: 46fe121a9e8bc6855146ed88db8de6ff6cc37940
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
 source-wordcount: 169
-ht-degree: 27%
+ht-degree: 20%
 
 ---
 
@@ -50,6 +50,6 @@ ht-degree: 27%
 ## 有关此主题的推荐教程
 
 * [导航项目页面](/help/manage-work/projects/navigate-the-project-page.md)
-* [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [填写项目详细信息。](/help/manage-work/projects/fill-in-the-project-details.md)
+* [探索创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
+* [填写基本的项目详细信息](/help/manage-work/projects/fill-in-the-project-details.md)
 

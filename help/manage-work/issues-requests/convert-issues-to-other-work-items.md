@@ -22,10 +22,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:55:57.327Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 240
-ht-degree: 17%
+source-wordcount: 230
+ht-degree: 12%
 
 ---
 
@@ -35,16 +35,16 @@ ht-degree: 17%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3445440/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 关键要点
+## 要点
 
-* **简单转换流程：**&#x200B;要将问题/请求转换为任务，请打开问题，单击三个圆点菜单，然后选择“转换为任务”。 默认情况下&#x200B;，会复制任务名称和描述，但可以对其进行编辑。  
-* **目标项目选择：**&#x200B;您可以选择任务的目标项目，可以是问题所在的默认项目，也可以是您有权访问的其他项目。  
-* **自动表单附件：**&#x200B;与问题关联的自定义表单会自动添加到任务中，确保所有字段值无缝转移。  
+* **简单转换流程：**&#x200B;要将问题/请求转换为任务，请打开问题，单击三个圆点菜单，然后选择“转换为任务”。默认情况下会复制&#x200B;任务名称和描述，但可以编辑。&#x200B;AEM
+* **目标项目选择：**&#x200B;您可以选择任务的目标项目，可以是问题所在的默认项目，也可以是您有权访问的其他项目。&#x200B;AEM
+* **自动表单附件：**&#x200B;与问题关联的自定义表单会自动添加到任务中，确保所有字段值无缝转移。&#x200B;AEM
 * **转换选项：**&#x200B;键选项包括：
-   * 将原始问题与任务一起保持活动状态。  
-   * 允许请求者访问任务。  
-   * 保留问题的任务计划完成日期。  
-* **链接状态更新：**&#x200B;如果保留原始问题，则其状态将根据任务的进度自动更新，从而确保问题和任务之间的同步。  
+   * 将原始问题与任务一起保持活动状态。&#x200B;AEM
+   * 允许请求者访问任务。&#x200B;AEM
+   * 保留问题的任务计划完成日期。&#x200B;AEM
+* **链接状态更新：**&#x200B;如果保留原始问题，则其状态将根据任务的进度自动更新，从而确保问题和任务之间的同步。&#x200B;AEM
 
 
 >[!NOTE]
@@ -53,7 +53,7 @@ ht-degree: 17%
 
 ## 有关此主题的推荐教程
 
-* [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
-* [将问题/请求转化为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [处理规划外的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [高效地查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
+* [将问题或请求转换为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
+* [有效处理计划外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
 

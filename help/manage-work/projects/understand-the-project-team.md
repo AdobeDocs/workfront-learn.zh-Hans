@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:42:45.518Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 217
-ht-degree: 12%
+source-wordcount: 208
+ht-degree: 7%
 
 ---
 
@@ -37,17 +37,17 @@ ht-degree: 12%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3444599/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 关键要点
+## 要点
 
-* **自动团队填充：**&#x200B;当用户被分配任务或指定为项目所有者时，项目团队将自动填充。 但&#x200B;是，在删除用户的工作分配时，不会自动删除用户；必须手动执行此操作。  
-* **手动更新：**&#x200B;您可以手动添加或移除项目团队中的人员，即使他们没有工作分派，以确保团队列表准确且最新。  
-* **集中式通信：**“人员”选项卡允许您向项目级别的所有团队成员发送更新，使其成为整个团队通信的方便工具。  
-* **电子邮件通知：**&#x200B;系统管理员可以为项目团队激活电子邮件通知，例如添加文档、完成的里程碑任务或问题的警报，确保团队成员随时了解最新动态。  
-* **项目参与跟踪：** Workfront使用项目团队确定用户参与的项目，启用按用户参与筛选项目等功能以便更轻松地导航。  
+* **自动团队填充：**&#x200B;当用户被分配任务或指定为项目所有者时，项目团队将自动填充。但&#x200B;是，在删除用户的工作分配时，不会自动删除用户；必须手动执行此操作。&#x200B;AEM
+* **手动更新：**&#x200B;您可以手动添加或移除项目团队中的人员，即使他们没有工作分派，以确保团队列表准确且最新。&#x200B;AEM
+* **集中式通信：**“人员”选项卡允许您向项目级别的所有团队成员发送更新，使其成为整个团队通信的方便工具。&#x200B;AEM
+* **电子邮件通知：**&#x200B;系统管理员可以为项目团队激活电子邮件通知，例如添加文档、完成的里程碑任务或问题的警报，确保团队成员随时了解最新动态。&#x200B;AEM
+* **项目参与跟踪：** Workfront使用项目团队确定用户参与的项目，启用按用户参与筛选项目等功能以便更轻松地导航。&#x200B;AEM
 
 ## 有关此主题的推荐教程
 
-* [开始管理项目](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [查找项目](/help/manage-work/projects/find-projects.md)
-* [共享项目](/help/manage-work/projects/share-a-project.md)
-* [了解项目沟通](/help/manage-work/projects/understand-project-communication.md)
+* [管理具有当前状态的项目](/help/manage-work/projects/getting-started-manage-a-project.md)
+* [高效查找项目](/help/manage-work/projects/find-projects.md)
+* [在Workfront中有效共享项目](/help/manage-work/projects/share-a-project.md)
+* [通过有效的沟通提高项目成功率](/help/manage-work/projects/understand-project-communication.md)

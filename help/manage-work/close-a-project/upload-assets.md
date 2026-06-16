@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:01:02.349Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 81
-ht-degree: 87%
+source-wordcount: 88
+ht-degree: 70%
 
 ---
 
@@ -46,6 +46,6 @@ ht-degree: 87%
 
 * [使用基本工作流上传校样](/help/workfront-proof/upload-proofs/upload-a-proof-with-a-basic-workflow.md)
 * [将项目状态更改为完成](/help/manage-work/projects/change-the-project-status.md)
-* [完成审批](/help/manage-work/close-a-project/complete-approvals.md)
-* [记录经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
-* [记录和审阅时间](/help/manage-work/close-a-project/log-and-review-hours.md)
+* [解决任务和问题的审批](/help/manage-work/close-a-project/complete-approvals.md)
+* [记录为未来项目吸取的经验教训](/help/manage-work/close-a-project/lessons-learned-from-closing-a-project.md)
+* [记录和审查项目小时](/help/manage-work/close-a-project/log-and-review-hours.md)

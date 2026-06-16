@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:48:54.364Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 700
-ht-degree: 76%
+source-wordcount: 643
+ht-degree: 80%
 
 ---
 
@@ -47,11 +47,11 @@ ht-degree: 76%
 
 ## 要点
 
-* **任务管理和分配：**&#x200B;父任务将多个子任务分组，这些子任务将分配给工作角色，以后将分配给具有必要技能的用户。 前置任务&#x200B;指示顺序关系，而无前置任务的任务可以并行完成。  
-* **甘特图和关键路径：**&#x200B;甘特图提供了项目的可视时间线，而关键路径功能突出显示了在任务打滑时可能延迟项目的任务。  
-* **视图和监测：** Workfront 中的不同视图，例如用于规划的标准视图以及用于监测的状态视图，其中包括进度、评论、文档、问题、审批、关键路径和里程碑的标志。 也可以跟踪最近的活动。  
-* **计划选项：**&#x200B;项目可以从开始日期或完成日期开始计划，Workfront会根据任务持续时间和前置任务计算相应的日期。 建议对关键完成日期从开始日期&#x200B;进行计划，以允许一些宽限。  
-* **任务限制：**&#x200B;任务限制（如“尽快”和“尽可能迟”）会影响任务计划。 在项目创建后更改计划模式&#x200B;可能会影响任务限制和计划日期。 可创建&#x200B;自定义视图以显示任务限制。  
+* **任务管理和分配：**&#x200B;父任务将多个子任务分组，这些子任务将分配给工作角色，以后将分配给具有必要技能的用户。前置任务&#x200B;指示顺序关系，而无前置任务的任务可以并行完成。&#x200B;AEM
+* **甘特图和关键路径：**&#x200B;甘特图提供了清晰可见的项目时间线，而关键路径功能则突出显示了可能因延误而导致项目延迟的任务。
+* **视图和监控：** Workfront中的各种视图，如规划的标准视图和监控的状态视图，包括进度、注释、文档、问题、审批、关键路径和里程碑的标志。也可以跟踪最近的活动。&#x200B;AEM
+* **计划选项：**&#x200B;项目可以从开始日期或完成日期开始计划，Workfront会根据任务持续时间和前置任务计算相应的日期。建议对关键完成日期从开始日期&#x200B;进行计划，以允许一些宽限。&#x200B;AEM
+* **任务限制：**&#x200B;任务限制（如“尽快”和“尽可能迟”）会影响任务计划。在项目创建后更改计划模式&#x200B;可能会影响任务限制和计划日期。可创建&#x200B;自定义视图以显示任务限制。&#x200B;AEM
 
 
 ## 更改或不更改项目时间线上的日期……
@@ -63,7 +63,7 @@ ht-degree: 76%
 
 ## 有关此主题的推荐教程
 
-* [从项目时间线跟踪进度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
+* [使用完成百分比和进度状态跟踪进度](/help/manage-work/project-timelines/track-work-progress-from-the-project-timeline.md)
 * [了解日期类型和进度状态](/help/manage-work/project-timelines/understand-task-dates-and-progress-status.md)
-* [了解和管理持续时间类型和任务限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
+* [主持续时间类型和任务限制](/help/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.md)
 

@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:04:22.081Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 422
-ht-degree: 5%
+source-wordcount: 245
+ht-degree: 6%
 
 ---
 
 # 有效地委派任务、问题和审批
 
-此视频介绍如何委派任务、问题和审批。 要&#x200B;启用委派，系统管理员或组管理员必须在项目偏好设置下的设置中激活该功能。 启用&#x200B;后，用户可以使用“我的任务”小组件中的“委派”按钮，在指定时间段内将其所有任务和问题委派给其他人。 委&#x200B;派同时适用于任务和问题，并且必须分配给同一个人。 无论是否设置结束日期，&#x200B;委托都可以设置，并且用户可以随时手动停止委托。  
-对于批准，用户可以通过“等待我的批准”构件委托他们。 委派&#x200B;适用于指定时间段内的现有审批和新审批，但仅适用于项目、任务和问题，不适用于文档、验证或时间表。 管理员可以启用委托任务、问题和审批的&#x200B;通知，以通知委托人和被委托人。  
-委托的审批将在系统中进行标记，显示委托人的身份以及收件人。 与批准相关的&#x200B;更新将显示在“更新”选项卡中，并且可以在“系统活动”选项卡中查看系统活动。  
+此视频介绍如何委派任务、问题和审批。要&#x200B;启用委派，系统管理员或组管理员必须在项目偏好设置下的设置中激活该功能。启用&#x200B;后，用户可以使用“我的任务”小组件中的“委派”按钮，在指定时间段内将其所有任务和问题委派给其他人。委&#x200B;派同时适用于任务和问题，并且必须分配给同一个人。无论是否设置结束日期，&#x200B;委托都可以设置，并且用户可以随时手动停止委托。&#x200B;AEM
+对于批准，用户可以通过“等待我的批准”构件委托他们。委派&#x200B;适用于指定时间段内的现有审批和新审批，但仅适用于项目、任务和问题，不适用于文档、验证或时间表。管理员可以启用委托任务、问题和审批的&#x200B;通知，以通知委托人和被委托人。&#x200B;AEM
+委托的审批将在系统中进行标记，显示委托人的身份以及收件人。与批准相关的&#x200B;更新将显示在“更新”选项卡中，并且可以在“系统活动”选项卡中查看系统活动。&#x200B;AEM
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446386/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
@@ -52,6 +52,6 @@ ht-degree: 5%
 ## 有关此主题的推荐教程
 
 * [设置事件通知](/help/administration-and-setup/email-and-in-app-notifications/admin-set-up-event-notifications.md)
-* [创建全局和一次性审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
+* [创建和管理审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
 * [了解特定于群组的审批流程](/help/administration-and-setup/approval-processes-and-milestone-paths/group-specific-approval-processes.md)
 

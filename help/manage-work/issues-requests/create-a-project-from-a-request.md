@@ -25,10 +25,10 @@ level_v2:
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
 autotag-review: '2026-05-06T14:56:14.583Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
 workflow-type: tm+mt
-source-wordcount: 227
-ht-degree: 9%
+source-wordcount: 176
+ht-degree: 3%
 
 ---
 
@@ -38,18 +38,18 @@ ht-degree: 9%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446632/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 关键要点
+## 要点
 
-* **转换流程：**&#x200B;要将问题或请求转换为项目，请选择问题，使用三个点菜单，然后选择转换选项，最好使用模板。  
-* **模板选择：**&#x200B;为保持一致性和简便性，建议使用模板。 您&#x200B;可以根据项目要求查看和选择相应的模板。  
-* **项目详细信息：**&#x200B;默认情况下，项目名称和描述是从问题中复制的，但可以编辑。 问题中的&#x200B;自定义表单也会转移到项目中。  
-* **问题解决方案：**&#x200B;您可以选择将原始问题与项目绑定，防止在项目完成前将其标记为已解决。 或者，&#x200B;可以在转换时删除问题。  
-* **访问和可见性：**&#x200B;您可以向请求者授予对项目的访问权限。 已转换的项目&#x200B;将显示在“已转换为”列中，指示它是否已转换为任务或项目。  
+* **转换流程：**&#x200B;要将问题或请求转换为项目，请选择问题，使用三个点菜单，然后选择转换选项，最好使用模板。&#x200B;AEM
+* **模板选择：**&#x200B;为保持一致性和简便性，建议使用模板。您&#x200B;可以根据项目要求查看和选择相应的模板。&#x200B;AEM
+* **项目详细信息：**&#x200B;默认情况下，项目名称和描述是从问题中复制的，但可以编辑。问题中的&#x200B;自定义表单也会转移到项目中。&#x200B;AEM
+* **问题解决方案：**&#x200B;您可以选择将原始问题与项目绑定，防止在项目完成前将其标记为已解决。或者，&#x200B;可以在转换时删除问题。&#x200B;AEM
+* **访问和可见性：**&#x200B;您可以向请求者授予对项目的访问权限。已转换的项目&#x200B;将显示在“已转换为”列中，指示它是否已转换为任务或项目。&#x200B;AEM
 
 
 ## 有关此主题的推荐教程
 
-* [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
-* [将问题/请求转化为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
-* [处理规划外的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+* [高效地查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
+* [将问题或请求转换为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+* [有效处理计划外工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
 
