@@ -35,7 +35,7 @@ ht-degree: 15%
 
 在这段视频中，您将学习某些快速而简便的查找项目的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/3427788/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439558/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 

@@ -44,7 +44,7 @@ ht-degree: 59%
 * **文档部分：**&#x200B;允许上载和管理项目相关的文件和校样。附加到任务的&#x200B;文档会汇总到项目级别以便轻松访问。&#x200B;AEM
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335085/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449736/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
