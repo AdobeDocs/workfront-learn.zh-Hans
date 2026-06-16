@@ -49,4 +49,4 @@ ht-degree: 62%
 
 * [查看项目中的里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [将里程碑路径应用于项目和任务](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [创建基本视图中的里程碑视图活动](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+* [创建基本视图中的里程碑视图活动](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)

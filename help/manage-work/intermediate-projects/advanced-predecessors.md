@@ -49,8 +49,8 @@ ht-degree: 75%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424287/?quality=12&learn=on&enablevpops=1)
 
-有关使用前置任务的更多信息，请参阅[使用前置任务](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html)。
+有关使用前置任务的更多信息，请参阅[使用前置任务](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/use-task-predecessors/use-task-predecessors.html?lang=zh-Hans)。
 
-有关任务约束的详细信息，请参阅[主持续时间类型和任务约束](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)。
+有关任务约束的详细信息，请参阅[主持续时间类型和任务约束](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hans)。
 
-有关跨项目前置任务的详细信息，请参阅[建立与跨项目前置任务的依赖关系](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html)。
+有关跨项目前置任务的详细信息，请参阅[建立与跨项目前置任务的依赖关系](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-cross-project-predecessors.html?lang=zh-Hans)。
