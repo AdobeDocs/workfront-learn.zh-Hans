@@ -35,7 +35,7 @@ ht-degree: 8%
 
 此视频介绍通过将项目状态更改为“当前”而让项目上线的最后步骤。在执行&#x200B;此操作之前，它将重点审查关键项目元素，包括任务名称、持续时间、计划小时数、前置任务、开始和完成日期以及分配，以确保所有内容都准确且设置正确。项目上线&#x200B;后，项目经理将收到基于全局设置和个人设置的通知，并且项目将显示在活动项目的报告和过滤器中。这&#x200B;标志着这项工作的正式开始。&#x200B;AEM
 
->[!VIDEO](https://video.tv.adobe.com/v/335093/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439002/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
