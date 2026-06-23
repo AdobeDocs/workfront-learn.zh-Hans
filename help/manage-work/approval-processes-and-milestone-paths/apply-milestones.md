@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T15:57:57.918Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 03d522789acef5234d60733543ad10bf4bb8e092
 workflow-type: tm+mt
 source-wordcount: 124
 ht-degree: 62%
@@ -50,3 +50,4 @@ ht-degree: 62%
 * [查看项目中的里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
 * [将里程碑路径应用于项目和任务](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
 * [创建基本视图中的里程碑视图活动](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-2-create-a-milestone-view)
+
