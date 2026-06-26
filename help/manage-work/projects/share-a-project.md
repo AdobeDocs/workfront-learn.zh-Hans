@@ -12,18 +12,13 @@ last-substantial-update: '2023-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 exl-id: 22bd2dd6-68a1-4f4e-b581-66dfbca0464c
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:45:21.983Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 362
 ht-degree: 3%
@@ -47,8 +42,8 @@ ht-degree: 3%
 
 **批量共享和模板共享：**
 
-* 批量编辑允许共享多个项目的调整。&#x200B;AEM
-* 可在项目模板中预配置共享设置以节省时间。&#x200B;AEM
+* 批量编辑允许共享多个项目的调整。 &#x200B;
+* 可在项目模板中预配置共享设置以节省时间。 &#x200B;
 
 **系统默认值：**
 
@@ -56,15 +51,15 @@ ht-degree: 3%
 
 此视频重点介绍如何使用团队和模板来高效地共享管理，并重点介绍管理员在自定义共享偏好设置方面的作用。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423145/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418904/?quality=12&learn=on&enablevpops=1)
 
-## 要点
+## 关键要点
 
-* **自动访问权限：** Workfront会根据角色（例如，项目创建者、工作人员、发起人和资源经理）自动分配适当的访问权限，以简化共享。&#x200B;AEM
-* **灵活的共享选项：**&#x200B;项目可与个人、团队、工作角色、组或公司共享，并且权限可通过项目组合或项目组合继承。&#x200B;AEM
-* **高效的团队管理：**&#x200B;在团队中添加或删除成员会自动更新其跨共享对象的访问权限，从而使基于团队的共享成为最简单的方法。&#x200B;AEM
-* **模板共享：**&#x200B;在项目模板中预配置共享设置可确保使用该模板创建的所有项目具有一致的访问权限，从而节省时间。&#x200B;AEM
-* **可自定义的系统默认值：**&#x200B;系统管理员可以修改默认共享设置，例如向分配任务的团队成员授予参与者权限，以便与组织首选项保持一致。&#x200B;AEM
+* **自动访问权限：** Workfront会根据角色（例如，项目创建者、工作人员、发起人和资源经理）自动分配适当的访问权限，以简化共享。 &#x200B;
+* **灵活的共享选项：**&#x200B;项目可与个人、团队、工作角色、组或公司共享，并且权限可通过项目组合或项目组合继承。 &#x200B;
+* **高效的团队管理：**&#x200B;在团队中添加或删除成员会自动更新其跨共享对象的访问权限，从而使基于团队的共享成为最简单的方法。 &#x200B;
+* **模板共享：**&#x200B;在项目模板中预配置共享设置可确保使用该模板创建的所有项目具有一致的访问权限，从而节省时间。 &#x200B;
+* **可自定义的系统默认值：**&#x200B;系统管理员可以修改默认共享设置，例如向分配任务的团队成员授予参与者权限，以便与组织首选项保持一致。 &#x200B;
 
 
 ## 有关此主题的推荐教程
@@ -73,4 +68,5 @@ ht-degree: 3%
 * [高效查找项目](/help/manage-work/projects/find-projects.md)
 * [了解项目团队](/help/manage-work/projects/understand-the-project-team.md)
 * [通过有效的沟通提高项目成功率](/help/manage-work/projects/understand-project-communication.md)
+
 
