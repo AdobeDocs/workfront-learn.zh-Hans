@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:57:33.461Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
 workflow-type: tm+mt
 source-wordcount: 257
 ht-degree: 74%
@@ -49,3 +49,4 @@ ht-degree: 74%
 >[!VIDEO](https://video.tv.adobe.com/v/3422832/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 要了解如何创建视频中使用的&#x200B;**跨项目前置任务和后置任务**&#x200B;视图以及&#x200B;**跨项目前置任务和后置任务**&#x200B;报告，请参阅[在Workfront中浏览视图的基本文本模式](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/basic-text-mode-for-views.html?lang=zh-Hans)教程，并确保根据需要参加其中列出的先决教程。
+
