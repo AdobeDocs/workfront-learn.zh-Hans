@@ -38,7 +38,7 @@ ht-degree: 6%
 在此过程中不能直接复制问题，因为它们不被视为计划工作。 要&#x200B;复制问题，请转到问题选项卡，选择所需的问题，并使用“复制到”选项将它们转移到新项目。 
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3456037/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3456048/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

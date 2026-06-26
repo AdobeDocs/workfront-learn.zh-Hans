@@ -42,7 +42,7 @@ ht-degree: 10%
 
 此视频强调审阅和批准工作的灵活性，并提供了添加注释和指定所需更改的选项。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/335108/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3444956/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
