@@ -36,7 +36,7 @@ ht-degree: 6%
 此视频介绍如何使用前置任务和持续时间对Workfront中的任务进行排序以有效地管理项目时间线。该视频演示了如何为新任务设置前置任务，确保顺序顺序和准确的开始日期。它&#x200B;强调了与前置任务一起实践的重要性，以了解它们对项目时间线的影响，并建议使用持续时间和前置任务以实现高效的项目规划。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447330/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

@@ -36,7 +36,7 @@ ht-degree: 6%
 此视频介绍Workfront中的任务持续时间，它们对任务开始和完成日期的影响、项目时间线，以及有效使用持续时间的最佳实践。Workfront建议使用持续时间和前置任务来建立任务时间线，而不是手动设置约束，因为约束可以防止自动调整。准确&#x200B;的持续时间对于有效的项目规划和资源管理至关重要。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449353/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

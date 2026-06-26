@@ -36,7 +36,7 @@ ht-degree: 5%
 
 此视频介绍Workfront中请求队列的概念、用途以及如何提交和管理请求。 请求&#x200B;队列用作提交各种类型请求的集中位置。 
 
->[!VIDEO](https://video.tv.adobe.com/v/335220/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3447020/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

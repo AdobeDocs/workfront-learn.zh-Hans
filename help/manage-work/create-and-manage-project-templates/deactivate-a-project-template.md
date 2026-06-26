@@ -38,7 +38,7 @@ ht-degree: 68%
 * 如何共享项目模板并授予激活和停用该模板的权限。
 * 如何激活和停用项目模板。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426779/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445000/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
