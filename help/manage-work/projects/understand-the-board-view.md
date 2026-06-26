@@ -12,20 +12,15 @@ last-substantial-update: '2024-02-13T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-13743
 exl-id: f28cbb99-ef14-4ef2-96c8-d5e01d609ede
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:43:17.788Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 290
+source-wordcount: 298
 ht-degree: 5%
 
 ---
@@ -34,15 +29,15 @@ ht-degree: 5%
 
 此视频介绍了Workfront中的展示板查看功能，该功能提供了查看和管理项目任务的替代方式。 在“展示板”视图&#x200B;中，任务在Kanban样式的展示板上显示为卡片，允许用户在列内或列之间排序、分组和移动任务。 移动&#x200B;任务会自动更新其状态，这反映在任务列表视图中。 用户&#x200B;可以创建新信息卡，这些信息卡在项目中生成新任务，并直接在展示板视图中编辑或分配它们。 可以配置&#x200B;列和卡片，并且可以使用任务列表视图中的前置任务对任务进行排序。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423274/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3422430/?quality=12&learn=on&enablevpops=1)
 
-## 要点
+## 关键要点
 
-* **讨论区视图概述：** Workfront中的讨论区视图提供了Kanban样式的界面来查看和管理项目任务，这是传统任务列表视图的替代方案。&#x200B;AEM
-* **任务管理：**&#x200B;可以在列内或列之间对任务进行排序、分组和移动，并在移动任务时自动应用状态更新。&#x200B;AEM
-* **任务创建：**&#x200B;可以直接在展示板视图中创建新信息卡，该视图在项目中生成新任务。这&#x200B;些任务可以立即编辑和分配。&#x200B;AEM
-* **自定义：**&#x200B;可以配置讨论区视图中的列和卡片以满足项目需求，从而提高任务组织的灵活性。&#x200B;AEM
-* **与任务列表的集成：**&#x200B;在“展示板”视图中所做的更改（如任务状态更新或新任务创建）将反映在任务列表视图中，从而确保视图之间的无缝集成。&#x200B;AEM
+* **讨论区视图概述：** Workfront中的讨论区视图提供了Kanban样式的界面来查看和管理项目任务，这是传统任务列表视图的替代方案。 &#x200B;
+* **任务管理：**&#x200B;可以在列内或列之间对任务进行排序、分组和移动，并在移动任务时自动应用状态更新。 &#x200B;
+* **任务创建：**&#x200B;可以直接在展示板视图中创建新信息卡，该视图在项目中生成新任务。 这&#x200B;些任务可以立即编辑和分配。 
+* **自定义：**&#x200B;可以配置讨论区视图中的列和卡片以满足项目需求，从而提高任务组织的灵活性。 &#x200B;
+* **与任务列表的集成：**&#x200B;在“展示板”视图中所做的更改（如任务状态更新或新任务创建）将反映在任务列表视图中，从而确保视图之间的无缝集成。 &#x200B;
 
 
 ## 有关此主题的推荐教程
@@ -51,3 +46,4 @@ ht-degree: 5%
 * [跟踪项目整体进度](/help/manage-work/projects/track-overall-project-progress.md)
 * [使用项目指标跟踪工作进度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
 * [浏览项目管理的甘特图](/help/manage-work/projects/understand-the-gantt-view.md)
+

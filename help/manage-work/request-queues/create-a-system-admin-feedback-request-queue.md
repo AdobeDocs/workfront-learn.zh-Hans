@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-14864
 doc-type: video
 exl-id: bef0ba6b-6c29-46ec-ae0d-c54f5609ff5f
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: c10f2e93-7a58-4212-aa24-684c265ebe76
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: c10f2e93-7a58-4212-aa24-684c265ebe76
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 30%
+source-wordcount: 431
+ht-degree: 25%
 
 ---
 
@@ -35,14 +30,11 @@ ht-degree: 30%
 
 >[!PREREQUISITES]
 >
->* [在Workfront中创建请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html?lang=zh-Hans)
->* [在Workfront中创建请求流](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hans)
+>* [在Workfront中创建请求队列](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-queue.html)
+>* [在Workfront中创建请求流](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html)
 >* 或者您已经熟悉如何创建使用路由规则和自定义表单的请求队列。
 
-此视频分步介绍了如何为系统管理员创建反馈请求队列。
-队列&#x200B;的目的是收集用户对系统管理员创建的流程和工作流的反馈，从而进行改进和优化。
-该视频强调了用户参与和透明度在流程改进中的重要性，鼓励管理员与用户分享反馈报告。
-提供了指&#x200B;向创建报告和自定义表单教程的链接，以便提供进一步的指导。
+此视频分步介绍了如何为系统管理员创建反馈请求队列。队列&#x200B;的目的是收集用户对系统管理员创建的流程和工作流的反馈，从而进行改进和优化。该视频强调了用户参与和透明度在流程改进中的重要性，鼓励管理员与用户分享反馈报告。提供了指&#x200B;向创建报告和自定义表单教程的链接，以便提供进一步的指导。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
@@ -56,10 +48,11 @@ ht-degree: 30%
 * **测试和辅助功能：**&#x200B;使用示例请求测试队列，确保正常运行。 它是作为帮助请求队列发布的，可供所有用户访问，默认完成时间为10天。
 
 
-要了解如何创建视频中使用的&#x200B;**管理员团队反馈报告**，请参阅[创建任务报告](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)教程中的&#x200B;**创建管理员团队反馈报告**&#x200B;活动。
+要了解如何创建视频中使用的&#x200B;**管理员团队反馈报告**，请参阅[创建任务报告](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report#activity-2-create-an-admin-team-feedback-report)教程中的&#x200B;**创建管理员团队反馈报告**&#x200B;活动。
 
-要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html?lang=zh-Hans)教程。
+要了解如何创建自定义表单，请参阅[创建和共享自定义表单](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-creating-and-sharing-a-custom-form.html)教程。
 
 ## 有关此主题的推荐教程
 
 * [有关请求队列的常见问题解答](/help/manage-work/request-queues/request-queue-faq.md)
+

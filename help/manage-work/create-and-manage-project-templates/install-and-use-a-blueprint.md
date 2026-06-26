@@ -12,7 +12,7 @@ recommendations: noDisplay,catalog
 jira: KT-20314
 doc-type: video
 exl-id: 5f1620a2-a8a1-4f62-8038-86f4f6fc05d6
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
 source-wordcount: '172'
 ht-degree: 45%
@@ -24,7 +24,7 @@ ht-degree: 45%
 了解管理员如何安装Blueprint以及用户如何将其投入使用。 在此示例中，我们将安装“面向新用户的Workfront培训”Blueprint，并使用其创建的模板和视图作为培训核对清单来帮助启用Workfront中的用户。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3479845/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/3479833/?quality=12&learn=on&enablevpops=0)
 
 ## 关键要点
 
@@ -41,3 +41,4 @@ ht-degree: 45%
 * [高效地复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [在模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+

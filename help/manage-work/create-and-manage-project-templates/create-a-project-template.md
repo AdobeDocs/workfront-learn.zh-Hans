@@ -13,21 +13,16 @@ recommendations: noDisplay,catalog
 jira: KT-8950
 exl-id: 1f706148-c001-42a8-a675-48e91d445f0b
 doc-type: video
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-level_v2:
-  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T15:00:48.755Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 511
-ht-degree: 67%
+source-wordcount: 622
+ht-degree: 56%
 
 ---
 
@@ -38,19 +33,19 @@ ht-degree: 67%
 
 ## 创建项目模板
 
-* 此视频提供了有关创建和使用用于营销视频制作的模板的分步指南。首先，它解释了如何从头开始创建新模板、命名并保存它。该过程&#x200B;包括三个主要步骤：创建任务、使用持续时间和前置任务设置时间线，以及向工作角色而非单个用户分配任务。该视频&#x200B;强调使用父子关系来组织任务，以便更好地总结和效率。&#x200B;AEM
-* 创建模板后，便可用于生成新项目。此视频演示了如何从模板创建新项目、进行必要的调整，以及根据需要添加任务或修改持续时间。此外&#x200B;，还介绍了如何使用资源计划和计划功能将工作角色分配给任务。&#x200B;AEM
-* 此视频介绍如何将现有项目另存为新模板，以便在工作流中进行更新和改进。它&#x200B;强调了管理模板以避免混乱并确保简化项目执行的重要性。&#x200B;AEM
+* 该视频提供了有关创建和使用营销视频制作模板的分步指南。 首先，它解释了如何从头开始创建新模板、命名并保存它。 该过程&#x200B;包括三个主要步骤：创建任务、使用持续时间和前置任务设置时间线，以及向工作角色而非单个用户分配任务。 该视频&#x200B;强调使用父子关系来组织任务，以便更好地总结和效率。 
+* 创建模板后，就可以使用它来制作新的项目。 此视频演示了如何从模板创建新项目、进行必要的调整，以及根据需要添加任务或修改持续时间。 此外&#x200B;，还介绍了如何使用资源计划和计划功能将工作角色分配给任务。 
+* 此视频介绍如何将现有项目另存为新模板，以便在工作流中进行更新和改进。 它&#x200B;强调了管理模板以避免混乱并确保简化项目执行的重要性。 
 
->[!VIDEO](https://video.tv.adobe.com/v/3415442/?captions=chi_hans&quality=12&learn=on&enablevpops=0)
+>[!VIDEO](https://video.tv.adobe.com/v/335210/?quality=12&learn=on&enablevpops=0)
 
-## 要点
+## 关键要点
 
-* **创建模板：**&#x200B;了解如何通过命名新模板、设置任务、时间线以及分配工作角色从头开始创建新模板。&#x200B;AEM
-* **任务组织：**&#x200B;使用父子任务关系高效地组织任务，为项目提供清晰的摘要和结构。&#x200B;AEM
-* **时间线设置：**&#x200B;使用持续时间和前置任务设置任务时间线，以准确估计时间范围和任务序列。&#x200B;AEM
-* **基于角色的分配：**&#x200B;将任务分配给工作角色而不是单个用户，以有效利用资源计划和规划功能。&#x200B;AEM
-* **模板管理：**&#x200B;将现有项目另存为新的模板以纳入改进内容，管理模板以避免混淆并确保能够高效地执行项目。&#x200B;
+* **创建模板：**&#x200B;了解如何通过命名新模板、设置任务、时间线以及分配工作角色从头开始创建新模板。 &#x200B;
+* **任务组织：**&#x200B;使用父子任务关系高效地组织任务，为项目提供清晰的摘要和结构。 &#x200B;
+* **时间线设置：**&#x200B;使用持续时间和前置任务设置任务时间线，以准确估计时间范围和任务序列。 &#x200B;
+* **基于角色的分配：**&#x200B;将任务分配给工作角色而不是单个用户，以有效利用资源计划和规划功能。 &#x200B;
+* **模板管理：**&#x200B;将现有项目另存为新模板，以合并改进和管理模板，从而避免混淆并确保高效的项目执行。 &#x200B;
 
 
 ## 使用 [!UICONTROL Blueprints] 创建的模板
@@ -82,3 +77,4 @@ Workfront 用户可以使用 [!UICONTROL Blueprints] 来帮助构建项目模板
 * [高效地复制现有项目](/help/manage-work/manage-projects/copy-an-existing-project.md)
 * [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
 * [在模板中编辑项目团队](/help/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.md)
+
