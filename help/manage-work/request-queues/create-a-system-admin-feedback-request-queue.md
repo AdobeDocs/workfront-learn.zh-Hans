@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:41:28.128Z'
-source-git-commit: f0f541bf3fd6db69e6d813cf81456a5df6848d49
+source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 30%
+source-wordcount: 431
+ht-degree: 25%
 
 ---
 
@@ -39,10 +39,7 @@ ht-degree: 30%
 >* [在Workfront中创建请求流](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/request-queues/create-a-request-flow.html?lang=zh-Hans)
 >* 或者您已经熟悉如何创建使用路由规则和自定义表单的请求队列。
 
-此视频分步介绍了如何为系统管理员创建反馈请求队列。
-队列&#x200B;的目的是收集用户对系统管理员创建的流程和工作流的反馈，从而进行改进和优化。
-该视频强调了用户参与和透明度在流程改进中的重要性，鼓励管理员与用户分享反馈报告。
-提供了指&#x200B;向创建报告和自定义表单教程的链接，以便提供进一步的指导。
+此视频分步介绍了如何为系统管理员创建反馈请求队列。队列&#x200B;的目的是收集用户对系统管理员创建的流程和工作流的反馈，从而进行改进和优化。该视频强调了用户参与和透明度在流程改进中的重要性，鼓励管理员与用户分享反馈报告。提供了指&#x200B;向创建报告和自定义表单教程的链接，以便提供进一步的指导。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427124/?quality=12&learn=on&enablevpops=0)
@@ -63,3 +60,4 @@ ht-degree: 30%
 ## 有关此主题的推荐教程
 
 * [有关请求队列的常见问题解答](/help/manage-work/request-queues/request-queue-faq.md)
+
