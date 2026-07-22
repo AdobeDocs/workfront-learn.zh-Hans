@@ -6,7 +6,7 @@ thumbnail: how-to-create-tasks.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-15T00:00:00.000Z'
+last-substantial-update: '2026-07-21T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10151
 exl-id: 68102c46-80be-4255-89b8-38022d421c6c
@@ -21,7 +21,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:39:08.728Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 8c436898c1fe507bafb41dfefba4727cf52e9f1a
 workflow-type: tm+mt
 source-wordcount: 204
 ht-degree: 6%
@@ -38,9 +38,9 @@ ht-degree: 6%
 ## 要点
 
 * **任务创建方法：**&#x200B;使用“新建任务”按钮创建详细的任务，或使用“添加更多任务”按钮快速内联编辑。
-* **必填字段：**&#x200B;只有任务名称是必填字段；描述、持续时间和分配等其他字段是可选字段，可以稍后添加。 &#x200B;
+* **必填字段：**&#x200B;只有任务名称是必填字段；描述、持续时间和分配等其他字段是可选字段，可以稍后添加。&#x200B;AEM
 * **重新定位任务：**&#x200B;任务已添加到列表底部，但可以通过拖动或使用“凸排”选项调整层次结构来重新定位。
-* **自定义视图：**&#x200B;可以选择不同的视图，以便在添加任务时包含其他字段，例如描述。 &#x200B;
+* **自定义视图：**&#x200B;可以选择不同的视图，以便在添加任务时包含其他字段，例如描述。&#x200B;AEM
 * **在特定位置插入任务：**&#x200B;在现有任务之间单击鼠标右键并选择“在下面插入任务”以将新任务置于特定位置。
 
 
