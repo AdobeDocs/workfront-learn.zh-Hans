@@ -36,7 +36,7 @@ ht-degree: 15%
 此视频介绍了在项目计划中分配任务的各种方法。 它强调使用过滤器、模板和资源管理功能等工具来简化任务分配和优化项目工作流。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445754/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 要点
 
