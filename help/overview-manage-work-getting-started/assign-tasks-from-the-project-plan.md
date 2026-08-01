@@ -43,7 +43,7 @@ ht-degree: 100%
 * 在分配任务时了解项目模板的价值
 * 了解向团队分配任务的价值
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445754/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more urls:
