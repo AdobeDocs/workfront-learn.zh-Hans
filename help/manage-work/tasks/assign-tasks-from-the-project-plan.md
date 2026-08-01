@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-05-23T00:00:00.000Z'
+last-substantial-update: '2026-07-29T00:00:00.000Z'
 jira: KT-8779
 recommendations: noDisplay,catalog
 exl-id: 14b893d4-e3bb-4e5d-a06b-99b744ad6b61
@@ -24,10 +24,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:38:57.192Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 1127abea85995e915397d3a7a6de9f567fb88f1b
 workflow-type: tm+mt
-source-wordcount: 219
-ht-degree: 13%
+source-wordcount: 189
+ht-degree: 15%
 
 ---
 
@@ -36,15 +36,15 @@ ht-degree: 13%
 此视频介绍了在项目计划中分配任务的各种方法。 它强调使用过滤器、模板和资源管理功能等工具来简化任务分配和优化项目工作流。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3445754/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
-## 关键要点
+## 要点
 
-* **快速分配的内联编辑：**&#x200B;通过键入名称并从列表中进行选择，轻松分配任务，并具有预先键入功能以加快选择速度。  
-* **为提高效率批量编辑：**&#x200B;通过选择任务、使用批量编辑并从列表中选择名称，将多个任务分配给同一个人。  
-* **简化分配的工作角色：**&#x200B;使用工作角色促进任务分配，尤其是使用项目模板。 工&#x200B;作角色在资源管理和能力规划中单独记录。  
-* **Collaboration的团队分配：**&#x200B;通过选择带有团队图标的团队名称将任务分配给团队。 团队成员&#x200B;可以自行分配任务，或者团队负责人可以重新分配任务，同时保留团队名称以用于报告。  
-* **资源管理集成：**&#x200B;工作角色和团队分配支持资源容量和可用性计算，增强了项目规划和执行。  
+* **快速分配的内联编辑：**&#x200B;通过键入名称并从列表中进行选择，轻松分配任务，并具有预先键入功能以加快选择速度。&#x200B;AEM
+* **为提高效率批量编辑：**&#x200B;通过选择任务、使用批量编辑并从列表中选择名称，将多个任务分配给同一个人。&#x200B;AEM
+* **简化分配的工作角色：**&#x200B;使用工作角色促进任务分配，尤其是使用项目模板。工&#x200B;作角色在资源管理和能力规划中单独记录。&#x200B;AEM
+* **Collaboration的团队分配：**&#x200B;通过选择带有团队图标的团队名称将任务分配给团队。团队成员&#x200B;可以自行分配任务，或者团队负责人可以重新分配任务，同时保留团队名称以用于报告。&#x200B;AEM
+* **资源管理集成：**&#x200B;工作角色和团队分配支持资源容量和可用性计算，增强了项目规划和执行。&#x200B;AEM
 
 
 ## 有关此主题的推荐教程
