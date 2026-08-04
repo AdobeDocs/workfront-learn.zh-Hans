@@ -35,7 +35,7 @@ ht-degree: 3%
 此视频介绍如何在Workfront中创建和使用过滤器，以根据特定条件自定义列表报表。 利用&#x200B;过滤器，用户可通过定义条件来缩小列表，例如任务、项目或文档。 仅&#x200B;符合筛选条件且可供登录用户访问的项将显示在列表中。 &#x200B;
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335151/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3431681/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
