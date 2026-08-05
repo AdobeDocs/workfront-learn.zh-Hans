@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。
-source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: '2619'
+source-wordcount: '2621'
 ht-degree: 74%
 
 ---
@@ -525,7 +525,7 @@ ht-degree: 74%
     + [自定义 [!DNL Workfront DAM]](/help/workfront-dam/system-setup/system-setup-customize-workfront-dam.md)
 
   + 元数据和关键词 {#metadata-and-keywords}
-    + [了解元数据](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
+    + [元数据和关键字简介](/help/workfront-dam/metadata-and-keywords/metadata-introduction.md)
     + [启用并强制执行关键词分类](/help/workfront-dam/metadata-and-keywords/enable-and-enforce-keyword-taxonomy.md)
     + [查看元数据术语](/help/workfront-dam/metadata-and-keywords/review-the-terminology.md)
     + [使用元数据和关键词搜索资源](/help/workfront-dam/metadata-and-keywords/search-for-assets.md)

@@ -1,6 +1,6 @@
 ---
-title: 了解元数据
-description: 了解《[!UICONTROL Workfront DAM] 管理员，第 2 部分 元数据和关键词》课程中会涵盖的内容。
+title: 元数据和关键字简介
+description: 元数据是用于描述资源的所有数据。 关键字是元数据的子集，包含有关资源内容的描述性术语。
 activity: use
 feature: Digital Content and Documents
 type: Tutorial
@@ -21,14 +21,14 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T01:57:17.963Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
 workflow-type: tm+mt
-source-wordcount: 119
-ht-degree: 100%
+source-wordcount: 135
+ht-degree: 82%
 
 ---
 
-# 了解元数据
+# 元数据和关键字简介
 
 元数据是用于描述资源的所有数据。 元数据字段具有一个名称，用户可以编辑或更改其中许多字段中的信息。 某些元数据字段由提供资源的应用程序或设备填充，因此无法编辑。
 
