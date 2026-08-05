@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-06-15T00:00:00.000Z'
+last-substantial-update: '2026-08-04T00:00:00.000Z'
 jira: KT-8778
 recommendations: noDisplay,catalog
 exl-id: 4044743f-71f8-4416-a365-575d90d5bd70
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:37:58.078Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 43b480caa23d4fd0fb485e18a3474fdfeab387e7
 workflow-type: tm+mt
 source-wordcount: 213
 ht-degree: 6%
@@ -33,7 +33,9 @@ ht-degree: 6%
 
 # 在Workfront中有效地排列任务顺序
 
-此视频介绍如何使用前置任务和持续时间对Workfront中的任务进行排序以有效地管理项目时间线。该视频演示了如何为新任务设置前置任务，确保顺序顺序和准确的开始日期。它&#x200B;强调了与前置任务一起实践的重要性，以了解它们对项目时间线的影响，并建议使用持续时间和前置任务以实现高效的项目规划。
+此视频介绍如何使用前置任务和持续时间对Workfront中的任务进行排序以有效地管理项目时间线。
+该视频演示了如何为新任务设置前置任务，确保顺序顺序和准确的开始日期。
+它&#x200B;强调了与前置任务一起实践的重要性，以了解它们对项目时间线的影响，并建议使用持续时间和前置任务以实现高效的项目规划。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3447330/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

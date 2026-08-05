@@ -36,4 +36,4 @@ ht-degree: 100%
 * 调整预算信息
 * 调整成本信息
 
->[!VIDEO](https://video.tv.adobe.com/v/335320/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3412640/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

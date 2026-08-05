@@ -36,7 +36,7 @@ ht-degree: 100%
 * 什么是校对？
 * 使用 [!DNL Workfront] 中的数字校对的好处
 
->[!VIDEO](https://video.tv.adobe.com/v/336095/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3439127/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 校对术语
 
