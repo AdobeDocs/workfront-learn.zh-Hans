@@ -1,9 +1,9 @@
 ---
 user-guide-title: Workfront 教程
 user-guide-description: 培训视频和文章库，旨在帮助您更好地了解 Workfront 的功能和设置。
-source-git-commit: 910f282af942ba9ea62b56d86f6b4cd929908ad3
+source-git-commit: 14693616f1b7b47558aa98c6ea4b101b8fc27f19
 workflow-type: tm+mt
-source-wordcount: '2621'
+source-wordcount: '2620'
 ht-degree: 74%
 
 ---
@@ -191,7 +191,7 @@ ht-degree: 74%
     + [记录和审查项目小时](/help/manage-work/close-a-project/log-and-review-hours.md)
 
   + 用户的项目财务 {#project-finances-users}
-    + [访问和管理项目和任务的财务信息](/help/manage-work/project-finances/find-financial-information.md)
+    + [访问和管理项目财务的财务信息](/help/manage-work/project-finances/find-financial-information.md)
     + [更新客户端项目的财务](/help/manage-work/project-finances/update-and-review-finances.md)
     + [自定义工作角色的记帐费率](/help/manage-work/project-finances/multiple-billing-rates.md)
 
