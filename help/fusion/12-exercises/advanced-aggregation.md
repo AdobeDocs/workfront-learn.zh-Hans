@@ -22,7 +22,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:45:52.312Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 9ae283a3880351d9aa7c0738e02bef084e999f5f
 workflow-type: tm+mt
 source-wordcount: 493
 ht-degree: 94%
@@ -47,7 +47,7 @@ ht-degree: 94%
 
 1. 创建一个新方案并将其命名为“高级聚合”。
 1. 将触发器模块设置为 HTTP - 发出请求模块。
-1. 使用这个 URL, `https://restcountries.com/v2/lang/es`，它会为您提供所有使用西班牙语的国家/地区的列表。
+1. 使用这个 URL, `https://countries.dev/lang/es`，它会为您提供所有使用西班牙语的国家/地区的列表。
 1. 将方法保留为“获取”。
 1. 单击“解析响应”复选框。
 1. 将此模块重命名为“获取国家/地区”。
@@ -59,7 +59,7 @@ ht-degree: 94%
 
    **您需要收集每个国家/地区的子区域信息，因此您需要发出额外的 HTTP 请求。**
 
-1. 添加另一个请求以获取子区域信息。 它只会返回第一个国家/地区，但目前还可以。 添加另外一个 HTTP 请求模块并使用该 URL `https://restcountries.com/v2/name/{country name}`。
+1. 添加另一个请求以获取子区域信息。 它只会返回第一个国家/地区，但目前还可以。 添加另外一个 HTTP 请求模块并使用该 URL `https://countries.dev/name/{country name}`。
 1. 要获取第一个国家/地区的名称，请转到映射面板并单击“数据”，然后单击数组中的“名称”。 数据字段中的 [1] 表示它将会返回数组中的第一项。
 
    + 单击数字并根据需要更改索引，但在本例中您只需要第一项。
