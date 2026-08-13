@@ -9,6 +9,7 @@ role: User
 level: Beginner
 jira: KT-9009
 exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 product_v2:
@@ -22,10 +23,10 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
 workflow-type: tm+mt
 source-wordcount: 280
-ht-degree: 93%
+ht-degree: 72%
 
 ---
 
@@ -43,7 +44,8 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 >[!NOTE]
 >
->保存场景后，如果您将来需要访问它，三点菜单下会提供新版本。 之前保存的场景版本只能保留 60 天。 如果出于审核目的您需要在 60 天之后访问以前的版本，Workfront 建议保存场景 Blueprint 并在商定的位置存档。
+>保存场景后，Workfront Fusion会将上一个场景版本保留60天。 版本的保留期从该版本被较新版本取代时开始，而不是最初创建该版本时开始。
+>为了保留超过60天的方案版本历史记录以进行审核，请将方案的蓝图保存并存档在商定的位置。
 
 
 ## 添加到您的术语
