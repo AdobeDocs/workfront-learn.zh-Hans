@@ -8,7 +8,7 @@ thumbnail: handle-unplanned-work.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2024-06-26T00:00:00.000Z'
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10070
 exl-id: 43caddaf-5fd8-4580-9a37-59b5ecc57c91
@@ -23,7 +23,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:57:12.678Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 266
 ht-degree: 2%
@@ -32,7 +32,7 @@ ht-degree: 2%
 
 # 有效处理计划外工作
 
-该视频强调了沟通在项目管理中的重要性，并强调了问题作为促进沟通的关键工具的作用。 它&#x200B;解释了更新与问题之间的区别，指出问题更适合在项目完成之前需要分配、跟踪和解决的工作。 此视频&#x200B;提供了有关如何记录问题的分步指南。 
+该视频强调了沟通在项目管理中的重要性，并强调了问题作为促进沟通的关键工具的作用。 它&#x200B;解释了更新与问题之间的区别，指出问题更适合在项目完成之前需要分配、跟踪和解决的工作。 此视频&#x200B;提供了有关如何记录问题的分步指南。 &#x200B;
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3446576/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

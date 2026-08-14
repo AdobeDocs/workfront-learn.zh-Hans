@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 exl-id: 07a4824e-809e-4649-b669-865519b95f1f
 recommendations: noDisplay,catalog
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:54:50.397Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 74efef740074d25e892061995fd2e9b19a3afae1
 workflow-type: tm+mt
 source-wordcount: 264
 ht-degree: 2%
@@ -41,7 +41,7 @@ ht-degree: 2%
 
 * **简化的请求创建：**&#x200B;用户可以通过从主菜单中选择“请求”、选择请求类型、填写必填字段并附加相关文档来轻松创建请求。 &#x200B;
 * **可自定义的工作流：**&#x200B;请求队列和表单为组织工作流量身定制，允许用户指定详细信息（例如，店内、户外、社交媒体）和优先级。
-* **草稿自动保存功能：**&#x200B;草稿在用户填写主题字段时自动保存，确保用户暂停或导航离开时不会丢失任何数据。 稍后可以访问&#x200B;草稿以便完成，或者如果不必要，也可以将其丢弃。 
+* **草稿自动保存功能：**&#x200B;草稿在用户填写主题字段时自动保存，确保用户暂停或导航离开时不会丢失任何数据。 稍后可以访问&#x200B;草稿以便完成，或者如果不必要，也可以将其丢弃。 &#x200B;
 * **跟踪和筛选请求：**&#x200B;可以在“已提交”页面上跟踪已提交的请求，筛选器可用于根据用户权限查看未结、未解决或所有请求。 &#x200B;
 * **复制和重用请求：**&#x200B;用户可以复制现有请求以创建新请求，这样可以更轻松地提交类似的请求，而无需从头开始。
 
