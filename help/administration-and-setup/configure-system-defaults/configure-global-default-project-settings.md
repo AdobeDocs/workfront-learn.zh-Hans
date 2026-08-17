@@ -30,11 +30,11 @@ ht-degree: 100%
 * 设置全局项目首选项
 * 创建和使用计划
 
->[!VIDEO](https://video.tv.adobe.com/v/3423345/?quality=12&learn=on&enablevpops=1&captions=chi_hans)
+>[!VIDEO](https://video.tv.adobe.com/v/3423345/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 全局和组项目、任务和问题设置
 
-当您在 [!DNL Workfront] 中打开 [!UICONTROL Projects] 设置时，您会注意到窗口顶部的搜索栏中会显示“[!UICONTROL System Project Preferences]”。这是为了让您知道这些设置会影响 [!DNL Workfront] 系统中的每个人——这是一个全局配置。
+当您在 [!DNL Workfront] 中打开 [!UICONTROL Projects] 设置时，您会注意到窗口顶部的搜索栏中会显示“[!UICONTROL System Project Preferences]”。 这是为了让您知道这些设置会影响 [!DNL Workfront] 系统中的每个人——这是一个全局配置。
 
 ![[!UICONTROL Project Preferences] 页面，位于 [!UICONTROL Setup]](assets/admin-fund-system-project-preferences-1.png)
 
@@ -42,9 +42,9 @@ ht-degree: 100%
 
 ![[!UICONTROL Task & Issue Preferences]，位于 [!UICONTROL Setup]](assets/admin-fund-task-issue-preferences-2.png)
 
-然而，可能并非 [!DNL Workfront] 中的每个组都需要相同的项目、任务和问题首选项。例如，营销团队希望新项目的状态为“规划中”，而项目经理团队更喜欢“请求”状态。
+然而，可能并非 [!DNL Workfront] 中的每个组都需要相同的项目、任务和问题首选项。 例如，营销团队希望新项目的状态为“规划中”，而项目经理团队更喜欢“请求”状态。
 
-[!DNL Workfront] 允许组管理员调整其组的某些项目、任务和问题首选项。可调整的首选项由 [!DNL Workfront] 系统管理员使用锁定/解锁切换开关确定。
+[!DNL Workfront] 允许组管理员调整其组的某些项目、任务和问题首选项。 可调整的首选项由 [!DNL Workfront] 系统管理员使用锁定/解锁切换开关确定。
 
 首先导航到 [!UICONTROL Setup] 区域：
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
 ### 设置组和子组首选项
 
-对于系统管理员解锁的任何设置，组管理员可以对其管理的组以及嵌套在这些组下的任何子组进行调整。此外，组管理员可以控制其子组管理员可以修改哪些设置。
+对于系统管理员解锁的任何设置，组管理员可以对其管理的组以及嵌套在这些组下的任何子组进行调整。 此外，组管理员可以控制其子组管理员可以修改哪些设置。
 
 1. 选择 **[!UICONTROL Main Menu]** 中的 **[!UICONTROL Setup]**。
 1. 单击左侧菜单中的 **[!DNL Groups]**。
