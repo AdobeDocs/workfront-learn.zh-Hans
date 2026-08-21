@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2025-02-26T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -24,7 +24,7 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:56:55.448Z'
-source-git-commit: df1a568be7d42893910e1c0afde8bbba213a7803
+source-git-commit: 1349efa7ac6687138985cc075db7b31c3e7dc693
 workflow-type: tm+mt
 source-wordcount: 232
 ht-degree: 10%
@@ -49,7 +49,7 @@ ht-degree: 10%
 * **在请求区域中使用筛选器：**&#x200B;诸如“我的请求”和“我的打开请求”之类的筛选器允许用户查看他们创建的请求。 &#x200B;
 * **管理团队页面上的请求：**&#x200B;用户可查看未分配的团队请求，并使用工作负载均衡器根据其当前工作负载管理团队成员分配，将其分配给自己或其他人。 &#x200B;
 * **自定义报告和仪表板：**&#x200B;用户可以创建自定义报告来跟踪请求，从而允许个性化命名、筛选器、视图和分组，这有助于有效地管理和优先处理请求。 &#x200B;
-* **了解过滤器中的“我的”：**&#x200B;首页中的“我的”一词指的是分配给我的问题。 请求区域中的“我的”一词是指我请求的问题。 
+* **了解过滤器中的“我的”：**&#x200B;首页中的“我的”一词指的是分配给我的问题。 请求区域中的“我的”一词是指我请求的问题。 &#x200B;
 
 
 ## 有关此主题的推荐教程
