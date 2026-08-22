@@ -35,7 +35,7 @@ ht-degree: 2%
 
 此视频介绍如何在Adobe Workfront中找到并更新请求。 在提交请求之&#x200B;后，您可以添加信息或提出问题，以确保为处理该请求的人提供最新详细信息。 &#x200B;  &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497600/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
