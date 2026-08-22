@@ -41,7 +41,7 @@ ht-degree: 100%
 * 打开请求页面
 * 在 [!UICONTROL Updates] 面板中更新请求
 
->[!VIDEO](https://video.tv.adobe.com/v/336091/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3497600/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 有关此主题的推荐教程
 
