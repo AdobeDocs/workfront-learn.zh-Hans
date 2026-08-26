@@ -22,7 +22,7 @@ ht-degree: 100%
 * 查看提交的请求
 * 查找请求的草稿
 
->[!VIDEO](https://video.tv.adobe.com/v/336092/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3413112/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 快速轻松地访问请求队列路径
 
