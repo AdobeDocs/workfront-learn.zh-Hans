@@ -11,85 +11,19 @@ level: Intermediate
 jira: KT-10067
 hide: true
 exl-id: ded6b570-3e2a-4372-867d-a370de30dc31
-product_v2:
-  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
-feature_v2:
-  - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
-  - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
-role_v2:
-  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2:
-  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+product_v2: id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+feature_v2: id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+subfeature_v2: id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+role_v2: id: b69b2659-1057-424e-8fc5-ed9e016dc554id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:01:54.624Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 391
-ht-degree: 96%
+source-wordcount: 26
+ht-degree: 100%
 
 ---
 
 # 了解财务访问权限
 
-如果您的组织使用 [!DNL Workfront] 捕获所有财务数据，作为系统管理员，您有责任保护和管理有权查看和编辑该信息的人员。
-
-用户查看或编辑财务信息需要满足两个条件：
-
-1. 必须在 [!UICONTROL Access Level] 中启用访问权限。
-2. 必须逐个对象授予使用这些访问权限的权限。
-
-例如，用户可能具有在其访问级别上查看财务数据的权限，但只有在与其共享任务，并且在共享该任务时启用了财务查看功能的情况下，用户才能查看该任务的财务信息。
-
-因此，拥有查看财务信息 [!UICONTROL Access Level] 权限的用户可以查看某些对象的财务信息，而不能查看其他对象的财务信息，具体取决于这些对象的单独共享选项。 但是，任何用户都不能查看任何对象的财务信息，除非他们在其 [!UICONTROL Access Level] 中获得了相应的权限。
-
-## [!UICONTROL Access Level] 设置
-
-对财务数据的全面访问权限首先由 [!DNL Workfront] 许可证类型授予。
-
-**[!UICONTROL Plan]许可证可以：**
-
-* 管理账单记录
-* 管理和查看角色计费和成本费率
-* 管理和查看用户计费和成本费率
-* 管理费用
-* 查看和编辑财务信息
-
-**[!UICONTROL Work]许可证可以：**
-
-* 管理费用
-* 查看财务信息
-
-**[!UICONTROL Review]许可证可以：**
-
-* 查看财务信息
-
-**权限可以通过 [!UICONTROL Access Level] 进行修改。 财务数据访问权限的三个选项是：**
-
-* [!UICONTROL No Access]—用户无法看到财务信息。
-* [!UICONTROL View]—用户可以查看和共享信息。
-* [!UICONTROL Edit]—用户可以创建、编辑、删除和共享信息。 （仅适用于“计划”许可证。）
-
-![显示访问级别中的一般财务数据选项的图像](assets/setting-up-finances-8.png)
-
-需要注意的是，[!UICONTROL View]和[!UICONTROL Edit]选项具有用于[!UICONTROL Plan]许可证的附加设置。 单击 [!UICONTROL View] 按钮上的齿轮以获得这些选项：
-
-**[!UICONTROL View]**
-
-* 查看角色计费 &amp; 成本费率
-* 查看用户计费 &amp; 成本费率
-
-![显示访问级别中的财务数据视图选项的图像](assets/setting-up-finances-9.png)
-
-**[!UICONTROL Edit]**
-
-这两个选项以及以下内容在 [!UICONTROL Edit] 选项下可用：
-
-* 编辑角色计费 &amp; 成本费率
-* 编辑用户计费 &amp; 成本费率
-
-![显示访问级别中的财务数据编辑选项的图像](assets/setting-up-finances-10.png)
-
->[!NOTE]
->
->有权添加费用的用户还可以查看他们添加的费用，以及由其直接下属添加的费用。
+{{$include /help/_includes/understand-financial-access.md}}

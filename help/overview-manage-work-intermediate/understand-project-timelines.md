@@ -11,23 +11,13 @@ team: Technical Marketing
 jira: KT-8953
 hide: true
 doc-type: video
-source-git-commit: 437f85e11f772ba5f0f9f2fee6a92abd3a8bcabd
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
 
 # 了解项目时间线
 
-在本视频中，您将了解到：
-
-* 基本项目时间线管理
-* 从开始或完成日期计划项目
-* 任务限制
-
->[!VIDEO](https://video.tv.adobe.com/v/3435845/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
->[!IMPORTANT]
->
->有关持续时间类型和任务限制的更完整说明，请参阅[了解和管理持续时间类型以及任务限制。](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hans)
+{{$include /help/_includes/understand-project-timelines.md}}
