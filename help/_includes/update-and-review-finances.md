@@ -31,7 +31,7 @@ Workfront跟踪可计费项目，但不处理实际计费；用户必须使用�
 
 此视频强调了正确设置和跟踪以简化客户计费流程的重要性。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3457648/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3486198/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 

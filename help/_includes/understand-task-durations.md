@@ -12,7 +12,7 @@ Workfront建议使用持续时间和前置任务来建立任务时间线，而�
 准确&#x200B;的持续时间对于有效的项目规划和资源管理至关重要。
 
 
->[!VIDEO](https://video.tv.adobe.com/v/335089/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3449353/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
