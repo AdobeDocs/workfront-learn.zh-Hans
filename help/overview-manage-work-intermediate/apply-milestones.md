@@ -25,29 +25,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:22:30.706Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 84
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # 应用里程碑
 
-在本视频中，您将学习如何：
-
-* 对项目应用里程碑路径
-* 为任务添加一个里程碑
-* 应用里程碑的最佳实践
-
->[!VIDEO](https://video.tv.adobe.com/v/3430287/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->有关如何创建里程碑视图的信息，请参阅[创建基本视图](/help/reporting/basic-reporting/create-a-basic-view.md)中的里程碑视图活动。
-
-## 有关此主题的推荐教程
-
-* [查看里程碑](/help/manage-work/approval-processes-and-milestone-paths/view-milestones.md)
-* [创建里程碑](/help/administration-and-setup/approval-processes-and-milestone-paths/creating-milestones.md)
-* [创建基本视图中的里程碑视图活动](/help/reporting/basic-reporting/create-a-basic-view.md)
+{{$include /help/_includes/apply-milestones.md}}

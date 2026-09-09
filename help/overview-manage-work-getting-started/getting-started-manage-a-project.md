@@ -25,27 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:47.354Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 73
+source-wordcount: 28
 ht-degree: 100%
 
 ---
 
 # 开始管理项目
 
-在本视频中，您将了解到：
-
-* 如何监控项目进度
-* 如何深入了解任务详细信息
-* 如何与利益相关者沟通
-
->[!VIDEO](https://video.tv.adobe.com/v/3445177/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [启动项目](/help/manage-work/projects/take-a-project-live.md)
-* [查找项目](/help/manage-work/projects/find-projects.md)
-* [共享项目](/help/manage-work/projects/share-a-project.md)
-* [了解项目团队](/help/manage-work/projects/understand-the-project-team.md)
-* [了解项目沟通](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/getting-started-manage-a-project.md}}

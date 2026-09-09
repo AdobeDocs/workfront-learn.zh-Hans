@@ -23,24 +23,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:33:22.173Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # 创建任务
 
-在本视频中，您将了解到：
-
-* 在 Workfront 项目中创建任务的漫长过程
-* 创建任务的一些方便的快捷方式
-
->[!VIDEO](https://video.tv.adobe.com/v/3423154/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [了解父任务-子任务](/help/manage-work/tasks/understand-parent-child-tasks.md)
-* [处理任务](/help/manage-work/tasks/work-with-tasks.md)
-* [从项目规划中分配任务](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
+{{$include /help/_includes/how-to-create-tasks.md}}

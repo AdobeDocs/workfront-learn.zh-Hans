@@ -25,32 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:16:08.741Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 128
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # 发出请求
 
-在许多组织中，启动新项目、开发新产品或创建可交付成果的第一步是在 Workfront 中提出请求。 您可以跟踪请求的进度并在需要时提供其他信息。
-
-在本视频中，您将学习如何：
-
-* 导航至请求区域
-* 发出请求
-* 查看提交的请求
-* 复制请求
-* 查找请求的草稿
-* 查看最后三个请求路径
-
->[!VIDEO](https://video.tv.adobe.com/v/3413112/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [了解请求队列](/help/manage-work/request-queues/understand-request-queues.md)
-* [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
-* [更新请求](/help/manage-work/issues-requests/update-a-request.md)
-* [将问题/请求转化为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [将问题/请求转化为任务](/help/manage-work/issues-requests/convert-issues-to-other-work-items.md)
+{{$include /help/_includes/make-a-request.md}}

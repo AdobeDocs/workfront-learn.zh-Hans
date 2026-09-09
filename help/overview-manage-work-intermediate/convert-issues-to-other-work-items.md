@@ -23,25 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # 将问题/请求转化为任务
 
-在本视频中，您将了解如何将问题或请求转化为任务。
-
->[!VIDEO](https://video.tv.adobe.com/v/3445440/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->您不能将问题添加到项目时间表中，因为它们代表“规划外的工作”。 项目时间线用于“规划的工作”，即任务。
-
-## 有关此主题的推荐教程
-
-* [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
-* [将问题/请求转化为项目](/help/manage-work/issues-requests/create-a-project-from-a-request.md)
-* [处理规划外的工作](/help/manage-work/issues-requests/handle-unplanned-work.md)
+{{$include /help/_includes/convert-issues-to-other-work-items.md}}

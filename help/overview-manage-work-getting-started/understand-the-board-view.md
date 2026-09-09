@@ -24,26 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:25:56.436Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 56
+source-wordcount: 17
 ht-degree: 100%
 
 ---
 
 # 了解 [!UICONTROL Board] 视图
 
-在本视频中，您将了解到：
-
-* 在哪里可以找到 [!UICONTROL Board] 视图
-* 如何使用 [!UICONTROL Board] 视图
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3423274/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [开始管理项目](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [跟踪项目整体进度](/help/manage-work/projects/track-overall-project-progress.md)
-* [使用项目指标跟踪工作进度](/help/manage-work/projects/track-work-progress-with-project-metrics.md)
-* [了解 [!UICONTROL Gantt] 视图](/help/manage-work/projects/understand-the-gantt-view.md)
+{{$include /help/_includes/understand-the-board-view.md}}

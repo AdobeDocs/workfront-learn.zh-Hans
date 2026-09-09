@@ -25,24 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:24:57.327Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 59
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # 了解项目团队
 
-在本视频中，您将了解到：
-
-* 项目团队的用途以及如何对其进行维护
-
->[!VIDEO](https://video.tv.adobe.com/v/3444599/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [开始管理项目](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [查找项目](/help/manage-work/projects/find-projects.md)
-* [共享项目](/help/manage-work/projects/share-a-project.md)
-* [了解项目沟通](/help/manage-work/projects/understand-project-communication.md)
+{{$include /help/_includes/understand-the-project-team.md}}

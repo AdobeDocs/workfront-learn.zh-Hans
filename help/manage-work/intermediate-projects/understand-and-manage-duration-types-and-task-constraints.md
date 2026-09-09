@@ -23,30 +23,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-06T14:58:15.610Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 184
-ht-degree: 93%
+source-wordcount: 33
+ht-degree: 63%
 
 ---
 
 # 主持续时间类型和任务限制
 
-在本视频中，您将了解以下有关持续时间类型和任务限制的知识：
-
-* 它们是什么以及它们如何运作
-* 项目经理使用它们时常犯的错误
-* 如何查看项目中的所有持续时间类型和任务限制
-* 如何知道它们何时需要修复
-* 如何修复它们
-* 使用它们的最佳实践
-
-
->[!VIDEO](https://video.tv.adobe.com/v/3422822/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-
-有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)的持续时间类型和任务限制视图**&#x200B;活动。
-
-有关持续时间类型的详细信息，请参阅[任务持续时间和持续时间类型。](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=zh-Hans)
-
-有关任务限制的详细信息，请参阅[任务限制。](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-constraints/task-constraints.html?lang=zh-Hans)
+{{$include /help/_includes/understand-and-manage-duration-types-and-task-constraints.md}}

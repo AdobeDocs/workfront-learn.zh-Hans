@@ -24,34 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:27:31.448Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 137
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # 了解项目沟通
 
-在本视频中，您将了解到如何使用以下方式与所有项目利益相关者进行沟通：
-
-* 良好的项目规划
-* 更新
-* 任务状态和完成百分比
-* 问题
-* 报告
-
->[!VIDEO](https://video.tv.adobe.com/v/3436154/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
->[!TIP]
->
->要创建视频中显示的“注释搜索”报告，请参阅[创建任务报告](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-task-report.html?lang=zh-Hans)教程中的活动。
->
->要将“注释搜索”报告添加到您的项目面板，请参阅[创建仪表板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-dashboards.html?lang=zh-Hans)教程中的活动。
-
-## 有关此主题的推荐教程
-
-* [开始管理项目](/help/manage-work/projects/getting-started-manage-a-project.md)
-* [查找项目](/help/manage-work/projects/find-projects.md)
-* [共享项目](/help/manage-work/projects/share-a-project.md)
-* [了解项目团队](/help/manage-work/projects/understand-the-project-team.md)
+{{$include /help/_includes/understand-project-communication.md}}

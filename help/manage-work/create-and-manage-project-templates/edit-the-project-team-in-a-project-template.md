@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:59:23.948Z'
-source-git-commit: 4077f8da1f1400400fc9749db53719037c778e7c
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 82
-ht-degree: 68%
+source-wordcount: 34
+ht-degree: 58%
 
 ---
 
 # 在模板中编辑项目团队
 
-在本视频中，您将了解到：
-
-* 如何避免无意中将&#x200B;**非**&#x200B;项目团队成员包括在模板项目团队中。
-* 如何编辑模板项目团队。
-
->[!VIDEO](https://video.tv.adobe.com/v/3441560/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [创建项目模板并浏览Blueprint](/help/manage-work/create-and-manage-project-templates/create-a-project-template.md)
-* [有效地共享项目模板](/help/manage-work/create-and-manage-project-templates/share-a-project-template.md)
-* [停用项目模板](/help/manage-work/create-and-manage-project-templates/deactivate-a-project-template.md)
-
+{{$include /help/_includes/edit-the-project-team-in-a-project-template.md}}

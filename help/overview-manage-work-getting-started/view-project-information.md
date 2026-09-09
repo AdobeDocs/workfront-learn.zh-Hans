@@ -24,25 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:24:40.146Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 64
+source-wordcount: 23
 ht-degree: 100%
 
 ---
 
 # 查看项目信息
 
-在本视频中，您将会学习如何使用过滤器、视图和分组来查看：
-
-* 项目级别信息
-* 任务级别信息
-* 问题级别信息
-
->[!VIDEO](https://video.tv.adobe.com/v/3453076/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [创建基本过滤器活动](/help/reporting/basic-reporting/create-a-basic-filter-activity.md)
-* [创建基本视图](/help/reporting/basic-reporting/create-a-basic-view.md)
-* [创建基本分组](/help/reporting/basic-reporting/create-a-basic-grouping.md)
+{{$include /help/_includes/view-project-information.md}}

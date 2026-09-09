@@ -24,18 +24,13 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 autotag-review: '2026-05-05T19:04:49.686Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 40
+source-wordcount: 19
 ht-degree: 100%
 
 ---
 
 # 查看里程碑
 
-在本视频中，您将学习如何：
-
-* 查看特定项目中的里程碑
-* 阅读 [!UICONTROL Project] 区域中的里程碑视图
-
->[!VIDEO](https://video.tv.adobe.com/v/3415899/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+{{$include /help/_includes/view-milestones.md}}

@@ -26,26 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:27:00.215Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 77
+source-wordcount: 30
 ht-degree: 100%
 
 ---
 
 # 了解任务持续时间
 
-在本视频中，您将了解到：
-
-* [!DNL Workfront] 中的任务持续时间是什么
-* 持续时间如何影响任务的开始和完成日期
-* 持续时间如何影响项目时间线
-* 使用任务持续时间的最佳实践建议
-
->[!VIDEO](https://video.tv.adobe.com/v/3449353/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [学习如何对任务进行排序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [了解规划小时数](/help/manage-work/tasks/understand-planned-hours.md)
-* [了解 [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/understand-task-durations.md}}

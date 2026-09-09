@@ -26,37 +26,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:33:39.240Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 88
+source-wordcount: 32
 ht-degree: 100%
 
 ---
 
 # 学习如何对任务进行排序
 
-在本视频中，您将了解到：
-
-* Workfront 中的前置任务是什么
-* 如何使用持续时间和前置任务来创建时间线
-* 前置任务如何对项目中的任务进行排序
-* 设置任务开始日期将如何影响任务限制
-* 如何输入前置任务
-
->[!VIDEO](https://video.tv.adobe.com/v/3447330/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-<!--
-Learn more urls
-There's a lot more you can learn about predecessors, such as dependency type and lag. [!DNL Workfront] recommends getting the basics down first, then pulling those other features into your project planning. If you're curious, here are some articles about additional functionality.
-Overview of task predecessors
-Create predecessor relationships by chaining tasks
-Creating a predecessor relationship on the task list
-Overview of lag types
-Overview of task dependency types
--->
-
-## 有关此主题的推荐教程
-
-* [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)
-* [了解规划小时数](/help/manage-work/tasks/understand-planned-hours.md)
-* [了解 [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/learn-to-sequence-tasks.md}}

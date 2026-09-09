@@ -24,40 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:12:05.478Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 90
+source-wordcount: 25
 ht-degree: 100%
 
 ---
 
 # 审阅和审批数字作品
 
-在本视频中，您将学习如何：
-
-* 查找 [!DNL Workfront Home] 中的审批信息
-* 审批项目、任务和问题
-* 审批文件
-* 审批校样
-
->[!VIDEO](https://video.tv.adobe.com/v/3444956/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-
->[!NOTE]
->
->除了 [!DNL Workfront Home] 以外，还可以在项目和自定义报告中找到需要审批的文档、校样和工作项（项目、任务和问题）。
-
-## 有关此主题的推荐教程
-
-* [创建一次性的审批流程](/help/manage-work/approval-processes-and-milestone-paths/create-a-single-use-approval-process.md)
-* [委派任务、问题和审批](/help/manage-work/approval-processes-and-milestone-paths/delegate-approvals.md)
-
-
-<!--
-learn more URLS
-Approving work
-Home area for Reviewers
-Guides
-Home overview for Reviewers
-Issue page overview
--->
+{{$include /help/_includes/review-and-approve-digital-work.md}}

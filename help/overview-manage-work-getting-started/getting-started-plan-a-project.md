@@ -24,30 +24,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:34:31.389Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 102
+source-wordcount: 39
 ht-degree: 100%
 
 ---
 
 # 开始规划项目
 
-在本视频中，您将了解到：
-
-* 项目的五个主要组成部分
-* 规划状态意味着什么
-* [!UICONTROL View] 如何帮助您查看您需要的信息
-* 如何设置开始或完成日期
-
->[!VIDEO](https://video.tv.adobe.com/v/3448577/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [创建任务](/help/manage-work/tasks/how-to-create-tasks.md)
-* [处理任务](/help/manage-work/tasks/work-with-tasks.md)
-* [从项目规划中分配任务](/help/manage-work/tasks/assign-tasks-from-the-project-plan.md)
-* [了解任务持续时间](/help/manage-work/tasks/understand-task-durations.md)
-* [学习如何对任务进行排序](/help/manage-work/tasks/learn-to-sequence-tasks.md)
-* [了解规划小时数](/help/manage-work/tasks/understand-planned-hours.md)
-* [了解 [!UICONTROL Work Effort]](/help/manage-work/tasks/understand-work-effort.md)
+{{$include /help/_includes/getting-started-plan-a-project.md}}

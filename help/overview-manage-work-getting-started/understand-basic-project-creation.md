@@ -25,26 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:29:36.461Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 91
+source-wordcount: 34
 ht-degree: 100%
 
 ---
 
 # 了解基本项目创建
 
-在本视频中，您将了解到：
-
-* Workfront 中项目的定义
-* 启动并运行项目的基本步骤
-* 关于任务和问题的小知识
-* 开始创建项目的最佳实践
-
->[!VIDEO](https://video.tv.adobe.com/v/3435904/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [导航项目页面](/help/manage-work/projects/navigate-the-project-page.md)
-* [了解创建项目的四种方法](/help/manage-work/projects/understand-other-ways-to-create-projects.md)
-* [填写项目详细信息。](/help/manage-work/projects/fill-in-the-project-details.md)
+{{$include /help/_includes/understand-basic-project-creation.md}}

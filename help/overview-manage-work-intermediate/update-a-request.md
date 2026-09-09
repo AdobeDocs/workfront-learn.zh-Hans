@@ -25,25 +25,13 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-05T19:05:40.406Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
 workflow-type: tm+mt
-source-wordcount: 63
+source-wordcount: 22
 ht-degree: 100%
 
 ---
 
 # 更新请求
 
-在本视频中，您将学习如何：
-
-* 查找您提交的请求
-* 在“摘要”面板中进行更新
-* 打开请求页面
-* 在 [!UICONTROL Updates] 面板中更新请求
-
->[!VIDEO](https://video.tv.adobe.com/v/3497600/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
-## 有关此主题的推荐教程
-
-* [发出请求](/help/manage-work/issues-requests/make-a-request.md)
-* [查找和管理请求](/help/manage-work/issues-requests/find-requests.md)
+{{$include /help/_includes/update-a-request.md}}
