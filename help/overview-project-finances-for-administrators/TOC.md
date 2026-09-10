@@ -5,10 +5,10 @@ breadcrumb-title: 管理员的项目财务
 solution: Workfront
 sub-product: Work Management
 index: true
-source-git-commit: 4670302db899675ec45cb633451e2d232f312e2d
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 70%
+source-wordcount: '64'
+ht-degree: 62%
 
 ---
 
@@ -18,10 +18,11 @@ ht-degree: 70%
 
 + [管理员的项目财务](overview.md)
 + 管理员的项目财务 {#project-finances-for-administrators}
-   + [了解绩效指标](understand-performance-metrics.md)
-   + [设置任务收入和成本默认值](set-up-task-revenue-and-cost-defaults.md)
-   + [设置汇率](set-up-exchange-rates.md)
-   + [设置费用类型](set-up-expense-types.md)
-   + [了解财务访问权限](understand-financial-access.md)
+  + [了解绩效指标](understand-performance-metrics.md)
+  + [设置任务收入和成本默认值](set-up-task-revenue-and-cost-defaults.md)
+  + [设置汇率](set-up-exchange-rates.md)
+  + [设置费用类型](set-up-expense-types.md)
+  + [创建工作角色和费率卡](create-job-roles-and-rate-cards.md)
+  + [了解财务访问权限](understand-financial-access.md)
 
 
