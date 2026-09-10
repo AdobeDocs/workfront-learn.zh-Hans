@@ -7,7 +7,7 @@ role: User
 level: Beginner
 activity: deploy
 team: Technical Marketing
-last-substantial-update: '2024-09-03T00:00:00.000Z'
+last-substantial-update: '2026-09-09T00:00:00.000Z'
 jira: KT-13491
 mini-toc-levels: 1
 recommendations: noDisplay,catalog
@@ -24,9 +24,9 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:33:15.445Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 170
+source-wordcount: 199
 ht-degree: 4%
 
 ---
@@ -45,4 +45,5 @@ ht-degree: 4%
 * [设置任务收入和成本默认值](set-up-task-revenue-and-cost-defaults.md) — 了解如何使用收入类型和成本类型计算任务的计划和实际财务信息。
 * [设置汇率](set-up-exchange-rates.md) — 了解如何在项目和报告中使用汇率，以反映世界各地不同货币的财务信息。
 * [设置费用类型](set-up-expense-types.md) — 了解如何使用预建费用类型并创建新费用类型。
+* [创建工作角色和费率卡](/help/manage-work/project-finances/create-job-roles-and-rate-cards.md) — 了解如何创建工作角色和费率卡，以及如何从项目中附加和删除费率卡。
 * [了解财务访问权限](understand-financial-access.md) — 了解财务访问权限如何允许管理员控制谁可以查看和编辑Workfront中跟踪的财务信息。

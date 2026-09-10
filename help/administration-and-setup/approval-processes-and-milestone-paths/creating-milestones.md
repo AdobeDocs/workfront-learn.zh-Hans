@@ -21,23 +21,13 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
 workflow-type: tm+mt
-source-wordcount: 65
-ht-degree: 84%
+source-wordcount: 26
+ht-degree: 61%
 
 ---
 
 # 创建里程碑路径和步骤
 
-在本视频中，您将了解到：
-
-* 什么是里程碑路径
-* 如何创建里程碑路径
-* 如何将里程碑步骤添加到里程碑路径
-
->[!VIDEO](https://video.tv.adobe.com/v/3415911/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
-
->[!NOTE]
->
->系统管理员可以授予具有“计划”许可证的用户创建自己的里程碑路径的访问权限。
+{{$include /help/_includes/creating-milestones.md}}
