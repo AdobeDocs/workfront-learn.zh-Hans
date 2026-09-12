@@ -24,14 +24,14 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
 autotag-review: '2026-05-06T14:30:09.369Z'
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+source-git-commit: 22fda31ea84297a2d407fad691b863aa22130dbb
 workflow-type: tm+mt
-source-wordcount: 154
-ht-degree: 24%
+source-wordcount: 153
+ht-degree: 27%
 
 ---
 
-# 用户项目财务概述
+# 用户的项目财务
 
 了解如何跟踪项目的财务信息、设置成本和收入类型以及覆盖计费费率。 本教程专为将跟踪与项目相关的财务数据的用户设计。
 
