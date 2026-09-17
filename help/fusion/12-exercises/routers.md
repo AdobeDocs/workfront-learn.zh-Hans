@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-11043
 thumbnail: KT11043.png
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 exl-id: f2a60273-c19b-4423-b354-8cff0dd7bd6b
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:41:51.365Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 760
-ht-degree: 100%
-
+source-wordcount: '762'
+ht-degree: 96%
 ---
-
 # 路由器练习
 
 了解路由器的重要性，以及如何使用它们来有条件地处理不同的模块。
@@ -64,14 +68,14 @@ ht-degree: 100%
 
    **接下来，您将会更改新克隆模块中的映射值。**
 
-1. 转到 <https://www.superheroapi.com/>，并使用您的 Facebook 帐户获取访问令牌。
+1. 转到<https://superheroapi.com/>并单击&#x200B;**使用GitHub登录**&#x200B;以获取访问令牌。
 
    >[!NOTE]
    >
    >如果您在访问自己的超级英雄令牌时遇到问题，可以使用此共享令牌：10110256647253588。 请注意您调用超级英雄 API 的次数，以便其他人可以继续使用该共享令牌。
 
-1. 打开“获取超级英雄外观”的设置并将 URL 更改为 `https://www.superheroapi.com/api/[access- token]/332/appearance`。 请一定要在 URL 中加入您的访问令牌。 单击“确定”。
-1. 打开“获取超级英雄能力”的设置并将 URL 更改为 `https://www.superheroapi.com/api/[access- token]/332/powerstats`。 请一定要在 URL 中加入您的访问令牌。 单击“确定”。
+1. 打开“获取超级英雄外观”的设置并将 URL 更改为 `https://superheroapi.com/api/[access- token]/332/appearance`。 请一定要在 URL 中加入您的访问令牌。 单击“确定”。
+1. 打开“获取超级英雄能力”的设置并将 URL 更改为 `https://superheroapi.com/api/[access- token]/332/powerstats`。 请一定要在 URL 中加入您的访问令牌。 单击“确定”。
 1. 右键单击每个超级英雄模块，并选择“仅运行此模块”。 这将会生成您需要看到的映射数据结构。
 1. 运行两者后，将每个 URL 字段中的数字“332”更改为从解析 CSV 模块映射的“第 4 列”。
 
@@ -79,7 +83,7 @@ ht-degree: 100%
 
    **现在您可以单击超级英雄路径中的“设置多个变量”模块，并更新姓名、身高、体重和能力。**
 
-1. 更新“获取超级英雄能力”模块（模块 8）中的名称和能力字段。
+1. 从获取超级英雄能力模块 — 模块8中更新“名称”字段和“能力”字段。
 
    ![路由器图像 5](../12-exercises/assets/routers-walkthrough-5.png)
 

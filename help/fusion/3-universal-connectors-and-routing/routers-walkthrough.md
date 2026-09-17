@@ -1,6 +1,6 @@
 ---
 title: 路由器演练
-description: 了解在  [!DNL Adobe Workfront Fusion] 中如何使用路由器将宠物小精灵和超级英雄捆绑包沿着正确的路径传递。
+description: 了解如何使用路由器将Pokémon与superheroes捆绑包传递到[!DNL Adobe Workfront Fusion]中的正确路径。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -10,25 +10,29 @@ level: Beginner
 jira: KT-9013
 exl-id: 6c111e5b-1c8f-43fd-9e2d-16599de2a337
 recommendations: noDisplay,catalog
+last-substantial-update: 2026-09-17T00:00:00.000Z
 doc-type: video
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 autotag-review: '2026-05-06T16:35:48.709Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+source-git-commit: 7178d41231c1f55033e3c0ab8237ab53c61adbc3
 workflow-type: tm+mt
-source-wordcount: 873
-ht-degree: 98%
-
+source-wordcount: '873'
+ht-degree: 96%
 ---
-
 # 路由器演练
 
 使用路由器将宠物小精灵与超级英雄捆绑包沿着正确的路径传递，然后为每个角色创建一个任务。
@@ -39,13 +43,13 @@ ht-degree: 98%
 
 Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416569/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335272/?quality=12&learn=on&enablevpops=1)
 
 ## 练习 URL
 
-* 超级英雄 API 网站：`https://www.superheroapi.com/`
-* 练习的第一个 URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/appearance`
-* 练习的第二个 URL：`https://www.superheroapi.com/api/{access-token}/{character-id}/powerstats`
+* 超级英雄 API 网站：`https://superheroapi.com/`
+* 练习的第一个 URL：`https://superheroapi.com/api/{access-token}/{character-id}/appearance`
+* 练习的第二个 URL：`https://superheroapi.com/api/{access-token}/{character-id}/powerstats`
 
 如果您在访问自己的超级英雄令牌时遇到问题，可以使用此共享令牌：10110256647253588。 请注意您调用超级英雄 API 的次数，以便其他人可以继续使用该共享令牌。
 
@@ -116,4 +120,4 @@ API 身份验证是一种身份验证形式，用于控制对服务的访问权�
 
 ## 想要了解详情？ 我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
