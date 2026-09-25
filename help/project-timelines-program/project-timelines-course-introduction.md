@@ -30,4 +30,4 @@ ht-degree: 62%
 
 在该视频中，您会了解到在 [!DNL &#x200B; Workfront] 中构建和管理项目时间线时会使用哪些元素（例如日期类型和任务限制）。
 
->[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3436750/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

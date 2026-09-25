@@ -47,7 +47,7 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 * 使用场景设计器
 * 创建基本场景
 
->[!VIDEO](https://video.tv.adobe.com/v/335261/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3415971/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 **在试用实例中创建OAuth应用程序集成时，在“重定向URL”字段中粘贴以下URL**
 

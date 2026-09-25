@@ -41,4 +41,4 @@ JSON（JavaScript 对象表示法）是一种用于存储和交换数据的流�
 * 如何读取 JSON 以及如何将其转换为在您的场景中使用的数据
 * 创建、更改和使用 JSON 时如何使用 JSON 模块
 
->[!VIDEO](https://video.tv.adobe.com/v/335300/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3418104/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

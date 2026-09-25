@@ -24,4 +24,4 @@ ht-degree: 70%
 
 在本视频中，您将会了解到在具有审阅许可证的情况下如何使用 [!DNL &#x200B; Workfront]。
 
->[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3438696/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

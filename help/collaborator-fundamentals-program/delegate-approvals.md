@@ -28,7 +28,7 @@ ht-degree: 100%
 * 结束委托期限
 * 查看已委托的审批任务
 
->[!VIDEO](https://video.tv.adobe.com/v/336094/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3446386/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 learn more URLS

@@ -37,4 +37,4 @@ ht-degree: 69%
 
 * 执行历史记录可帮助您支持 Workfront Fusion 并对其进行故障排除
 
->[!VIDEO](https://video.tv.adobe.com/v/335282/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3417307/?captions=chi_hans&quality=12&learn=on&enablevpops=1)

@@ -32,4 +32,4 @@ ht-degree: 70%
 
 在本视频中，了解[!DNL &#x200B; Workfront]请求队列如何集中需求管理。
 
->[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3437600/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
