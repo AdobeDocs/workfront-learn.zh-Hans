@@ -124,7 +124,7 @@ Blueprint 和电子表格均按主题进行组织（而不是按时间线），�
 </br>
 
 其他信息如下：
-* [网络研讨会：接管继承实例的提示](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873)
+* [网络研讨会：接管继承实例的提示](https://experienceleaguecommunities.adobe.com/t5/workfront-discussions/webinar-system-admin-essentials-tips-for-taking-over-an-existing/td-p/571873?profile.language=zh-Hans)
 * [定义Workfront实施的目标](https://experienceleague.adobe.com/docs/workfront/using/administration-and-setup/get-started-administration/define-wf-goals-objectives.html?lang=zh-Hans)
-* [博客帖子：管理层支持与领导力价值](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353)
-* [博客帖子：Adobe Workfront KPI简介](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001)
+* [博客帖子：管理层支持与领导力价值](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/customer-success-tips-executive-sponsorship-and-value-to/ba-p/518353?profile.language=zh-Hans)
+* [博客帖子：Adobe Workfront KPI简介](https://experienceleaguecommunities.adobe.com/t5/workfront-blogs/kpi-dashboards-in-the-new-workfront-experience-introduction-to/ba-p/549001?profile.language=zh-Hans)
