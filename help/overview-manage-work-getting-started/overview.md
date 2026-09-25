@@ -13,31 +13,36 @@ mini-toc-levels: 1
 recommendations: noDisplay,catalog
 index: true
 exl-id: 6cb8465a-f59a-41b9-a043-0f76b71980a3
+autotag-review: '2026-05-06T14:34:02.499Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:34:02.499Z'
-source-git-commit: b150105844a42e06f5e96f787ad62a1b62185f91
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1024
+source-wordcount: '1024'
 ht-degree: 6%
-
 ---
-
 # 管理工作 — 快速入门 {#overview}
 
 通过学习创建和计划项目来开始您的 Workfront 历程。 Workfront 建议您一切从简。
 
 在本教程中，您将了解如何创建项目、计划项目、管理项目以及关闭项目。
 
-完成本教程后，我们建议[管理工作 — 中级](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html?lang=zh-Hans)以进一步提升项目管理技能。
+完成本教程后，我们建议[管理工作 — 中级](https://experienceleague.adobe.com/docs/workfront-learn/manage-work-intermediate/overview.html)以进一步提升项目管理技能。
 
 >[!PREREQUISITES]
 >

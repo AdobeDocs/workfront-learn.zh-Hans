@@ -1,6 +1,6 @@
 ---
 title: 访问以前的版本演练
-description: 了解如何在对场景进行更改并将其保存在  [!DNL Adobe Workfront Fusion] 中后恢复以前的版本。
+description: 了解在您对方案进行更改并将更改保存在[!DNL Adobe Workfront Fusion]中后如何恢复以前的版本。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -12,24 +12,26 @@ exl-id: dd2cc2a2-e5af-41cc-bc0d-6be1efd996d9
 last-substantial-update: '2026-08-12T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:39:17.503Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:39:17.503Z'
-source-git-commit: 4b419797e3014599bffd64f576d8eeb196c8c153
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 280
-ht-degree: 72%
-
+source-wordcount: '280'
+ht-degree: 65%
 ---
-
 # 访问以前的版本演练
 
 在此视频中，您将：
@@ -40,7 +42,7 @@ ht-degree: 72%
 
 Workfront 建议先观看练习演练视频，然后再尝试在您自己的环境中重新创建练习。
 
->[!VIDEO](https://video.tv.adobe.com/v/3416533/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/335268/?quality=12&learn=on&enablevpops=1)
 
 >[!NOTE]
 >
@@ -70,4 +72,4 @@ Workfront 建议先观看练习演练视频，然后再尝试在您自己的环�
 
 ## 想要了解详情？ 我们建议查看以下内容：
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)

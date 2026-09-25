@@ -6,32 +6,44 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10919
 exl-id: 17cd2e49-ee16-4b80-a8b2-ccc254fa8014
-TQID: https://experienceleague.adobe.com/YgDpAAcQTEDQh-Q1iOV8lledME9-M3bfjV3A5Yu6A2s
+TQID: 'https://experienceleague.adobe.com/YgDpAAcQTEDQh-Q1iOV8lledME9-M3bfjV3A5Yu6A2s'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
+  - id: d5896d07-2812-5418-8b18-8957a0d7f0fb
+    internal-label: System Setup and Administration
 subfeature_v2:
   - id: b91c0848-76c4-4da4-8b81-3aade0518dd0
+    internal-label: Tasks
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Administration
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 1841
+source-wordcount: '1841'
 ht-degree: 97%
-
 ---
-
 # 最佳实践 - 项目模板
 
 ## 什么是 Adobe Workfront 的“最佳实践”？
@@ -127,7 +139,7 @@ ht-degree: 97%
 
 对特定项目的访问权限是通过项目本身授予的。 如果同一组人员始终需要访问使用特定模板创建的项目，请将他们添加到模板上的“项目共享”选项下。 您不仅可以在项目创建后立即控制对项目的访问，而且如果将来需要更改权限，这还可以简化可扩展性工作。
 
-有关如何共享使用模板创建的项目的说明，请参阅[共享项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html?lang=zh-Hans)中标记为“如何共享使用模板创建的项目”的章节。
+有关如何共享使用模板创建的项目的说明，请参阅[共享项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/share-a-project-template.html)中标记为“如何共享使用模板创建的项目”的章节。
 
 **注释**：模板共享可授予对模板本身的访问权限。 用户必须至少具有查看权限才能使用模板创建项目。
 
@@ -196,7 +208,7 @@ ht-degree: 97%
 
 当使用模板将请求转化为项目时，附加与请求自定义表单匹配的项目自定义表单，以提取提交的信息。
 
-有关如何将自定义表单附加到项目模板等对象的说明，请参阅[将自定义表单附加到对象](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html?lang=zh-Hans)。
+有关如何将自定义表单附加到项目模板等对象的说明，请参阅[将自定义表单附加到对象](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/custom-data/custom-forms/custom-forms-using-a-custom-form.html)。
 
 </br>
 </br>
@@ -209,7 +221,7 @@ ht-degree: 97%
 
 随着流程和团队的变化，应该对项目模板进行更新。 建立定期的节奏（例如每季度一次）来检查并查看哪些模板没有得到积极使用。 您可以停用这些模板，这样它们会在 Workfront 中保留，但不会出现在模板选择列表中。
 
-有关如何停用项目模板的说明，请参阅[停用项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html?lang=zh-Hans)。
+有关如何停用项目模板的说明，请参阅[停用项目模板](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/deactivate-a-project-template.html)。
 
 </br>
 </br>
@@ -251,7 +263,7 @@ ht-degree: 97%
 
 在项目中混合不同的任务限制可能会导致意外且混乱的规划日期计算。 例如，当为“计划模式”选项选择“开始日期”时，默认情况下，会为该项目中创建的任何任务分配“尽快”的任务限制。 如果您稍后将“计划模式”选项切换为“完成日期”，则默认情况下所创建的任何任务都具有“尽可能晚”的任务限制。 无意中将带有这些限制的任务混合在一起可能会导致人们混淆项目时间线中的规划日期。
 
-要更好地了解任务限制以及如何使用它们，请参阅[了解和管理持续时间类型和任务限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html?lang=zh-Hans)。
+要更好地了解任务限制以及如何使用它们，请参阅[了解和管理持续时间类型和任务限制](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/intermediate-projects/understand-and-manage-duration-types-and-task-constraints.html)。
 
 </br>
 </br>
@@ -266,4 +278,4 @@ ht-degree: 97%
 
 所有这些用户都会在项目的“人员”和“计划”部分中列为项目团队的一部分。 因此，他们会被传递至从该模板创建的所有项目。 这可能会导致用户感到困惑，因为作为项目团队的一部分，他们会收到有关项目活动的通知，在“我所在的项目”列表中看到该项目，并获得对该项目及其任务、问题和文档的访问权限。
 
-有关如何在项目模板中编辑项目团队的说明，请参阅[在项目模板中编辑项目团队](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html?lang=zh-Hans)。
+有关如何在项目模板中编辑项目团队的说明，请参阅[在项目模板中编辑项目团队](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/create-and-manage-project-templates/edit-the-project-team-in-a-project-template.html)。

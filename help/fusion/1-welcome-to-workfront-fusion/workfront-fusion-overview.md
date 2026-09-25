@@ -12,24 +12,26 @@ jira: KT-11035
 last-substantial-update: '2026-03-11T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 998abb57-baff-4ebb-bd90-c67a553ee8d7
+autotag-review: '2026-05-06T16:48:52.918Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:48:52.918Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 487
+source-wordcount: '487'
 ht-degree: 82%
-
 ---
-
 # Workfront Fusion 培训概述
 
 每个 Workfront Fusion 分区都包含多个教程，每个教程都介绍了在进入下一个教程之前需要了解的概念。 演练练习有助于您掌握大多数概念。
@@ -72,6 +74,6 @@ Workfront 不提供 Workfront Fusion 测试版。 要在完成这些教程时进
 
 我们提供的分步说明可以帮助您完成演练练习。
 
-[Workfront Fusion 文档](https://experienceleague.adobe.com/zh-hans/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
+[Workfront Fusion 文档](https://experienceleague.adobe.com/en/docs/workfront-fusion/using/get-started-with-fusion/understand-workfront-fusion/workfront-fusion-overview)
 
-您还可以在 [Workfront Fusion 2.0 社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2?profile.language=zh-Hans)中发布问题。
+您还可以在 [Workfront Fusion 2.0 社区](https://experienceleaguecommunities.adobe.com/t5/workfront-fusion-2-0/ct-p/workfront-fusion-2)中发布问题。

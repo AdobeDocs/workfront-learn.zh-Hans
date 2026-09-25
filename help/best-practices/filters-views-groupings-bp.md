@@ -6,27 +6,35 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10911
 exl-id: 845aa0b4-3fe9-4bc1-9dde-2f22c537e758
-TQID: https://experienceleague.adobe.com/hTZWn-fzcprOD-b7CU9k6JWfUh0VBCok2g8tG1c6fYE
+TQID: 'https://experienceleague.adobe.com/hTZWn-fzcprOD-b7CU9k6JWfUh0VBCok2g8tG1c6fYE'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+  - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Administration
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 846
+source-wordcount: '846'
 ht-degree: 100%
-
 ---
-
 # 最佳实践 - 过滤器、视图和分组
 
 ## 什么是 Adobe Workfront 的“最佳实践”？
@@ -67,9 +75,9 @@ ht-degree: 100%
 
 为您想要查看的每个数据段创建一次性使用的报告非常耗时，并且会使 Workfront 系统变得拥挤不堪。
 
-有关如何创建带提示的报告的说明，请参阅[了解报告设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html?lang=zh-Hans)视频中标有“如何设置和使用报告提示”的章节。
+有关如何创建带提示的报告的说明，请参阅[了解报告设置](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/report-settings.html)视频中标有“如何设置和使用报告提示”的章节。
 
-有关如何创建带有自定义提示的报告的说明，请参阅[创建自定义提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html?lang=zh-Hans)。
+有关如何创建带有自定义提示的报告的说明，请参阅[创建自定义提示](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/intermediate-reporting/custom-prompts.html)。
 
 </br>
 </br>
@@ -82,7 +90,7 @@ ht-degree: 100%
 
 少即是多。 隐藏与用户日常工作流无关的过滤器、视图和分组列表选项可以缩小列表范围，从而使用户更容易更快地找到他们需要的内容。
 
-有关如何使用布局模板隐藏过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hans)。
+有关如何使用布局模板隐藏过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)。
 
 </br>
 </br>
@@ -97,7 +105,7 @@ ht-degree: 100%
 
 通过布局模板自定义您希望用户可以看见的信息也可以节省系统和管理员的时间，因为他们不必单独共享每个过滤器、视图或分组选项。
 
-有关如何使用布局模板分享过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html?lang=zh-Hans)。
+有关如何使用布局模板分享过滤器、视图或分组的说明，请参阅[使用布局模板自定义报告列表](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/administration-and-setup/layout-templates/customize-reporting-lists-with-layout-templates.html)。
 
 </br>
 </br>

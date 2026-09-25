@@ -1,6 +1,6 @@
 ---
 title: 了解 [!UICONTROL Workfront Goals] 背后的愿景
-description: 了解产品团队带来的有关  [!DNL  Workfront]  中  [!DNL Workfront Goals]  的信息。
+description: 从产品团队了解[!DNL  Workfront]中的[!DNL Workfront Goals]。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,13 +10,26 @@ team: Technical Marketing
 jira: KT-8887
 exl-id: 42327448-227b-428f-93aa-6039db1291e5
 doc-type: video
-source-git-commit: 5d5934fdea7e3eaf69da3880b454f01ccee8c642
-workflow-type: ht
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
+subfeature_v2:
+  - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+workflow-type: tm+mt
 source-wordcount: '32'
-ht-degree: 100%
-
+ht-degree: 78%
 ---
-
 # 了解 Workfront Goals 背后的愿景
 
-该视频已被移除。请前往 [了解 Workfront 目标的工作原理](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)。
+该视频已被移除。 请前往 [了解 Workfront 目标的工作原理](/help/workfront-goals/establish-a-vision-for-your-org/understand-how-workfront-goals-works.md)。

@@ -9,23 +9,28 @@ activity: use
 team: Technical Marketing
 jira: KT-10180
 exl-id: 0f79dd8d-b7ce-4ee9-b211-23c8ed5d497c
-TQID: https://experienceleague.adobe.com/sN6HqoLl6N-asOtCSlZyKP6W0FSpT0C-7egQTlgAdkY
+TQID: 'https://experienceleague.adobe.com/sN6HqoLl6N-asOtCSlZyKP6W0FSpT0C-7egQTlgAdkY'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 479
+source-wordcount: '479'
 ht-degree: 100%
-
 ---
-
 # 休息时间如何影响项目时间线
 
 已分配用户的休息时间是否计入项目时间线取决于名为 [!UICONTROL User Time Off] 的项目设置。 此设置决定了项目中该任务的规划日期是否会随着该任务的主要受让人的休息时间而调整。

@@ -1,6 +1,6 @@
 ---
 title: 审阅并审批校对
-description: 了解如何访问和评论校样、使用标记来指示必要的更改、回复校样评论以及对  [!DNL Workfront] 内的校样作出决策。
+description: 了解如何在[!DNL Workfront]中访问和评论验证、使用标记指示必要的更改、回复验证评论以及做出验证决定。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -11,24 +11,31 @@ thumbnail: review-approve-digital-work.png
 jira: KT-8841
 exl-id: fd6e008c-a162-49fa-9f7e-ab7333165dad
 doc-type: video
+autotag-review: '2026-05-05T19:55:03.417Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:55:03.417Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 702
-ht-degree: 100%
-
+source-wordcount: '702'
+ht-degree: 96%
 ---
-
 # 审阅并审批校对
 
 在开始审阅校对之前，请确保您知道对您的期望是什么。 您在校对工作流中扮演什么角色？ 审阅校对、审批它，还是两者兼而有之？

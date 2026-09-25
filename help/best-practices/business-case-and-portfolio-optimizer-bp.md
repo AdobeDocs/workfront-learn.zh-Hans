@@ -6,22 +6,28 @@ role: Admin, Leader, User
 level: Beginner
 jira: KT-10904
 exl-id: 6928404e-52ba-4905-9377-295e80d79e27
-TQID: https://experienceleague.adobe.com/0m7HL1cXKtWUA6-cEOYgOvd3Z-WIQi7V39qPZjjxnng
+TQID: 'https://experienceleague.adobe.com/0m7HL1cXKtWUA6-cEOYgOvd3Z-WIQi7V39qPZjjxnng'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
+feature_v2:
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 36674ed53c8645f556862bb2d99f3bfd6c993c1e
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 488
+source-wordcount: '488'
 ht-degree: 100%
-
 ---
-
 # 最佳实践 - 业务案例和项目组合优化器
 
 ## 什么是 Adobe Workfront 的“最佳实践”？
@@ -60,7 +66,7 @@ ht-degree: 100%
 
 它还让您有机会向利益相关者展示您的项目如何为部门、区域和/或公司目标做出贡献。
 
-有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hans)。
+有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)。
 
 </br>
 </br>
@@ -73,7 +79,7 @@ ht-degree: 100%
 
 确保此信息与“真实”项目所需的信息尽可能接近，使您能够准确地使用项目组合优化器中的评分功能来确定列出的项目的优先级。 项目组合优化器是一个很好的工具，可以确保您的项目有效地确定优先级，并与您公司的战略和价值保持一致。
 
-有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html?lang=zh-Hans)。
+有关如何使用“商业案例”的说明，请参阅[了解商业案例](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/introduction-to-the-business-case.html)。
 
-有关如何使用项目组合优化器的说明，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html?lang=zh-Hans)。
+有关如何使用项目组合优化器的说明，请参阅[使用项目组合优化器确定工作的优先级并管理工作](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/manage-work/portfolios/prioritize-and-manage-work-with-portfolios.html)。
 

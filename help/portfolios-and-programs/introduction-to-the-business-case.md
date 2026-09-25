@@ -12,40 +12,45 @@ jira: KT-13836
 role: User
 level: Intermediate
 exl-id: febb7378-81d4-4348-ac57-e9c4756966c0
+autotag-review: '2026-05-06T14:30:40.425Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
+    internal-label: Work management
+  - id: 9e23143e-3f4f-5cbb-821d-095a63bee200
+    internal-label: Strategic Planning
 subfeature_v2:
   - id: f0dd7b45-76b5-49d4-afe3-39f436b6fbd3
+    internal-label: Projects
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-06T14:30:40.425Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 236
+source-wordcount: '236'
 ht-degree: 6%
-
 ---
-
 # 创建全面的业务案例
 
-此视频介绍了业务案例在项目管理中的重要性。 它强调，彻底填写业务案例有助于管理人员分析和优先处理竞争相同资源的项目。 完成&#x200B;后，提交业务案例会将项目状态更改为“已请求”，并计算其总体分数，以便在Portfolio优化工具中进行比较。 虽然&#x200B;这些字段都不是必填字段，但更详细的信息可改善决策。  
+此视频介绍了业务案例在项目管理中的重要性。 它强调，彻底填写业务案例有助于管理人员分析和优先处理竞争相同资源的项目。 完成&#x200B;后，提交业务案例会将项目状态更改为“已请求”，并计算其总体分数，以便在Portfolio优化工具中进行比较。 虽然&#x200B;这些字段都不是必填字段，但更详细的信息可改善决策。 &#x200B;
 
->[!VIDEO](https://video.tv.adobe.com/v/3442854/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3442843/?quality=12&learn=on&enablevpops=1)
 
 ## 关键要点
 
 该视频概述了业务案例的主要部分，包括：
 
-* **项目信息：**&#x200B;项目发起人和计划收益等常规详细信息，用于估计完成项目可能带来的财务收益。  
-* **费用：**&#x200B;影响预算成本和净值的非劳力成本，如差旅或展位租金。  
-* **资源预算：**&#x200B;从资源规划者拉取的人工估算，要求在Workfront中设置资源池。  
-* **风险：**&#x200B;识别风险，估计其成本和概率，并计算其对净值的影响。  
-* **记分卡：**&#x200B;使用系统管理员设置的预定义问题和值评估项目与项目组合目标的对齐情况的工具。  
-* **自定义Forms：**&#x200B;针对业务案例定制的可选表单。  
+* **项目信息：**&#x200B;项目发起人和计划收益等常规详细信息，用于估计完成项目可能带来的财务收益。 &#x200B;
+* **费用：**&#x200B;影响预算成本和净值的非劳力成本，如差旅或展位租金。 &#x200B;
+* **资源预算：**&#x200B;从资源规划者拉取的人工估算，要求在Workfront中设置资源池。 &#x200B;
+* **风险：**&#x200B;识别风险，估计其成本和概率，并计算其对净值的影响。 &#x200B;
+* **记分卡：**&#x200B;使用系统管理员设置的预定义问题和值评估项目与项目组合目标的对齐情况的工具。 &#x200B;
+* **自定义Forms：**&#x200B;针对业务案例定制的可选表单。 &#x200B;
 
 
 ## 有关此主题的推荐教程

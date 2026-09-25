@@ -1,6 +1,6 @@
 ---
 title: 了解校样细节
-description: 通过摘要面板和 [!UICONTROL Document Details] 页面，深入了解  [!DNL &#x200B; Workfront]  中校样背后的细节。
+description: 通过摘要面板和[!UICONTROL Document Details]页面，在[!DNL  Workfront]中更深入地了解验证背后的详细信息。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -10,24 +10,29 @@ level: Beginner
 thumbnail: understand-proof-details.png
 jira: KT-10110
 exl-id: 196f9318-eced-4825-b0fd-8592b6cb3403
+autotag-review: '2026-05-05T19:56:45.995Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-05T19:56:45.995Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 942
-ht-degree: 97%
-
+source-wordcount: '943'
+ht-degree: 95%
 ---
-
 # 了解校样细节
 
 ## 查看校样细节
@@ -58,7 +63,7 @@ ht-degree: 97%
 
 这将带您进入 [!UICONTROL Document Details] 页面，左侧面板中将显示各种附加选项。
 
-![[!DNL &#x200B; Workfront] 中校样页面的图像。](assets/document-details.png)
+![[!DNL  Workfront] 中校样页面的图像。](assets/document-details.png)
 
 需要注意的是，能否查看与校对过程相关的信息取决于您在 [!DNL Workfront] 中的校对权限。
 

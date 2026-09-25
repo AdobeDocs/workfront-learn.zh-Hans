@@ -1,6 +1,6 @@
 ---
-title: 通过与  [!DNL Jira]  集成创建可见性
-description: 了解  [!DNL Jira]  集成如何帮助您了解您的团队正在进行的工作。
+title: 通过与 [!DNL Jira] 集成创建可见性
+description: 大致了解[!DNL Jira]集成如何创建对团队所执行操作的可见性。
 activity: use
 feature: Workfront Integrations and Apps
 type: Tutorial
@@ -9,24 +9,29 @@ level: Beginner
 team: Technical Marketing
 jira: KT-10068
 exl-id: aad18a8c-f782-4122-89d5-0d9935ed4ff4
+autotag-review: '2026-05-06T16:03:35.649Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: f48b5020-b9cd-4d99-bc6e-42c35e90c1f8
+    internal-label: Integrations
+  - id: a1f87682-0525-5459-aa06-3560bb4c3b2a
+    internal-label: Workfront Integrations and Apps
 subfeature_v2:
   - id: b8ea32d4-f1fe-4c71-8871-afe5a702a009
+    internal-label: Adobe Workfront for Jira
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:03:35.649Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 373
-ht-degree: 100%
-
+source-wordcount: '374'
+ht-degree: 95%
 ---
-
 # 通过与 [!DNL Jira] 集成创建可见性
 
 [!DNL Jira] 是一款开发和技术支持团队用来跟踪项目和问题的产品。 虽然许多团队使用 Jira 来跟踪任务级别进度，但他们使用 [!DNL Workfront] 来进行真正的项目管理，因为他们可以由此获得高级进度视图。 有了 [!DNL Jira] 原生集成，这些信息便可以在两个应用程序之间自动传输。

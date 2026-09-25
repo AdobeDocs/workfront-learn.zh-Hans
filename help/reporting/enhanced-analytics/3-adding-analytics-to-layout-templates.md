@@ -13,24 +13,29 @@ last-substantial-update: '2024-04-02T00:00:00.000Z'
 recommendations: noDisplay,catalog
 exl-id: 4bdff3ba-772f-4526-ab6b-8428f695d9a2
 doc-type: video
+autotag-review: '2026-05-06T14:08:00.924Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+    internal-label: Enhanced analytics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:08:00.924Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 145
+source-wordcount: '145'
 ht-degree: 100%
-
 ---
-
 # 如何访问已优化的分析
 
 与 Workfront 中的大多数其他功能一样，您可以从主菜单访问 [!UICONTROL Enhanced analytics]。 但默认情况下，[!UICONTROL Analytics] 不在主菜单上。
