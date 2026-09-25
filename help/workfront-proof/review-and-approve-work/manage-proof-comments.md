@@ -1,6 +1,6 @@
 ---
 title: 管理校样评论
-description: 了解如何通过应用评论操作、解析评论和筛选评论列来管理[!DNL  Workfront]中的校对评论。
+description: 了解如何通过应用评论操作、解析评论和筛选评论列来管理[!DNL &#x200B; Workfront]中的校对评论。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

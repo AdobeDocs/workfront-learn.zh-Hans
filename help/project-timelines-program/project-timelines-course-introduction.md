@@ -1,6 +1,6 @@
 ---
 title: 项目时间线简介
-description: 了解在[!DNL  Workfront]中生成和管理项目时间表时使用了哪些元素，如日期类型和任务约束。
+description: 了解在[!DNL &#x200B; Workfront]中生成和管理项目时间表时使用了哪些元素，如日期类型和任务约束。
 activity: use
 feature: Work Management
 type: Tutorial
@@ -28,6 +28,6 @@ ht-degree: 62%
 ---
 # 项目时间线：课程介绍
 
-在该视频中，您会了解到在 [!DNL  Workfront] 中构建和管理项目时间线时会使用哪些元素（例如日期类型和任务限制）。
+在该视频中，您会了解到在 [!DNL &#x200B; Workfront] 中构建和管理项目时间线时会使用哪些元素（例如日期类型和任务限制）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335212/?quality=12&learn=on&enablevpops=1)

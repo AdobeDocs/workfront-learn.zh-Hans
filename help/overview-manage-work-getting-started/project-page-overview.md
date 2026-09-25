@@ -1,6 +1,6 @@
 ---
 title: 了解项目页面
-description: 了解[!DNL  Workfront]中项目页面的主要功能，以帮助您规划和管理项目。
+description: 了解[!DNL &#x200B; Workfront]中项目页面的主要功能，以帮助您规划和管理项目。
 activity: use
 team: Technical Marketing
 feature: Work Management

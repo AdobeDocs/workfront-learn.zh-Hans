@@ -1,6 +1,6 @@
 ---
 title: 了解校样细节
-description: 通过摘要面板和[!UICONTROL Document Details]页面，在[!DNL  Workfront]中更深入地了解验证背后的详细信息。
+description: 通过摘要面板和[!UICONTROL Document Details]页面，在[!DNL &#x200B; Workfront]中更深入地了解验证背后的详细信息。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -63,7 +63,7 @@ ht-degree: 95%
 
 这将带您进入 [!UICONTROL Document Details] 页面，左侧面板中将显示各种附加选项。
 
-![[!DNL  Workfront] 中校样页面的图像。](assets/document-details.png)
+![[!DNL &#x200B; Workfront] 中校样页面的图像。](assets/document-details.png)
 
 需要注意的是，能否查看与校对过程相关的信息取决于您在 [!DNL Workfront] 中的校对权限。
 

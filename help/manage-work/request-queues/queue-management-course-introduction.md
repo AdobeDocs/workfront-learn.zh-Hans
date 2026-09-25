@@ -1,6 +1,6 @@
 ---
 title: 队列管理课程简介
-description: 了解[!DNL  Workfront]请求队列如何集中进行需求管理。
+description: 了解[!DNL &#x200B; Workfront]请求队列如何集中进行需求管理。
 activity: deploy
 feature: Work Management
 type: Tutorial
@@ -30,6 +30,6 @@ ht-degree: 70%
 ---
 # 队列管理课程简介
 
-在本视频中，了解[!DNL  Workfront]请求队列如何集中需求管理。
+在本视频中，了解[!DNL &#x200B; Workfront]请求队列如何集中需求管理。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335219/?quality=12&learn=on&enablevpops=1)

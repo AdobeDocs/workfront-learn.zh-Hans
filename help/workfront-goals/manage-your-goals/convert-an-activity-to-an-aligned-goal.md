@@ -1,6 +1,6 @@
 ---
 title: 将活动转化为一致目标
-description: 了解如何在[!DNL   Goals]中将活动或结果转换为对齐的目标。
+description: 了解如何在[!DNL &#x200B;  Goals]中将活动或结果转换为对齐的目标。
 activity: use
 feature: Workfront Goals
 type: Tutorial

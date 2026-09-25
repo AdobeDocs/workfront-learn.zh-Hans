@@ -1,6 +1,6 @@
 ---
 title: 访问 [!UICONTROL Scenario Planner] 中的计划
-description: 了解用户需要哪些[!DNL  Workfront]权限才能访问[!UICONTROL Scenario Planner]中的计划。
+description: 了解用户需要哪些[!DNL &#x200B; Workfront]权限才能访问[!UICONTROL Scenario Planner]中的计划。
 feature: Resource Management
 type: Tutorial
 role: Leader, User

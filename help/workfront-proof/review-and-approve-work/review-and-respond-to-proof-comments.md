@@ -1,6 +1,6 @@
 ---
 title: 审阅并回复校对评论
-description: 了解如何从验证查看器和[!DNL  Workfront]的[!UICONTROL Updates]部分查看和响应验证评论。
+description: 了解如何从验证查看器和[!DNL &#x200B; Workfront]的[!UICONTROL Updates]部分查看和响应验证评论。
 activity: use
 feature: Workfront Proof
 type: Tutorial

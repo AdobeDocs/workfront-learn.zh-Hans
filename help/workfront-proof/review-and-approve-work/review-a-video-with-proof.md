@@ -1,6 +1,6 @@
 ---
 title: 审阅具有校对的视频
-description: 了解如何使用[!DNL  Workfront]中的校对调整查看器设置并向视频添加带有时间戳的评论。
+description: 了解如何使用[!DNL &#x200B; Workfront]中的校对调整查看器设置并向视频添加带有时间戳的评论。
 activity: use
 feature: Workfront Proof
 type: Tutorial

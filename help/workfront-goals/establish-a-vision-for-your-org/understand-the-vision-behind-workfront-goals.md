@@ -1,6 +1,6 @@
 ---
 title: 了解 [!UICONTROL Workfront Goals] 背后的愿景
-description: 从产品团队了解[!DNL  Workfront]中的[!DNL Workfront Goals]。
+description: 从产品团队了解[!DNL &#x200B; Workfront]中的[!DNL Workfront Goals]。
 activity: use
 feature: Workfront Goals
 type: Tutorial

@@ -1,6 +1,6 @@
 ---
 title: 作为项目时间线的一部分的校样工作流
-description: 了解在[!DNL  Workfront]中混合审阅和批准流程与项目时间线的建议。
+description: 了解在[!DNL &#x200B; Workfront]中混合审阅和批准流程与项目时间线的建议。
 activity: use
 feature: Workfront Proof
 type: Tutorial

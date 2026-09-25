@@ -1,6 +1,6 @@
 ---
 title: 了解校对的益处
-description: 了解什么是验证以及在[!DNL  Workfront]中使用数字验证的好处。
+description: 了解什么是验证以及在[!DNL &#x200B; Workfront]中使用数字验证的好处。
 activity: use
 feature: Workfront Proof,Get Started with Workfront
 type: Tutorial
@@ -45,7 +45,7 @@ ht-degree: 92%
 
 ## 校对术语
 
-在深入研究 [!DNL  Workfront] 中的校样设置之前，请先熟悉所使用的特定于校样的术语。 您会看到本教程中会频繁使用这些术语。
+在深入研究 [!DNL &#x200B; Workfront] 中的校样设置之前，请先熟悉所使用的特定于校样的术语。 您会看到本教程中会频繁使用这些术语。
 
 * **校样：**&#x200B;可以通过 [!DNL Workfront's] 校样查看器审阅、标记和审批的文件的数字版本。
 * **校样工作流——**&#x200B;在 [!DNL Workfront] 中创建、路由和管理校样的过程。 完成这些操作所遵循的步骤。

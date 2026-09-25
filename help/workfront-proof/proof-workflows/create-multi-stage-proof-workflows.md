@@ -1,6 +1,6 @@
 ---
 title: 自动工作流入门
-description: 了解[!DNL  Workfront]中的自动验证工作流及其与基本工作流有何不同。
+description: 了解[!DNL &#x200B; Workfront]中的自动验证工作流及其与基本工作流有何不同。
 feature: Workfront Proof
 type: Tutorial
 role: User, Admin

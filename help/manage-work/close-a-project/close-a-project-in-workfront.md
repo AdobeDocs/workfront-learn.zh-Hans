@@ -1,6 +1,6 @@
 ---
 title: 关闭项目
-description: 了解在[!DNL  Workfront]中关闭某个项目之前，需要查看哪些信息，以及更新该项目中的数据为什么很重要。
+description: 了解在[!DNL &#x200B; Workfront]中关闭某个项目之前，需要查看哪些信息，以及更新该项目中的数据为什么很重要。
 activity: use
 feature: Work Management
 thumbnail: 335096.jpeg

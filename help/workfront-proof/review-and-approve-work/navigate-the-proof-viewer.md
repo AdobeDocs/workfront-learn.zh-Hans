@@ -1,6 +1,6 @@
 ---
 title: 浏览校样查看器
-description: 了解如何在[!DNL  Workfront]校对查看器中移动校对、放大/缩小内容、使用缩略图列、过滤校对评论等。
+description: 了解如何在[!DNL &#x200B; Workfront]校对查看器中移动校对、放大/缩小内容、使用缩略图列、过滤校对评论等。
 activity: use
 feature: Workfront Proof
 type: Tutorial

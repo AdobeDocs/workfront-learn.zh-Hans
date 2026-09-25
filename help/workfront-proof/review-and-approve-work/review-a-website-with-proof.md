@@ -1,6 +1,6 @@
 ---
 title: 审阅带有校对的网站
-description: 了解如何在[!DNL  Workfront]中打开静态或交互式网站验证并进行评论。
+description: 了解如何在[!DNL &#x200B; Workfront]中打开静态或交互式网站验证并进行评论。
 activity: use
 feature: Workfront Proof
 type: Tutorial

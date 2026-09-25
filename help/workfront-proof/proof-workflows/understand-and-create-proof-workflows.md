@@ -1,6 +1,6 @@
 ---
 title: 了解作为项目时间线的一部分的校样工作流
-description: 了解创建验证工作流要收集哪些信息，以及[!DNL  Workfront]中的基本验证工作流和高级验证工作流之间的区别。
+description: 了解创建验证工作流要收集哪些信息，以及[!DNL &#x200B; Workfront]中的基本验证工作流和高级验证工作流之间的区别。
 activity: use
 feature: Workfront Proof
 type: Tutorial

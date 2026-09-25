@@ -1,6 +1,6 @@
 ---
 title: 面向审阅者的 [!DNL Workfront] 简介
-description: 了解拥有审阅许可证的用户如何使用[!DNL  Workfront]。
+description: 了解拥有审阅许可证的用户如何使用[!DNL &#x200B; Workfront]。
 activity: use
 type: Tutorial
 team: Technical Marketing
@@ -22,6 +22,6 @@ ht-degree: 70%
 ---
 # 面向审阅者的 [!DNL Workfront] 简介
 
-在本视频中，您将会了解到在具有审阅许可证的情况下如何使用 [!DNL  Workfront]。
+在本视频中，您将会了解到在具有审阅许可证的情况下如何使用 [!DNL &#x200B; Workfront]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335106/?quality=12&learn=on&enablevpops=1)

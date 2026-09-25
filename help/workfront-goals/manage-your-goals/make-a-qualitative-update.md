@@ -1,6 +1,6 @@
 ---
 title: 在[!DNL Workfront Goals]中进行定性更新
-description: 了解如何在[!DNL   Goals]中进行定性或书面更新。
+description: 了解如何在[!DNL &#x200B;  Goals]中进行定性或书面更新。
 activity: use
 feature: Workfront Goals
 type: Tutorial

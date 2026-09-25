@@ -1,6 +1,6 @@
 ---
 title: 从项目时间线跟踪进度
-description: 了解如何使用完成百分比、状态、分配或约束从[!DNL  Workfront]中的项目时间线跟踪工作进度。
+description: 了解如何使用完成百分比、状态、分配或约束从[!DNL &#x200B; Workfront]中的项目时间线跟踪工作进度。
 activity: use
 team: Technical Marketing
 feature: Work Management

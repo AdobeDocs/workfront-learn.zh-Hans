@@ -45,5 +45,5 @@ ht-degree: 76%
 
 >[!NOTE]
 >
->有关如何配置 [!UICONTROL Workfront for Slack] 的信息，请参阅[ Adobe Workfront for Slack。](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=zh-Hans)
+>有关如何配置 [!UICONTROL Workfront for Slack] 的信息，请参阅[&#x200B; Adobe Workfront for Slack。](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-slack/use-workfront-for-slack.html?lang=zh-Hans)
 

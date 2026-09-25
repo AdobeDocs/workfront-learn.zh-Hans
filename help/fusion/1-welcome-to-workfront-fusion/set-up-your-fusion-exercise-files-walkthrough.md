@@ -36,7 +36,7 @@ ht-degree: 71%
 
 了解如何设置 Fusion 练习文件。
 
-1. 下载[ Fusion 练习文件。](/help/assets/fusion-exercise-files.zip)
+1. 下载[&#x200B; Fusion 练习文件。](/help/assets/fusion-exercise-files.zip)
 
 1. 观看该视频，了解如何将这些文件上传到 Workfront 中的文件夹中。
 

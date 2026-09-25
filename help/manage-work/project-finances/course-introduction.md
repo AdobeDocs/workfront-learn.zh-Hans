@@ -1,6 +1,6 @@
 ---
 title: 课程简介
-description: 了解如何在[!DNL  Workfront]中使用项目的预算、跟踪成本和收入以及处理费用。
+description: 了解如何在[!DNL &#x200B; Workfront]中使用项目的预算、跟踪成本和收入以及处理费用。
 activity: use
 feature: Work Management
 type: Tutorial

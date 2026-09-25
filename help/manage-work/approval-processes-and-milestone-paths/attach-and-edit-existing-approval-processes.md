@@ -1,6 +1,6 @@
 ---
 title: 附加和编辑现有审批流程
-description: 了解如何在[!DNL  Workfront]中使用和编辑项目、任务或问题的现有审批流程。
+description: 了解如何在[!DNL &#x200B; Workfront]中使用和编辑项目、任务或问题的现有审批流程。
 activity: use
 feature: Approvals
 thumbnail: 335226.jpeg

@@ -1,6 +1,6 @@
 ---
 title: 使用布局模板自定义对象区域
-description: 了解如何使用布局模板在[!DNL  Workfront]的左侧面板菜单中添加、删除和重新排列项。
+description: 了解如何使用布局模板在[!DNL &#x200B; Workfront]的左侧面板菜单中添加、删除和重新排列项。
 feature: System Setup and Administration
 activity: deploy
 team: Technical Marketing

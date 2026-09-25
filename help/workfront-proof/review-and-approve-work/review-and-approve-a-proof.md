@@ -50,7 +50,7 @@ ht-degree: 96%
 
 当资源准备好接受审阅和审批时，您将会收到电子邮件通知。
 
-![一封要求对 [!DNL  Workfront] 中的两份校对进行审阅和审批的新校对电子邮件的图像。](assets/new-proof-emails.png)
+![一封要求对 [!DNL &#x200B; Workfront] 中的两份校对进行审阅和审批的新校对电子邮件的图像。](assets/new-proof-emails.png)
 
 请务必注意，此校样链接对于您来说是独一无二的。 如果您与某人分享该链接，他们所做的任何评论和标记都将标有您的名字。
 
@@ -81,7 +81,7 @@ ht-degree: 96%
 
 如果您通常在 [!DNL Workfront] 中处理项目、任务或问题，您可能更喜欢直接从该项目的 [!DNL Documents] 部分打开校样。
 
-![突出显示了 [!UICONTROL Open Proof] 链接的 [!DNL  Workfront] 任务中的 [!UICONTROL Documents] 部分的图像。](assets/open-proof-from-documents.png)
+![突出显示了 [!UICONTROL Open Proof] 链接的 [!DNL &#x200B; Workfront] 任务中的 [!UICONTROL Documents] 部分的图像。](assets/open-proof-from-documents.png)
 
 1. 单击项目、任务或问题的名称。
 2. 单击项目页面的左侧面板菜单中的 [!UICONTROL Documents]。
