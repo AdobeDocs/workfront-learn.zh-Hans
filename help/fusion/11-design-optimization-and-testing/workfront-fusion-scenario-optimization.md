@@ -1,6 +1,6 @@
 ---
 title: Workfront Fusion 场景优化
-description: 了解如何减少执行的操作、减少发送的 API 调用以及减少使用的模块，一切尽在  [!DNL Adobe Workfront Fusion]。
+description: 了解如何在[!DNL Adobe Workfront Fusion]中执行更少的操作、发送更少的API调用和使用更少的模块。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9071
 exl-id: b0613d86-9eed-46a9-bc31-6ad406382047
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:47:30.451Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:47:30.451Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 176
-ht-degree: 90%
-
+source-wordcount: '176'
+ht-degree: 81%
 ---
-
 # Workfront Fusion 场景优化
 
 什么是“场景优化”，以及您可以采取哪些措施来优化您的场景？

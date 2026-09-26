@@ -1,6 +1,6 @@
 ---
-title: 在  [!DNL Workfront Goals] 中查看个人目标更新
-description: 了解如何在 [!DNL   Goals] 中的 [!UICONTROL Pulse] 更新流中查看您的个人目标。
+title: 在[!DNL Workfront Goals]中查看各个目标更新
+description: 了解如何在[!DNL &#x200B;  Goals]的[!UICONTROL Pulse]更新流中查看您的各个目标。
 activity: use
 feature: Workfront Goals
 type: Tutorial
@@ -10,21 +10,26 @@ team: Technical Marketing
 jira: KT-8928
 exl-id: 47029e66-a533-4165-a458-54665d82bfd9
 doc-type: video
+product_v2:
+  - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: d968a1bc-9a90-4926-a531-bcf272c32aad
+    internal-label: Administration
 subfeature_v2:
   - id: fceb5125-bb41-419a-b0db-31958cb42f6c
+    internal-label: Workfront Goals
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 1f0dff02462d4c11075064f6ad7e2adb8b97c40b
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 278
-ht-degree: 100%
-
+source-wordcount: '279'
+ht-degree: 93%
 ---
-
 # 查看个人目标更新
 
 在本视频中，您将学习如何：

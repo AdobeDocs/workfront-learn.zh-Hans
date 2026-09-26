@@ -11,24 +11,29 @@ level: Beginner
 jira: KT-10027
 recommendations: noDisplay,catalog
 exl-id: 26c071bf-fe79-42f8-8677-4e172377483a
+autotag-review: '2026-05-06T14:09:48.727Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: c6dd2ac5-f5bd-4e59-9101-25b156918623
+    internal-label: Reports and dashboards
+  - id: c042179c-157b-516d-b27c-e3bf303e8567
+    internal-label: Get Started with Workfront
 subfeature_v2:
   - id: db1e0ccb-6619-410a-84d6-6b80ac783274
+    internal-label: Enhanced analytics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T14:09:48.727Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 276
+source-wordcount: '276'
 ht-degree: 100%
-
 ---
-
 # 开始使用 [!UICONTROL Enhanced analytics]
 
 增强的 Analytics 可以在 Workfront 中向您展示您的团队和项目的进展情况，以及此前项目中发生的情况，您可以从中学习，从而帮助规划未来的项目。

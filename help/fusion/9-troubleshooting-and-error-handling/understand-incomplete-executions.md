@@ -1,6 +1,6 @@
 ---
 title: 了解未完成的执行
-description: 了解什么是未完成的执行，以及如何处理在  [!DNL Adobe Workfront Fusion] 中导致未完成执行的错误。
+description: 了解执行不完整的含义以及如何处理导致[!DNL Adobe Workfront Fusion]中未完成执行的错误。
 activity: use
 team: Technical Marketing
 type: Tutorial
@@ -11,24 +11,26 @@ jira: KT-9066
 exl-id: 3b7bf669-4736-4ba5-bcec-0d3fe0b2ce74
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:07:51.152Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:07:51.152Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 280
-ht-degree: 93%
-
+source-wordcount: '280'
+ht-degree: 87%
 ---
-
 # 了解未完成的执行
 
 未完成的执行可以存储在 Workfront Fusion 中，稍后可以在那里对其进行审阅和解决。 了解如何利用这个精彩的功能。

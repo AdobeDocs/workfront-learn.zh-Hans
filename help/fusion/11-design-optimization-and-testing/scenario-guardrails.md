@@ -1,6 +1,6 @@
 ---
 title: 场景护栏
-description: 了解场景护栏、模块护栏、文件护栏和 Webhook 护栏，一切尽在  [!DNL Adobe Workfront Fusion]。
+description: 了解[!DNL Adobe Workfront Fusion]中的场景护栏、模块护栏、文件护栏和webhook护栏。
 short-description: 由于长时间运行的场景可能会减慢您的工作节奏，因此 Workfront Fusion 在设计时采用了性能保护护栏，可限制执行时间、数据大小和其他场景参数
 activity: use
 team: Technical Marketing
@@ -12,24 +12,26 @@ jira: KT-9072
 exl-id: 8d873fa6-20fb-418b-9e4e-dce59a98cd1c
 recommendations: noDisplay,catalog
 doc-type: video
+autotag-review: '2026-05-06T16:46:42.716Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: a0dacc9f-0e23-495b-8e9f-a77c2e60b40c
-subfeature_v2:
+    internal-label: Work management
   - id: c3a155b4-a54b-4a82-a3d2-c8f0f971673e
+    internal-label: Workfront Fusion
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T16:46:42.716Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
 workflow-type: tm+mt
-source-wordcount: 171
-ht-degree: 87%
-
+source-wordcount: '171'
+ht-degree: 79%
 ---
-
 # 场景护栏
 
 工作自动化需要快速处理，因此 Workfront Fusion 专为高性能而设计。 由于长时间运行的场景可能会减慢您的工作节奏，因此 Workfront Fusion 在设计时采用了性能保护护栏，可限制执行时间、数据大小和其他场景参数。 Workfront Fusion 场景设计者应该了解这些护栏并将其纳入设计实践中。
