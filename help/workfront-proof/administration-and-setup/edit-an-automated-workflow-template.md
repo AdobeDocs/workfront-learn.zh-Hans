@@ -1,6 +1,6 @@
 ---
 title: 编辑自动化工作流模板
-description: 了解如何在  [!DNL  Workfront] 中更改现有的自动校对工作流模板。
+description: 了解如何在[!DNL &#x200B; Workfront]中更改现有的自动验证工作流模板。
 activity: use
 feature: Workfront Proof
 type: Tutorial
@@ -12,25 +12,29 @@ last-substantial-update: '2024-08-08T00:00:00.000Z'
 jira: KT-8831
 exl-id: 03841b1f-741d-4427-ae84-ddb9f890fc95
 doc-type: video
+autotag-review: '2026-05-05T20:06:38.512Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:06:38.512Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 541
-ht-degree: 100%
-
+source-wordcount: '541'
+ht-degree: 97%
 ---
-
 # 编辑自动化工作流模板
 
 随着校对审阅和审批流程的完善或组织发生变化，应更新自动化工作流模板，以反映使用 Workfront 的团队当前的操作情况。
@@ -65,8 +69,8 @@ ht-degree: 100%
 * 在收件人列表中，单击 [!UICONTROL Role] 或 [!UICONTROL Email alerts] 字段以选择另一个选项。
 * 转到收件人姓名最右侧的三点菜单，将其从列表中删除，将他们设为该工作流阶段的主要决策者，或编辑校样角色和电子邮件警报信息。
 * 您有两种选择可将收件人添加到列表中。
-   1. 在每个阶段部分的右上角，转到 [!UICONTROL More] 菜单并选择 [!UICONTROL Add people to stage]。 打开 [!UICONTROL Add people to stage] 窗口后，单击要将其添加到的那个阶段。 然后在收件人列表中输入他们的姓名或电子邮件地址，并分配校样角色和电子邮件提醒。 完成后单击 [!UICONTROL Add people] 按钮。
-   1. 在 [!UICONTROL Workflow] 区域的顶部，选择 [!UICONTROL Add people to stage]。
+  1. 在每个阶段部分的右上角，转到 [!UICONTROL More] 菜单并选择 [!UICONTROL Add people to stage]。 打开 [!UICONTROL Add people to stage] 窗口后，单击要将其添加到的那个阶段。 然后在收件人列表中输入他们的姓名或电子邮件地址，并分配校样角色和电子邮件提醒。 完成后单击 [!UICONTROL Add people] 按钮。
+  1. 在 [!UICONTROL Workflow] 区域的顶部，选择 [!UICONTROL Add people to stage]。
 
 ## 模板共享
 

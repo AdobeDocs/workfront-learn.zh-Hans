@@ -9,24 +9,27 @@ role: User
 level: Beginner
 jira: KT-10089
 exl-id: e056a9fc-31a2-4e96-9874-dcdd23377d53
+autotag-review: '2026-05-06T02:01:40.556Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b70a979b-965d-47a9-a360-e7ec2a19b8c1
+    internal-label: Digital content and documents
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-autotag-review: '2026-05-06T02:01:40.556Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Beginner
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 344
+source-wordcount: '344'
 ht-degree: 67%
-
 ---
-
 # 在 [!UICONTROL Brand Connect] 中建立系统设置
 
 [!UICONTROL Brand Connect] 设置可控制谁可以查看门户、谁可以将内容发布到门户以及谁可以管理品牌指南。
