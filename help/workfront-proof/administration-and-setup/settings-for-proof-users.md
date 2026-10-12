@@ -45,7 +45,7 @@ ht-degree: 81%
 * 调整 [!DNL &#x200B; Workfront] 中的校样用户设置
 * 在校对后端设置中调整校对用户设置
 
->[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3432927/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 <!--
 Lean More URLs
