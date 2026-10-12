@@ -1,6 +1,6 @@
 ---
 title: 校样角色和电子邮件提醒
-description: 了解如何启用适当的验证角色和电子邮件警报，以便验证收件人能够访问验证并查看[!DNL  Workfront]中正在完成的工作。
+description: 了解如何启用适当的验证角色和电子邮件警报，以便验证收件人能够访问验证并查看[!DNL &#x200B; Workfront]中正在完成的工作。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

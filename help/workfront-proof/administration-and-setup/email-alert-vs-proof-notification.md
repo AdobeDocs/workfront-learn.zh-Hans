@@ -1,6 +1,6 @@
 ---
 title: 了解电子邮件提醒和校样通知
-description: 了解[!DNL  Workfront]中电子邮件警报和验证通知之间的区别。
+description: 了解[!DNL &#x200B; Workfront]中电子邮件警报和验证通知之间的区别。
 feature: Workfront Proof
 type: Tutorial
 role: User

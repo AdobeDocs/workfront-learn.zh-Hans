@@ -1,6 +1,6 @@
 ---
 title: 查看并比较校样版本
-description: 了解如何在[!DNL  Workfront]中打开、识别、标记、评论和比较验证版本。
+description: 了解如何在[!DNL &#x200B; Workfront]中打开、识别、标记、评论和比较验证版本。
 activity: use
 feature: Workfront Proof
 type: Tutorial

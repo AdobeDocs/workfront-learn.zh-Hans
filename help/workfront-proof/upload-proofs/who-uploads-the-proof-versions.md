@@ -1,6 +1,6 @@
 ---
 title: 谁负责上传校样版本？
-description: 在[!DNL  Workfront]中负责上传校对版本的人员可能有所不同。 从常见用例中学习，以确定组织中的理想设置。
+description: 在[!DNL &#x200B; Workfront]中负责上传校对版本的人员可能有所不同。 从常见用例中学习，以确定组织中的理想设置。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

@@ -1,6 +1,6 @@
 ---
 title: 了解文件和校样之间的区别
-description: 在[!DNL  Workfront]中了解文档与验证之间的区别。
+description: 在[!DNL &#x200B; Workfront]中了解文档与验证之间的区别。
 activity: use
 feature: Workfront Proof
 type: Tutorial

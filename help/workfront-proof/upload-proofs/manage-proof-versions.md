@@ -1,6 +1,6 @@
 ---
 title: 管理校样版本
-description: 了解如何在上传验证时查找的详细信息、下载验证的所有版本以及在[!DNL  Workfront]中删除验证版本。
+description: 了解如何在上传验证时查找的详细信息、下载验证的所有版本以及在[!DNL &#x200B; Workfront]中删除验证版本。
 activity: use
 feature: Workfront Proof
 type: Tutorial

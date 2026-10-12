@@ -1,6 +1,6 @@
 ---
 title: 校样用户的设置
-description: 了解如何确定哪些[!DNL  Workfront]用户获得了验证许可证，然后在[!DNL Workfront]和后端设置中调整用户设置。
+description: 了解如何确定哪些[!DNL &#x200B; Workfront]用户获得了验证许可证，然后在[!DNL Workfront]和后端设置中调整用户设置。
 activity: use
 type: Tutorial
 feature: Workfront Proof
@@ -36,13 +36,13 @@ ht-degree: 81%
 ---
 # 校样用户的设置
 
-在开始在 [!DNL  Workfront] 中创建用户之前，最好先完成全局 [!DNL Workfront] 和校样系统设置。 其中一些设置在创建时会应用于用户配置文件。 但是，如果您在创建某些用户之前没有完成这些设置，请不要担心——您可以在每个单独的用户配置文件上编辑这些设置。
+在开始在 [!DNL &#x200B; Workfront] 中创建用户之前，最好先完成全局 [!DNL Workfront] 和校样系统设置。 其中一些设置在创建时会应用于用户配置文件。 但是，如果您在创建某些用户之前没有完成这些设置，请不要担心——您可以在每个单独的用户配置文件上编辑这些设置。
 
 
 在本视频中，您将学习如何：
 
 * 确定哪些用户可以获得校样许可证
-* 调整 [!DNL  Workfront] 中的校样用户设置
+* 调整 [!DNL &#x200B; Workfront] 中的校样用户设置
 * 在校对后端设置中调整校对用户设置
 
 >[!VIDEO](https://video.tv.adobe.com/v/335126/?quality=12&learn=on&enablevpops=1)

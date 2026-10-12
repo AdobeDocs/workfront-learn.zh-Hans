@@ -1,6 +1,6 @@
 ---
 title: 编辑自动化工作流模板
-description: 了解如何在[!DNL  Workfront]中更改现有的自动验证工作流模板。
+description: 了解如何在[!DNL &#x200B; Workfront]中更改现有的自动验证工作流模板。
 activity: use
 feature: Workfront Proof
 type: Tutorial

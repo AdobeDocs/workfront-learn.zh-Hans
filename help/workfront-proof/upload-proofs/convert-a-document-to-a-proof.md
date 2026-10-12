@@ -1,6 +1,6 @@
 ---
 title: 将文档转换为校样
-description: 了解如何生成[!DNL  Workfront]中已存在的文档的验证、将工作流添加到验证以及在创建验证后添加或编辑工作流。
+description: 了解如何生成[!DNL &#x200B; Workfront]中已存在的文档的验证、将工作流添加到验证以及在创建验证后添加或编辑工作流。
 activity: use
 feature: Workfront Proof
 type: Tutorial

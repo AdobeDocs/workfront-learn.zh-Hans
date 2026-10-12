@@ -1,6 +1,6 @@
 ---
 title: 上传视频校样
-description: 了解如何在[!DNL  Workfront]中上传校对视频。
+description: 了解如何在[!DNL &#x200B; Workfront]中上传校对视频。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

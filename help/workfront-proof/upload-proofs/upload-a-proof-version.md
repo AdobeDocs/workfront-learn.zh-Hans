@@ -1,6 +1,6 @@
 ---
 title: 上传校样版本
-description: 了解如何在[!DNL  Workfront]中上传新版本的验证并将验证工作流应用于该版本。
+description: 了解如何在[!DNL &#x200B; Workfront]中上传新版本的验证并将验证工作流应用于该版本。
 activity: use
 feature: Workfront Proof
 type: Tutorial

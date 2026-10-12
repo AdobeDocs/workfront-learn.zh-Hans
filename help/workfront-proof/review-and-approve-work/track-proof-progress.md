@@ -1,6 +1,6 @@
 ---
 title: 跟踪校样进度
-description: 了解如何使用[!UICONTROL SOCD]指示器、验证进度和报告来跟踪[!DNL  Workfront]中的验证进度。
+description: 了解如何使用[!UICONTROL SOCD]指示器、验证进度和报告来跟踪[!DNL &#x200B; Workfront]中的验证进度。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof
@@ -41,7 +41,7 @@ ht-degree: 61%
 
 使用 [!UICONTROL SOCD] 列表中的 [!UICONTROL Documents] 图标，从高层角度了解校对在审阅和审批过程中的进展情况。 这些图标表示对校样采取的具体操作。
 
-![[!DNL  Workfront] 项目中 [!UICONTROL Documents] 列表的图像，其中突出显示 [!UICONTROL SOCD] 图标。](assets/manage-proofs-socd.png)
+![[!DNL &#x200B; Workfront] 项目中 [!UICONTROL Documents] 列表的图像，其中突出显示 [!UICONTROL SOCD] 图标。](assets/manage-proofs-socd.png)
 
 图标表示从您将校样发送给收件人到他们对校样作出决策为止，在该校样上所做的工作。
 
@@ -73,7 +73,7 @@ ht-degree: 61%
 
 验证状态基于阶段的验证收件人的状态。 在 [!UICONTROL Documents] 页面上的 [!UICONTROL SOCD] 指示器的右侧会显示整体校样状态，以便您可以轻松地判断自己是否已对该校样作出决策。
 
-![[!DNL  Workfront] 项目中 [!UICONTROL Documents] 列表的图像，其中突出显示了总体校样状态。](assets/manage-proofs-overall-status.png)
+![[!DNL &#x200B; Workfront] 项目中 [!UICONTROL Documents] 列表的图像，其中突出显示了总体校样状态。](assets/manage-proofs-overall-status.png)
 
 此校样状态表示校样的总体状态。 例如，如果两个收件人审批了该校样，则他们的个人状态将会显示 [!UICONTROL Approved]。 但是，第三个收件人尚未做出决定，因此该人员的状态为[!UICONTROL Pending]。 因此，总体状态显示为 [!UICONTROL Pending]。
 
@@ -93,11 +93,11 @@ ht-degree: 61%
 
 校样审批报告可帮助您跟踪未完成的审批事项，以确保在截止日期前完成。
 
-![[!DNL  Workfront] 中的校样审批报告的图像。](assets/proof-approval-report.png)
+![[!DNL &#x200B; Workfront] 中的校样审批报告的图像。](assets/proof-approval-report.png)
 
 您可以使用文档版本管理和跟踪校样版本。
 
-![[!DNL  Workfront] 中文档版本报告的图像。](assets/document-version-report.png)
+![[!DNL &#x200B; Workfront] 中文档版本报告的图像。](assets/document-version-report.png)
 
 我们建议您与 [!DNL Workfront] 顾问合作，创建符合组织要求的报告。 生成某些报告需要熟悉 [!DNL Workfront's] 的文本模式报告。
 

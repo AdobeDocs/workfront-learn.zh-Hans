@@ -1,6 +1,6 @@
 ---
 title: 将多个文件合并为一份校样
-description: 了解如何通过在[!DNL  Workfront]中将多个文件合并为单个验证来简化验证过程。
+description: 了解如何通过在[!DNL &#x200B; Workfront]中将多个文件合并为单个验证来简化验证过程。
 activity: use
 team: Technical Marketing
 feature: Workfront Proof

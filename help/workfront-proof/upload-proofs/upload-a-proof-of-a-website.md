@@ -1,6 +1,6 @@
 ---
 title: 上传网站校样
-description: 了解如何在[!DNL  Workfront]中将网站作为静态验证和交互式验证上传。
+description: 了解如何在[!DNL &#x200B; Workfront]中将网站作为静态验证和交互式验证上传。
 activity: use
 feature: Workfront Proof
 type: Tutorial

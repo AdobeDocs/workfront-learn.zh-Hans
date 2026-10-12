@@ -1,6 +1,6 @@
 ---
 title: 编辑校样工作流
-description: 了解如何在[!DNL  Workfront]中更新验证截止日期、将用户添加到现有工作流以及将现有工作流切换到自动工作流。
+description: 了解如何在[!DNL &#x200B; Workfront]中更新验证截止日期、将用户添加到现有工作流以及将现有工作流切换到自动工作流。
 activity: use
 feature: Workfront Proof
 type: Tutorial
