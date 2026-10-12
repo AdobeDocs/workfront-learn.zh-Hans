@@ -11,25 +11,29 @@ thumbnail: set-up-proof-actual-default-settings.png
 jira: KT-10236
 last-substantial-update: '2024-01-24T00:00:00.000Z'
 exl-id: 6eda8bcd-ab0f-4e02-9080-64b6051b327f
+autotag-review: '2026-05-05T20:04:10.059Z'
 product_v2:
   - id: c4a86a5d-6562-4fc6-aa00-bfa25833aed9
+    internal-label: Workfront
 feature_v2:
   - id: e14a7f57-c82c-4874-a495-5d036cbbdc3d
+    internal-label: Resource management
 subfeature_v2:
   - id: b18b693b-6d59-4359-95fd-a386b7a615fe
+    internal-label: Workfront Proof
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
-autotag-review: '2026-05-05T20:04:10.059Z'
-source-git-commit: 9f00285646af281d6c4d93eb792f4c38eedefb40
+    internal-label: Intermediate
+source-git-commit: f72cc9dc2caee00316baac5a6bab42510ecdf72b
 workflow-type: tm+mt
-source-wordcount: 551
+source-wordcount: '551'
 ht-degree: 95%
-
 ---
-
 # 设置校样帐户默认设置
 
 建立全局应用于所有校对和校对用户的默认帐户设置（国家/地区、语言和时区）。 如果您的用户跨越多个时区或国家/地区，则可以根据需要在每个人的用户配置文件上调整这些设置。
