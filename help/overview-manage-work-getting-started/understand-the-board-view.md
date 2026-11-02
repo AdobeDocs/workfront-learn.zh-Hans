@@ -1,6 +1,6 @@
 ---
-title: 了解 [!UICONTROL Board] 视图
-description: 了解如何使用项目登陆页面上的 [!UICONTROL Board] 视图。
+title: 探索任务管理的讨论区视图
+description: 使用[!UICONTROL Board]视图的[!DNL Kanban]界面简化Workfront中的任务管理，提供任务排序、创建、自定义以及与任务列表视图的无缝集成，以实现高效的项目组织。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:25:56.436Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 17
-ht-degree: 100%
-
+source-wordcount: '40'
+ht-degree: 0%
 ---
-
-# 了解 [!UICONTROL Board] 视图
+# 探索任务管理的讨论区视图
 
 {{$include /help/_includes/understand-the-board-view.md}}

@@ -1,6 +1,6 @@
 ---
-title: 开始管理项目
-description: 了解如何监控项目进度、深入了解任务详情以及如何与利益相关者沟通。
+title: 管理具有当前状态的项目
+description: 使用报告有效地跟踪项目进度，通过甘特图视图管理依赖项，监控任务和批准，增强团队沟通，并通过频繁更新确保顺畅的工作流。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: 335094.jpeg
@@ -8,7 +8,7 @@ type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-04-22T00:00:00.000Z'
+last-substantial-update: '2026-06-18T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-8781
 hide: true
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '37'
+ht-degree: 0%
 ---
-# 开始管理项目
+# 管理具有当前状态的项目
 
 {{$include /help/_includes/getting-started-manage-a-project.md}}

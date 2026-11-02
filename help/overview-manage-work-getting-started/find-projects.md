@@ -1,6 +1,6 @@
 ---
-title: 查找项目
-description: 了解某些快速而简便的查找项目的方法。
+title: 高效查找项目
+description: 使用过滤器、搜索工具、最近列表、收藏夹、固定项目和自定义报告或仪表板简化项目管理，以便快速有组织地访问项目。
 activity: use
 feature: Work Management,Get Started with Workfront
 thumbnail: find-projects.jpeg
@@ -32,11 +32,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: '13'
-ht-degree: 100%
+source-wordcount: '30'
+ht-degree: 0%
 ---
-# 查找项目
+# 高效查找项目
 
 {{$include /help/_includes/find-projects.md}}
+

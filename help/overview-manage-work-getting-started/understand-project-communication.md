@@ -1,6 +1,6 @@
 ---
-title: 了解项目沟通
-description: 了解如何使用良好的项目规划、更新、任务状态、完成百分比、问题和报告来沟通项目工作。
+title: 通过有效的沟通提高项目成功率
+description: 通过有效的利益相关者沟通、任务明确、集中讨论、准确的状态报告以及积极主动的问题解决来保持一致性和效率，从而促进项目取得成功。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: understand-project-communication.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-05-05T00:00:00.000Z'
+last-substantial-update: '2026-07-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10147
 hide: true
@@ -29,13 +29,12 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:27:31.448Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 25
-ht-degree: 100%
-
+source-wordcount: '35'
+ht-degree: 0%
 ---
-
-# 了解项目沟通
+# 通过有效的沟通提高项目成功率
 
 {{$include /help/_includes/understand-project-communication.md}}
+

@@ -1,6 +1,6 @@
 ---
-title: 了解 [!UICONTROL Gantt] 视图
-description: 了解如何使用甘特图以惊人的细节从高级别快速查看您的任务和项目。
+title: 浏览用于项目管理的[!UICONTROL Gantt]视图
+description: 使用甘特图、提供大图视图、进度跟踪、里程碑管理、前置任务洞察以及可自定义的选项来简化任务和资源管理，从而最大限度地提高项目效率。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:26:09.573Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 30
-ht-degree: 100%
-
+source-wordcount: '37'
+ht-degree: 0%
 ---
-
-# 了解 [!UICONTROL Gantt] 视图
+# 浏览用于项目管理的[!UICONTROL Gantt]视图
 
 {{$include /help/_includes/understand-the-gantt-view.md}}
