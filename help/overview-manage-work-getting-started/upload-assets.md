@@ -1,6 +1,6 @@
 ---
-title: 上传资源
-description: 在关闭项目之前将文档、校样和其他资源上传到该项目，以确保所有相关数据都与该项目相关联。
+title: 上传和管理项目资源
+description: 在关闭项目之前将文档和校样上传到该项目，以确保所有相关数据都与该项目相关联。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,9 +8,10 @@ thumbnail: upload-assets.jpeg
 type: Tutorial
 role: User
 level: Beginner
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-10-27T00:00:00.000Z'
 jira: KT-10138
 hide: true
-recommendations: noDisplay,catalog
 doc-type: video
 exl-id: 9dd8bd9a-c4b2-4fe3-85db-44b3d716bc5d
 product_v2:
@@ -29,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:06.686Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 26
-ht-degree: 100%
-
+source-wordcount: '30'
+ht-degree: 66%
 ---
-
-# 上传资源
+# 上传和管理项目资源
 
 {{$include /help/_includes/upload-assets.md}}

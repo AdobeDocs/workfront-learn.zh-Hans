@@ -1,6 +1,6 @@
 ---
-title: 共享项目
-description: 了解如何共享项目，以便利益相关者和对项目感兴趣的其他人可以了解使用  [!DNL  Workfront] 完成的工作。
+title: 在Workfront中有效共享项目
+description: 通过自动访问权限、灵活的选项、基于团队的管理、模板共享和可自定义的系统默认值来简化Workfront中的项目共享，进而简化协作。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,7 +8,7 @@ thumbnail: share-a-project.jpeg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-07-21T00:00:00.000Z'
+last-substantial-update: '2026-07-06T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10148
 hide: true
@@ -29,13 +29,12 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:31:33.943Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 29
-ht-degree: 100%
-
+source-wordcount: '33'
+ht-degree: 0%
 ---
-
-# 共享项目
+# 在Workfront中有效共享项目
 
 {{$include /help/_includes/share-a-project.md}}
+

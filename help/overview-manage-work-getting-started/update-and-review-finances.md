@@ -1,6 +1,6 @@
 ---
-title: 更新和审阅财务状况
-description: 了解如何在  [!DNL  Workfront] 中审阅与项目相关的财务信息。
+title: 更新客户端项目的财务
+description: 通过定义费率、为任务分配成本和收入类型、管理费用和创建账单记录来简化成本跟踪和计费。 Workfront 不进行实际计费。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -27,13 +27,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:25:38.036Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '38'
+ht-degree: 73%
 ---
-
-# 更新和审阅财务状况
+# 更新客户端项目的财务
 
 {{$include /help/_includes/update-and-review-finances.md}}

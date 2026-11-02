@@ -1,6 +1,6 @@
 ---
-title: 记录和审阅时间
-description: 在结束  [!DNL  Workfront] 中的项目之前，记录未完成的小时数并审阅记录的小时数。
+title: 记录和审查项目小时
+description: 在结束项目之前，记录未完成的小时数并审阅记录的小时数。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -29,13 +29,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 20
-ht-degree: 100%
-
+source-wordcount: '21'
+ht-degree: 52%
 ---
-
-# 记录和审阅时间
+# 记录和审查项目小时
 
 {{$include /help/_includes/log-and-review-hours.md}}

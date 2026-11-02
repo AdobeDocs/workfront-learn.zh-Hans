@@ -1,6 +1,6 @@
 ---
 title: 了解项目团队
-description: 了解项目团队的用途以及如何对其进行维护。
+description: 在Workfront中通过自动团队填充、手动更新、集中通信、电子邮件通知和跟踪项目参与情况来有效地管理项目团队，从而简化协作。
 feature: Work Management
 thumbnail: 3427227.jpg
 type: Tutorial
@@ -30,13 +30,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:24:57.327Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
 workflow-type: tm+mt
-source-wordcount: 22
-ht-degree: 100%
-
+source-wordcount: '31'
+ht-degree: 25%
 ---
-
 # 了解项目团队
 
 {{$include /help/_includes/understand-the-project-team.md}}
