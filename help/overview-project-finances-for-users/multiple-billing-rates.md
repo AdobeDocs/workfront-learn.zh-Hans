@@ -1,6 +1,6 @@
 ---
-title: 了解多种计费费率
-description: 了解如何覆盖项目内的系统计费费率。
+title: 自定义工作角色的记帐费率
+description: 在项目级别自定义和管理工作角色的记帐费率。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -9,6 +9,8 @@ type: Tutorial
 role: User
 level: Intermediate
 jira: KT-10048
+recommendations: noDisplay,catalog
+last-substantial-update: '2026-05-12T00:00:00.000Z'
 hide: true
 exl-id: 5b1ae2c4-43bd-4382-900f-078ef84408a5
 product_v2:
@@ -27,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:00:23.025Z'
-source-git-commit: d0854bf140805aaf24eeef9aed88835655541ea3
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 18
-ht-degree: 100%
-
+source-wordcount: '24'
+ht-degree: 0%
 ---
-
-# 了解多种计费费率
+# 自定义工作角色的记帐费率
 
 {{$include /help/_includes/multiple-billing-rates.md}}

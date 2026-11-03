@@ -1,6 +1,6 @@
 ---
-title: 查找和管理请求
-description: 了解如何使用仪表板、[!UICONTROL Home]、[!UICONTROL Requests] 区域以及 [!UICONTROL Teams] 页面，以查找通过请求队列发出的传入请求。
+title: 高效地查找和管理请求
+description: 了解如何使用过滤器、管理团队分配、创建自定义报告和仪表板，以及厘清“我的”在不同上下文中的含义，以实现有效的请求管理。
 activity: use
 team: Technical Marketing
 feature: Work Management,Get Started with Workfront
@@ -8,7 +8,7 @@ thumbnail: 3422686.jpg
 type: Tutorial
 role: User
 level: Beginner
-last-substantial-update: '2023-08-10T00:00:00.000Z'
+last-substantial-update: '2026-08-17T00:00:00.000Z'
 recommendations: noDisplay,catalog
 doc-type: video
 jira: KT-10143
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 查找和管理请求
+# 高效地查找和管理请求
 
 {{$include /help/_includes/find-requests.md}}

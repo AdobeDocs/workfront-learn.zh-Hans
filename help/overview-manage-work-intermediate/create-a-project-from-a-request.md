@@ -1,6 +1,6 @@
 ---
-title: 将问题/请求转化为项目
-description: 了解如何从请求转换为项目、选择合适的项目模板并完成转换。
+title: 将问题或请求转换为项目
+description: 使用模板将问题转化为项目、自定义项目详细信息、管理问题解决选项以及确保无缝工作流程的可见性和可访问性，从而简化Workfront中的项目管理。
 activity: use
 feature: Work Management
 thumbnail: 340343.jpeg
@@ -9,6 +9,7 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-9723
+last-substantial-update: '2026-08-19T00:00:00.000Z'
 recommendations: noDisplay,catalog
 hide: true
 doc-type: video
@@ -31,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:20:37.203Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 33
-ht-degree: 100%
-
+source-wordcount: '43'
+ht-degree: 0%
 ---
-
-# 将问题/请求转化为项目
+# 将问题或请求转换为项目
 
 {{$include /help/_includes/create-a-project-from-a-request.md}}

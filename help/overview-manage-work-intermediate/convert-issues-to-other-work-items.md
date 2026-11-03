@@ -1,13 +1,13 @@
 ---
-title: 将问题/请求转化为任务
-description: 了解如何将问题或请求转化为任务。
+title: 将问题或请求转换为任务
+description: 使用可编辑的名称、无缝的自定义表单附件、灵活的项目选择、转换选项和同步的状态更新，轻松地将问题转换为Workfront中的任务，以简化工作流。
 activity: use
 team: Technical Marketing
 feature: Work Management
 type: Tutorial
 role: User
 level: Intermediate
-last-substantial-update: '2024-02-28T00:00:00.000Z'
+last-substantial-update: '2026-08-20T00:00:00.000Z'
 recommendations: noDisplay,catalog
 jira: KT-10069
 hide: true
@@ -28,13 +28,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:23:18.240Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 25
-ht-degree: 100%
-
+source-wordcount: '42'
+ht-degree: 0%
 ---
-
-# 将问题/请求转化为任务
+# 将问题或请求转换为任务
 
 {{$include /help/_includes/convert-issues-to-other-work-items.md}}

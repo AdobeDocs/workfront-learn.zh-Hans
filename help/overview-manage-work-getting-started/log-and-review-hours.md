@@ -1,6 +1,6 @@
 ---
 title: 记录和审查项目小时
-description: 在结束项目之前，记录未完成的小时数并审阅记录的小时数。
+description: 了解如何在Workfront中查看、记录、编辑和批准项目小时数。 这个入门级易懂的教程演示了如何使用“小时”部分、日志时间、内联编辑和小时审批。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -10,6 +10,7 @@ role: User
 level: Beginner
 jira: KT-10136
 recommendations: noDisplay,catalog
+last-substantial-update: '2026-11-2T00:00:00.000Z'
 doc-type: video
 hide: true
 exl-id: 5104c034-82cf-4993-9016-53802d562d14
@@ -29,10 +30,10 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:32:37.168Z'
-source-git-commit: c2b23209205a5cbf40ab3efdf0e5e89bb58532f6
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 52%
+source-wordcount: '41'
+ht-degree: 0%
 ---
 # 记录和审查项目小时
 

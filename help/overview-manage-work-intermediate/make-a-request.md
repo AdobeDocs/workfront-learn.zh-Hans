@@ -1,6 +1,6 @@
 ---
-title: 发出请求
-description: 了解如何找到 [!UICONTROL Requests] 区域并提出请求。 然后了解如何查看已提交的和草稿请求。
+title: 在Workfront中创建和管理请求
+description: 通过简化的请求创建、可自定义的工作流程、草稿自动保存、跟踪和筛选工具以及复制和重用请求的能力，提高Workfront中的效率。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
@@ -8,7 +8,7 @@ role: User
 level: Beginner
 team: Technical Marketing
 thumbnail: 336092.png
-last-substantial-update: '2024-07-09T00:00:00.000Z'
+last-substantial-update: '2026-08-13T00:00:00.000Z'
 jira: KT-8806
 hide: true
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '25'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 发出请求
+# 在Workfront中创建和管理请求
 
 {{$include /help/_includes/make-a-request.md}}
