@@ -1,6 +1,6 @@
 ---
-title: 查看里程碑
-description: 了解如何查看  [!DNL  Workfront]  项目中的里程碑，以及使用 [!UICONTROL Project] 区域中的里程碑视图。
+title: 查看项目中的里程碑
+description: 了解如何查看项目中的里程碑，以及使用 [!UICONTROL Project] 区域中的里程碑视图。
 activity: deploy
 feature: Work Management
 thumbnail: 335206.jpeg
@@ -8,6 +8,8 @@ type: Tutorial
 role: User
 level: Intermediate
 team: Technical Marketing
+last-substantial-update: '2024-10-09T00:00:00.000Z'
+recommendations: noDisplay,catalog
 jira: KT-8946
 hide: true
 doc-type: video
@@ -30,13 +32,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:04:49.686Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 19
-ht-degree: 100%
-
+source-wordcount: '26'
+ht-degree: 61%
 ---
-
-# 查看里程碑
+# 查看项目中的里程碑
 
 {{$include /help/_includes/view-milestones.md}}

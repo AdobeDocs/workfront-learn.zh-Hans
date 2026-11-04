@@ -1,6 +1,6 @@
 ---
-title: 复制现有项目
-description: 了解如何复制现有项目。
+title: 高效地复制现有项目
+description: 使用三个点菜单中的“复制”选项轻松复制项目，将状态重命名并设置为“计划”，复制自定义数据和表单，并通过“问题”选项卡单独传输问题以进行定制项目设置。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -8,8 +8,9 @@ thumbnail: copy-an-existing-project.jpeg
 type: Tutorial
 role: User
 level: Intermediate
-jira: KT-10155
+last-substantial-update: '2025-03-28T00:00:00.000Z'
 recommendations: noDisplay,catalog
+jira: KT-10155
 hide: true
 exl-id: c2031f6c-e32c-4ea3-a4ae-0780ebd2a530
 product_v2:
@@ -28,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:21:23.208Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 18
-ht-degree: 100%
-
+source-wordcount: '47'
+ht-degree: 0%
 ---
-
-# 复制现有项目
+# 高效地复制现有项目
 
 {{$include /help/_includes/copy-an-existing-project.md}}

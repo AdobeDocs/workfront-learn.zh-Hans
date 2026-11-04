@@ -1,13 +1,13 @@
 ---
-title: 更新请求
-description: 了解如何查找您已提交的请求并在 [!DNL  Workfront] 中更新这些请求。
+title: 在Workfront中更新请求
+description: 通过使用过滤器查找请求、高效地更新状态和详细信息、访问完整信息以及促进集中式协作以简化工作流来简化Workfront中的请求管理。
 activity: use
 feature: Work Management,Get Started with Workfront
 type: Tutorial
 role: User
 level: Beginner
 team: Technical Marketing
-last-substantial-update: '2024-07-10T00:00:00.000Z'
+last-substantial-update: '2026-08-18T00:00:00.000Z'
 thumbnail: 336091.png
 jira: KT-8807
 recommendations: noDisplay,catalog
@@ -32,11 +32,11 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '22'
-ht-degree: 100%
+source-wordcount: '36'
+ht-degree: 0%
 ---
-# 更新请求
+# 在Workfront中更新请求
 
 {{$include /help/_includes/update-a-request.md}}

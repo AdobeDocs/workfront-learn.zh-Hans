@@ -1,6 +1,6 @@
 ---
-title: 创建全局和一次性审批流程
-description: 了解如何为项目、任务或问题创建全局和单次使用的审批流程。
+title: 创建和管理审批流程
+description: 利用任务、项目或问题的全局和一次性审批流程，实施多级别分阶段审批，并通过项目模板中的可重用性提高效率，从而增强审批工作流。
 activity: use
 feature: Approvals
 thumbnail: 335225.jpeg
@@ -9,6 +9,8 @@ role: User
 level: Intermediate
 team: Technical Marketing
 jira: KT-8962
+last-substantial-update: '2025-03-26T00:00:00.000Z'
+recommendations: noDisplay,catalog
 hide: true
 doc-type: video
 exl-id: e80dd36f-7aab-4cf1-873c-92dba684c13c
@@ -34,11 +36,11 @@ role_v2:
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
-source-git-commit: 54883ad8c8df3aaee06ba8f8dca64227594c1c77
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: '36'
-ht-degree: 100%
+source-wordcount: '40'
+ht-degree: 0%
 ---
-# 创建全局和一次性审批流程
+# 创建和管理审批流程
 
 {{$include /help/_includes/create-a-single-use-approval-process.md}}

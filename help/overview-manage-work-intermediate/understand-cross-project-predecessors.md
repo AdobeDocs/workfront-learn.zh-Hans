@@ -1,5 +1,5 @@
 ---
-title: 了解跨项目前置任务
+title: 建立与跨项目前置任务的依赖关系
 description: 了解如何在两个或多个项目中使用和跟踪前置任务。
 feature: Work Management
 thumbnail: 3422123.jpg
@@ -29,13 +29,11 @@ level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
     internal-label: Intermediate
 autotag-review: '2026-05-05T19:09:16.844Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 23
-ht-degree: 100%
-
+source-wordcount: '27'
+ht-degree: 55%
 ---
-
-# 了解跨项目前置任务
+# 建立与跨项目前置任务的依赖关系
 
 {{$include /help/_includes/understand-cross-project-predecessors.md}}

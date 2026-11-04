@@ -1,6 +1,6 @@
 ---
-title: 报告问题
-description: 了解如何创建显示未决问题和转换信息的报告。
+title: 创建用于问题管理的自定义报告
+description: 了解如何为问题和项目管理创建自定义报告，包括如何集中和跟踪未解决的问题、自定义列和过滤器以及优化项目和问题管理。
 activity: use
 team: Technical Marketing
 feature: Work Management
@@ -31,13 +31,11 @@ level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
 autotag-review: '2026-05-05T19:14:42.100Z'
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: 83bfb58a3290714fd119e9327246e773a8d23456
 workflow-type: tm+mt
-source-wordcount: 17
-ht-degree: 100%
-
+source-wordcount: '41'
+ht-degree: 70%
 ---
-
-# 报告问题
+# 创建用于问题管理的自定义报告
 
 {{$include /help/_includes/report-on-issues.md}}
