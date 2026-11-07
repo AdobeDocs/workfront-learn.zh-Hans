@@ -341,10 +341,10 @@ ht-degree: 73%
     + [使用 Adobe Workfront 插件与 Creative Cloud 集成](/help/integrations/adobe-creative-cloud/use-adobe-workfront-extensions-for-creative-cloud.md)
 
   + Adobe Experience Manager Assets Essentials {#adobe-assets-essentials}
-    + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html)
-    + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html)
-    + [发送文档并链接资产](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html)
-    + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html)
+    + [配置集成](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=zh-Hans)
+    + [映射元数据](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/map-metadata.html?lang=zh-Hans)
+    + [发送文档并链接资产](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/link-send.html?lang=zh-Hans)
+    + [维护版本历史记录](https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/versions.html?lang=zh-Hans)
 
   + Microsoft Teams {#ms-teams}
     + [适用于Microsoft Teams的Adobe Workfront概述](https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-microsoft-teams/workfront-for-microsoft-teams.html?lang=zh-Hans)
