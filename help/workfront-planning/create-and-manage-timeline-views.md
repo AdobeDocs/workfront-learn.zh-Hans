@@ -56,4 +56,4 @@ ht-degree: 71%
 
 学习管理和自定义 Workfront 规划中的时间线视图。
 
->[!VIDEO](https://video.tv.adobe.com/v/3457601/?learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3506107/?captions=chi_hans&learn=on&enablevpops=1)
