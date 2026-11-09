@@ -37,4 +37,4 @@ ht-degree: 100%
 
 学习如何创建和管理业务规则。
 
->[!VIDEO](https://video.tv.adobe.com/v/3433105/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508032/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
