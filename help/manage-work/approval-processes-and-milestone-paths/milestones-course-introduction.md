@@ -32,4 +32,4 @@ ht-degree: 84%
 
 在本视频中，您将了解里程碑如何帮助您推动 [!DNL &#x200B; Workfront] 项目向前发展。
 
->[!VIDEO](https://video.tv.adobe.com/v/335203/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508023/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
