@@ -19,7 +19,7 @@ ht-degree: 80%
 >[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
 
 
-有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/en/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)的持续时间类型和任务限制视图**&#x200B;活动。
+有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)的持续时间类型和任务限制视图**&#x200B;活动。
 
 有关持续时间类型的详细信息，请参阅[任务持续时间和持续时间类型。](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=zh-Hans)
 
