@@ -1,9 +1,8 @@
 ---
-source-git-commit: 0c963b3f3c4e4367e21040e36d8a23fac7eb759c
+source-git-commit: bd651d786270bc9ef2a4ae08efbd84be90916fe6
 workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 95%
-
+source-wordcount: '167'
+ht-degree: 80%
 ---
 # 主持续时间类型和任务限制 — 共享
 
@@ -17,10 +16,10 @@ ht-degree: 95%
 * 使用它们的最佳实践
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3422822/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508298/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
-有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view.html?lang=zh-Hans)的持续时间类型和任务限制视图**&#x200B;活动。
+有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)的持续时间类型和任务限制视图**&#x200B;活动。
 
 有关持续时间类型的详细信息，请参阅[任务持续时间和持续时间类型。](https://experienceleague.adobe.com/docs/workfront/using/manage-work/tasks/task-duration-and-duration-types/task-duration-duration-type.html?lang=zh-Hans)
 
