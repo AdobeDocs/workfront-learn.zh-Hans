@@ -16,7 +16,7 @@ ht-degree: 80%
 * 使用它们的最佳实践
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3420986/?quality=12&learn=on&enablevpops=1)
+>[!VIDEO](https://video.tv.adobe.com/v/3508298/?captions=chi_hans&quality=12&learn=on&enablevpops=1)
 
 
 有关如何创建持续时间类型和任务限制视图的信息，请参阅&#x200B;**在[创建基本视图中](https://experienceleague.adobe.com/zh-hans/docs/workfront-learn/tutorials-workfront/reporting/basic-reporting/create-a-basic-view#activity-3-create-a-duration-types-and-task-constraints-view)的持续时间类型和任务限制视图**&#x200B;活动。
